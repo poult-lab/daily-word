@@ -259,6 +259,10 @@ While both words can be used to refer to the act of regulating or limiting somet
 
 "a formal examination of evidence in court by a judge and often a jury , to decide if sb accused of a crime is guilty or not"
 
+[n] This year, the company introduced a new biometric identification system using the facial features of travelers, known as Smart Pass at departure and boarding gates at a trial level. 
+
+"the process of testing the ability, quality or performance of sb/sth, especially before you make a final decision about them"
+
 
 
 21.execute [ˈeksɪkjuːt]
@@ -854,6 +858,10 @@ So, while all four words describe something that is important, crucial implies t
 
 [adj] to have gained practical experience of the work. "connected with real situations rather than with ideas or theories"
 
+[adj] There are a bunch of other cashless QR code payment systems in addition to GrabPay, but most are not practical for visitors.
+
+"right or sensible; likely to be successful"
+
 [noun]"a lesson or an exam in science or technology in which students have to do or make things, not just read or write about them"
 
 
@@ -1380,23 +1388,21 @@ twisted ankle vs sprained ankle
 >
 > barely vs rarely
 >
-> 
->
 > Rarely is not often.
 >
->  "I rarely go to the store."  
+> "I rarely go to the store."
 >
-> Barely is sort of like saying that you almost couldn't do something, but did  
+> Barely is sort of like saying that you almost couldn't do something, but did
 >
-> "I could barely reach the shelf" 
+> "I could barely reach the shelf"
 >
-> "I barely passed the class"  
+> "I barely passed the class"
 >
-> I almost didn't reach the shelf (but did) 
+> I almost didn't reach the shelf (but did)
 >
-> I almost didn't pass the class (but did)  
+> I almost didn't pass the class (but did)
 >
-> It can also be used to mean "infrequent" on occasion, like "I barely call my mom" which is like "I rarely call my mom"  Those would mean the same thing, but it's usually used like the other sentences show  Seldom also means "not often" You could say "I seldom call my mom" "I seldom watch TV"   
+> It can also be used to mean "infrequent" on occasion, like "I barely call my mom" which is like "I rarely call my mom" Those would mean the same thing, but it's usually used like the other sentences show Seldom also means "not often" You could say "I seldom call my mom" "I seldom watch TV"
 >
 > To summarize, rarely and seldom are very similar. Barely can be used the same way but also has more meanings.
 
@@ -1404,7 +1410,7 @@ twisted ankle vs sprained ankle
 
 27.rarely /ˈrerli/
 
-[adv] She is rarely seen in public nowadays. 
+[adv] She is rarely seen in public nowadays.
 
 "not very often"
 
@@ -1414,23 +1420,11 @@ twisted ankle vs sprained ankle
 
 [adv] He had seldom seen a child with so much talent. "not often" -rarely-
 
-
-
-> very little difference in meaning, however rarely is used much more..  seldom can perhaps be interpreted as 'very rarely', but essentially the difference is negligible.
+> very little difference in meaning, however rarely is used much more.. seldom can perhaps be interpreted as 'very rarely', but essentially the difference is negligible.
 >
-> It can be used more formally than rarely 
+> It can be used more formally than rarely
 
 
-
-
-
-
-
-30.next door /ˌnekst ˈdɔːr/
-
-[adv]The cat is from the house next door. "in the next room, house or building"
-
-[noun] Is that next door's dog? "the people who live in the house or flat/apartment next to yours"
 
 
 
@@ -1553,6 +1547,8 @@ twisted ankle vs sprained ankle
 
 "to discover the facts about sth; to calculate sth exactly" 
 
+-establish-
+
 [verb] Age and experience will be determining factors in our choice of candidate. "to make sth happen in a particular way or be of a particular type"
 
 [verb] A date for the meeting has yet to be determined. "to officially decide and/or arrange sth"
@@ -1591,9 +1587,7 @@ twisted ankle vs sprained ankle
 
 46.determinant [dɪˈtɜː(r)mɪnənt] 
 
-[noun] Education has long been an important determinant of countries' wealth.
-
-"a thing that decides whether or how sth happens"
+[noun] "a thing that decides whether or how sth happens"
 
 
 
@@ -1671,6 +1665,16 @@ D[adj] prerequisite knowledge.
 
 
 
+> way vs manner 
+>
+> way is more to "how" answer. manner is about attitude. 
+>
+> in the manner of speaking, he is quite gentle. 
+>
+> the way you spell the word is wrong.
+
+
+
 53.welfare [ˈwelfer]
 
 [noun] We are concerned about the child's welfare.
@@ -1687,7 +1691,7 @@ D[adj] prerequisite knowledge.
 
 [noun] a budget/trade deficit .
 
-"the amount by which money spent or **owed** is greater than money earned in a particular period of time"
+"the amount by which money spent or owed is greater than money earned in a particular period of time"
 
 [noun] There's a deficit of $3 million in the total needed to complete the project.
 
@@ -1761,13 +1765,7 @@ Samsung to focus on car chips growth to withstand a slump in demand.
 
 60.act  [ækt]
 
-[noun] an act of kindness. 
-
-"a particular thing that sb does"
-
-[noun] the Higher Education Act 2002.
-
-"a law that has been passed by a parliament"
+[noun] an act of kindness. "a particular thing that sb does"
 
 [verb] It is **vital** that we act to stop the destruction of the rainforests. 
 
@@ -1783,9 +1781,7 @@ Samsung to focus on car chips growth to withstand a slump in demand.
 
 62.generalization   [ˌdʒenrəlaɪˈzeɪʃn] 
 
-[noun] a speech full of broad/sweeping generalizations. 
-
-"a general statement that is based on only a few facts or examples; the act of making such statements"
+[noun] a speech full of broad/sweeping generalizations. "a general statement that is based on only a few facts or examples; the act of making such statements"
 
 
 
@@ -1843,7 +1839,7 @@ The shadow of doubt began to creep into her mind.
 
 70.room  [ruːm] 
 
-[verb] She and Nancy **roomed together** at college.
+[verb] She and Nancy roomed together at college.
 
 "to rent a room somewhere; to share a rented room or flat/apartment with sb"
 
@@ -1881,7 +1877,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 74.dictate  [dɪkˈteɪt , ˈdɪkteɪt]
 
-[verb] {~ (sth) (to sb)} He dictated a letter to his secretary. "to **say words** for sb else to write down"
+[verb] {~ (sth) (to sb)} He dictated a letter to his secretary. "to say words for sb else to write down"
 
 [verb] {~ (sth) (to sb)}  They are in no position to dictate terms (= tell other people what to do).
 
@@ -1903,7 +1899,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 76.crescent  [ˈkresnt] 
 
-[noun] a crescent moon. /In **sickle cell anemia**, some red blood cells are shaped like sickles or crescent moons. These sickle cells also become rigid and sticky, which can slow or block blood flow. There's no cure for most people with sickle cell anemia.
+[noun] a crescent moon. 
 
 "a curved shape that is wide in the middle and pointed at each end"
 
@@ -1912,12 +1908,6 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 77.ellipse [ɪˈlɪps]
 
 [noun] "a regular **oval** shape, like a circle that has been squeezed on two sides"
-
-
-
-> 正规椭圆vs类椭圆
->
-> **Every ellipse is an oval but not every oval is an ellipse**. The ellipse has a balanced and uniform look. Ovals do not have foci defined, whereas ellipses have two focal points, which are important in defining the shape. An ellipse is a well-defined geometric figure.
 
 
 
@@ -2199,12 +2189,11 @@ D[adv] internally connected rooms.
 
 
 
-> In informal expressions "stupid" doesn't have to mean always lacking intelligence or unable to think clearly ,it could also express being bored of something or someone " your stupid stuff!!" 
->
-> When you say something " silly" or ask a silly question sometimes it is not really out of foolishness, but with an intention of being funny or making people laugh. When you tell someone "Don't act so silly" you rather sympathize with their attitude!. 
->
-> If I told you that the difference between them both is "lly and tupd" then I am being silly ,but if I told you that there is no difference at all then I am rather stupid !
->
+In informal expressions "stupid" doesn't have to mean always lacking intelligence or unable to think clearly ,it could also express being bored of something or someone " your stupid stuff!!" 
+
+When you say something " silly" or ask a silly question sometimes it is not really out of foolishness, but with an intention of being funny or making people laugh. When you tell someone "Don't act so silly" you rather sympathize with their attitude!. 
+
+If I told you that the difference between them both is "lly and tupd" then I am being silly ,but if I told you that there is no difference at all then I am rather stupid !
 
 
 
@@ -2260,15 +2249,15 @@ D[adv] internally connected rooms.
 
 12.disturb [dɪˈstɜːrb]
 
-[verb] I'm sorry to disturb you, but can I talk to you for a moment? "to interrupt sb when they are trying to work, sleep, etc."
+[noun] I'm sorry to disturb you, but can I talk to you for a moment? "to interrupt sb when they are trying to work, sleep, etc."
 
-[verb] Don't disturb the papers on my desk. "to move sth or change its position"
+[noun] Don't disturb the papers on my desk. "to move sth or change its position"
 
-[verb]  The letter shocked and disturbed me. "to make sb worry"
+[noun]  The letter shocked and disturbed me. "to make sb worry"
 
 D[noun]disturbance [dɪˈstɜːrbəns] 
 
-[verb] "actions that make you stop what you are doing, or that upset the normal state that sth is in; the act of disturbing sb/sth or the fact of being disturbed"
+[noun] "actions that make you stop what you are doing, or that upset the normal state that sth is in; the act of disturbing sb/sth or the fact of being disturbed"
 
 
 
@@ -2282,8 +2271,12 @@ D[noun]disturbance [dɪˈstɜːrbəns]
 
 
 
->  To interrupt means to insert yourself into someone else's action or speech.  To disturb is more general: you might disturb someone who was reading, or watching TV, or just thinking.  In this sense, an interruption is a more specific form of a disturbance.
->
+Disturb and interrupt are two words that are often used interchangeably, but they do have slightly different meanings.
+
+- Disturb refers to an action that causes a disturbance or interruption in something that is already in progress. For example, if someone bursts into a quiet room and starts shouting, they are disturbing the peace and interrupting whatever was happening before they arrived.
+- Interrupt, on the other hand, refers to an action that causes an abrupt stop or pause in something that is currently in progress. For example, if someone receives a phone call while they are in the middle of a conversation, the call interrupts their conversation and causes them to pause.
+
+In general, disturb implies a more gradual or ongoing disruption, while interrupt implies a **sudden** or **immediate disruption**. However, the two words are often used interchangeably in everyday language.
 
 
 
@@ -2351,7 +2344,7 @@ D[noun]  insufficiency.
 
 [n] a young woman in her prime.
 
-"the time in your life when you are strongest or most successful"
+mystique"the time in your life when you are strongest or most successful"
 
 [v] They had been primed with good advice.
 
@@ -2383,11 +2376,9 @@ D[noun]  insufficiency.
 
 
 
-26.revolve /rɪˈvɒlv/ /rɪˈvɑːlv/
+26.in addition to /ɪn əˈdɪʃn tu/
 
-[verb] The fan revolved slowly. 
-
-"to go in a circle around a central point"
+[] "除了"
 
 
 
@@ -2423,7 +2414,17 @@ D[noun]  insufficiency.
 
 
 
-#### 2019/12/31.18
+30.next door /ˌnekst ˈdɔːr/
+
+[adv]The cat is from the house next door. "in the next room, house or building"
+
+[noun] Is that next door's dog? "the people who live in the house or flat/apartment next to yours"
+
+
+
+
+
+#### 2019/12/31.21
 
 01.quiz [kwɪz] 
 
@@ -2523,7 +2524,7 @@ Four men are being quizzed by police about the murder. "to ask sb a lot of quest
 
 [noun] a roll of carpet.
 
-"a thick woven material made of wool, etc. for covering floors or stairs"
+"a thick woven material made of wool, etc. for covering **floors** or stairs"
 
 [verb] The hall was carpeted in blue.
 
@@ -2559,13 +2560,16 @@ Four men are being quizzed by police about the murder. "to ask sb a lot of quest
 
 
 
-The terms "alternative" and "substitute" both refer to options that can be used in place of something else, but they have slightly different **connotation**s.
-
-An alternative is an option that can be used instead of the original choice, but it may not necessarily be a direct replacement. For example, if someone is considering different ways to **commute** to work, taking the train might be an alternative to driving a car. The two options are different, but they both achieve the same goal of getting the person to work.
-
-A substitute, on the other hand, is a direct replacement for the original choice. For example, if someone is baking a cake and they run out of butter, they might use margarine as a substitute. Margarine is a direct replacement for butter in this case, as it serves the same purpose in the recipe.
-
-In general, "alternative" suggests a broader range of options, while "substitute" suggests a more specific replacement.
+> 可供选择vs直接替代
+>
+> The terms "alternative" and "substitute" both refer to options that can be used in place of something else, but they have slightly different **connotation**s.
+>
+> An alternative is an option that can be used instead of the original choice, but it may not necessarily be a direct replacement. For example, if someone is considering different ways to **commute** to work, taking the train might be an alternative to driving a car. The two options are different, but they both achieve the same goal of getting the person to work.
+>
+> A substitute, on the other hand, **is a direct replacement for the original choice**. For example, if someone is baking a cake and they run out of butter, they might use margarine as a substitute. Margarine is a direct replacement for butter in this case, as it serves the same purpose in the recipe.
+>
+> In general, "alternative" suggests a broader range of options, while "substitute" suggests a more specific replacement.
+>
 
 
 
@@ -2577,23 +2581,21 @@ In general, "alternative" suggests a broader range of options, while "substitute
 
 
 
-15.execution  [ˌeksɪˈkjuːʃn] 
+15.margarine /ˈmɑːrdʒərən/
 
-[**noun**]  He faced execution by hanging for murder."the act of killing sb, especially as a legal punishment"
-
-[noun] He had failed in the execution of his duty. "the act of doing a piece of work, performing a duty, or putting a plan into action"
-
-[noun] Her execution of the piano piece was perfect. "skill in performing or making sth, such as a piece of music or work of art"
+[n] "a yellow substance like butter made from animal or vegetable fats, used in cooking or spread on bread, etc."
 
 
 
-16.omit [əˈmɪt]
+16.hanging /ˈhæŋɪŋ/
 
-[verb]  {~ sth/sb (from sth)} If you are a student, you can omit questions 16–18. 
+[n] to sentence sb to death by hanging.
 
-"to **not include** sth/sb, either deliberately or because you have forgotten it/them"
+"the practice of killing sb as a punishment by putting a rope around their neck and hanging them from a high place; an occasion when this happens"
 
-[verb] She omitted to mention that they were staying the night. "to not do or fail to do sth"
+[n] wall hangings.
+
+"a large piece of material that is hung on a wall for decoration"
 
 
 
@@ -2623,7 +2625,27 @@ D[noun]  contiguity.
 
 
 
-#### 2020/01/02.15
+20.execution  [ˌeksɪˈkjuːʃn] 
+
+[**noun**]  He faced execution by hanging for murder."the act of killing sb, especially as a legal punishment"
+
+[noun] He had failed in the execution of his duty. "the act of doing a piece of work, performing a duty, or putting a plan into action"
+
+[noun] Her execution of the piano piece was perfect. "skill in performing or making sth, such as a piece of music or work of art"
+
+
+
+21.omit [əˈmɪt]
+
+[verb]  {~ sth/sb (from sth)} If you are a student, you can omit questions 16–18. 
+
+"to **not include** sth/sb, either deliberately or because you have forgotten it/them"
+
+[verb] She omitted to mention that they were staying the night. "to not do or fail to do sth"
+
+
+
+#### 2020/01/02.17
 
 01.remote-control  [rɪˌməʊt kənˈtrəʊl]
 
@@ -2801,7 +2823,7 @@ D[noun]  contiguity.
 
 
 
-#### 2020/01/03.27
+#### 2020/01/03.29
 
 01.enquire  [ɪnˈkwaɪə(r)]
 
@@ -2811,21 +2833,15 @@ D[noun]  contiguity.
 
 02.on arrival  [ɒn əˈraɪvl]
 
-[phra] She was pronounced dead on arrival at the hospital. 
+[phra] She was pronounced dead on arrival at the hospital. "到达时"
 
 
 
+03.on earth /ɑːn ɜːrθ/
 
+[adv] what on earth are you doing? 
 
-03.organzie [ˈɔːrɡənaɪz]
-
-[verb]  to organize a meeting/party/trip. "to arrange for sth to happen or to be provided"
-
-[verb] Modern computers can organize large amounts of data very quickly. "to arrange sth or the parts of sth into a particular order or structure"
-
-[verb] {~ yourself/sb} I'm sure you don't need me to organize you."to plan your/sb's work and activities in an efficient way"
-
-[verb]  the right of workers to organize themselves into unions. "to form a group of people with a shared aim, especially a union or political party"
+"used with question words to convey surprise"
 
 
 
@@ -3015,9 +3031,15 @@ He informed on his own brother.
 
 
 
-24.nearly  [ˈnɪəli] 
+24.bundle /ˈbʌndl/
 
-[adv]  The bottle's nearly empty. "almost; not quite; not completely"
+[n] a bundle of rags/papers/firewood , etc.
+
+"a number of things tied or wrapped together; sth that is wrapped up"
+
+[v] They bundled her into the back of a car.
+
+"to push or send sb somewhere quickly and not carefully"
 
 
 
@@ -3038,6 +3060,39 @@ He informed on his own brother.
 27.fabric conditioner [ˈfæbrɪk kənˈdɪʃənə(r)] 
 
 [phrasal noun] "What does Fabric Conditioner do? Just as conditioner protects your hair, Downy Fabric Conditioner **protects your clothes**. Downy strengthens fabrics and helps reduce **friction** during the laundry process, which helps clothes keep their original shape, reduce color fading, and reduce pilling  [ˈpɪlɪŋ] and fuzz [fʌz] ."
+
+
+
+28.organzie [ˈɔːrɡənaɪz]
+
+[verb]  to organize a meeting/party/trip. "to arrange for sth to happen or to be provided"
+
+[verb] Modern computers can organize large amounts of data very quickly. "to arrange sth or the parts of sth into a particular order or structure"
+
+[verb] {~ yourself/sb} I'm sure you don't need me to organize you."to plan your/sb's work and activities in an efficient way"
+
+[verb]  the right of workers to organize themselves into unions. "to form a group of people with a shared aim, especially a union or political party"
+
+
+
+29.nearly  [ˈnɪəli] 
+
+[adv]  The bottle's nearly empty. "almost; not quite; not completely"
+
+
+
+> 1. In negative sentences, it's *nearly*, not *almost*, that can be used:
+>
+> > I nearly didn’t make it to work on time today.
+>
+> Also, *nearly* is used in the "*not nearly as [adjective] as*" construction:
+>
+> > He’s not nearly as smart as he thinks he is.
+>
+> 1. *Nearly* is usually followed by numbers, e.g., *nearly 200 people.*
+> 2. *Almost* may often be followed by adverbs and adjectives, e.g., *almost always, almost certainly, almost impossible*.
+
+
 
 
 
@@ -9378,13 +9433,25 @@ Don't despair! We'll think of a way out of this."to stop having any hope that a 
 
 03.embassy  [ˈembəsi] 
 
+[n] to inform the embassy of the situation.
+
 "a group of officials led by an ambassador who represent their government in a foreign country"
+
+[n] a demonstration outside the Russian Embassy.
+
+"the building in which an embassy works"
 
 
 
 04.consulate  [ˈkɒnsjələt] 
 
+[n]  They managed to make contact with the British consulate in Lyons.
+
 "the building where a consul works"
+
+
+
+> You can think of **the embassy as the head office, whereas the consulate is the regional office**. Embassies are the main representatives of their home country, whereas consulates are additional diplomatic offices.
 
 
 
@@ -15424,7 +15491,7 @@ D[adj] Her submerged car was discovered in the river by police divers.
 
 
 
-#### 2020/10/23.22
+#### 2020/10/23.30
 
 01.eliminate  [ɪˈlɪmɪneɪt]
 
@@ -15635,7 +15702,55 @@ D[noun] "elimination"
 
 
 
-23.maple /ˈmeɪpl/
+
+
+23.glucose /ˈɡluːkoʊs/
+
+[n] Diabetics cannot metabolise glucose properly.
+
+"a type of sugar that is found in fruit and is easily changed into energy by the human body"
+
+
+
+24.fructose /ˈfrʌktoʊs/
+
+[n] "a type of sugar found in fruit juice and honey"
+
+
+
+> **Glucose, fructose and galactose are the three monosaccharides important in nutrition**. These single sugar molecules contain 6 carbon atoms, 12 hydrogen atoms and 6 oxygen atoms (i.e. chemical formula as C6H12O6).
+>
+> A disaccharide (also called a double sugar or biose) is the sugar formed when two monosaccharides are joined by glycosidic linkage. Like monosaccharides, disaccharides are simple sugars soluble in water. **Three common examples are sucrose, lactose, and maltose**.
+>
+> Polysaccharides– **Starch, glycogen, and cellulose are examples of polysaccharides**.
+
+
+
+25.starch /stɑːrtʃ/
+
+[n] There's too much starch in your diet.
+
+"a white carbohydrate food substance found in potatoes, flour, rice, etc.; food containing this"
+
+
+
+26.glycogen /ˈglaɪkədʒɪn/
+
+[n] "one form in which body fuel is stored"
+
+
+
+27.cellulose /ˈseljuloʊs/
+
+[n] "a natural substance that forms the cell walls of all plants and trees and is used in making plastics, paper, etc."
+
+
+
+28.galactose /gəˈlæktoʊs/
+
+[n] "a simple sugar found in lactose"
+
+29.maple /ˈmeɪpl/
 
 [n] "a tall tree with leaves that have five points and turn bright red or yellow in the autumn/fall. Maples grow in northern countries."
 
@@ -15645,7 +15760,7 @@ D[noun] "elimination"
 
 
 
-24.tea leaf /ˈtiː liːf/
+30.tea leaf /ˈtiː liːf/
 
 [n] This product shortens the cold brew process, which typically takes an average of 18 to 24 hours, to just 20 minutes, allowing users to make iced tea by steeping tea leaves. 
 
@@ -18142,6 +18257,16 @@ the act of committing a serious crime such as murder or rape ; a crime of this t
 
 
 
+11.hatred /ˈheɪtrɪd/
+
+[n] {~ (for/of sb/sth) | ~ (towards sb)}
+
+More than 54 percent people think Korean society has hatred or a discriminatory attitude against migrants.
+
+"a very strong feeling of dislike for sb/sth"
+
+
+
 #### 2020/12/12.08
 
 foul/musty/pungent
@@ -20095,7 +20220,7 @@ A lamp was suspended from the ceiling."to hang sth from sth else"
 
 [n] The price includes the hire of the hall. "the act of paying to use sth for a short time"
 
-<img src="/home/jiang/桌面/english learning/images/hiring_recruitment.jpg" alt="hiring_recruitment" style="zoom: 33%;" />
+<img src="./images/hiring_recruitment.jpg" alt="hiring_recruitment" style="zoom: 33%;" />
 
 **Hiring happens when you need to fill a role and consider candidates for employment.** **Recruiting is the process of attracting top talent to your organization**. While recruiting can certainly help you find the right person to hire, it should be an ongoing process, even when you don't have job openings.
 
@@ -20137,7 +20262,11 @@ A lamp was suspended from the ceiling."to hang sth from sth else"
 
 #### 20210203.19
 
+01.affluent /ˈæfluənt/
 
+[adj] Some Korean parents change their home address to send their children to a more homogenous school in an affluent neighborhood, due to concerns that their academic achievements may be affected.
+
+"having a lot of money and a good standard of living" -prosperous,wealthy-
 
 
 
@@ -20235,11 +20364,9 @@ A lamp was suspended from the ceiling."to hang sth from sth else"
 
 
 
-13.heyday [ˈheɪdeɪ] 
+13.monoethnic
 
-[noun] In its heyday , the company ran trains every fifteen minutes.
-
-"the time when sb/sth had most power or success, or was most popular" -prime-
+[noun] "**Monoethnicity** is the existence of a single [ethnic group](https://en.wikipedia.org/wiki/Ethnic_group) in a given region or country. It is the opposite of [polyethnicity](https://en.wikipedia.org/wiki/Polyethnicity)."
 
 
 
@@ -20267,7 +20394,11 @@ A lamp was suspended from the ceiling."to hang sth from sth else"
 
 
 
+17.heyday [ˈheɪdeɪ] 
 
+[noun] In its heyday , the company ran trains every fifteen minutes.
+
+"the time when sb/sth had most power or success, or was most popular" -prime-
 
 
 
@@ -20485,7 +20616,7 @@ The hunt is on for a suitable candidate.
 
 
 
-#### 20210208.28
+#### 20210208.30
 
 01.injection  [ɪnˈdʒekʃn] 
 
@@ -20521,9 +20652,11 @@ The hunt is on for a suitable candidate.
 
 
 
-04.expatriate  [ˌeksˈpeɪtriət]
+04.dispersed /dɪˈspɜːrst/
 
-[noun] American expatriates in Paris. "a person living in a country that is not their own"
+[adj] The Yoon Suk-yeol administration is preparing to launch an integrated immigration agency. Currently, immigration affairs are dispersed across multiple ministries.
+
+"Things that are **dispersed** are situated in many different places, a long way apart from each other."
 
 
 
@@ -20808,6 +20941,10 @@ I have been fortunate enough to visit many parts of the world as a lecturer.
 "the successful completing of sth"
 
 
+
+30.expatriate  [ˌeksˈpeɪtriət]
+
+[noun] American expatriates in Paris. "a person living in a country that is not their own"
 
 #### 20210214.06
 
@@ -24373,6 +24510,14 @@ D [adj] It was a very enlightening interview.
 
 
 
+> enlighten: 有一种被拍马屁陈述的感觉
+>
+> **To "enlighten" is to give information or wisdom.** **To "inspire" is to motivate**. "Enlighten" is rarely used today. But an example of a correct usage is, "I didn't know about the new rules until my boss enlightened me."
+>
+> Enlighten is to show something to someone they didn't know before. Inspire is to show something or tell someone something that makes them want to do something.
+
+
+
 15.invigilate   [ɪnˈvɪdʒɪleɪt]
 
 [verb] to invigilate an exam. "to watch people while they are taking an exam to make sure that they have everything they need, that they keep to the rules, etc."
@@ -24503,7 +24648,11 @@ D[adj] a monogamous marriage.
 
 
 
+08.bigamy /ˈbɪɡəmi/
 
+[n] He was sentenced to one year's imprisonment for committing bigamy. 
+
+"the crime of marrying sb when you are still legally married to sb else" compare [monogamy](https://fanyi.baidu.com/#en/zh/monogamy), [polygamy](https://fanyi.baidu.com/#en/zh/polygamy)
 
 
 
@@ -30021,7 +30170,7 @@ sober up;sober sb up
 
 
 
-#### 2021/11/28.14
+#### 2021/11/28.15
 
 01.heck  [hek] 
 
@@ -30156,6 +30305,20 @@ interface/interaction/international.
 [noun] South Korea has sought to use the Beijing Games to create fresh momentum for the resumption of stalled diplomacy with the North, though uncertainty still lingers over whether the North would accede.
 
 "the activity of managing relations between different countries; the skill in doing this"
+
+
+
+15.momentum /moʊˈmentəm/
+
+[n] They began to lose momentum in the second half of the game.
+
+"the ability to keep increasing or developing"
+
+[n] The vehicle gained momentum as the road dipped."a force that is gained by movement"
+
+[n] A falling object gains momentum as it falls. 
+
+"In physics, **momentum** is the mass of a moving object multiplied by its speed in a particular direction."
 
 
 
@@ -34073,7 +34236,9 @@ D[noun]  Bullying is a problem in many schools.
 
 07.faeces /ˈfiːsiːz/
 
-[n] "solid waste material that leaves the body through the anus"
+[n] san francisco faeces map.
+
+"solid waste material that leaves the body through the anus"
 
 
 
@@ -35509,7 +35674,11 @@ to change a written record or information so that it is no longer true"
 
 #### 02/23.01
 
+01.looming /ˈluːmɪŋ/
 
+[adj] Demographic crisis looming.
+
+"If a worrying or threatening situation or event **is looming**, it seems likely to happen soon."
 
 
 
@@ -35527,7 +35696,7 @@ to change a written record or information so that it is no longer true"
 
 [verb] Another government spending crisis is looming in the United States...
 
-"to appear important or threatening and likely to happen soon"
+"to **appear** important or threatening and likely to happen soon"
 
 
 
@@ -35823,11 +35992,11 @@ A hazard is usually used to refer to risky situations that are very serious or l
 
 
 
-#### 03/12.07
+#### 03/12.08
 
 01.hostel  /ˈhɒstl/ [ˈhɑːstl]
 
-[noun] 'What a dump!' Christabel said, standing in the doorway of the youth hostel.
+[noun] 'What a dump!'(真够脏乱的) Christabel said, standing in the doorway of the youth hostel.
 
 "a building that provides cheap accommodation and meals to students, workers or travellers"
 
@@ -35874,6 +36043,14 @@ A hazard is usually used to refer to risky situations that are very serious or l
 [verb] The announcement drew loud applause from the audience.
 
 "to produce a reaction or response"
+
+
+
+08.doorway /ˈdɔːrweɪ/
+
+[n] She stood in the doorway for a moment before going in. 
+
+"an opening into a building or a room, where the door is"
 
 
 
@@ -37199,7 +37376,9 @@ In basketball, a splash is **a shot that goes through the basket, only touching 
 
 03.prevalent /ˈprevələnt/
 
-[adj] {~ (among sb) | ~ (in sb/sth)} These **prejudices** are particularly prevalent among people living in the North. 
+[adj] {~ (among sb) | ~ (in sb/sth)} Industry observers noted that the competition in AI interpretation will intensify in 2024, as services that use AI technology are becoming more prevalent./
+
+These **prejudices** are particularly prevalent among people living in the North. 
 
 "that exists or is very common at a particular time or in a particular place" -common, widespread-
 
@@ -41922,10 +42101,237 @@ There are several major wireless carriers in the United States. The most well-kn
 
 
 
-#### 12/12
+#### 12/12.01
 
 01.effortless /ˈefərtləs/
 
 [adj] Joker makes the game look effortless. 
 
 "needing little or no effort, so that it seems easy"
+
+
+
+#### 12/14.05
+
+01.upmarket /ˌʌpˈmɑːrkɪt/
+
+[adj] Credit cards are accepted at hotels and touristy/upmarket restaurants, shops, etc, but definitely not by your average hole in the wall noodle shop. 
+
+"designed for or used by people who belong to a high social class or have a lot of money"
+
+
+
+02.touristy /ˈtʊrɪsti/
+
+[adj] a shop full of touristy souvenirs. 
+
+"attracting or designed to attract a lot of tourists"
+
+
+
+03.hole in the wall /ˌhoʊl ɪn ðə ˈwɔːl/
+
+[n] {BrE}  "cash machine"
+
+[n] {NAmE} "a small dark shop/store or restaurant"
+
+[derivative words] hole-in-the-wall cash machines/restaurants. 
+
+
+
+04.badge /bædʒ/
+
+[n] All employees have to wear name badges.
+
+"a small piece of metal or plastic, with a design or words on it, that a person wears to show that they belong to an organization, support sth, have achieved sth, have a particular rank, etc."
+
+
+
+05.asswipe 
+
+[n] a stupid, annoying
+
+noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoying, or detestable person** : asshole.
+
+
+
+#### 12/15.02
+
+01.uniformly / ˈjuːnɪfɔːrmli /
+
+[adv] Since we don't have the full data of attendance, we have uniformly assigned 25 points to each student.
+
+"in a uniform manner"
+
+
+
+02.brace /breɪs/
+
+[n] "a device that holds things firmly together or holds and supports them in position"
+
+[n] "either of the two marks, { }, used to show that the words, etc. between them are connected"
+
+[v] Ten flights canceled in Jeju as Korea braces for cold wave. 
+
+"to prepare sb/yourself for sth difficult or unpleasant that is going to happen"
+
+
+
+#### 12/20.08
+
+01.incur /ɪnˈkɜː(r)/
+
+[v] She had incurred the wrath of her father by marrying without his consent. 
+
+"if you incur sth unpleasant, you are in a situation in which you have to deal with it"
+
+[v] You risk incurring bank charges if you exceed your **overdraft limit**./As soon as the state of an instance changes to `shutting-down` or `terminated`, you stop incurring charges for that instance.
+
+"if you incur costs, you have to pay them"
+
+
+
+02.overdraft /ˈoʊvərdræft/
+
+[n] to run up/pay off an overdraft. 
+
+"the amount of money that you owe to a bank when you have spent more money than is in your bank account; an arrangement that allows you to do this"
+
+
+
+03.run up /ˈrʌn ʌp/
+
+[vp] He ran up a £1,400 bill at the Britannia Adelphi Hotel...
+
+"If someone **runs up** bills or debts, they acquire them by buying a lot of things or borrowing money."
+
+
+
+04.pay off /ˈpeɪ ɔːf/
+
+[vp] It would take him the rest of his life to pay off that loan. 
+
+"If you **pay off** a debt, you give someone all the money that you owe them."
+
+
+
+05.overdraft limit 
+
+[n] "透支额度"
+
+
+
+06.hibernate /ˈhaɪbərneɪt/
+
+[Vi]  Bears often hibernate in caves. 
+
+"to spend the winter in a state like deep sleep"
+
+
+
+08.due to
+
+[adj] The algorithm is due to Storn and Price. 
+
+"Due to is *as grammatically sound as owing to*, which is frequently recommended in its place."
+
+
+
+> There is a difference between "Due to" and "Owing to" in meaning. "Due to" means "caused by", however, "Owing to" means "because of" and it always comes at the beginning of the sentence. Besides "owing to" as a result or consequence of something.
+>
+> Here are examples for better understanding:
+
+> 1. Owing to illness, he missed the exam. (because of illness etc.)
+> 2. His absence was due to illness. (His absence was caused by...)
+>    …
+
+> If you want to use perfectly correct grammar, "owing to" is adverbial, but "due to" is adjectival. For example: 
+>
+> --His accident was due to excessive alcohol consumption. 
+>
+> --His accident occurred owing to the fact that he was talking on his cell phone.  
+>
+> However, most people use "due to" and "owing to" interchangeably now...it doesn't matter which one you use.
+
+
+
+#### 12/21.
+
+01.academician /ˌækədəˈmɪʃn/
+
+[n] He was elected a full academician in 1888, and an honorary member of the Royal Academy of Munich.
+
+"An **academician** is a member of an academy, usually one which has been formed to improve or maintain standards in a particular field."
+
+
+
+02.deactivate /ˌdiːˈæktɪveɪt/
+
+[v] The phone number you are trying to reach has been deactivated, and as a result, communication or contact through that particular number is currently unavailable.
+
+"to make sth such as a device or chemical process stop working"
+
+
+
+03.shut down /ʃʌt daʊn/
+
+[pv] Your the customer for calling owe the fee to shut down, please to use the other method contact!  
+
+"If a factory or business **shuts down** or if someone **shuts** it **down**, work there stops or it no longer trades as a business."
+
+
+
+04.active /ˈæktɪv/
+
+[adj/noun]
+
+
+
+05.activate /ˈæktɪveɪt/
+
+[verb] 
+
+
+
+06.scheduler /ˈskɛdʒʊlər/
+
+[n] "computer hardware that arranges jobs to be done by the computer in an appropriate order"
+
+
+
+07.upswing /ˈʌpswɪŋ/
+
+[n] Amid the global economic recession and worsening semiconductor industry, the airport expects a 6.9 percent decrease in cargo transport at 2.7 million tons this year. However, the figure was on a gradual upswing in the latter half of the year, according to IIAC.
+
+"a situation in which sth improves or increases over a period of time" -upturn-
+
+
+
+08.upturn /ˈʌptɜːn/
+
+[n]  The restaurant trade is on the upturn.
+
+"a situation in which sth improves or increases over a period of time"
+
+
+
+> didn't find the difference between them
+
+
+
+09.turnaround /ˈtɜːrnəraʊnd/
+
+[n] Following this momentum, the company is optimistic about a turnaround in net profit for the first time in three years — by the end of the year.
+
+"a situation in which sth changes from bad to good"
+
+
+
+10.turnover /ˈtɜːrnoʊvər/
+
+[n] The company expects its **annual turnover** will reach 2.1 trillion won ($1.6 billion) with a net profit of around 380 billion won, which is a 132 percent and 72 percent increase from last year, respectively. 
+
+"the total amount of goods or services sold by a company during a particular period of time"
+
+
+
