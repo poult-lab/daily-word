@@ -1585,9 +1585,11 @@ twisted ankle vs sprained ankle
 
 
 
-46.determinant [dɪˈtɜː(r)mɪnənt] 
+46.predetermined /ˌpriːdɪˈtɜːrmɪnd/
 
-[noun] "a thing that decides whether or how sth happens"
+[adj] Employees may have a stake in their company through stock options, allowing them to buy shares at a predetermined price in the future. 
+
+"set in advance"
 
 
 
@@ -2421,6 +2423,10 @@ mystique"the time in your life when you are strongest or most successful"
 [noun] Is that next door's dog? "the people who live in the house or flat/apartment next to yours"
 
 
+
+31.determinant [dɪˈtɜː(r)mɪnənt] 
+
+[noun] "a thing that decides whether or how sth happens"
 
 
 
@@ -25422,6 +25428,8 @@ The City of Taylor in Texas has endorsed an incentive to refund 92.5 percent of 
 
 "being or having a random variable"
 
+> A variable is *random*. A process is *stochastic*. Apart from this difference, the two words are synonyms.
+
 
 
 02.wrestle  [ˈresl] 
@@ -26905,17 +26913,25 @@ Sure, here are some examples of nobility and aristocracy:
 
 "a wooden or metal post that is pointed at one end and pushed into the ground in order to support sth, mark a particular place, etc."
 
-[n] Many young people no longer feel they have a stake in society.
+[n] Many young people no longer feel they have a stake in society./The Suneung is one of the hardest exams in the world and stakes are very high(风险高还很重要).
 
 "an important part or share in a business, plan, etc. that is important to you and that you want to be successful"
 
 
 
-1. Stocks: Stocks, also known as "equities," represent ownership in a company. When you buy a stock, you become a shareholder in that company, and you own a portion of the company. As a shareholder, you may be entitled to vote on certain company decisions and receive a portion of the company's profits in the form of dividends. Stocks are traded on stock exchanges, and their value can fluctuate based on a variety of factors, including the company's performance, economic conditions, and market trends.
-2. Stakes: Stakes refer to the percentage of ownership in a company that an individual or entity holds. **For example, if you own 30% of a company, you have a 30% stake in that company.** Stakes are often used to describe ownership in private companies that are not publicly traded on a stock exchange. In some cases, individuals or companies may own stakes in multiple companies, allowing them to diversify their investments.
-3. Shares: Shares are units of ownership in a company. When a company issues shares, it is essentially dividing its ownership into smaller portions that can be bought and sold by investors. Each share represents a percentage of ownership in the company and entitles the shareholder to certain rights, such as voting on company decisions and receiving dividends. The term "shares" is often used interchangeably with "stocks," although "shares" is more commonly used in the context of private companies that are not publicly traded.
+> **A stake is often used to describe the amount of stock an investor owns**, and this is certainly a correct way to use the word. If you own stock in a given company, your stake represents the percentage of its stock that you own.
+>
+> Stakes - Stake represents the percentage of stock that an individual own. **A person can have a stake in a company although he does not own shares of its stock(通过拥有该公司的bonds来获得所有权).** Suppose, a company is looking to raise 50,000 dollar in exchange for a 20% stake in its business. Investing 50,000 dollar in that company could entitle you to 20% of that business's profits going forward.
+>
+> Shares - When a company issues stock, each unit of stock is measured as share. **One share of stock is equal to one unit of ownership in the company**. Shares generally refers to units of stock in a public company. A shareholder holds part of a company through stock ownership, whereas a stakeholder is interested in the performance of a company for reasons excluding just stock appreciation.
+>
+> In summary, the sentence emphasizes that ownership or interest in a company can take various forms beyond direct ownership of its stock. It acknowledges that there are different financial instruments, contracts, or business relationships through which individuals can have a stake in a company.
 
-In summary, stocks, stakes, and shares all relate to ownership in a company, but they have slightly different meanings. Stocks are a type of security that represents ownership in a publicly traded company, while stakes refer to the **percentage of ownership in a company** that an individual or entity holds. Shares are units of ownership in a company that can be bought and sold by investors.
+
+
+> 总而言之stake代表百分制的股票或者所有权，所有权的意思是可以通过拥有该公司的bonds来宣称所有权.
+>
+> stock就是泛指股票
 
 
 
@@ -27351,9 +27367,21 @@ D [noun] finalization
 
 01.veracity  [vəˈræsəti] 
 
-[noun] They questioned the veracity of her story./the underlying technology is sound and will likely have a profound impact on the perceived veracity of digital data in the years to come.
+[noun] They questioned the veracity of her story./the underlying technology is sound and will likely have a **profound** impact on the perceived veracity of digital data in the years to come.
 
 "the quality of being true; the habit of telling the truth"
+
+
+
+02.profound /prəˈfaʊnd/
+
+[adj] My father's death had a profound effect on us all.
+
+"very great; felt or experienced very strongly" 
+
+[adj] profound insights. 
+
+"showing great knowledge or understanding"
 
 
 
@@ -31674,7 +31702,7 @@ D[adv] to treat sb leniently.
 
 
 
-#### 03/04.04
+#### 03/04.05
 
 01.tenant  [ˈtenənt]
 
@@ -31701,6 +31729,14 @@ D[adv] to treat sb leniently.
 [noun] We suffered weeks of heavy shelling.
 
 "the firing of shells from large guns"
+
+
+
+05.tenancy /ˈtenənsi/
+
+[n] The checkout at the end of a tenancy is one of the most important parts of the moving-out process.
+
+"a period of time that you rent a house, land, etc. for"
 
 
 
@@ -42255,7 +42291,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-#### 12/21.
+#### 12/21.11
 
 01.academician /ˌækədəˈmɪʃn/
 
@@ -42335,3 +42371,32 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
+11.well-found /wel faʊnd/
+
+[adj] The explorer was relieved to discover a well-found oasis in the midst of the desert, providing much-needed water and respite during the arduous journey.
+
+"having a full array of suitable equipment or furnishings"
+
+
+
+#### 12/22
+
+01.option /ˈɒpʃn/ /ˈɑːpʃn/
+
+[n] Employee Stock Options.(ESO)
+
+"the right to buy or sell sth at some time in the future"
+
+
+
+02.wind up /ˈwaɪnd ʌp/
+
+[vp] The President is about to wind up his visit to Somalia...
+
+"When you **wind up** an activity, you finish it or stop doing it."
+
+[vp] "When you **wind up** something such as the window of a car, you make it move upwards by turning a handle."
+
+[vp] he wound up the clock every Saturday night.
+
+"make a clock or other device operate by turning a handle or key."
