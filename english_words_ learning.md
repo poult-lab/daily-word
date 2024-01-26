@@ -341,7 +341,7 @@ While both words can be used to refer to the act of regulating or limiting somet
 
 "a **short surprise** **attack** on an enemy by soldiers, ships or aircraft"
 
-[verb] The Financial Supervisory Service (FSS) raided the office of Kakao founder Kim Beom-su, Thursday, for his alleged involvement in stock manipulation.
+[verb] The Financial Supervisory Service (FSS) raided the office of Kakao founder Kim Beom-su, Thursday, for his alleged involvement in stock manipulation./Incheon police agency raided over death of actor Lee Sun-kyun.
 
 "to visit a person or place without warning to look for criminals, illegal goods, drugs, etc."
 
@@ -564,12 +564,6 @@ D[noun] They object to the movie's depiction of gay people.
 "To have no control over or be unable to avoid some action."
 
 
-
-46.wig /wɪɡ/
-
-[noun] I **couldn't help**  <ins>`noticing`</ins>  she was wearing a wig.
-
-"a piece of artificial hair that is worn on the head, for example to hide the fact that a person is **bald** , to cover sb's own hair, or by a judge and some other lawyers in some courts of law"
 
 
 
@@ -1226,15 +1220,17 @@ D[noun]  liver transplantation.
 
 
 
-11.polynomial "多项式的"
+11.nomial /ˈnɒmɪnl/ /ˈnɑːmɪnl/
+
+[adj] The king was only the nominal head of the state.
+
+"being sth in name only, and not in reality"
 
 
 
-12.digression [daɪˈɡreʃn]
+12.polynomial /ˌpɑli'noʊmiəl/
 
-[verb] I've digressed a little to explain the situation so far, so let me now **recap**... 
-
-"If you **digress**, you move away from the subject you are talking or writing about and talk or write about something different for a while."
+[adj] "a mathematical function that is the sum of a number of terms"
 
 
 
@@ -2539,6 +2535,24 @@ The tidal energy is not stable.
 
 
 
+41.wig /wɪɡ/
+
+[noun] I **couldn't help**  <ins>`noticing`</ins>  she was wearing a wig.
+
+"a piece of artificial hair that is worn on the head, for example to hide the fact that a person is **bald** , to cover sb's own hair, or by a judge and some other lawyers in some courts of law"
+
+
+
+42.hairpiece /ˈherpiːs/
+
+[n] "a piece of false hair worn to make your own hair look longer or thicker"
+
+
+
+> Wigs are larger and cover the entire head, providing a complete change in hairstyle. They are often used to create a dramatic transformation or to cover complete hair loss. Hairpieces, on the other hand, are smaller and designed to cover specific areas of the head, such as the top, sides, or back.
+
+
+
 #### 2019/12/31.21
 
 01.quiz [kwɪz] 
@@ -3012,7 +3026,7 @@ D[noun]  contiguity.
 
 
 
-07.innocence/innocent/ 
+07.innocence/ˈɪnəsns/
 
 [noun] She **protested** her innocence. "清白;无辜;无罪" "the fact of not being guilty of a crime, etc."
 
@@ -4003,7 +4017,7 @@ The Five Major Emerging Markets. **Brazil, Russia, India, China, and South Afric
 
 06.over time
 
-Over time, the technology is diffused and adopted by other countries.
+Over time, the technology is **diffused** and adopted by other countries.
 
 
 
@@ -4071,7 +4085,21 @@ D[noun] I am seeking clarification [ˌklærəfɪˈkeɪʃn] of the regulations.
 
 
 
-#### 2020/01/11.28
+13.diffuse /dɪˈfjuːs , dɪˈfjuːz/
+
+[adj] a diffuse community.
+
+"spread over a wide area"
+
+[v] The problem is how to diffuse power without creating anarchy.
+
+"to spread sth or become spread widely in all directions"
+
+
+
+
+
+#### 2020/01/11.30
 
 01...(Cartel Incorporated)  
 //ADJ (用于公司名称后)组成公司的，股份有限的
@@ -4133,6 +4161,10 @@ chilli  [ˈtʃɪli]
 [noun] You can taste the chilli in the dish but it is a little sweet. 
 
 "the small green or red fruit of a type of pepper plant that is used in cooking to give a hot taste to food, often dried or made into powder, also called chilli or chilli powder"
+
+Chile /ˈtʃiliː/
+
+[n] "智利"
 
 
 
@@ -4319,7 +4351,7 @@ The knee-jerk reflex is also called the patellar reflex. Its main biological pur
 
 23.quadriceps /ˈkwɒdrɪseps/
 
-[n] {anatomy} "the large muscle at the front of the thigh"
+[n] {anatomy} "the large muscle at the front of the thigh""四头肌"
 
 
 
@@ -4347,17 +4379,15 @@ The knee-jerk reflex is also called the patellar reflex. Its main biological pur
 
 
 
-27.guard   [ɡɑːd]
+27.slit /slɪt/
 
-[noun] a security guard. 
+[n] a long skirt with a slit up the side. 
 
-"a person, such as a soldier, a police officer or a prison officer, who protects a place or people, or prevents prisoners from escaping"
+"a long narrow cut or opening"
 
-[verb] The dog was guarding its owner's luggage. "to protect property, places or people from attack or danger"
+[v]  Slit the roll(面包) with a sharp knife.
 
-[verb] The prisoners were guarded by soldiers. "to prevent prisoners from escaping"
-
-[verb phrase] **guard against sth**" to guard against accidents/disease.to take care to prevent sth or to protect yourself from sth"
+"to make a long narrow cut or opening in sth"
 
 
 
@@ -4387,7 +4417,13 @@ The knee-jerk reflex is also called the patellar reflex. Its main biological pur
 
 
 
-#### 2020/01/14.10
+30.anatomy/əˈnætəmi/
+
+[n] "the scientific study of the structure of human or animal bodies"
+
+
+
+#### 2020/01/14.11
 
 01.proximity  [prɒkˈsɪməti]  [prɑːkˈsɪməti]
 
@@ -4396,6 +4432,38 @@ The knee-jerk reflex is also called the patellar reflex. Its main biological pur
 The proximity of the college to London makes it very popular. 
 
 "the state of being **near** sb/sth in distance or time"
+
+
+
+> Proximity is a noun. Vicinity is a noun. Adjacent is an adjective.
+> Proximity means "nearness".
+> E.g. In the human body, the heart is in close proximity to the lungs.
+> He was standing in close proximity to the victim at the time of her death.
+> What is the proximity of the Fire Station to the Police Station? (means: How close/ near is the Fire Station to the Police station?)
+>
+> Proximity is often preceded by the adjective "close".
+> "in cllose proximity to" means "very near to."
+>
+> Vicinity means neighborhood. It is used to describe locations that are close to the topic of conversation.
+> Neighborhood is often used when talking about homes and where people live.
+> Vicinity is more general and often used by police.
+>
+> Examples:
+>
+> The police found the suspect in the vicinity of the the school. (this means in the neighborhood of the school).
+>
+> Adjacent is an adjective that means "located next to". It can be used to describe places or things.
+>
+> Examples. In the human body, the heart is adjacent to the lungs.
+> The school is adjacent to the playground.
+> My house is adjacent to a park.
+>
+>
+> Compare:
+>
+> My house is adjacent to the park (my house is next to the park)
+> My house is in close proximity to the park (my house is very near the park).
+> My house is in the vicinity of the park (my house is in the same neighborhood as the park)
 
 
 
@@ -4431,9 +4499,9 @@ The tennis star made the allegations on Chinese social media site Weibo./Seo Soo
 
 [adj] overinflated house prices."of a price or value"
 
-[adj]In recent weeks, public anger has been intensifying over Han's acceptance into MIT as there have been allegations that the high school senior has plagiarized and overinflated other credentials. 
+[adj] In recent weeks, public anger has been intensifying over Han's acceptance into MIT as there have been allegations that the high school senior has plagiarized and overinflated other credentials. 
 
-"made to seem better, worse, more important, etc. than it really is" - exaggerated-
+"made to seem better, worse, more important, etc. than it really is" - exaggerated- "言过其实的"
 
 
 
@@ -4451,7 +4519,7 @@ The tennis star made the allegations on Chinese social media site Weibo./Seo Soo
 
 *As of Friday, nearly 41,000 people have signed the petition exposing the student's alleged academic misconduct.*
 
-"a written document signed by a large number of people that asks sb in a position of authority to do or change sth"
+"a written document signed by a large number of people that asks sb in a position of authority to do or change sth/请愿"
 
 [verb] {~ for/against sth | ~ sb (for sth)}
 
@@ -4484,6 +4552,20 @@ The airport operator said the total weekly flights between Gimpo and the Chinese
 [adv] It's about halfway between London and Bristol. 
 
 "at an equal distance between two points; in the middle of a period of time"
+
+
+
+11.guard   [ɡɑːd]
+
+[noun] a security guard. 
+
+"a person, such as a soldier, a police officer or a prison officer, who protects a place or people, or prevents prisoners from escaping"
+
+[verb] The dog was guarding its owner's luggage. "to protect property, places or people from attack or danger"
+
+[verb] The prisoners were guarded by soldiers. "to prevent prisoners from escaping"
+
+[verb phrase] **guard against sth**" to guard against accidents/disease.to take care to prevent sth or to protect yourself from sth"
 
 
 
@@ -4524,6 +4606,8 @@ A family of four perished in the fire."to die, especially in a sudden violent wa
 [adj] The journey soon became tedious. /Building even a simple neural network can be a confusing task and tuning it to get the better result is an extremely tedious task.
 
 "lasting or taking too long and not interesting" -boring-
+
+> **Boring is more common**. "This party is dull/boring." Tedious is stronger and also implies that the situation is long and slow. "Peeling a bucket of shrimp is a tedious job."
 
 
 
@@ -6298,7 +6382,7 @@ Have you checked his curriculum vitae? "履历"
 
 05.comprehensive /ˌkɑːmprɪˈhensɪv/
 
-[adj] According to data from mobile app analytics service Wiseapp Retail Goods on Monday, the number of AliExpress users surged to 6.13 million last month, securing the third position among domestic comprehensive shopping mall apps. 
+[adj] According to data from mobile app analytics service Wiseapp Retail Goods on Monday, the number of AliExpress users surged to 6.13 million last month, securing the third position among domestic comprehensive shopping mall apps. / On January 8, TVing announced that 'Death's Game' part 2, released worldwide on Amazon Prime Video on January 5, has risen to the 2nd place in the comprehensive global rankings for TV shows on Prime Video.
 
 "including all, or almost all, the items, details, facts, information, etc., that may be concerned"
 
@@ -7218,7 +7302,7 @@ He was tackled just outside the penalty area. 抢球"
 
 
 
-#### 2020/05/07.08
+#### 2020/05/07.12
 
 01.sigh [saɪ]
 
@@ -7323,6 +7407,12 @@ D[noun] a wince of pain.
 [noun] { ~ (to/for sb)} Her resignation will be a severe embarrassment to the party.
 
 "a situation which causes problems for sb" 
+
+
+
+12.ease the burden /iːz ðə ˈbɜːrdn/
+
+[vp]   We expect our gift sets to ease the burden of inflation.
 
 
 
@@ -8260,7 +8350,7 @@ modest  [ˈmɒdɪst]  [ˈmɑːdɪst]
 
 
 
-#### 2020/06/12.07
+#### 2020/06/12.10
 
 01.**qua**rter [ˈkwɔːtə(r)]  **qua**rterly report 
 
@@ -8325,6 +8415,18 @@ modest  [ˈmɒdɪst]  [ˈmɑːdɪst]
 [n] Go downstairs and wait for me! I'm not dressed!
 
 "(of a person) wearing clothes; not naked or in underwear, sleepwear, etc."
+
+
+
+10.poultry /ˈpoʊltri/
+
+[n] to keep poultry. 
+
+"chickens, ducks and geese , kept for their meat or eggs"
+
+[n] Eat plenty of fish and poultry.
+
+"meat from chickens, ducks and geese"
 
 
 
@@ -8622,7 +8724,7 @@ Careful consideration should be given to issues of health and safety. "the act o
 
 
 
-#### 2020/06/24.03
+#### 2020/06/24.05
 
 01.Strict [strɪkt]
 
@@ -8632,9 +8734,31 @@ Careful consideration should be given to issues of health and safety. "the act o
 
 02.belly [ˈbeli] 배/abdomen  [ˈæbdəmən]  복근
 
+[n] She laid her hands on her swollen belly...
+
+"the part of the body below the chest"
 
 
-03.jealousy [ˈdʒeləsi]  질투 /envy [ˈenvi]  질투하다
+
+03.go belly up 
+
+[slang] Last year the business went belly up after one of the partners resigned.
+
+"to fail completely"
+
+
+
+04.abdomen /ˈæbdəmən/
+
+[n] "the part of the body below the chest that contains the stomach, bowels , etc."
+
+> All three words can refer to the part of the body between the chest and the pelvis. Which is used depends on the context and the level of formality desired.
+>
+> The word "abdomen" is used in medicine to refer to this part of the body. It is also used in discussions of the training of the abdominal muscles.
+
+
+
+05.jealousy [ˈdʒeləsi]  질투 /envy [ˈenvi]  질투하다
 
 
 
@@ -10611,6 +10735,8 @@ to make sb feel that they do not belong in a particular group"
 [adj] a prestigious award/a prestigious university./
 
 The revision is expected to allow prestigious foreign research institutions, such as Germany’s Max Planck Institute, to take a lead role in government-funded research projects in Korea.
+
+The Ernst von Siemens Music Foundation and the Bavarian Academy of Fine Arts announced that the 62-year-old musician was chosen as the winner of the prestigious award for this year.
 
 "espected and admired as very important or of very high quality" "有声望的"
 
@@ -17103,7 +17229,7 @@ D[adj] a freckled face/schoolgirl.
 
 03.hostile /ˈhɒstaɪl/ /ˈhɑːstl/
 
-[adj] China and the United States: From Hostility to Engagement. 
+[adj] China and the United States: From Hostility to Engagement. /NK leader calls for defining S. Korea as 'No. 1 hostile country' in Constitution
 
 "very unfriendly or aggressive and ready to argue or fight"
 
@@ -20137,6 +20263,12 @@ In summary, while "deliberately" emphasizes careful consideration, "intentionall
 
 
 
+11.unmercifully /ənˈmɜrsɪfəli/
+
+[adv] beat me unmercifully.
+
+"If you do something **unmercifully**, you do it a lot, showing no pity."
+
 #### 20210129.10
 
 01.interdisciplinary  [ˌɪntərˈdɪsəplɪneri] 
@@ -20687,7 +20819,7 @@ This is a video that is very often quoted in all sorts of native media.
 
 
 
-#### 20210205.15
+#### 20210205.16
 
 01.inception [ɪnˈsepʃn]
 
@@ -20723,9 +20855,11 @@ This is a video that is very often quoted in all sorts of native media.
 
 
 
-04.Caucasian  [kɔːˈkeɪʒn] 
+04.orchestra /ˈɔːrkɪstrə/
 
-[noun] "a member of any of the races of people who have pale skin"
+[n] She plays the flute in the school orchestra.
+
+"a large group of people who play various musical instruments together, led by a conductor"
 
 
 
@@ -20826,6 +20960,16 @@ This is a video that is very often quoted in all sorts of native media.
 [verb]  {~ sth (up)} The dogs are caged (up) at night.
 
  "to put or keep an animal in a cage"
+
+
+
+16.Caucasian  [kɔːˈkeɪʒn] 
+
+[noun] The concept of dividing humankind into the Mongoloid, [Caucasoid](https://en.wikipedia.org/wiki/Caucasoid), and [Negroid](https://en.wikipedia.org/wiki/Negroid) races was introduced in the 1780s by members of the [Göttingen School of History](https://en.wikipedia.org/wiki/Göttingen_School_of_History).
+
+World race population 2023 Mongoloid 27%, Caucasian 27% and Negroid 43%.
+
+"a member of any of the races of people who have pale skin"
 
 
 
@@ -23617,11 +23761,13 @@ D [noun] a bad ankle sprain.
 
 21.dub  [dʌb]
 
-[verb] Therefore, people of independent directors even dubbed the "Vase Director." What cause for this difference?"to give sb/sth a particular name, often in a humorous or critical way"
+[verb] Therefore, people of independent directors even dubbed the "Vase Director." What cause for this difference? Korean composer Chin Un-suk won the Ernst von Siemens Music Prize, dubbed the Nobel Prize of classical music, Thursday, becoming the first Asian to do so.
+
+"to give sb/sth a particular name, often in a humorous or critical way"
 
 
 
-#### 20210330.13
+#### 20210330.14
 
 01.pending [ˈpendɪŋ] 
 
@@ -23635,19 +23781,23 @@ D [noun] a bad ankle sprain.
 
 
 
-02.canal  [kəˈnæl]
+02.bail /beɪl/
 
-[noun] the Panama/Suez Canal. "a long straight passage dug in the ground and filled with water for boats and ships to travel along; a smaller passage used for carrying water to fields, crops, etc."
+[n] Can anyone put up bail for you? 
+
+"money that sb agrees to pay if a person accused of a crime does not appear at their trial. When bail has been arranged, the accused person is allowed to go free until the trial."
+
+[v]  He was bailed to appear in court on 15 March.
+
+"to release sb on bail"
 
 
 
-03.abort [əˈbɔːrt]
+03.put up
 
-[verb] to abort a child/pregnancy/foetus. "to end a pregnancy early in order to prevent a baby from developing and being born alive"
+[v] The state agreed to put up $69,000 to start his company... 
 
-[verb] The virus can cause pregnant animals to abort. "to give birth to a child or young animal too early for it to survive"
-
-[verb]We had no option but to abort the mission. "to end or cause sth to end before it has been completed, especially because it is likely to fail"
+"If you **put up** money for something, you provide the money that is needed to pay for it."
 
 
 
@@ -23733,7 +23883,9 @@ D[adv] We reluctantly agreed to go with her.
 
 
 
+12.canal  [kəˈnæl]
 
+[noun] the Panama/Suez Canal. "a long straight passage dug in the ground and filled with water for boats and ships to travel along; a smaller passage used for carrying water to fields, crops, etc."
 
 
 
@@ -23744,6 +23896,14 @@ D[adv] We reluctantly agreed to go with her.
 [noun] cultural/economic imperialism.  "the fact of a powerful country increasing its influence over other countries through business, culture, etc."
 
 
+
+14.abort [əˈbɔːrt]
+
+[verb] to abort a child/pregnancy/foetus. "to end a pregnancy early in order to prevent a baby from developing and being born alive"
+
+[verb] The virus can cause pregnant animals to abort. "to give birth to a child or young animal too early for it to survive"
+
+[verb]We had no option but to abort the mission. "to end or cause sth to end before it has been completed, especially because it is likely to fail"
 
 #### 20210404.05
 
@@ -24099,6 +24259,10 @@ the growing polarity between the left and right wings of the party.
 
 08.mess up/screw up [ˈskruː ʌp]
 
+[vp] You can't open the window because it screws up the air conditioning...
+
+"To **screw** something **up**, or to **screw up**, means to cause something to fail or be spoiled."
+
 
 
 09.meditate  [ˈmedɪteɪt] 
@@ -24225,7 +24389,19 @@ We have collaborated on many projects over the years.
 
 
 
-09.lean in [liːn ɪn] 
+09.lean /liːn/
+
+[v]  Sit up, children! Don't lean over the table! 
+
+"to bend or move from a vertical position" "靠"
+
+[adj] a lean, muscular body. 
+
+"without much flesh; thin and fit"
+
+[n] "the part of meat that has little or no fat"
+
+
 
 
 
@@ -26306,7 +26482,11 @@ D[noun]  Bullying is a problem in many schools.
 
 
 
+03.slimmer /ˈslɪmər/
 
+[n] they advise slimmers to get the right fat intake.
+
+"a person who is trying to lose weight"
 
 
 
@@ -26314,7 +26494,7 @@ D[noun]  Bullying is a problem in many schools.
 
 [noun] { ~ (that…) | ~ (about/over sth)} 
 
-Kim Jong-un's slimmer frame has prompted more speculation about his health.
+Kim Jong-un's slimmer frame has prompted more speculation about his health./There is also speculation that the opening of an Open AI Korean office may be imminent.
 
 "the act of forming opinions about what has happened or what might happen without knowing all the facts"
 
@@ -26478,7 +26658,7 @@ Kim Jong-un's slimmer frame has prompted more speculation about his health.
 
 
 
-#### 20210625.04
+#### 20210625.08
 
 01.balk  [bɔːk] 
 
@@ -26510,7 +26690,31 @@ Kim Jong-un's slimmer frame has prompted more speculation about his health.
 
 
 
-05.
+05.stand guard /stænd ɡɑːrd/
+
+[v] The company commander assigned me to stand guard. 
+
+"watch over so as to protect"
+
+
+
+06.company commander 
+
+[phrase] "A company is a military unit, typically consisting of 100–250 soldiers and usually commanded by a major or a captain. Most companies are formed of three to seven **platoons**, although the exact number may vary by country, unit type, and structure."
+
+
+
+07.commander /kəˈmændər/
+
+[n] "a person who is in charge of sth, especially an officer in charge of a particular group of soldiers or a military operation" 
+
+
+
+08.platoon /pləˈtuːn/
+
+[n] "a small group of soldiers that is part of a company and commanded by a lieutenant" "排"
+
+
 
 #### 20210628.03
 
@@ -27019,7 +27223,7 @@ a tenured professor.
 
 
 
-#### 20210717.12
+#### 20210717.14
 
 01.vine leaves  [vaɪn liːvz]
 
@@ -27128,6 +27332,34 @@ Sure, here are some examples of nobility and aristocracy:
 - **Nobility**: The **British nobility** is a classic example of nobility. Members of this class typically have a privileged status and are often associated with wealth, power, and prestige. [They hold hereditary titles of nobility, such as duke, count, or baron](https://www.britannica.com/topic/aristocracy)[1](https://www.britannica.com/topic/aristocracy). [Their status is based on bloodline and lineage, with members being born into the class and passing their titles and privileges down to their descendants](https://www.britannica.com/topic/aristocracy)[1](https://www.britannica.com/topic/aristocracy).
 
 - [**Aristocracy**: The **Brahman caste in India**, the **Spartiates in Sparta**, the **eupatridae in Athens**, the **patricians or Optimates in Rome**, and the **medieval nobility in Europe** are various historical examples of the social aristocracy](https://www.britannica.com/topic/aristocracy)[1](https://www.britannica.com/topic/aristocracy). [The **Kennedy family** in the United States is a modern example of an aristocracy](https://wise-answer.com/what-is-a-modern-example-of-aristocracy/)[2](https://wise-answer.com/what-is-a-modern-example-of-aristocracy/). [Aristocrats may hold titles, but they do not necessarily inherit them and may instead gain their status through wealth, education, or other means](https://www.britannica.com/topic/aristocracy)[1](https://www.britannica.com/topic/aristocracy).
+
+
+
+13.inherit /ɪnˈherɪt/
+
+[v] She inherited a fortune from her father.
+
+"to receive money, property, etc. from sb when they die"
+
+[v] He has inherited his mother's patience.
+
+"to have qualities, physical features, etc. that are similar to those of your parents, grandparents, etc."
+
+[v] policies inherited from the previous administration.
+
+"if you inherit a particular situation from sb, you are now responsible for dealing with it, especially because you have replaced that person in their job"
+
+
+
+14.inheritance /ɪnˈherɪtəns/ 
+
+[n] She spent all her inheritance in a year.
+
+"the money, property, etc. that you receive from sb when they die; the fact of receiving sth when sb dies"
+
+[n] Physical characteristics are determined by genetic inheritance.
+
+"something from the past or from your family that affects the way you behave, look, etc."
 
 
 
@@ -27265,7 +27497,7 @@ Sure, here are some examples of nobility and aristocracy:
 
 
 
-#### 20210727.05
+#### 20210727.06
 
 01.testify  [ˈtestɪfaɪ] 
 
@@ -27303,7 +27535,19 @@ Sure, here are some examples of nobility and aristocracy:
 
 
 
+05.manslaughter /ˈmænslɔːtər/
 
+[n] Jennifer Crumbley, Michigan school shooter's mother, to testify in manslaughter trial.
+
+"the crime of killing sb illegally but not deliberately"
+
+
+
+06.testimony /ˈtestɪmoʊni/
+
+[n] Can I refuse to give testimony? 
+
+"a formal written or spoken statement saying what you know to be true, usually in court"
 
 
 
@@ -27378,6 +27622,14 @@ Sure, here are some examples of nobility and aristocracy:
 [verb] He pleaded guilty to the murders of three boys and waived his right to appeal.
 
 "to choose not to demand sth in a particular case, even though you have a legal or official right to do so" -forgo-
+
+
+
+09.forgo /fɔːrˈɡoʊ/
+
+[verb] In a candid and revealing moment, [Han So Hee ](https://www.allkpop.com/artisttag/han-so-hee)recently shared the deeply personal reasons behind her decision to forgo studying abroad and instead embark on a career in acting. 
+
+"to decide not to have or do sth that you would like to have or do"
 
 
 
@@ -29416,7 +29668,7 @@ Servants are now almost extinct in modern society."no longer in existence in soc
 
 01.pet phrase  [pet freɪz] 
 
-[np] Pet phrase is an **informal term for an expression frequently used by an individual in speech and/or writing**.
+[np] Pet phrase is an **informal term for an expression frequently used by an individual in speech and/or writing**. "口头禅"
 
 
 
@@ -29438,7 +29690,7 @@ Servants are now almost extinct in modern society."no longer in existence in soc
 
 
 
-#### 2021/11/05.04
+#### 2021/11/05.05
 
 01.**distressing**  [dɪˈstresɪŋ]
 
@@ -29471,6 +29723,18 @@ Servants are now almost extinct in modern society."no longer in existence in soc
 [adj] {formal} collaborative projects/studies/research. 
 
 "involving, or done by, several people or groups of people working together"
+
+
+
+05.crisis /ˈkraɪsɪs/
+
+[n] a political/financial crisis. 
+
+"a time of great danger, difficulty or confusion when problems must be solved or important decisions must be made"
+
+[n] Their marriage has reached crisis point.
+
+"a time when a problem, a bad situation or an illness is at its worst point"
 
 
 
@@ -36664,7 +36928,7 @@ Job hopping is **a trend that is growing exponentially in the labour market and 
 
 
 
-#### 03/16.12
+#### 03/16.13
 
 01.portray[pɔːrˈtreɪ]
 
@@ -36706,15 +36970,11 @@ Job hopping is **a trend that is growing exponentially in the labour market and 
 
 
 
-05.diminish [dɪˈmɪnɪʃ]
+05.threw up /θruː ʌp/
 
-[verb] The world's resources are rapidly diminishing.
+[verb p] *He* [threw](https://dictionary.cambridge.org/dictionary/english/threw) *up his* [breakfast](https://dictionary.cambridge.org/dictionary/english/breakfast) *all over the back* [seat](https://dictionary.cambridge.org/dictionary/english/seat) *of the* [car](https://dictionary.cambridge.org/dictionary/english/car)*.*
 
-"to become or to make sth become smaller, weaker, etc."
-
-[verb] I don't wish to diminish the importance of their contribution. 
-
-"to make sb/sth seem less important than they really are" -belittle-
+"eject the contents of the stomach through the mouth"
 
 
 
@@ -36774,6 +37034,16 @@ Job hopping is **a trend that is growing exponentially in the labour market and 
 "to publish or broadcast sth in parts as a serial" -serial+ize-
 
 
+
+13.diminish [dɪˈmɪnɪʃ]
+
+[verb] The world's resources are rapidly diminishing.
+
+"to become or to make sth become smaller, weaker, etc."
+
+[verb] I don't wish to diminish the importance of their contribution. 
+
+"to make sb/sth seem less important than they really are" -belittle-
 
 #### 03/19.09
 
@@ -36923,6 +37193,24 @@ prescriptive powers.
 
 
 
+08.livestock /ˈlaɪvstɒk/ /ˈlaɪvstɑːk/
+
+[n] The company will offer prices lower than 50,000 won ($37) for gift sets including various livestock and fisheries products, based on its analysis of preorders for gift sets received from Dec. 21 to Jan. 14.
+
+"the animals kept on a farm, for example cows or sheep"
+
+
+
+09.fishery /ˈfɪʃəri/
+
+[n] a herring fishery.
+
+"a part of the sea or a river where fish are caught in large quantities"
+
+
+
+10.
+
 #### 03/22.02
 
 01.contravene [ˌkɑːntrəˈviːn]
@@ -37065,7 +37353,7 @@ prescriptive powers.
 
 
 
-#### 03/28.13
+#### 03/28.14
 
 01.eradicate /ɪˈrædɪkeɪt/
 
@@ -37148,11 +37436,23 @@ So, while both words describe a careful approach, the main difference lies in th
 
 
 
-09.maturity [məˈtʃʊrəti]
+09.commission /kəˈmɪʃn/
 
-[noun] Such financial products are common in the financial industry and that there was no significant difference in financial terms between offering interest **upfront or at maturity**. 
+[n] 1% commission is charged for cashing traveller's cheques./Toss Bank launches commission-free foreign exchange service.
 
-"the time when money you have invested is ready to be paid"
+"an amount of money that is charged by a bank, etc. for providing a particular service"
+
+[n] the European Commission.
+
+"an official group of people who have been given responsibility to control sth, or to find out about sth, usually for the government"
+
+[n] You get a 10% commission on everything you sell. 
+
+"an amount of money that is paid to sb for selling goods and which increases with the amount of goods that are sold"
+
+[v] She has been commissioned to write a new national anthem.
+
+"to officially ask sb to write, make or create sth or to do a task for you"
 
 
 
@@ -37203,6 +37503,14 @@ So, while both words describe a careful approach, the main difference lies in th
 [v] The children were drilled to leave the classroom quickly when the fire bell rang. 
 
 "to teach sb to do sth by making them repeat it a lot of times"
+
+
+
+14.maturity [məˈtʃʊrəti]
+
+[noun] Such financial products are common in the financial industry and that there was no significant difference in financial terms between offering interest **upfront or at maturity**. 
+
+"the time when money you have invested is ready to be paid"
 
 
 
@@ -40758,8 +41066,6 @@ Valium is usually prescribed to treat anxiety. /After the nurse completed the **
 
 
 
-
-
 08.fuel /ˈfjuːəl/
 
 [n] solid fuel. "any material that produces heat or power, usually when it is burnt"
@@ -40774,9 +41080,11 @@ Valium is usually prescribed to treat anxiety. /After the nurse completed the **
 
 "to put petrol/gas into a vehicle"
 
-[v] Creatine is not cheap. If you're on a budget, quitting creatine can free up some extra cash that you can put towards other things, like new workout clothes or healthy snacks to fuel your workouts.
+[v] Creatine is not cheap. If you're on a budget, quitting creatine can free up some extra cash that you can put towards other things, like new workout clothes or healthy snacks to fuel your workouts./
 
-"to increase sth; to make sth stronger"
+KFC, with 29,000 stores and 800,000 employees globally, is one of the world’s most extensive fast-food chains, opening a new location every three and a half hours. While it originated in Salt Lake City in 1952, its rapid expansion is now significantly fueled by **its presence in China**, opening its 10,000th store in comparison to its over 4,300 locations in the United States.
+
+"to increase sth; to make sth stronger" -stoke-
 
 
 
@@ -42539,7 +42847,7 @@ D[noun] She is a designer of extraordinary **versatility**.
 
 02.lucrative /ˈluːkrətɪv/
 
-[adj] The new contract is believed to be among *the most lucrative signed by any music group this year*.
+[adj] The new contract is believed to be among *the most lucrative signed by any music group this year*./CJ Cheiljedang's leading food brand Bibigo, is now featured in a Harvard Business School textbook, which explains how the food brand successfully expanded its presence in the lucrative global food market, according to the food company, Sunday.
 
 "producing a large amount of money; making a large profit"
 
@@ -42957,7 +43265,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 ### 2024 
 
-#### 01/04
+#### 01/04.03
 
 01.redecorate /ˌriːˈdekəreɪt/
 
@@ -42991,3 +43299,367 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 > To me "sometimes" sounds more frequent than "occasionally". But that's just my opinion.
 
+
+
+#### 01/09.04
+
+01.virtuoso /ˌvɜːrtʃuˈoʊsoʊ/
+
+[n] a piano virtuoso.
+
+"a person who is extremely skilful at doing sth, especially playing a musical instrument"
+
+[adj] a virtuoso pianist. 
+
+"showing extremely great skill"
+
+
+
+02.pianist /ˈpiːənɪst/
+
+[n] a concert pianist.
+
+"a person who plays the piano"
+
+
+
+03.abyss /əˈbɪs/
+
+[n]  If he fails to survive, he will be thrown into the abyss of hell to suffer for eternity."a very deep wide space or hole that seems to have no bottom"
+
+
+
+04.eternity /ɪˈtɜːrnəti/
+
+[n] They believed that their souls would be condemned to burn in hell for eternity. 
+
+"time without end, especially life continuing without end after death"
+
+
+
+#### 01/10.06
+
+01.refrain /rɪˈfreɪn/
+
+[verb] However, the report refrains from commenting on the energy efficiency of the two chips.
+
+"to stop yourself from doing sth, especially sth that you want to do"
+
+
+
+02.comment /ˈkɑːment/
+
+[n] Have you any comment to make about the cause of the disaster?
+
+"something that you say or write which gives an opinion on or explains sb/sth"
+
+[n] The results are a clear comment on government education policy. 
+
+"criticism that shows the faults of sth"
+
+[v]  I don't feel I can comment on their decision.
+
+"to express an opinion about sth"
+
+
+
+03.presumably /prɪˈzuːməbli/
+
+[adv] "used to say that you think that sth is probably true"
+
+
+
+04.succinctly / səkˈsɪŋktli /
+
+[adv] In other words, you need to succinctly state what your application does. 
+
+"with concise and precise brevity; to the point"
+
+
+
+05.headwind /ˈhedwɪnd/
+
+[n] In contrast, companies that rely on consumer spending are likely to run into a very strong headwind.
+
+"a wind that is blowing towards a person or vehicle, so that it is blowing from the direction in which the person or vehicle is moving"
+
+
+
+06.commoner /ˈkɒmənə(r)/ /ˈkɑːmənər/
+
+[n] Japan’s former princess Mako begins new life as ‘commoner’ in New York.
+
+"a person who does not come from a royal or noble family"
+
+
+
+#### 01/13.02
+
+01.vibration mode/silent mode/ sound mode
+
+
+
+02.strand /strænd/
+
+[n] a strand of wool.
+
+"a single thin piece of thread, wire, hair, etc."
+
+[v] The strike left hundreds of tourists stranded at the airport.
+
+"to leave sb in a place from which they have no way of leaving"
+
+[v] The ship was stranded on a sandbank.
+
+"to make a boat, fish, whale , etc. be left on land and unable to return to the water"
+
+
+
+#### 01/15.03
+
+01.slip in 
+
+[vp] she slipped in a question about the length of time he'd been working on the assignment
+
+"insert casually/smoothly insert a [remark](https://www.google.com/search?newwindow=1&sca_esv=598456706&sxsrf=ACQVn08cazGySoA7BlZs39IgVEyC6p69kg:1705279740351&q=remark&si=AKbGX_qTCvK6ifvkUBYDz4foaFZiTkTypNIoycYAoYiCqgODJJ32fJvDbbnn-RvN3XeKqCe2dX-d7ah23PZbfepL9JKIrKHGhA%3D%3D&expnd=1) into a conversation."
+
+
+
+02.steam /stiːm/
+
+[n] Steam rose from the boiling kettle.
+
+"the hot gas that water changes into when it boils"
+
+[v] steamed fish./ Jointly written by professors Forest Reinhardt and Sophus Reinert from the school's faculty and senior researcher Shu Lin at the school, the study explained how Bibigo climbed in the global food market with its seven "global strategic products" such as dumplings, chicken, steamed rice, sauce, kimchi, dried seaweed and rolls.
+
+"to place food over boiling water so that it cooks in the steam; to be cooked in this way"
+
+
+
+03.candid /ˈkændɪd/
+
+[n] "乘人不备时拍下的照片, 快照"
+
+[adj] a candid statement/interview. 
+
+"saying what you think openly and honestly; not hiding your thoughts"
+
+
+
+#### 01/16.05
+
+01.as an aside 
+
+[] As an aside, getting that 1.68% of disagree and agree has been extremely difficult.
+
+"此外"
+
+
+
+02.backward count 
+
+[n] "Backward counting is **counting by removing one, every time**."
+
+
+
+03.colon /ˈkoʊlən/
+
+[n] "the mark ( : ) used to introduce a list, a summary, an explanation, etc. or before reporting what sb has said"
+
+[n] "the main part of the large intestine (= part of the bowels )"
+
+
+
+04.colonoscope / koʊˈlɑːnəskoʊp; kəˈlɑːnəˌskoʊp /
+
+[n] "an elongated fiberoptic endoscope for examining the entire colon from cecum to rectum"
+
+
+
+05.elongate /ɪˈlɔːŋɡeɪt/
+
+[verb] Sometimes hormones are used to elongate apples so that they look more attractive.
+
+"to become longer; to make sth longer"
+
+
+
+#### 01/17.01
+
+01.down the road /daʊn ðə roʊd/
+[phrase] China Will Become More Competitive Down the Road, Economist Xie Says.
+
+"in the future."
+
+
+
+#### 01/18.03
+
+01.famine /ˈfæmɪn/
+
+[n] That estimated one-year drop in population was due to **the Great Famine**, perhaps the worst human-made catastrophe in history, resulting in the deaths of as many as 45 million people. 
+
+"**Famine** is a situation in which large numbers of people have little or no food, and many of them die."
+
+
+
+02.catastrophe /kəˈtæstrəfi/
+
+[n] "A **catastrophe** is an unexpected event that causes great suffering or damage."
+
+
+
+03.digression [daɪˈɡreʃn]
+
+[verb] I've digressed a little to explain the situation so far, so let me now **recap**... 
+
+"If you **digress**, you move away from the subject you are talking or writing about and talk or write about something different for a while."
+
+
+
+#### 01/24.02
+
+01.rationale /ˌræʃəˈnæl/
+
+[n] If a validation set was not employed, please clearly state this decision and provide a brief rationale.
+
+"the principles or reasons which explain a particular decision, course of action, belief, etc."
+
+-reason-
+
+
+
+02.Numbness and tingling 
+
+[noun] My leg is numbness and tingling. 
+
+"麻木和刺痛"
+
+
+
+#### 01/25.13
+
+01.weed /wiːd/
+
+[n] The yard was overgrown with weeds.
+
+"a wild plant growing where it is not wanted, especially among crops or garden plants"
+
+[n] I wish I could give up the weed (= stop smoking). 
+
+"tobacco or cigarettes"
+
+[v]  I've been weeding the flower beds.
+
+"to take out weeds from the ground"
+
+
+
+02.weed out
+
+[vp] He is keen to weed out the many applicants he believes may be frauds...
+
+"to remove or get rid of people or things from a group because they are not wanted or are less good than the rest"
+
+
+
+03.arch /ɑːrtʃ/
+
+[n] "a curved structure that supports the weight of sth above it, such as a bridge or the upper part of a building"
+
+[v] Are you supposed to arch your back when perform an incline bench press.
+
+"if you arch part of your body, or if it arches , it moves and forms a curved shape"
+
+
+
+04.gurney /ˈɡɜːrni/
+
+[n] After fainting in the elevator, I sustained a break in my eyebrows. I am now lying on the hospital gurney, awaiting examination.
+
+"a type of trolley which is used for moving patients in a hospital"
+
+
+
+05.wit /wɪt/
+
+[n] to have a quick/sharp/dry/ready wit. 
+
+"the ability to say or write things that are both clever and amusing"
+
+
+
+06.sedate /sɪˈdeɪt/
+
+[v] Most of the patients are heavily sedated. 
+
+"to give sb drugs in order to make them calm and/or to make them sleep" -tranquillize-
+
+[adj] We followed the youngsters at a more sedate pace.
+
+"slow, calm and relaxed" -unhurried-
+
+
+
+07.sentimental /ˌsentɪˈmentl/
+
+[adj] She kept the letters for sentimental reasons.
+
+"connected with your emotions, rather than reason"
+
+[adj] He's not the sort of man who gets sentimental about old friendships.
+
+"producing emotions such as pity, romantic love or sadness, which may be too strong or not appropriate; feeling these emotions too much"
+
+
+
+08.is pulling for
+
+[vp] "The expression "I'm pulling for you" is a way of expressing support, encouragement, or rooting for someone. When someone says, "I'm pulling for you," they are conveying that they are on your side, wishing you success, and hoping for positive outcomes in whatever endeavor or situation you are facing. It's a way of showing empathy and encouragement, indicating that the speaker wants the best for you and believes in your abilities or success."
+
+
+
+09.miscarriage /ˈmɪskærɪdʒ/
+
+[n] The pregnancy ended in miscarriage at 11 weeks.
+
+"the process of giving birth to a baby before it is fully developed and able to survive; an occasion when this happens"
+
+
+
+10.quack /kwæk/
+
+[n] I've got a check-up with the quack (= the doctor) next week.
+
+"a person who dishonestly claims to have medical knowledge or skills; 庸医"
+
+
+
+11.voucher /ˈvaʊtʃər/
+
+[n] For corporate customers, Homeplus will distribute additional vouchers to those purchasing over 5 million won worth of vouchers.
+
+"a printed piece of paper that can be used instead of money to pay for sth, or that allows you to pay less than the usual price of sth"
+
+
+
+12.freelance /ˈfriːlæns/
+
+[adj] In 1988, Chin worked as a freelance composer at the electronic music studio of the Technical University of Berlin, realizing seven works.
+
+"earning money by selling your work or services to several different organizations rather than being employed by one particular organization"
+
+
+
+13.regulatory /ˈreɡjələtɔːri/
+
+[adj] SEOUL, Jan. 25 (Yonhap) -- Hyundai Motor Co on Thursday reported its 2023 net income of 12.27 trillion won (US$9.2 billion), **up 53.7 percent from a year earlier**. Operating income for the year was 15.12 trillion won, up 54 percent from the previous year, the company said in a regulatory filing.
+
+"having the power to control an area of business or industry and make sure that it is operating fairly"
+
+
+
+#### 01/26
+
+01.
