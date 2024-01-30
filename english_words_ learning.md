@@ -2553,6 +2553,18 @@ The tidal energy is not stable.
 
 
 
+43.cryptographic [,krɪptə'ɡræfɪk]
+
+[adj] "of or relating to cryptanalysis"
+
+
+
+44.cryptanalysis
+
+[n] "the science of analyzing and deciphering codes and ciphers and cryptograms"
+
+
+
 #### 2019/12/31.21
 
 01.quiz [kwɪz] 
@@ -4128,11 +4140,7 @@ Ship owner: I understand. I hope that you can arrange onboard maintenance as muc
 
 
 
-05.precursor  [priˈkɜːrsər] 
 
-[noun] {~ (of/to sth)} Real tennis, an ancient precursor of the modern game, originated in the eleventh century...
-
-"a person or thing that comes before sb/sth similar and that leads to or influences its development"
 
 
 
@@ -4692,6 +4700,10 @@ A family of four perished in the fire."to die, especially in a sudden violent wa
 
 "a small room that is made **by separating off part of a larger room**"
 
+<img src="/home/huawei/桌面/english learning/images/cubicles.webp" style="zoom:25%;" />
+
+
+
 
 
 02.pull out  
@@ -4704,7 +4716,7 @@ pull out the package /拿出包裹
 
 [noun] The gadget is used to artificially inseminate [ɪnˈsemɪneɪt]  cows. 
 
-"a small tool or device that does sth useful"
+"a small tool or device that does sth useful" "小装置"
 
 
 
@@ -4836,7 +4848,7 @@ They also hire themselves out as hit men.
 
 16.cinder  [ˈsɪndə(r)] 
 
-[noun] a cinder track (= a track for runners made with finely crushed cinders ). "a small piece of ash or partly burnt coal, wood, etc. that is no longer burning but may still be hot"
+[noun] a cinder track (= a track for runners made with finely crushed cinders ). "a small piece of **ash** or partly burnt coal, wood, etc. that is no longer burning but may still be hot"
 
 slum  [slʌm] 
 
@@ -5114,7 +5126,7 @@ Avoid any kind of metal objects like electric wires, fences, equipment, engine, 
 
 
 
-#### 2020/01/19.07
+#### 2020/01/19.08
 
 01.nursery [ˈnɜː(r)səri]
 
@@ -5129,6 +5141,10 @@ Avoid any kind of metal objects like electric wires, fences, equipment, engine, 
 [verb] the process of refining oil/sugar. 
 
 "to make a substance pure by taking other substances out of it"
+
+[v] Surgical techniques are constantly being refined.
+
+"If something such as a process, theory, or machine **is refined**, it is improved by having small changes made to it."
 
 
 
@@ -5145,7 +5161,9 @@ a more flexible approach.
 
 05.inform against 
 
-[phrase] "you give the police information, usually secretly, about that person, showing that he or she has done something wrong"
+[phrase] *The* [terrorists](https://dictionary.cambridge.org/dictionary/english/terrorist) *said that anyone* [caught](https://dictionary.cambridge.org/dictionary/english/caught) [informing](https://dictionary.cambridge.org/dictionary/english/inform) *on them would be* [killed](https://dictionary.cambridge.org/dictionary/english/kill)*.*
+
+"you give the police information, usually secretly, about that person, showing that he or she has done something wrong"
 
 
 
@@ -5157,7 +5175,24 @@ a more flexible approach.
 
 
 
-07.present  [ˈpreznt , prɪˈzent]
+07.precursor  [priˈkɜːrsər] 
+
+[noun] {~ (of/to sth)} Real tennis, an ancient precursor of the modern game, originated in the eleventh century...
+
+"a person or thing that comes before sb/sth similar and that leads to or influences its development"
+
+
+
+> The terms “forerunner” and “precursor” are often used interchangeably, but they have slightly different connotations:
+>
+> - [A **forerunner** is typically a person or thing that precedes the coming or development of someone or something else](https://wikidiff.com/precursor/forerunner)[1](https://wikidiff.com/precursor/forerunner)[2](https://differencebee.com/precursor-and-forerunner/). [It’s often used to refer to a person who is ahead or at the front, such as in a race](https://wikidiff.com/precursor/forerunner)[1](https://wikidiff.com/precursor/forerunner)[2](https://differencebee.com/precursor-and-forerunner/). [It can also refer to a precursor or harbinger, a warning ahead](https://wikidiff.com/precursor/forerunner)[1](https://wikidiff.com/precursor/forerunner)[2](https://differencebee.com/precursor-and-forerunner/). [In philately, a forerunner is a postage stamp used in the time before a region or area issues stamps of its own](https://wikidiff.com/precursor/forerunner)[1](https://wikidiff.com/precursor/forerunner)[2](https://differencebee.com/precursor-and-forerunner/).
+> - [A **precursor** is that which comes before, a forerunner, a predecessor, an indicator of approaching events](https://wikidiff.com/precursor/forerunner)[1](https://wikidiff.com/precursor/forerunner)[2](https://differencebee.com/precursor-and-forerunner/). [In chemistry, a precursor is one of the compounds that participates in the chemical reaction that produces another compound](https://wikidiff.com/precursor/forerunner)[1](https://wikidiff.com/precursor/forerunner)[2](https://differencebee.com/precursor-and-forerunner/).
+>
+> [In summary, while both terms refer to something that comes before another, a forerunner is often used in the context of leading the way, while a precursor is more commonly used to indicate a predecessor or an indicator of upcoming events](https://www.merriam-webster.com/dictionary/precursory)[3](https://www.merriam-webster.com/dictionary/precursory).
+
+
+
+08.present  [ˈpreznt , prɪˈzent]
 
 [adj] There were 200 people present at the meeting. "existing or happening now"
 
@@ -5283,29 +5318,31 @@ Explain: You fork out for sth more unwillingly than you shell out for sth.
 
 [adj] While dense and sparse layers have different strengths and weaknesses, they are not mutually exclusive. In fact, many neural networks use a combination of dense and sparse layers to achieve the best of both worlds. 
 
-"unable to be both true at the same time"
+"unable to be both true at the same time/相互排斥的"
 
 
 
-12.inherent  [ɪnˈhɪrənt] 
+12.exclude [ɪkˈskluːd] -"\\\"-
 
-[adj] {~ (in sb/sth)} the difficulties inherent in a study of this type.
+[verb] {~ sth (from sth)} Microsoft will exclude hundreds of millions of PCs that run Windows10. 
 
-"that is a basic or permanent part of sb/sth and that cannot be removed"-intrinsic-
+"to deliberately not include sth in what you are doing or considering"
 
 
 
-13.intrinsic /ɪnˈtrɪnzɪk/
+13.exclusively  [ɪkˈskluːsɪvli] 
 
-[adj] the intrinsic value of education.
+[adv] ...an exclusively male domain...
 
-"belonging to or part of the real nature of sth/sb"
+"**Exclusively** is used to refer to situations or activities that involve only the thing or things mentioned, and nothing else."
 
 
 
 14.mediate  [ˈmiːdieɪt] 
 
-[verb] {~ (in sth) | ~ (between A and B)} The Secretary-General was asked to mediate in the dispute. "to try to end a disagreement between two or more people or groups by talking to them and trying to find things that everyone can agree on"
+[verb] {~ (in sth) | ~ (between A and B)} The Secretary-General was asked to mediate in the dispute. 
+
+"to try to end a disagreement between two or more people or groups by talking to them and trying to find things that everyone can agree on"
 
 [verb] They mediated a settlement. "to succeed in finding a solution to a disagreement between people or groups" -negotiate-
 
@@ -5313,13 +5350,21 @@ Explain: You fork out for sth more unwillingly than you shell out for sth.
 
 15.mediation   [ˌmiːdiˈeɪʃn]
 
+[n] the parties have sought mediation and it has failed.
+
+"the act of intervening for the purpose of bringing about a **settlement**" 
+
 "仲裁；调停，居中调停"
 
 
 
-16.cryptographic [,krɪptə'ɡræfɪk]
+16.settlement  [ˈsetlmənt]
 
-密码的；暗号的；
+[noun] to negotiate a peace settlement.  
+
+"an official agreement that ends an argument between two people or groups"
+
+[noun] out-of-court settlement. "the action of reaching an agreement"
 
 
 
@@ -5347,15 +5392,7 @@ a dispute between the two countries about the border.
 
 
 
-19.exclusively  [ɪkˈskluːsɪvli] 
-
-[adv] ...an exclusively male domain...
-
-"**Exclusively** is used to refer to situations or activities that involve only the thing or things mentioned, and nothing else."
-
-
-
-20.lap /læp/
+19.lap /læp/
 
 [n] There's only one seat so you'll have to sit on my lap .
 
@@ -5377,7 +5414,7 @@ a dispute between the two countries about the border.
 
 
 
-21.lick [lɪk] 
+20.lick [lɪk] 
 
 [verb]   He licked his fingers. /In their shitty dinner party, your colleagues will ask you to lick the a** of your Korean boss so that you are forgiven for your mistake.
 
@@ -5385,7 +5422,7 @@ a dispute between the two countries about the border.
 
 
 
-22.radar /ˈreɪdɑːr/
+21.radar /ˈreɪdɑːr/
 
 [n] They located the ship by radar.
 
@@ -5393,7 +5430,7 @@ a dispute between the two countries about the border.
 
 
 
-#### 2020/02/13.06
+#### 2020/02/13.10
 
 01.holder [ˈhəʊldə(r)] 
 
@@ -5467,7 +5504,7 @@ D[noun] politeness
 
 
 
-07.courteous  [ˈkɜː(r)tiəs]
+08.courteous  [ˈkɜː(r)tiəs]
 
 [adj]  a courteous young man. "polite, especially in a way that shows respect"-discourteous-
 
@@ -5484,6 +5521,44 @@ Politeness generally refers to using manners, etiquette, and formal language in 
 Courtesy, on the other hand, refers to demonstrating kindness, friendliness, and consideration towards others. <ins>It involves being aware of others' needs and feelings, and making an effort to be helpful and accommodating. For example, holding the door open for someone, offering to help someone with their bags, or smiling and making eye contact when greeting someone are all examples of courteous behavior.</ins>
 
 In summary, politeness is more about adhering to social norms and formalities, while courtesy is more about demonstrating kindness and consideration towards others.
+
+
+
+09.inherent  [ɪnˈhɪrənt] 
+
+[adj] {~ (in sb/sth)} the difficulties inherent in a study of this type.
+
+"that is a basic or permanent part of sb/sth and that cannot be removed"-intrinsic-
+
+
+
+10.intrinsic /ɪnˈtrɪnzɪk/
+
+[adj] the intrinsic value of education.
+
+"belonging to or part of the real nature of sth/sb"
+
+
+
+> While both words refer to something that is essential or inherent, “intrinsic” implies that something is an essential part of the nature of a thing, while “inherent” implies that something is a permanent or characteristic attribute of a thing1. So, if you’re talking about something that is an essential part of the nature of a thing, use “intrinsic”. If you’re talking about something that is a permanent or characteristic attribute of a thing, use "inherent".
+>
+> However, it’s important to note that these differences are subtle, and the two words are often used interchangeably.
+
+
+
+11.inherit /ɪnˈherɪt/
+
+[v] She inherited a fortune from her father.
+
+"to receive money, property, etc. from sb when they die"
+
+[v] He has inherited his mother's patience.
+
+"to have qualities, physical features, etc. that are similar to those of your parents, grandparents, etc."
+
+[v] policies inherited from the previous administration.
+
+"if you inherit a particular situation from sb, you are now responsible for dealing with it, especially because you have replaced that person in their job"
 
 
 
@@ -5523,7 +5598,11 @@ In summary, politeness is more about adhering to social norms and formalities, w
 
 
 
+07.in-house /ˌɪn ˈhaʊs/
 
+[adj] A lot of companies do in-house training.  
+
+"existing or happening within a company or an organization"
 
 
 
@@ -5557,7 +5636,7 @@ In summary, politeness is more about adhering to social norms and formalities, w
 
 
 
-#### 2020/03/06.05
+#### 2020/03/06.07
 
 01.at will  [æt wɪl] 
 [adv] By simply planning a route, you can explore at will and stop whenever and wherever you like.  "as one chooses or pleases"
@@ -5566,7 +5645,7 @@ In summary, politeness is more about adhering to social norms and formalities, w
 
 02.gaudy [ˈɡɔːdi] 
 
-[adj] gaudy clothes/colours. "too brightly coloured in a way that lacks taste"-garish-
+[adj] gaudy clothes/colours. "too brightly coloured in a way that **lacks taste**"-garish-
 
 D[adv] gaudily dressed/painted. 
 
@@ -5574,9 +5653,13 @@ D[noun] gaudiness.
 
 
 
-03.mansion [ˈmænʃn] 
+03.garish /ˈɡerɪʃ/
 
-[noun] an 18th century country mansion. "a large impressive house"
+[adj]  "very brightly coloured in an unpleasant way"
+
+
+
+> Gaudy refers to something that is overly ornamented, excessively bright, and showy in a tasteless way. Garish refers to something that is excessively bright or showy, often in a cheap or tasteless way.
 
 
 
@@ -5604,7 +5687,25 @@ parliament [ˈpɑːrləmənt]
 
 
 
-#### 2020/03/25.04
+06.mansion [ˈmænʃn] 
+
+[noun] an 18th century country mansion. "a large impressive house/公馆"
+
+
+
+07.ornament /ˈɔːrnəmənt , ˈɔːrnəment/
+
+[n] a china/glass ornament.
+
+"an object that is used as decoration in a room, garden/yard, etc. rather than for a particular purpose"
+
+[v] a room richly ornamented with carving.
+
+"to add decoration to sth" -decorate-
+
+
+
+#### 2020/03/25.06
 
 01.inhibit  [ɪnˈhɪbɪt] 
 [verb] Wine or **sugary** drinks inhibit digestion. 
@@ -6385,6 +6486,10 @@ Have you checked his curriculum vitae? "履历"
 [adj] According to data from mobile app analytics service Wiseapp Retail Goods on Monday, the number of AliExpress users surged to 6.13 million last month, securing the third position among domestic comprehensive shopping mall apps. / On January 8, TVing announced that 'Death's Game' part 2, released worldwide on Amazon Prime Video on January 5, has risen to the 2nd place in the comprehensive global rankings for TV shows on Prime Video.
 
 "including all, or almost all, the items, details, facts, information, etc., that may be concerned"
+
+[n] (in Britain) I teach English at the local comprehensive..
+
+ "(in Britain) a secondary school for young people of all levels of ability"
 
 
 
@@ -8038,7 +8143,9 @@ She didn't participate in the discussion.
 
 14.attain /əˈteɪn/
 
-[v] Most of our students attained five ‘A’ grades in their exams. 
+[v] Most of our students attained five ‘A’ grades in their exams./
+
+ Industry officials pointed out that Korea needs to improve accessibility to regional destinations to accelerate the country's inbound tourism and attain the ambitious goal of reaching 20 million travelers this year.
 
 "to succeed in getting sth, usually after a lot of effort"
 
@@ -8048,7 +8155,9 @@ She didn't participate in the discussion.
 
 
 
-> Attain means to “reach, achieve, or accomplish” through the means of hard work. ○ **After months of studying**, I finally attained a passing grade on my final exam. Obtain means to “get or acquire something.”
+> 努力获得 vs 获得
+>
+> Attain means to achieve a goal or accomplish a task by **putting in effort**. Obtain means to get or take possession of something, typically without much effort being put into acquiring it.
 
 
 
@@ -22872,6 +22981,8 @@ In summary, a resort provides a luxurious and comfortable vacation experience wi
 
 [noun] to pack/unpack a suitcase. "a case with flat sides and a handle, used for carrying clothes, etc. when you are travelling"
 
+
+
 #### 20210314.22
 
 01.magnificent  [mæɡˈnɪfɪsnt] 
@@ -22898,11 +23009,11 @@ In summary, a resort provides a luxurious and comfortable vacation experience wi
 
 
 
-04.innocent [ˈɪnəsnt] 
+04.comp /kɑːmp/
 
-[adj] They have imprisoned an innocent man. 
+[n] comp time (= time off work given for working extra hours).  
 
-"not guilty of a crime, etc.; not having done sth wrong"
+"compensation"
 
 
 
@@ -22986,7 +23097,11 @@ In summary, a resort provides a luxurious and comfortable vacation experience wi
 
 
 
+15.innocent [ˈɪnəsnt] 
 
+[adj] They have imprisoned an innocent man. 
+
+"not guilty of a crime, etc.; not having done sth wrong"
 
 
 
@@ -27335,19 +27450,7 @@ Sure, here are some examples of nobility and aristocracy:
 
 
 
-13.inherit /ɪnˈherɪt/
 
-[v] She inherited a fortune from her father.
-
-"to receive money, property, etc. from sb when they die"
-
-[v] He has inherited his mother's patience.
-
-"to have qualities, physical features, etc. that are similar to those of your parents, grandparents, etc."
-
-[v] policies inherited from the previous administration.
-
-"if you inherit a particular situation from sb, you are now responsible for dealing with it, especially because you have replaced that person in their job"
 
 
 
@@ -30038,14 +30141,6 @@ The government will begin expanding efforts to crack down on unauthorized accomm
 
 
 
-05.exclude [ɪkˈskluːd] -"\\\"-
-
-[verb] {~ sth (from sth)} Microsoft will exclude hundreds of millions of PCs that run Windows10. 
-
-"to deliberately not include sth in what you are doing or considering"
-
-
-
 06.threaten [ˈθretn] 
 
 [verb] {~ sb (with sth)} They broke my windows and threatened me.
@@ -31018,13 +31113,7 @@ The garden was perfumed with the smell of roses.
 
 #### 12/07.02
 
-01.settlement  [ˈsetlmənt]
 
-[noun] to negotiate a peace settlement.  
-
-"an official agreement that ends an argument between two people or groups"
-
-[noun] out-of-court settlement. "the action of reaching an agreement"
 
 
 
@@ -43660,6 +43749,80 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-#### 01/26
+#### 01/28.04
 
-01.
+01.estranged /ɪˈstreɪndʒd/
+
+[adj] He became estranged from his family after the argument.
+
+"no longer friendly, loyal or in contact with sb"
+
+
+
+02.owing you a big time 
+
+"“Big time” is a slang phrase which means “a lot,” or “a great deal.” So “You owe me big time” means “**You owe me a lot**.” Since it's slang, it isn't gra. Someone has done you a favor that is so significant, it deserves special consideration the next time that person needs something from you."
+
+
+
+03.erotic /ɪˈrɒtɪk/ /ɪˈrɑːtɪk/
+
+[adj] erotic art.
+
+"showing or involving sexual desire and pleasure; intended to make sb feel sexual desire"
+
+
+
+04.comp /kɒmp/  /kɑːmp/
+
+[n] {BrE} Her children go to the local comp.
+
+ "comprehensive"
+
+[n] comp time (= time off work given for working extra hours) 
+
+（加班后的）补休时间
+
+"compensation"
+
+
+
+#### 01/30
+
+01.expenditure /ɪkˈspendɪtʃər/
+
+[n] Chinese travelers visiting Korea spend more than double on accommodation than they did in 2019, while their average travel expenditures here remain lower than those spent in neighboring Japan, data showed.
+
+"the act of spending or using money; an amount of money spent"
+
+
+
+02.free, independent traveller 
+
+[] Jin Jong-hwa, the KTO's regional executive of China, said that Korea is seeing a "grand shift" in its inbound tourism trend, as young and trend-sensitive free, independent travelers (FIT) are growing in numbers.
+
+The definition of FIT goes like this: “FIT is **a person who travels completely independently and free of a tour operator and travel agency assistance**.” In other words, a FIT manages and arranges the itinerary according to their needs and preferences.
+
+
+
+03.itinerary /aɪˈtɪnəreri/
+
+[n] The next place on our itinerary was Silistra.
+
+"a plan of a journey, including the route and the places that you visit"
+
+
+
+04.star 
+
+[v] Park **shot to global stardom** after starring in the smash-hit "Squid Game." In 2022, the actor signed with UTA, one of Hollywood's top agencies in the U.S.
+
+"to have one of the main parts in a film/movie, play, etc."
+
+
+
+05.stardom /ˈstɑːrdəm/
+
+[n] She **shot to stardom** in a Broadway musical.
+
+"**Stardom** is the state of being very famous, usually as an actor, musician, or sports player."
