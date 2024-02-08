@@ -5705,6 +5705,20 @@ parliament [ˈpɑːrləmənt]
 
 
 
+> 装饰品vs装饰
+>
+> The tree was decorated with antique ornaments made of glass. 
+>
+> What style of decoration do you prefer in your home? 
+>
+> What kind of ornaments do you like to put on your christmas tree? 
+>
+> usually - decoration is used like style, ornament more likely refers to a specific object. 
+>
+> "The decorations" could be a collection of ornaments placed in some way.
+
+
+
 #### 2020/03/25.06
 
 01.inhibit  [ɪnˈhɪbɪt] 
@@ -5757,7 +5771,7 @@ parliament [ˈpɑːrləmənt]
 
 
 
-#### 2020/03/26.14
+#### 2020/03/26.15
 
 01.shutter  [ˈʃʌtə(r)]
 [v] In the fall of 1993, they decided to shutter the company.
@@ -5830,23 +5844,21 @@ parliament [ˈpɑːrləmənt]
 
 
 
-10.material [məˈtɪəriəl] 
+10.penalty  [ˈpenəlti] 
 
-[noun] a piece of material. "cloth used for making clothes, curtains, etc"
+[noun] to impose a penalty. "a punishment for breaking a law, rule or contract"
 
-[noun] building materials (= bricks, sand, glass, etc.)  "a substance that things can be made from"
 
-[noun] teaching materials. "things that are needed in order to do a particular activity"
 
-[noun] She's collecting material for her latest novel. "information or ideas used in books, etc."
-
-[noun] The band played all new material at the gig. "items used in a performance"
-
-[adj] material comforts. "connected with money, possessions, etc. rather than with the needs of the mind or spirit"
-
-[adj] the material world. "connected with the physical world rather than with the mind or spirit"
-
-[adj] {~ (to sth);formal or law }  material evidence. "important and needing to be considered"
+> 处罚vs惩罚
+>
+> Penalize implies that it is according to a specific set of rules. It's used all the time in sports, but can be used for legal matters as well.  
+>
+> The penalty for drunk driving is 30 days in jail, plus a 3-year suspension of your drivers license.  
+>
+> Punish does not have to be according to any rules at all. 
+>
+> It has more of the sense of making somebody pay the price for something they did wrong.
 
 
 
@@ -5873,7 +5885,7 @@ parliament [ˈpɑːrləmənt]
 
 [noun] a copper mine.
 
-"a chemical element. Copper is a soft reddish-brown metal used for making electric wires, pipes and coins"
+"a chemical element. Copper is a soft reddish-brown metal used for making electric wires, pipes and coins/铜"
 
 
 
@@ -5886,6 +5898,26 @@ parliament [ˈpɑːrləmənt]
 [n] a copper/diamond mine.
 
 "a deep hole or holes under the ground where minerals such as coal, gold, etc. are dug"
+
+
+
+15.material [məˈtɪəriəl] 
+
+[noun] a piece of material. "cloth used for making clothes, curtains, etc"
+
+[noun] building materials (= bricks, sand, glass, etc.)  "a substance that things can be made from"
+
+[noun] teaching materials. "things that are needed in order to do a particular activity"
+
+[noun] She's collecting material for her latest novel. "information or ideas used in books, etc."
+
+[noun] The band played all new material at the gig. "items used in a performance"
+
+[adj] material comforts. "connected with money, possessions, etc. rather than with the needs of the mind or spirit"
+
+[adj] the material world. "connected with the physical world rather than with the mind or spirit"
+
+[adj] {~ (to sth);formal or law }  material evidence. "important and needing to be considered"
 
 
 
@@ -5912,7 +5944,15 @@ Do you ask your boss to coach or mentor you?[v]
 
 
 
-04.inquisitive [ɪnˈkwɪzətɪv]
+04.veneer /vəˈnɪr/
+
+[n] Her veneer of politeness began to crack.
+
+"an outer appearance of a particular quality that hides the true nature of sb/sth"
+
+
+
+05.inquisitive [ɪnˈkwɪzətɪv]
 
 [adj] Don't be so inquisitive. It's none of your business! 
 
@@ -5924,9 +5964,13 @@ Do you ask your boss to coach or mentor you?[v]
 
 "very interested in learning about many different things" -enquiring-
 
+inquire[v]  inquiry[n]
+
+enquire[v] enquiry[n]
 
 
-05.nature  [ˈneɪtʃə(r)]  
+
+06.nature  [ˈneɪtʃə(r)]  
 
 [n] the beauties of nature.
 
@@ -5972,7 +6016,19 @@ It is often difficult to forbear from expressing one's opinion.
 
 "to **stop yourself** from saying or doing sth that you could or would like to say or do"
 
-[noun]
+
+
+> 忍受 vs 节制 
+>
+> The words “forbear” and “bear” have different meanings:
+>
+> Bear: As a verb, “bear” means to support or carry the weight of something. It can also mean to endure or tolerate something.
+>
+> Forbear: “Forbear” means to refrain or abstain from doing something. It can also mean to have patience or tolerance towards something.
+>
+> These words are often used together in the phrase “bear and forbear”, which comes from a Stoicist motto “sustine et abstine”. This phrase means to accept and endure external hardships (bear) and to abstain oneself from doing instinctive and emotional things in reaction (forbear).
+>
+> Please note that “forbear” can also be used as a noun, where it refers to an ancestor or forebear of another person. However, this usage is less common than the verb form.
 
 
 
@@ -5990,10 +6046,6 @@ It is often difficult to forbear from expressing one's opinion.
 
 
 
-
-
-
-
 07.alone ,lonely
 
 
@@ -6004,6 +6056,10 @@ It is often difficult to forbear from expressing one's opinion.
 [noun] The house is not on a bus route. "a fixed way along which a bus, train, etc. regularly travels or goods are regularly sent" 
 
 [verb] Satellites route data all over the globe. "to send sb/sth by a particular route"
+
+
+
+> Paths There are many paths to take It's also a way to go so they are the same A route is used when talking about directions but they all mean the same.
 
 
 
@@ -6090,7 +6146,7 @@ Over time, those have to come back in balance.
 
 
 
-#### 2020/04/03.04
+#### 2020/04/03.19
 
 01.coal  [kəʊl] [koʊl] 
 [noun] China is a country with more coal and less oil 
@@ -6103,7 +6159,7 @@ Over time, those have to come back in balance.
 
 [n] mineral deposits/extraction. 
 
-"a substance that is naturally present in the earth and is not formed from animal or vegetable matter, for example gold and salt. Some minerals are also present in food and drink and in the human body and are essential for good health."
+"a substance that is naturally present in the earth and is not formed from animal or vegetable matter, for example gold and salt. Some minerals are also present in food and drink and in the human body and are essential for good health./矿物质"
 
 [n] {NAmE soda} Soft drinks and minerals sold here.
 
@@ -6184,9 +6240,13 @@ Strictly speaking, there is difference between their meanings and application. *
 
 
 
+> In summary, acne is the broader skin condition, while pimples are a specific type of acne lesion. Acne can manifest in various forms, and pimples are just one aspect of the overall condition.
+
+
+
 12.spot  [spɒt]  [spɑːt]
 
-[noun] Which has spots, the leopard or the tiger? "a small round area that has a different colour or feels different from the surface it is on"
+[noun] Which has spots, the **leopard** or the tiger? "a small round area that has a different colour or feels different from the surface it is on"
 
 [noun] His jacket was covered with spots of mud. "a small dirty mark on sth"
 
@@ -6204,17 +6264,73 @@ Strictly speaking, there is difference between their meanings and application. *
 
 
 
-Acne, pimples, and spots are all types of skin blemishes that can appear on the face, neck, chest, back, and shoulders. They are commonly caused by clogged pores due to excess oil, dead skin cells, and bacteria on the skin.
+> Acne, pimples, and spots are all types of skin blemishes that can appear on the face, neck, chest, back, and shoulders. They are commonly caused by clogged pores due to excess oil, dead skin cells, and bacteria on the skin.
+>
+> Acne refers to a chronic skin condition that involves the formation of inflamed pimples, blackheads, and whiteheads. Pimples are a type of acne that form when pores become clogged and infected with bacteria. Spots are a more general term that can refer to any type of **blemish** on the skin, including pimples, blackheads, whiteheads, and other types of bumps.
+>
+> To treat acne, pimples, and spots, it is important to maintain a consistent skincare routine that includes gentle cleansing, exfoliation, and the use of non-comedogenic (non-clogging) moisturizers and sunscreens. Over-the-counter topical treatments containing benzoyl peroxide, salicylic acid, or retinoids can also be effective in reducing inflammation and unclogging pores. In severe cases, a dermatologist may recommend prescription medications or other treatments such as laser therapy or chemical peels.
+>
 
-Acne refers to a chronic skin condition that involves the formation of inflamed pimples, blackheads, and whiteheads. Pimples are a type of acne that form when pores become clogged and infected with bacteria. Spots are a more general term that can refer to any type of **blemish** on the skin, including pimples, blackheads, whiteheads, and other types of bumps.
-
-To treat acne, pimples, and spots, it is important to maintain a consistent skincare routine that includes gentle cleansing, exfoliation, and the use of non-comedogenic (non-clogging) moisturizers and sunscreens. Over-the-counter topical treatments containing benzoyl peroxide, salicylic acid, or retinoids can also be effective in reducing inflammation and unclogging pores. In severe cases, a dermatologist may recommend prescription medications or other treatments such as laser therapy or chemical peels.
 
 
+13.leopard /ˈlepərd/
 
-#### 2020/04/04.17
+[n] You know a leopard doesn't change its spots. 
+
+"a large animal of the cat family, that has yellowish-brown fur with black spots. Leopards live in Africa and southern Asia."
+
+
+
+14.persecutor /ˈpɜːrsɪkjuːtər/
+
+[n] A **persecutory delusion** is a type of [delusional](https://en.wikipedia.org/wiki/Delusion) condition in which the affected person believes that harm is going to occur to oneself by a persecutor, despite a clear lack of evidence. 
+
+"a person who treats another person or group of people in a cruel and unfair way"
+
+
+
+15.persecutory
+
+[adj] "**of, relating to, or being feelings of persecution** /迫害的" 
+
+
+
+16.persecution /ˌpɜːrsɪˈkjuːʃn/
+
+[n] ...the persecution of minorities.
+
+"**Persecution** is cruel and unfair treatment of a person or group, especially because of their religious or political beliefs, or their race."
+
+
+
+17.delusion /dɪˈluːʒn/
+
+[n] This was not optimism, it was delusion.
+
+"**Delusion** is the state of believing things that are not true."
+
+
+
+18.blemish /ˈblemɪʃ/
+
+[n] make-up to cover blemishes.
+
+"a mark on the skin or on an object that spoils it and makes it look less beautiful or perfect"
+
+
+
+19.lesion /ˈliːʒn/
+
+[n] skin/brain lesions.
+
+"damage to the skin or part of the body caused by injury or by illness"
+
+
+
+#### 2020/04/04.18
 
 01.consecutive [kənˈsekjətɪv] 
+
 [adj] She was absent for nine consecutive days.  
 
 Jordan and O'Neal are the only players to win the award in three consecutive seasons (Jordan accomplished the feat on two occasions).
@@ -6231,9 +6347,7 @@ Jordan and O'Neal are the only players to win the award in three consecutive sea
 
 D[adv] {continually} They argue continually about money.
 
-18.wearing  [ˈwerɪŋ] 
 
-[adj] She finds the continual confrontation very wearing. "that makes you feel very tired mentally or physically"
 
 
 
@@ -6382,6 +6496,12 @@ She finds the continual confrontation very wearing.
 [noun]  to perform/attempt/achieve astonishing feats.
 
 "an action or a piece of work that needs skill, strength or courage"
+
+
+
+18.wearing  [ˈwerɪŋ] 
+
+[adj] She finds the continual confrontation very wearing. "that makes you feel very tired mentally or physically"
 
 
 
@@ -6579,7 +6699,9 @@ to contain an epidemic. "to prevent sth harmful from spreading or getting worse"
 
 09.distortion [dɪˈstɔː(r)ʃn] 
 
-[n-var] I think it would be a gross distortion of reality to say that they were motivated by self-interest. "**Distortion** is the changing of something into something that is not true or not acceptable."
+[n-var] I think it would be a gross distortion of reality to say that they were motivated by self-interest. 
+
+"**Distortion** is the changing of something into something that is not true or not acceptable."
 
 He later accused reporters of willful distortion and bias.
 
@@ -6941,7 +7063,7 @@ D[adv] an illegally parked car.
 
 
 
-#### 2020/04/15.10
+#### 2020/04/15.11
 
 01.fortune [ˈfɔːtʃuːn]
 
@@ -6951,9 +7073,15 @@ D[adv] an illegally parked car.
 
 [noun] the changing fortunes of the film industry. "the good and bad things that happen to a person, family, country, etc."
 
+> chance vs luck 
+>
+> 机遇 vs 运气
+>
+> **Luck is something that happens by chance.** **Fortune is something that happens by choice**. Being Lucky means chance favored you accidently. Becoming wealthy after being born to a middle class family is fortunate cause you made the right choices and made it happen.
 
 
-02.brash [bræʃ] 
+
+02.**brash** [bræʃ] 
 
 [adj] Beneath his brash exterior, he's still a little boy inside."confident in an aggressive way"
 
@@ -7043,15 +7171,33 @@ forerunner [ˈfɔːrʌnə(r)]
 
 09.capture  [ˈkæptʃə(r)] 
 
-[verb] Allied troops captured over 300 enemy soldiers."to catch a person or an animal and keep them as a prisoner or in a confined space "
+[verb] Allied troops captured over 300 enemy soldiers.
+
+"to catch a person or an animal and keep them as a prisoner or in a confined space "
 
 
 
+10.confine /kənˈfaɪn/
+
+[v] The work will not be confined to the Glasgow area.
+
+"to keep sb/sth inside the limits of a particular activity, subject, area, etc." -resrtict-
+
+[v] Keep the dog confined in a suitable travelling cage.
+
+"to keep a person or an animal in a small or closed space"
 
 
 
+11.confined /kənˈfaɪnd/
 
-#### 2020/04/16.02
+[adj] It is cruel to keep animals in confined spaces.
+
+"small and surrounded by walls or sides"
+
+
+
+#### 2020/04/16.03
 
 01.dean  [diːn] 
 
@@ -7063,13 +7209,17 @@ forerunner [ˈfɔːrʌnə(r)]
 
 "**an area of red spots** on a person's skin, caused by an illness or a reaction to sth"
 
-[noun] {~ (of sth)} a rash of movies about life in prison."a lot of sth; a series of unpleasant things that happen over a short period of time" -spate-
+[noun] {~ (of sth)} a rash of movies about life in prison."**a lot of sth**; a series of unpleasant things that happen over a short period of time" -spate-
 
-[adj] a rash young man"doing sth that may not be sensible without first thinking about the possible results" -impulsive/reckless-
-
-
+[adj] a rash young man."doing sth that may not be sensible without first thinking about the possible results" -impulsive/reckless-
 
 
+
+03.spate /speɪt/
+
+[n] {of~} The bombing was the latest in a spate of terrorist attacks.
+
+"a large number of things, which are usually unpleasant, that happen suddenly within a short period of time"
 
 
 
@@ -7077,11 +7227,11 @@ forerunner [ˈfɔːrʌnə(r)]
 
 01.involve  [ɪnˈvɒlv]
 
-Any investment involves an element of risk. [verb] "if a situation, an event or an activity involves sth, that thing is an important or necessary part or result of it"
+[verb] Any investment involves an element of risk.  "if a situation, an event or an activity involves sth, that thing is an important or necessary part or result of it"
 
-There was a serious incident involving a group of youths. [verb] "if a situation, an event or an activity involves sb, they take part in it or are affected by it"
+[verb] There was a serious incident involving a group of youths.  "if a situation, an event or an activity involves sb, they take part in it or are affected by it"
 
-We want to involve as many people as possible in the celebrations. [verb] "to make sb take part in sth"
+[verb] We want to involve as many people as possible in the celebrations.  "to make sb take part in sth"
 
 
 
@@ -7109,11 +7259,11 @@ racial equality.
 
 05.race[reɪs] 
 
-a race between the two best runners of the club. [noun] "a competition between people, animals, vehicles, etc. to see which one is the faster or fastest"
+ [noun] a race between the two best runners of the club. "a competition between people, animals, vehicles, etc. to see which one is the faster or fastest"
 
-the race for the presidency. "a situation in which a number of people, groups, organizations, etc. are competing, especially for political power or to achieve sth first"
+[n] the race for the presidency. "a situation in which a number of people, groups, organizations, etc. are competing, especially for political power or to achieve sth first"
 
-people of mixed race. [noun] "one of the main groups that humans can be divided into according to their physical differences, for example the colour of their skin"
+[noun] people of mixed race.  "one of the main groups that humans can be divided into according to their physical differences, for example the colour of their skin"
 
 "比赛"[verb]
 
@@ -7121,15 +7271,15 @@ people of mixed race. [noun] "one of the main groups that humans can be divided 
 
 06.domestic  [dəˈmestɪk] /abroad  [əˈbrɔːd]
 
-domestic affairs/politics. [adj] "of or inside a particular country; not foreign or international"
+[adj]  domestic affairs/politics. "of or inside a particular country; not foreign or international"
 
-domestic appliances.[adj] "used in the home; connected with the home or family"
+[adj] domestic appliances. "used in the home; connected with the home or family"
 
 
 
 07.contemporary  [kənˈtemprəri] 
 
-[adj] We have no contemporary account of the battle.  "belonging to the same time"
+[adj] We have no contemporary account of the battle.  "belonging to the same time/同一时代的"
 
 [adj] life in contemporary Britain.  "belonging to the present time"
 
@@ -7141,9 +7291,9 @@ domestic appliances.[adj] "used in the home; connected with the home or family"
 
 08.definite [ˈdefɪnət] 
 
-Can you give me a definite answer by tomorrow? [adj] "sure or certain; unlikely to change"
+ [adj]  Can you give me a definite answer by tomorrow?"sure or certain; unlikely to change"
 
-The look on her face was a definite sign that something was wrong. [adj] "easily or clearly seen or understood; obvious"
+[adj] The look on her face was a definite sign that something was wrong.  "easily or clearly seen or understood; obvious"
 
 
 
@@ -7235,9 +7385,9 @@ We're open till 6 o'clock.
 
 01.utmost  [ˈʌtməʊst] 
 
-This is a matter of the utmost importance.[adj] "greatest; most extreme" "最大的;极度的"
+[adj] This is a matter of the utmost importance. "greatest; most extreme" "最大的;极度的"
 
-He did his utmost (= tried as hard as possible) to persuade me not to go.[noun] "the greatest amount possible" "最大量；最大限度"
+[noun] He did his utmost (= tried as hard as possible) to persuade me not to go. "the greatest amount possible" "最大量；最大限度"
 
 
 
@@ -7245,7 +7395,7 @@ He did his utmost (= tried as hard as possible) to persuade me not to go.[noun] 
 
 [noun] academic/intellectual/scientific, etc. rigour. 
 
-"the fact of being careful and paying great attention to detail"
+"the fact of being careful and paying great attention to detail/严谨"
 
 [noun] This crime must be treated with the full rigour of the law. "the fact of being strict or severe"
 
@@ -7253,7 +7403,7 @@ He did his utmost (= tried as hard as possible) to persuade me not to go.[noun] 
 
 
 
-#### 2020/04/24.10
+#### 2020/04/24.12
 
 01.plummet    [ˈplʌmɪt] [verb] 
 
@@ -7277,7 +7427,7 @@ He did his utmost (= tried as hard as possible) to persuade me not to go.[noun] 
 
 [adj] {~ (about sth)}  They appeared surprisingly pessimistic about their chances of winning.
 
-"expecting bad things to happen or sth not to be successful; showing this"
+"expecting **bad things** to happen or sth not to be successful; showing this"
 
 
 
@@ -7311,7 +7461,7 @@ He did his utmost (= tried as hard as possible) to persuade me not to go.[noun] 
 
 07.businesslike [ˈbɪznəslaɪk] 
 
-Mr. Penn sounds quite businesslike. [adj]
+ [adj] Mr. Penn sounds quite businesslike.
 
 
 
@@ -7359,7 +7509,7 @@ Mr. Penn sounds quite businesslike. [adj]
 
 [noun] That means the crypto's creators cash out of their coins in exchange for real money, quickly devaluing the crypto's value. 
 
-"to give a lower value to sth, making it seem less important than it really is"
+"to give a lower value to sth, making it seem less important than it really is/贬值"
 
 
 
@@ -7377,7 +7527,15 @@ Mr. Penn sounds quite businesslike. [adj]
 
 
 
+03.handicap /ˈhændikæp/
 
+[n] mental/physical/visual handicap. 
+
+"a permanent physical or mental condition that makes it difficult or impossible to use a particular part of your body or mind"
+
+
+
+> As traditionally used, impairment refers to a problem with a structure or organ of the body; disability is a functional limitation with regard to a particular activity; and handicap refers to a disadvantage in filling a role in life relative to a peer group.
 
 
 
@@ -7396,6 +7554,10 @@ Mr. Penn sounds quite businesslike. [adj]
 I tackled him about the money he owed me. 与某人交涉;
 
 He was tackled just outside the penalty area. 抢球"
+
+
+
+> An alternate definition of "handle" can be a grip attached to an object for using or moving the object, such as a door handle. You can also "handle" objects. **"Tackling" a situation implies that you're taking care of the situation with enthusiasm /ɪnˈθuːziæzəm/ or vigor.**
 
 
 
@@ -7521,7 +7683,7 @@ D[noun] a wince of pain.
 
 
 
-#### 2020/05/08.06
+#### 2020/05/08.08
 
 01.clinical [ˈklɪnɪkl]
 
@@ -7699,7 +7861,7 @@ D[noun] to be sentenced to life imprisonment for murder.
 
 08.presidency [ˈprezɪdənsi]
 
-[noun] the current holder of the EU presidency. 
+[noun] the current holder of the EU presidency(主席的职位). 
 
 "the job of **being president** of a country or an organization; the period of time sb holds this job"
 
@@ -7749,9 +7911,13 @@ neat = tidy **They are synonyms**. They are both used to mean 'in order'and 'car
 
 "When an aeroplane **takes off**, it leaves the ground and starts flying."
 
+[vp] He wouldn't take his hat off...
+
+"If you **take** a garment **off**, you remove it."
 
 
-#### 2020/05/20.13
+
+#### 2020/05/20.15
 
 01.endure [ɪnˈdjʊə(r)]
 
@@ -7875,7 +8041,29 @@ D[adj] a gossipy letter/neighbour.
 
 
 
+13.malicious /məˈlɪʃəs/
 
+[adj] He took malicious pleasure(幸灾乐祸) in telling me what she had said.
+
+"having or showing hatred and a desire to harm sb or hurt their feelings"
+
+-malevolent,-spiteful-
+
+ 
+
+14.malevolent /məˈlevələnt/
+
+[adj] Her stare was malevolent, her mouth a thin line(唇紧抿).
+
+"having or showing a desire to harm other people"
+
+
+
+15.spiteful /ˈspaɪtfl/
+
+[adj] He could be spiteful. 
+
+"behaving in an unkind way in order to hurt or upset sb"
 
 
 
@@ -7903,11 +8091,19 @@ The size of your pores is determined by the amount of oil they produce.
 
 
 
-04.colloquial /kəˈloʊkwiəl/
+04.pore /pɔːr/
+
+[n] He was sweating through every pore.
+
+"one of the very small holes in your skin that sweat can pass through; one of the similar small holes in the surface of a plant or a rock"
+
+
+
+05.colloquial /kəˈloʊkwiəl/
 
 [adj] They should learn to “eat bitterness,” Mr. Xi instructed, using a colloquial expression that means to endure hardships.
 
-"used in conversation but not in formal speech or writing" 
+"used in conversation but not in formal speech or writing" -informal-
 
 
 
@@ -7933,7 +8129,7 @@ The size of your pores is determined by the amount of oil they produce.
 
 "to meet sb, or discover or experience sth, especially sb/sth new, unusual or unexpected"
 
-[noun] Three of them were killed in the subsequent encounter with the police.
+[noun] Three of them were killed in the subsequent encounter with the police./Amid mounting pressure for transparency after a police officer shot and killed a man last Friday, Philadelphia Police leaders provided surveillance video of the incident. Police say the man who was killed, 28-year-old Alexander Spencer, shot another officer as the fatal encounter began.
 
 "a meeting, especially one that is sudden, unexpected or violent"
 
@@ -8031,9 +8227,11 @@ Angela's $7,000 tuition at University this year will be paid for with scholarshi
 
 
 
-02.penalty  [ˈpenəlti] 
+02.offend /əˈfend/
 
-[noun] to impose a penalty. "a punishment for breaking a law, rule or contract"
+[v] They'll be offended if you don't go to their wedding.
+
+"to make sb feel upset because of sth you say or do that is rude or embarrassing"
 
 
 
@@ -8164,6 +8362,20 @@ She didn't participate in the discussion.
 15.cheetah /ˈtʃiːtə/
 
 [n] "a wild animal of the cat family, with black spots, that runs very fast"
+
+
+
+> **Cheetahs are tall and slender, whilst leopards are short and stocky**. Leopards are heavier and bulkier. They are powerful tree-climbing big cats with shorter legs and bigger heads. Cheetahs are slinkier, more lightweight African cats than leopards.
+
+
+
+16.panther /ˈpænθə(r)/
+
+[n] "a black leopard (= a large wild animal of the cat family)"
+
+
+
+<img src="./images/Cheetah-Leopard-Panther.jpg" alt="Cheetah-Leopard-Panther" style="zoom: 33%;" />
 
 
 
@@ -19715,7 +19927,7 @@ We got a good bang for our buck. " is an idiom meaning the worth of one's money 
 
 24.lease  [liːs]
 
-[noun] to take out a lease on a house. 
+[noun] to take out a lease on a house. / I have signed lease.
 
 "a legal agreement that allows you to use a building, a piece of equipment or some land for a period of time, usually in return for rent"
 
@@ -19739,7 +19951,7 @@ We got a good bang for our buck. " is an idiom meaning the worth of one's money 
 
 [noun] "a person who is selling a house, etc."
 
-
+hive
 
 02.ponder [ˈpɒndə(r)]  [ˈpɑːndər]
 
@@ -34019,6 +34231,8 @@ A memento also serves as a reminder but it has more personal touch typically a g
 
 They will also nurture foreign workers skilled in fabrication, machinery, welding and related specialty areas by offering students work experience opportunities and expanded internship programs.
 
+ICPR 2024 is the 27th event of the series and it provides a great opportunity to nurture new ideas and collaboration for students, academics, and industry researchers.
+
 "to help sb/sth to develop and be successful"
 
 
@@ -43787,7 +44001,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-#### 01/30
+#### 01/30.08
 
 01.expenditure /ɪkˈspendɪtʃər/
 
@@ -43826,3 +44040,199 @@ The definition of FIT goes like this: “FIT is **a person who travels completel
 [n] She **shot to stardom** in a Broadway musical.
 
 "**Stardom** is the state of being very famous, usually as an actor, musician, or sports player."
+
+
+
+06.hang of it
+
+**to learn how to do something, especially if it is not obvious or simple**: get the hang of it "I've never used this program before." "Don't worry - you'll soon get the **hang of it**. "窍门"
+
+
+
+07.fallout /ˈfɔːlaʊt/
+
+[n] Grundy lost his job in the fallout from the incident.
+
+"the bad results of a situation or an action"
+
+
+
+#### 02/01.01
+
+01.quilt /kwɪlt/
+
+[n] The vibrant quilt adorned with colorful patterns was sunning itself on the clothesline, absorbing the bright rays of sunshine.
+
+"a warm bed covering made of [padding](https://www.google.com/search?newwindow=1&sca_esv=d113fa76b9ee4ed7&sxsrf=ACQVn08Hveeklat90IAdVCQv0qWNpBjLMA:1706861192825&q=padding&si=AKbGX_okS0g0kR2PXn0TLBASIc0mDP7DjELTosZ3ew5lGtYVeYr4SunPpbJCOue8RcjoXCBhA-ps1P2hFGLveMQ_Billg9wqeZqFEKHR4212sd5I2wChiA0%3D&expnd=1) enclosed between layers of fabric and kept in place by lines of [stitching](https://www.google.com/search?newwindow=1&sca_esv=d113fa76b9ee4ed7&sxsrf=ACQVn08Hveeklat90IAdVCQv0qWNpBjLMA:1706861192825&q=stitching&si=AKbGX_onJk-q0LQUYzV7-GRhpJ5Di2BHfwagV1dHhpb7qXgTnQphBo1tEQh2qlzPTfs4LU5oOgClA6JkXZve4ktEVuuwUzDot7wYLr1dBlOhGgJaKHJ6qK8%3D&expnd=1), typically applied in a decorative design."
+
+
+
+#### 02/04.12
+
+01.supper /ˈsʌpər/
+
+[n] I'll do my homework after supper.
+
+"the last meal of the day, either a main meal, usually smaller and less formal than dinner, or a snack eaten before you go to bed"
+
+
+
+02.hive /haɪv/
+
+[n] The hive is made of wood. 
+
+"a structure made for bees to live in"
+
+
+
+03.dip /dɪp/
+
+[v] He dipped the brush into the paint.
+
+"to put sth quickly into a liquid and take it out again"
+
+
+
+04.dip out 
+
+[vp] he dipped out on the examination.
+
+"verb(intr, adverb) Australian and NZ informal (often foll by on) to miss out on or fail to participate in something: "
+
+
+
+05.ashtray /ˈæʃtreɪ/
+
+[n] He ground his cigarette into the ashtray.
+
+"a container into which people who smoke put ash , cigarette ends, etc."
+
+
+
+06.ash /æʃ/
+
+[n] cigarette ash. 
+
+"the grey or black powder that is left after sth, especially tobacco , wood or coal, has burnt"
+
+
+
+07.casket 
+
+[n] "a small decorated box for holding jewellery or other valuable things, especially in the past"
+
+[n] "A **casket** is a coffin."
+
+
+
+08.barn /bɑːrn/
+
+[n] They live in a converted barn (= a barn that has been turned into a house) .
+
+"a large farm building for storing grain or keeping animals in" 
+
+
+
+09.sneer /snɪr/
+
+[v] He sneered at people who liked pop music.
+
+"to show that you have no respect for sb by the expression on your face or by the way you speak"
+
+
+
+10.privy /ˈprɪvi/
+
+[adj] She was not privy to any information contained in the letters.
+
+"allowed to know about sth secret"
+
+
+
+11.torch /tɔːrtʃ/
+
+[n] the Olympic torch.
+
+"a long piece of wood that has material at one end that is set on fire and that people carry to give light"
+
+[v] The rioters torched the local library...
+
+"to set fire to a building or vehicle deliberately in order to destroy it"
+
+
+
+12.out of order vs out of service
+
+> When you say something is “out of order” it means a device or machine is not working properly. On the other hand, “out of service” refers to something which is inoperative or is not available for use.
+
+
+
+#### 02/05.01
+
+01.holster /ˈhoʊlstər/
+
+[n]  the Luger slid easily from the holster.
+
+"a leather case worn on a belt or on a narrow piece of leather under the arm, used for carrying a small gun"
+
+
+
+#### 02/06.01
+
+01.scion /ˈsaɪən/
+
+[n] Young chaebol scions pursue careers in entertainment. 
+
+"a young member of a family, especially a famous or important one"
+
+
+
+#### 02/07
+
+01.mesh /meʃ/
+
+[n] The ground-floor windows are obscured by wire mesh.
+
+"**Mesh** is material like a net made from wire, thread, or plastic."
+
+
+
+02.senator  /ˈsenətər/
+
+[n] He has served as a Democratic senator for Texas since 2000.
+
+"a member of a senate"
+
+
+
+03.senate /ˈsenət/
+
+[n] a member of the Senate.
+
+"one of the two groups of elected politicians who make laws in some countries, for example in the US, Australia, Canada and France. The Senate is smaller than the other group but higher in rank. Many state parliaments in the US also have a Senate."
+
+
+
+04.obscure /əbˈskjʊr/
+
+[v] The view was obscured by fog.
+
+"to make it difficult to see, hear or understand sth"
+
+
+
+05.charter /ˈtʃɑːrtər/
+
+[n] the European Union's Social Charter of workers' rights.
+
+"a written statement describing the rights that a particular group of people should have"
+
+[v] a chartered plane.
+
+"to hire/rent a plane, boat, etc. for your own use"
+
+
+
+06.chartered /ˈtʃɑːrtərd/
+
+[adj] There will be 1,023 flights between the two countries over the eight-day holiday season, including chartered ones."hired for a particular purpose"
