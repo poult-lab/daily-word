@@ -85,15 +85,11 @@ campaign vs activity
 
 
 
-07.awful   [ˈɔːfl]
+07.intuitive /ɪnˈtjuːɪtɪv/ /ɪnˈtuːɪtɪv/
 
-[adj] {informal} That's an awful colour.  "very bad or unpleasant"
+[adj] He had an intuitive sense of what the reader wanted. 
 
-[adj] {informal} It's going to cost **an awful lot** of money.
-
-"used to emphasize sth, especially that there is a large amount or too much of sth"
-
-[adv] Clint is awful smart.  "very; extremely"
+"obtained by using your feelings rather than by considering the facts"
 
 
 
@@ -1276,7 +1272,7 @@ Does life exist on other planets."to be real; to be present in a place or situat
 
 [verb]  She tweaked his ear playfully. "to pull or **twist** sth suddenly" "拧"
 
-[verb] I think you'll have to tweak these figures a little before you show them to the boss. 
+[verb] I think you'll have to tweak these figures a little before you show them to the boss./Android 15 is rumored to bring plenty of new features as well as improvements. Its user interface may see some changes, and you may also see some privacy and performance tweaks.
 
 "to make **slight changes** to a machine, system, etc. to improve it"
 
@@ -2309,11 +2305,15 @@ D[noun]disturbance [dɪˈstɜːrbəns]
 
 
 
-17.revisit  [ˌriːˈvɪzɪt] 
+17.awful   [ˈɔːfl]
 
-[verb] "to visit a place again, especially after a long period of time"
+[adj] {informal} That's an awful colour.  "very bad or unpleasant"
 
-[verb] It's an idea that may be worth revisiting at a later date. "to return to an idea or a subject and discuss it again"
+[adj] {informal} It's going to cost **an awful lot** of money.
+
+"used to emphasize sth, especially that there is a large amount or too much of sth"
+
+[adv] Clint is awful smart.  "very; extremely"
 
 
 
@@ -2562,6 +2562,14 @@ The tidal energy is not stable.
 44.cryptanalysis
 
 [n] "the science of analyzing and deciphering codes and ciphers and cryptograms"
+
+
+
+45.revisit  [ˌriːˈvɪzɪt] 
+
+[verb] "to visit a place again, especially after a long period of time"
+
+[verb] It's an idea that may be worth revisiting at a later date. "to return to an idea or a subject and discuss it again"
 
 
 
@@ -6266,7 +6274,7 @@ Strictly speaking, there is difference between their meanings and application. *
 
 > Acne, pimples, and spots are all types of skin blemishes that can appear on the face, neck, chest, back, and shoulders. They are commonly caused by clogged pores due to excess oil, dead skin cells, and bacteria on the skin.
 >
-> Acne refers to a chronic skin condition that involves the formation of inflamed pimples, blackheads, and whiteheads. Pimples are a type of acne that form when pores become clogged and infected with bacteria. Spots are a more general term that can refer to any type of **blemish** on the skin, including pimples, blackheads, whiteheads, and other types of bumps.
+> Acne refers to a chronic skin condition that involves the **formation** of inflamed pimples, blackheads, and whiteheads. Pimples are a type of acne that form when pores become clogged and infected with bacteria. Spots are a more general term that can refer to any type of **blemish** on the skin, including pimples, blackheads, whiteheads, and other types of bumps.
 >
 > To treat acne, pimples, and spots, it is important to maintain a consistent skincare routine that includes gentle cleansing, exfoliation, and the use of non-comedogenic (non-clogging) moisturizers and sunscreens. Over-the-counter topical treatments containing benzoyl peroxide, salicylic acid, or retinoids can also be effective in reducing inflammation and unclogging pores. In severe cases, a dermatologist may recommend prescription medications or other treatments such as laser therapy or chemical peels.
 >
@@ -6324,6 +6332,14 @@ Strictly speaking, there is difference between their meanings and application. *
 [n] skin/brain lesions.
 
 "damage to the skin or part of the body caused by injury or by illness"
+
+
+
+20.formation /fɔːrˈmeɪʃn/
+
+[n] The Formation of Russia. 
+
+"the action of forming sth; the process of being formed"
 
 
 
@@ -6885,7 +6901,7 @@ He made a rash decision and now he is suffering **for** it.
 
 [noun] to behave with integrity.“the quality of being honest and having strong moral principles”
 
-[noun] to respect the territorial integrity of the nation."the state of being whole and not divided"
+[noun] to respect the territorial integrity of the nation./Only errors introduced during production process or that directly compromise the scientific integrity of the paper may be corrected."the state of being whole and not divided"
 
 
 
@@ -8217,7 +8233,7 @@ Angela's $7,000 tuition at University this year will be paid for with scholarshi
 
 
 
-#### 2020/06/01.15
+#### 2020/06/01.21
 
 01.flat [flæt]/apartment {都是指公寓，但是flat一般指普通的公寓，apartment更加高端}
 
@@ -8251,11 +8267,9 @@ Angela's $7,000 tuition at University this year will be paid for with scholarshi
 
 
 
-05.luggage [ˈlʌɡɪdʒ] 
+05.full moon /ˌfʊl ˈmuːn/
 
-[noun] There's room for one more piece of luggage. 
-
-"bags, cases, etc. that contain sb's clothes and things when they are travelling"
+[n] "the moon when it appears as a full circle; a time when this happens"
 
 
 
@@ -8281,7 +8295,7 @@ She didn't participate in the discussion.
 
 [noun] A broad valley opened up leading to a high, flat plateau of cultivated land.
 
-"an area of flat land that is higher than the land around it"
+"an area of flat land that is higher than the land around it/ 高原"
 
 [noun] The US heroin market now appears to have reached a plateau...
 
@@ -8291,71 +8305,47 @@ She didn't participate in the discussion.
 
 
 
-09.lie  [laɪ]
+09.heroin /ˈheroʊɪn/
 
-[verb] to lie on your back/side/front. "to be or put yourself in a flat or horizontal position so that you are not standing or sitting"
+[n] a heroin addict.
 
-[verb] {~ (to sb) (about sth)} You could see from his face that he was lying. "to say or write sth that you know is not true"
-
-[noun] to tell a lie.  "a statement made by sb knowing that it is not true"
+"a powerful illegal drug made from morphine , that some people take for pleasure and can become addicted to"
 
 
 
-10.elevation  [ˌelɪˈveɪʃn] 
+10.morphine /ˈmɔːrfiːn/
 
-[noun] his elevation to the presidency. 
+[n] He needs morphine to **deaden** the pain in his chest.
 
-"the process of sb getting a higher or more important rank
-
-
-
-11.descend [dɪˈsend]
-
-[verb] The plane began to descend.
-
-"to come or go down from a higher to a lower level"
+"a powerful drug that is made from opium and used to reduce pain"
 
 
 
-11.1.ascend  [əˈsend] 
+11.opium /ˈoʊpiəm/
 
-[verb] { ~ (to sth)} The path started to ascend more steeply. 
+[n] He was forced to take opium to kill the pain. 
 
-"to rise; to go up; to climb up"
-
-
-
-12.dramatic  [drəˈmætɪk]
-
-[adj] a dramatic increase/fall/change/improvement."sudden, very great and often surprising"
-
-[~] a dramatic victory."exciting and impressive"
+"a powerful drug made from the juice of a type of poppy (= a kind of flower), used in the past in medicines to reduce pain and help people sleep. Some people take opium illegally for pleasure and can become addicted to it."
 
 
 
-13.obtain [əbˈteɪn] 
+12.poppy /ˈpɑːpi/
 
-[verb] to obtain advice/information/permission. "to get sth, especially by making an effort"
+[n] poppy fields/seeds.
 
-
-
-14.attain /əˈteɪn/
-
-[v] Most of our students attained five ‘A’ grades in their exams./
-
- Industry officials pointed out that Korea needs to improve accessibility to regional destinations to accelerate the country's inbound tourism and attain the ambitious goal of reaching 20 million travelers this year.
-
-"to succeed in getting sth, usually after a lot of effort"
-
-[v] {formal} The cheetah can attain speeds of up to 97 kph.
-
-"to reach a particular age, level or condition"
+"a wild or garden(野外或花园) plant, with a large delicate flower that is usually red, and small black seeds. Opium is obtained from one type of poppy ."
 
 
 
-> 努力获得 vs 获得
->
-> Attain means to achieve a goal or accomplish a task by **putting in effort**. Obtain means to get or take possession of something, typically without much effort being put into acquiring it.
+<img src="./images/Image-showing-the-stages-of-processing-poppies-into-heroin.jpg" alt="Image-showing-the-stages-of-processing-poppies-into-heroin" style="zoom: 67%;" />
+
+
+
+13.delicate /ˈdelɪkət/
+
+[adj] delicate china teacups.
+
+"easily damaged or broken"
 
 
 
@@ -8377,6 +8367,49 @@ She didn't participate in the discussion.
 
 <img src="./images/Cheetah-Leopard-Panther.jpg" alt="Cheetah-Leopard-Panther" style="zoom: 33%;" />
 
+17.slender /ˈslendə(r)/
+
+[adj] her slender figure.
+
+"thin in an attractive or elegant way"
+[adj] a glass with a slender stem.
+
+"thin or narrow"
+
+[adj] to win by a slender margin/majority. 
+
+"small in amount or size and hardly enough"
+
+
+
+18.whilst /waɪlst/
+
+[conj./adv] "**Whilst** means the same as the conjunction **while** ."
+
+
+
+19.stocky /ˈstɒki/ /ˈstɑːki/
+
+[adj] "short, with a strong, solid body"
+
+
+
+20.bulky/ˈbʌlki/  bulkier /ˈbʌlkiər/
+
+[adj] Bulky items will be collected separately.
+
+"large and difficult to move or carry"
+
+[adj] The bulky figure of Inspector Jones appeared at the door."tall and heavy"
+
+
+
+21.deaden /ˈdedn/
+
+[v] He was given drugs to deaden the pain. 
+
+"to make sth such as a sound, a feeling, etc. less strong" -dull-
+
 
 
 #### 2020/06/02.05
@@ -8397,35 +8430,37 @@ expire				{结束换气} "(因到期而)失效，终止"
 
 
 
-02.expiration date /ˌekspəˈreɪʃn deɪt/   "到期日"
+02.aspire /əˈspaɪə(r)/
 
-[noun phrase] Check the expiration date on your passport. "expiry date"
+[vi]  She aspired to a scientific career. 
 
-[np] The expiration date on this yogurt was November 20.
-
-"the date by which an item of food should be eaten"
+"to have a strong desire to achieve or to become sth"
 
 
 
-03.concur  [kənˈkɜː(r)] 
+03.respire /rɪˈspaɪər/
 
-[verb]{formal}  The coroner concurred with this assessment. "to agree"
-
-
-
-04.concurrent   [kənˈkʌrənt]
-
-[adj] He was imprisoned for two concurrent terms of 30 months and 18 months. 
-
-"existing or happening at the same time"
+[vi] {technical } "to breathe"
 
 
 
-05.coroner /ˈkɔːrənər/
+> Breathing is the **physical process** of exchanging gases whilst respiration is a chemical process that takes place at a cellular level and produces energy.
 
-[n] The coroner recorded a **verdict** of **accidental death**.
 
-"an official whose job is to discover the cause of any sudden, violent or suspicious death by holding an inquest"
+
+04.conspire /kənˈspaɪə(r)/
+
+[v] They were accused of conspiring against the king.
+
+"to secretly plan with other people to do sth illegal or harmful" 
+
+
+
+05.luggage [ˈlʌɡɪdʒ] 
+
+[noun] There's room for one more piece of luggage. 
+
+"bags, cases, etc. that contain sb's clothes and things when they are travelling"
 
 
 
@@ -8473,11 +8508,151 @@ You could hike through the Fish River Canyon.
 
 
 
+#### 2020/06/06.15
+
+01.expiry /ɪkˈspaɪəri/
+
+[n] {(especially BrE), NAmE usually expiration} The licence can be renewed on expiry.
+
+"an ending of the period of time when an official document can be used, or when an agreement is valid"
 
 
 
+02.expiration date /ˌekspəˈreɪʃn deɪt/   "到期日"
 
-#### 2020/06/07.03
+[noun phrase] Check the expiration date on your passport. "expiry date"
+
+[np] The expiration date on this yogurt was November 20.
+
+"the date by which an item of food should be eaten"
+
+
+
+03.concur  [kənˈkɜː(r)] 
+
+[verb]{formal}  The coroner concurred with this assessment. "to agree"
+
+
+
+> agree implies complete accord usually attained by discussion and adjustment of differences. concur often implies approval of someone else's statement or decision.
+
+
+
+04.concurrent   [kənˈkʌrənt]
+
+[adj] He was imprisoned for two concurrent terms of 30 months and 18 months. 
+
+"existing or happening at the same time"
+
+
+
+05.coroner /ˈkɔːrənər/
+
+[n] The coroner recorded a **verdict** of **accidental death**.
+
+"an official whose job is to discover the cause of any sudden, violent or suspicious death by holding an inquest"
+
+
+
+06.verdict /ˈvɜːrdɪkt/
+
+[n] Has the **jury** reached a verdict ?
+
+"a decision that is made by a jury in court, stating if sb is considered guilty of a crime or not/裁决"
+
+[n] Well, what's your verdict?
+
+"a decision that you make or an opinion that you give about sth, after you have tested it or considered it carefully/结论"
+
+
+
+07.jury [ˈdʒʊəri]
+
+[noun] members of the jury.  "a group of members of the public who listen to the facts of a case in a court and decide whether or not sb is guilty of a crime"
+
+
+
+08.accidental death /ˌæksɪˈdentl deθ/
+
+[phrase] "An *accidental death* is an unnatural death that is caused by an accident, such as a slip and fall, traffic collision, or accidental poisoning."
+
+
+
+09.collision  [kəˈlɪʒn]
+
+[noun]  {~ (with sb/sth) | ~ (between/of A and B)} 
+
+a collision between two trains.
+
+"an accident in which two vehicles or people crash into each other"
+
+[noun] a collision between two opposing points of view.
+
+"a strong disagreement between two people or between opposing ideas, opinions, etc.; the meeting of two things that are very different"
+
+
+
+10.dramatic  [drəˈmætɪk]
+
+[adj] a dramatic increase/fall/change/improvement."sudden, very great and often surprising"
+
+[~] a dramatic victory."exciting and impressive"
+
+
+
+11.obtain [əbˈteɪn] 
+
+[verb] to obtain advice/information/permission. "to get sth, especially by making an effort"
+
+
+
+12.attain /əˈteɪn/
+
+[v] Most of our students attained five ‘A’ grades in their exams./
+
+ Industry officials pointed out that Korea needs to improve accessibility to regional destinations to accelerate the country's inbound tourism and attain the ambitious goal of reaching 20 million travelers this year.
+
+"to succeed in getting sth, usually after a lot of effort"
+
+[v] {formal} The cheetah can attain speeds of up to 97 kph.
+
+"to reach a particular age, level or condition"
+
+
+
+> 努力获得 vs 获得
+>
+> Attain means to achieve a goal or accomplish a task by **putting in effort**. Obtain means to get or take possession of something, typically without much effort being put into acquiring it.
+
+
+
+13.metaphorical /ˌmetəˈfɔːrɪkl/
+
+[adj] I'll leave you in Robin's capable hands─ metaphorically speaking , of course!
+
+"connected with or containing metaphors"
+
+
+
+14.metaphor /ˈmetəfər/
+
+[n] the writer's striking use of metaphor
+
+"a word or phrase used to describe sb/sth else, in a way that is different from its normal use, in order to show that the two things have the same qualities and to make the description more powerful, for example She has a heart of stone ; the use of such words and phrases"
+
+
+
+15.striking  [ˈstraɪkɪŋ] 
+
+[adj] a striking feature. "interesting and unusual enough to attract attention"-marked-
+
+[adj] striking good looks. "very attractive, often in an unusual way"-stunning-
+
+D[adv]  The two polls produced strikingly different results.
+
+
+
+#### 2020/06/07.08
 
 01.sour/sweet/bitter [ˈbɪtə(r)]/hot/salty
 
@@ -8515,7 +8690,45 @@ e.g: state-owned enterprises
 
 
 
-#### 2020/06/09.03
+05.tart /tɑːrt/
+
+[adj] tart apples.
+
+"having an unpleasant sour taste"
+
+
+
+06.lie  [laɪ]
+
+[verb] to lie on your back/side/front. "to be or put yourself in a flat or horizontal position so that you are not standing or sitting"
+
+[verb] {~ (to sb) (about sth)} You could see from his face that he was lying. "to say or write sth that you know is not true"
+
+[noun] to tell a lie.  "a statement made by sb knowing that it is not true"
+
+
+
+07.elevation  [ˌelɪˈveɪʃn] 
+
+[noun] his elevation to the presidency. 
+
+"the process of sb getting a higher or more important rank
+
+
+
+> In summary, while "elevation" and "promotion" have distinct meanings in certain contexts, they can be related when referring to career advancement or personal growth. "Elevation" is a **broader** term that may have **metaphorical** applications, whereas "promotion" is more specific to career progression.
+
+
+
+08.elevate/ˈelɪveɪt/
+
+[v] The proposed technique aims to elevate the model’s performance by expanding its ability to generalize across a spectrogram of acoustic scenarios for the instantaneous audio datasets.
+
+"to make the level of sth increase"
+
+
+
+#### 2020/06/09.06
 
 01.hike [haɪk] [noun/verb] "远足"
 
@@ -8529,7 +8742,7 @@ e.g: state-owned enterprises
 
 
 
-04.ageing /ˈeɪdʒɪŋ/
+03.ageing /ˈeɪdʒɪŋ/
 
 [noun] Ageing to me is not being able to do what you used to do.
 
@@ -8541,11 +8754,27 @@ e.g: state-owned enterprises
 
 
 
-05.ageism /ˈeɪdʒɪzəm/
+04.ageism /ˈeɪdʒɪzəm/
 
 [n] The problem of ageism in the workplace often goes unrecognized. 
 
 "unfair treatment of people because they are considered too old"
+
+
+
+05.descend [dɪˈsend]
+
+[verb] The plane began to descend.
+
+"to come or go down from a higher to a lower level"
+
+
+
+06.ascend  [əˈsend] 
+
+[verb] { ~ (to sth)} The path started to ascend more steeply. 
+
+"to rise; to go up; to climb up"
 
 
 
@@ -8614,6 +8843,10 @@ e.g: state-owned enterprises
 [verb] She struck him in the face. "to hit sb/sth with your hand or a weapon"
 
 [noun] the train drivers' strike."罢工"
+
+strike a balance /straɪk ə ˈbæləns/
+
+[phrase]  "choose a moderate course or compromise."
 
 
 
@@ -8875,6 +9108,14 @@ The traffic is bumper to bumper.
 
 
 
+13.peeler /ˈpiːlər/
+
+[n] a potato peeler.
+
+"a special type of knife for taking the skin off fruit and vegetables"
+
+
+
 #### 2020/06/19.04
 
 01.multiple [ˈmʌltɪpl] [adj/noun]
@@ -9013,7 +9254,7 @@ He is receiving treatment for shock. "something that is done to cure an illness 
 
 09.suspicion  [səˈspɪʃn] 
 
-[noun] They drove away slowly to avoid arousing suspicion.
+[noun] They drove away slowly to avoid **arousing** suspicion.
 
 "a feeling that sb has done sth wrong, illegal or dishonest, even though you have no proof"
 
@@ -9042,6 +9283,14 @@ He is receiving treatment for shock. "something that is done to cure an illness 
 11.consideration  [kənˌsɪdəˈreɪʃn]
 
 Careful consideration should be given to issues of health and safety. "the act of thinking carefully about sth"
+
+
+
+12.arouse /əˈraʊz/
+
+[v] to arouse sb's interest/curiosity/anger 
+
+"to make sb have a particular feeling or attitude"
 
 
 
@@ -11501,6 +11750,10 @@ The children quickly got bored with staying indoors.
 
 "a ceremony, usually a religious one, for burying or cremating (= burning) a dead person"
 
+ it's your funeral
+
+[slang] "used to tell sb that they, and nobody else, will have to deal with the unpleasant results of their own actions/这是你自作自受"
+
 
 
 09.premature [ˈpremətʃə(r)] [ˌpriːməˈtʃʊr] 
@@ -13183,13 +13436,7 @@ D[adv] We regret this service is temporarily unavailable.
 
 
 
-11.striking  [ˈstraɪkɪŋ] 
 
-[adj] a striking feature. "interesting and unusual enough to attract attention"-marked-
-
-[adj] striking good looks. "very attractive, often in an unusual way"-stunning-
-
-D[adv]  The two polls produced strikingly different results.
 
 
 
@@ -15939,9 +16186,7 @@ A special bond unites our two countries.
 
 
 
-02.jury [ˈdʒʊəri]
 
-[noun] members of the jury.  "a group of members of the public who listen to the facts of a case in a court and decide whether or not sb is guilty of a crime"
 
 
 
@@ -17586,7 +17831,7 @@ D[adj] a freckled face/schoolgirl.
 
 
 
-#### 2020/11/15.16
+#### 2020/11/15.17
 
 01.meticulous  [məˈtɪkjələs] 
 
@@ -17753,6 +17998,14 @@ So, there are no hygiene issues related to finger vein scanning.
 [v] The doors were always locked and chained.
 
 "to fasten sth with a chain; to fasten sb/sth to another person or thing with a chain, so that they do not escape or get stolen"
+
+
+
+17.meticulously / məˈtɪkjələsli /
+
+[adv] I can't recall how many times we worked together to meticulously revise every word.
+
+"in a meticulous manner"
 
 
 
@@ -19227,7 +19480,7 @@ In addition to its low overhead, `tqdm` uses smart algorithms to predict the rem
 
 04.delighted   [dɪˈlaɪtɪd]
 
-[adj] {~ (to do sth) | ~ (that…) | ~ (by/at/with sth)} a delighted smile. / We are delighted to inform you that in view of your academic achievement.
+[adj] {~ (to do sth) | ~ (that…) | ~ (by/at/with sth)} a delighted smile. / We are delighted to inform you that in view of your academic achievement./ We are delighted to let you know that the above submission, which you co-authored, has been accepted for publication in Discover Applied Sciences.
 
 "very pleased"
 
@@ -19917,6 +20170,16 @@ We got a good bang for our buck. " is an idiom meaning the worth of one's money 
 
 
 
+23.liberal
+
+[adj] liberal attitudes/views/opinions.
+
+"willing to understand and respect other people's behaviour, opinions, etc., especially when they are different from your own; believing people should be able to choose how they behave"
+
+[noun] "a member of the British Liberal Party in the past, or of a Liberal Party in another country"
+
+ 
+
 23.disposal [dɪˈspoʊzl] 
 
 [noun] sewage disposal systems. "the act of getting rid of sth"
@@ -19934,6 +20197,8 @@ We got a good bang for our buck. " is an idiom meaning the worth of one's money 
 [verb]{~ sth (from sb) | ~ sth (out) (to sb)}  They lease the land from a local farmer. "to use or let sb use sth, especially property or equipment, in exchange for rent or a regular payment"
 
 [phrasl] leasing agents.
+
+
 
 25.sublease [ˌsʌbˈliːs]
 
@@ -26009,17 +26274,7 @@ empathy for other people's situations.
 
 
 
-07.collision  [kəˈlɪʒn]
 
-[noun]  {~ (with sb/sth) | ~ (between/of A and B)} 
-
-a collision between two trains.
-
-"an accident in which two vehicles or people crash into each other"
-
-[noun] a collision between two opposing points of view.
-
-"a strong disagreement between two people or between opposing ideas, opinions, etc.; the meeting of two things that are very different"
 
 
 
@@ -35345,6 +35600,14 @@ D[noun]  Bullying is a problem in many schools.
 
 
 
+06.breakdown /ˈbreɪkdaʊn/
+
+[n] Here’s a breakdown of the code:
+
+"the breaking of a substance into the parts of which it is made"
+
+
+
 #### 12/16.02
 
 01.vent [vent] 
@@ -44187,7 +44450,7 @@ The definition of FIT goes like this: “FIT is **a person who travels completel
 
 
 
-#### 02/07
+#### 02/07.06
 
 01.mesh /meʃ/
 
@@ -44236,3 +44499,224 @@ The definition of FIT goes like this: “FIT is **a person who travels completel
 06.chartered /ˈtʃɑːrtərd/
 
 [adj] There will be 1,023 flights between the two countries over the eight-day holiday season, including chartered ones."hired for a particular purpose"
+
+
+
+#### 02/09.03
+
+01.turnkey /ˈtɜːrnkiː/
+
+[adj] Kim Dong-won, an analyst at KB Securities Co., noted that Samsung Electronics could “emerge as the leader in AI turnkey solutions in 2 to 3 years,” being the only company to own all memory, foundry, and system chip businesses.
+
+"complete and ready to use immediately"
+
+
+
+02.stem from sth 
+
+[vp] We argue that the competence of transformer/MLPlike models primarily stems from the general architecture MetaFormer instead of the equipped specific token mixers.
+
+ "to be the result of sth/是…的结果；起源于；根源是"
+
+
+
+03.outlast /ˌaʊtˈlæst/
+
+[v]  These naturally dried flowers will outlast a bouquet of fresh blooms.../
+
+Our institution will outlast us.
+
+We strive to build an institution that will last for generations and evolve with time and that is founded upon our core values.
+
+"If one thing **outlasts** another thing, the first thing lives or exists longer than the second."
+
+
+
+#### 02/14.02
+
+01.national defense /ˈnæʃnəl dɪ'fens/
+
+[n] "The term “national defense” means programs for military and energy production or construction, military or critical infrastructure assistance to any foreign nation, homeland security, stockpiling, space, and any directly related activity." 
+
+
+
+02.statehood /ˈsteɪthʊd/
+
+[n] "the fact of being an independent country and of having the rights and powers of a country"
+
+
+
+#### 02/15.01
+
+01.nor /nɔːr/
+
+[conj] what **were** you trying to do, you  didn't answer my call nor reply my messages. "used before a positive verb to agree with sth negative that has just been said"
+
+
+
+#### 02/16.01
+
+01.reprise /rɪˈpriːz/
+
+[v] Despite the new setting, the two lead [*Gyeogseong Creature* actors](https://screenrant.com/gyeongseong-creature-cast-characters/) will return in the new season, although it is still difficult to say whether they are both reprising their original roles. 
+
+"If someone **reprises** a role or a song, they play or sing it again." 
+
+[n] The 2008 hosts gave us a shortened reprise of the opening.
+
+"In music, if there is a **reprise**, an earlier section of music is repeated."
+
+
+
+#### 02/20.06
+
+01.contradict /ˌkɑːntrəˈdɪkt/
+
+[v] Any changes that contradict journal style will not be made.
+
+"to be so different from each other that one of them must be wrong"
+
+
+
+02.acknowledgement /əkˈnɑːlɪdʒmənt/
+
+[n] The flowers were a small acknowledgement of your kindness.
+
+"an act or a statement expressing thanks to sb; something that is given to sb as thanks"
+
+[n] "a statement, especially at the beginning of a book, in which the writer expresses thanks to the people who have helped"
+
+
+
+03.shabby /ˈʃæbi/ 
+
+[adj] She wore shabby old jeans and a T-shirt.
+
+"in poor condition because they have been used a lot"
+
+[adj] The old man was shabby and unkempt.
+
+"badly dressed in clothes that have been worn a lot"
+
+[adj] She tried to make up for her shabby treatment of him. 
+
+"unfair or unreasonable"
+
+
+
+d[adv]shabbily dressed
+
+
+
+04.scruffy /ˈskrʌfi/
+
+[adj] He looked a little scruffy.
+
+"dirty or untidy"
+
+
+
+05.shoddy /ˈʃɑːdi/
+
+[adj] shoddy goods.
+
+"made or done badly and with not enough care"
+
+
+
+06.scramble /ˈskræmbl/
+
+[v] She managed to scramble over the wall.
+
+"to move quickly, especially with difficulty, using your hands to help you" -clamber-
+
+[v]  Shoppers were scrambling to get the best bargains.
+
+"to push, fight or compete with others in order to get or to reach sth"
+
+[v] scrambled eggs.
+
+" to cook an egg by mixing the white and yellow parts together and heating them, sometimes with milk and butter"
+
+
+
+#### 02/21.01
+
+01.paradox /ˈpærədɒks/ /ˈpærədɑːks/
+
+[adj] "A Killer Paradox" ranks 1st in 11 countries worldwide.
+
+"a person, thing or situation that has two opposite features and therefore seems strange"
+
+
+
+#### 02/22.01
+
+01.equity /ˈekwəti/
+
+[n] "the value of a company's shares; the value of a property after all charges and debts have been paid"
+
+
+
+#### 02/25.01
+
+01.deflection /dɪˈflekʃn/
+
+[n]The **QRS complex** is the combination of three of the graphical deflections seen on a typical [electrocardiogram (ECG or EKG)](https://en.wikipedia.org/wiki/Electrocardiography).
+
+"a sudden change in the direction that sth is moving in, usually after it has hit sth; the act of causing sth to change direction"
+
+
+
+#### 02/26
+
+01.verbose /vɜːrˈboʊs/
+
+[adj] a verbose speaker/style.
+
+"using or containing more words than are needed" -long-winded-
+
+
+
+> Redundant is like taking off your pants to fart. An unnecessary step. Verbose is just wordy meaning using more words than needed to convey a simple message.
+
+
+
+02.die /daɪ/
+
+[n] "a block of metal with a special shape, or with a pattern cut into it, that is used for shaping other pieces of metal such as coins, or for making patterns on paper or leather"
+
+[slang] Automation of trimming die design inspection by zigzag process between AI and CAD domains
+
+"used to say that an event has happened or a decision has been made that cannot be changed"
+
+
+
+03.trainee /ˌtreɪˈniː/
+
+[n] Gov't says trainee doctors won't be held accountable if they return to work by Thursday
+
+"a person who is being taught how to do a particular job"
+
+
+
+04.intern /ɪnˈtɜːrn , ˈɪntɜːrn/
+
+[n] "an advanced student of medicine, whose training is nearly finished and who is working in a hospital to get further practical experience"
+
+[n] "a student or new graduate who is getting practical experience in a job, for example during the summer holiday/vacation"
+
+
+
+> An internship is most likely unpaid. As it is often part of the study curriculum or something you do voluntary to strengthen your resume. A traineeship is always a paid, usually full-time position. So yes, a traineeship is an actual job.
+
+
+
+05.accountable /əˈkaʊntəbl/
+
+[adj] Someone must be **held accountable** for the killings.
+
+"responsible for your decisions or actions and expected to explain them when you are asked"
+
+
+
