@@ -93,9 +93,11 @@ campaign vs activity
 
 
 
-08.regression [rɪˈɡreʃn] 
+08.counter-intuitive  [ˌkaʊntər ɪnˈtjuːɪtɪv] 
 
-[noun] {~ (to sth)} "the process of going back to an earlier or less advanced form or state"
+[adj] These results seem counter-intuitive. In Python, NaN is considered not equal to itself, which might seem counterintuitive
+
+"the opposite of what you would expect or what seems to be obvious"
 
 
 
@@ -159,11 +161,11 @@ campaign vs activity
 
 
 
-12.linchpin /ˈlɪntʃpɪn/
+12.gripping /ˈɡrɪpɪŋ/
 
-[n]  In a recent interview with Maeil Business Newspaper, Miller, also the author of best-seller “Chip War,” noted that Korea is a “linchpin” in the global techno big bang and chip supply chain and that the country will be able to play a leading role moving forward.
+[adj] Perhaps more gripping events close at hand.  
 
-"a person or thing that is the most important part of an organization, a plan, etc., because everything else depends on them or it"
+"exciting or interesting in a way that keeps your attention"
 
 
 
@@ -2299,9 +2301,9 @@ D[noun]disturbance [dɪˈstɜːrbəns]
 
 
 
-16.counter-intuitive  [ˌkaʊntər ɪnˈtjuːɪtɪv] 
+16.regression [rɪˈɡreʃn] 
 
-[adj] These results seem counter-intuitive."the opposite of what you would expect or what seems to be obvious"
+[noun] {~ (to sth)} "the process of going back to an earlier or less advanced form or state"
 
 
 
@@ -2570,6 +2572,14 @@ The tidal energy is not stable.
 [verb] "to visit a place again, especially after a long period of time"
 
 [verb] It's an idea that may be worth revisiting at a later date. "to return to an idea or a subject and discuss it again"
+
+
+
+46.linchpin /ˈlɪntʃpɪn/
+
+[n]  In a recent interview with Maeil Business Newspaper, Miller, also the author of best-seller “Chip War,” noted that Korea is a “linchpin” in the global techno big bang and chip supply chain and that the country will be able to play a leading role moving forward.
+
+"a person or thing that is the most important part of an organization, a plan, etc., because everything else depends on them or it"
 
 
 
@@ -7331,9 +7341,11 @@ Is there any way of stretching shoes?
 
 
 
-#### 2020/04/19.07
+#### 2020/04/19.09
 
+01.price is firm meaning
 
+> When a seller states that the price is firm, it means that they are not willing to negotiate or haggle over the price of the item or service. In other words, the stated price is non-negotiable, and the seller expects the buyer to accept and pay the specified amount without attempting to bargain for a lower price. This is a common term used in various sales transactions, such as in retail, online marketplaces, or when selling goods and services.
 
 
 
@@ -8255,7 +8267,9 @@ Angela's $7,000 tuition at University this year will be paid for with scholarshi
 
  [verb]  { ~ sth (on/upon sth/sb)}  A new tax was imposed on fuel. 
 
-"to introduce a new law, rule, tax, etc.; to order that a rule, punishment, etc. be used"
+"to introduce a new **law, rule, tax**, etc.; to order that a rule, punishment, etc. be used"
+
+推行,采用 vs 引入(introduce)
 
 
 
@@ -8281,17 +8295,7 @@ Angela's $7,000 tuition at University this year will be paid for with scholarshi
 
 
 
-07.participate  [pɑːˈtɪsɪpeɪt]
-
-[verb] {~ (in sth)} 
-
-She didn't participate in the discussion. 
-
-"to take part in or become involved in an activity"
-
-
-
-08.plateau  [ˈplætəʊ] 
+07.plateau  [ˈplætəʊ] 
 
 [noun] A broad valley opened up leading to a high, flat plateau of cultivated land.
 
@@ -8325,7 +8329,7 @@ She didn't participate in the discussion.
 
 [n] He was forced to take opium to kill the pain. 
 
-"a powerful drug made from the juice of a type of poppy (= a kind of flower), used in the past in medicines to reduce pain and help people sleep. Some people take opium illegally for pleasure and can become addicted to it."
+"a powerful drug made from the juice of a type of poppy (= a kind of flower), used in the past in medicines to reduce pain and help people sleep. Some people take opium illegally for pleasure and can become addicted to it." "鸦片/麻醉剂"
 
 
 
@@ -8409,6 +8413,16 @@ She didn't participate in the discussion.
 [v] He was given drugs to deaden the pain. 
 
 "to make sth such as a sound, a feeling, etc. less strong" -dull-
+
+
+
+22.participate  [pɑːˈtɪsɪpeɪt]
+
+[verb] {~ (in sth)} 
+
+She didn't participate in the discussion. 
+
+"to take part in or become involved in an activity"
 
 
 
@@ -8690,11 +8704,21 @@ e.g: state-owned enterprises
 
 
 
-05.tart /tɑːrt/
+05.stringent /ˈstrɪndʒənt/
 
-[adj] tart apples.
+[adj] {formal} The government is facing growing calls to curb the purchases of homes in Korea by foreign nationals, who could obtain mortgage loans from banks abroad and are subject to less stringent borrowing regulations than Koreans.
 
-"having an unpleasant sour taste"
+"very strict and that must be obeyed"
+
+
+
+> "Strict" means that something (or someone) demands obedience to rules or regulations. For example, "We have strict rules against smoking." "Stringent" is similar, but a bit less common, and "strict" seems a bit more negative or sharp. The both can be used to describe things or people:  
+>
+> 
+>
+> The rules are very strict/stringent. 
+>
+> He is a very strict/stringent boss.
 
 
 
@@ -8725,6 +8749,14 @@ e.g: state-owned enterprises
 [v] The proposed technique aims to elevate the model’s performance by expanding its ability to generalize across a spectrogram of acoustic scenarios for the instantaneous audio datasets.
 
 "to make the level of sth increase"
+
+
+
+09.tart /tɑːrt/
+
+[adj] tart apples.
+
+"having an unpleasant sour taste"
 
 
 
@@ -8778,7 +8810,7 @@ e.g: state-owned enterprises
 
 
 
-#### 2020/06/11.11
+#### 2020/06/11.12
 
 01.diagnose /ˌdaɪəɡˈnoʊs/ {dia bi}{gnos know}{"两头都知道"} "诊断(疾病);判断(问题的原因)"
 
@@ -8872,13 +8904,15 @@ strike a balance /straɪk ə ˈbæləns/
 
 "too confident about yourself in a way that annoys other people"
 
-modest  [ˈmɒdɪst]  [ˈmɑːdɪst]
+
+
+10.modest  [ˈmɒdɪst]  [ˈmɑːdɪst]
 
 [adj] She's very modest about her success. 
 
 "not talking much about your own abilities or possessions"
 
-[adj] modest improvements/reforms. 
+[adj] modest improvements/reforms. /As of July 2023, foreigners accounted for 1.4 percent of total home purchases here. While this percentage may seem modest, it has been steadily increasing from 1 percent in 2021 to 1.2 percent in 2022. 
 
 "not very large, expensive, important, etc."
 
@@ -8888,7 +8922,7 @@ modest  [ˈmɒdɪst]  [ˈmɑːdɪst]
 
 
 
-10.flatter [ˈflætə(r)]  /suck up
+11.flatter [ˈflætə(r)]  /suck up
 
 [verb] Are you trying to flatter me?
 
@@ -8896,7 +8930,7 @@ modest  [ˈmɒdɪst]  [ˈmɑːdɪst]
 
 
 
-11.clue  [kluː]
+12.clue  [kluː]
 
 [noun] The police think the videotape may hold some vital clues to the identity of the killer.
 
@@ -9624,11 +9658,31 @@ sliced meat.
 
 #### 2020/07/07.04
 
-01.sign up "注册/（和…）签约" 
+01.sign up  /saɪn ʌp/
+
+[vp] He signed up as a steward with P&O Lines...
+
+"If you **sign up** for an organization or if an organization **signs** you **up**, you sign a contract officially agreeing to do a job or course of study. 注册/（和…）签约" 
 
 
 
-02.pepper  [ˈpepə(r)] 
+02.steward /ˈstjuːəd/ /ˈstuːərd/
+
+[n] "a man whose job is to take care of passengers on a ship, an aircraft or a train and who brings them meals, etc."
+
+
+
+
+
+03.stewardess /ˌstjuːəˈdes/ /ˈstuːərdəs/
+
+[n] Stewardess: Please put it under your seat.  
+
+"a female flight attendant"
+
+
+
+04.pepper  [ˈpepə(r)] 
 
 [noun]"胡椒粉"
 
@@ -9636,11 +9690,11 @@ sliced meat.
 
 
 
-03.Chinese people have a strong sense of family.
+05.Chinese people have a strong sense of family.
 
 
 
-04.Original family
+06.Original family
 
 
 
@@ -9666,7 +9720,9 @@ sliced meat.
 
 03.grievance  [ˈɡriːvəns] 
 
-[noun] {~ (against sb)} Parents were invited to air their grievances (= express them) at the meeting. "something that you think is unfair and that you complain or protest about"
+[noun] {~ (against sb)} Parents were invited to air their grievances (= express them) at the meeting. 
+
+"something that you think is unfair and that you complain or protest about"
 
 
 
@@ -12191,7 +12247,7 @@ We would have a lazy lunch and then lie on the beach in the sun.
 
 
 
-#### 2020/09/12.10
+#### 2020/09/12.11
 
 01.phonetic symbol  [fəˈnetɪk ˈsɪmbl]
 
@@ -12274,6 +12330,14 @@ We would have a lazy lunch and then lie on the beach in the sun.
 [noun] Only 10% of the population are now practising Christians.
 
 "a person who believes in the teachings of Jesus Christ or has been baptized in a Christian church"
+
+
+
+11.Muslim /ˈmʊzlɪm/
+
+[n] A Muslim is someone who believes in Islam and lives according to its rules.
+
+"a person whose religion is Islam"
 
 
 
@@ -17061,7 +17125,7 @@ an ingenious device
 
 <img src="./images/bandage.jpg" alt="bandage" style="zoom:25%;" />
 
-#### 2020/11/02.18
+#### 2020/11/02.20
 
 01.shelf  [ʃelf] 
 
@@ -17145,23 +17209,21 @@ an ingenious device
 
 
 
-09.permanently  ['pɜːmənəntli] 
-
-[adv] Heavy drinking can cause permanent damage to the brain...
-
-"Something that is **permanent** lasts for ever."
 
 
+09.genome/ˈdʒiːnoʊm/
 
-10.literal  [ˈlɪtərəl]
+[n] the human genome.
 
-[adj] I am not referring to ‘small’ people in the literal sense of the word.
+"the complete set of genes in a cell or living thing"
 
-"being the basic or usual meaning of a word or phrase"
 
-[adj] a literal translation."that follows the original words exactly"
 
-[adj] Her interpretation of the music was too literal. "lacking imagination"
+10.genomics /dʒiˈnɒmɪks/ /dʒiˈnɑːmɪks/
+
+[n] So, in summary, genomics data encompasses both discrete elements (like nucleotides or genetic variants) and continuous measurements (like gene expression levels), making it a mix of both discrete and continuous data types.
+
+"**Genomics** is the study of genomes."
 
 
 
@@ -17256,6 +17318,26 @@ an ingenious device
 [adj] sunlit streets. "receiving light from the sun"
 
 <img src="./images/sunlit.jpg" alt="sunlit" style="zoom:25%;" />
+
+
+
+19.permanently  ['pɜːmənəntli] 
+
+[adv] Heavy drinking can cause permanent damage to the brain...
+
+"Something that is **permanent** lasts for ever."
+
+
+
+20.literal  [ˈlɪtərəl]
+
+[adj] I am not referring to ‘small’ people in the literal sense of the word.
+
+"being the basic or usual meaning of a word or phrase"
+
+[adj] a literal translation."that follows the original words exactly"
+
+[adj] Her interpretation of the music was too literal. "lacking imagination"
 
 
 
@@ -18929,7 +19011,7 @@ plenty of eggs/money/time.
 
 
 
-#### 2020/12/07.06
+#### 2020/12/07.11
 
 01.germ  [dʒɜː(r)m]
 
@@ -18955,7 +19037,15 @@ plenty of eggs/money/time.
 
 
 
-04.tongue twister  [ˈtʌŋ twɪstə(r)]
+04.cognition /kɑːɡˈnɪʃn/
+
+[n] **Cognition** is the mental process involved in knowing, learning, and understanding things.
+
+"the process by which knowledge and understanding is developed in the mind"
+
+
+
+05.tongue twister  [ˈtʌŋ twɪstə(r)]
 
 [n] This sentence is a tongue twister.
 
@@ -18963,7 +19053,7 @@ plenty of eggs/money/time.
 
 
 
-05.twister  [ˈtwɪstə(r)] 
+06.twister  [ˈtwɪstə(r)] 
 
 [noun] 
 
@@ -18973,7 +19063,7 @@ plenty of eggs/money/time.
 
 
 
-06.twisted /ˈtwɪstɪt/
+07.twisted /ˈtwɪstɪt/
 
 [adj] After the crash the car was a mass of twisted metal.
 
@@ -18985,7 +19075,7 @@ plenty of eggs/money/time.
 
 
 
-07.strange  [streɪndʒ] 
+08.strange  [streɪndʒ] 
 
 [adj] A strange thing happened this morning. 
 
@@ -19001,7 +19091,7 @@ plenty of eggs/money/time.
 
 
 
-08.peculiar  [pɪˈkjuːliə(r)] 
+09.peculiar  [pɪˈkjuːliə(r)] 
 
 [adj] a peculiar smell/taste. 
 
@@ -19013,7 +19103,7 @@ plenty of eggs/money/time.
 
 
 
-09.disinfectant [ˌdɪsɪnˈfektənt]
+10.disinfectant [ˌdɪsɪnˈfektənt]
 
 [noun] a strong smell of disinfectant.
 
@@ -19021,7 +19111,7 @@ plenty of eggs/money/time.
 
 
 
-10.articulate /ɑːrˈtɪkjuleɪt , ɑːrˈtɪkjələt/
+11.articulate /ɑːrˈtɪkjuleɪt , ɑːrˈtɪkjələt/
 
 [v] She struggled to articulate her thoughts. 
 
@@ -21337,6 +21427,10 @@ A lamp was suspended from the ceiling."to hang sth from sth else"
 
 [adj] "consisting of small granules ; looking or feeling like a collection of granules"
 
+[adj] a granular database.
+
+"characterized by a high level of [granularity](https://www.google.com/search?newwindow=1&sca_esv=e956764450c795c0&biw=1159&bih=1224&sxsrf=ACQVn0_TxrXqYIYqI-BvWtEROpI_IBbh4Q:1711090040093&q=granularity&si=AKbGX_q4mkMHy1Nmq4yITjHYVzepqcx3tsfhBSeGamnVYs8-iwS47XhJG28TxVn0azgBKsCEDPXiYdpsFvprdgZAtuBoB_Rdoi_ldjhL-rvzAxEkGW7mIT0%3D&expnd=1)."
+
 
 
 12.ethnic Chinese  [ˈeθnɪk ˌtʃaɪˈniːz] 
@@ -23044,6 +23138,14 @@ D[noun] Embarkation will be at 14:20 hours.
 
 
 
+#### 20210309.04
+
+migrant (移居者)  migration (移居的过程; 迁移) 
+
+immigrant (移民者) immigration (移民的过程; 移民局检查站, 移民局"immigration office")
+
+
+
 #### 20210310.27
 
 01.splurge  [splɜː(r)dʒ]
@@ -23152,11 +23254,13 @@ Recognizing outstanding work communicating and refining ideas in Machine Learnin
 
 
 
-13.layover  [ˈleɪəʊvə(r)] 
+13.migration /maɪˈɡreɪʃn/
 
-[noun] =stopover "a brief stay in the course of a journey"
+[n] seasonal migration.
 
+"the movement of large numbers of people, birds or animals from one place to another"
 
+ 
 
 14.connecting flight  [kəˈnektɪŋ flaɪt] 
 
@@ -23279,6 +23383,12 @@ Recognizing outstanding work communicating and refining ideas in Machine Learnin
 27.metaphorical [ˌmetəˈfɒrɪkl] 
 
 [adj] metaphorical language. "connected with or containing metaphors"
+
+
+
+28.layover  [ˈleɪəʊvə(r)] 
+
+[noun] =stopover "a brief stay in the course of a journey"
 
 
 
@@ -23556,7 +23666,9 @@ In summary, a resort provides a luxurious and comfortable vacation experience wi
 
 12.bunny  [ˈbʌni] 
 
-[noun] "a child's word for a rabbit"
+[noun] The YouTuber used a bunny as an example to explain differential equations.
+
+"a child's word for a rabbit"
 
 
 
@@ -24315,7 +24427,9 @@ D [noun] a bad ankle sprain.
 
 17.typo [ˈtaɪpəʊ]  
 
-[noun] a small mistake in a typed or printed text. "a small mistake in a typed or printed text"
+[noun] I believe there might be a small typo in your question. The correct parameter is `batch_first` .
+
+ "a small mistake in a typed or printed text"
 
 
 
@@ -37829,7 +37943,7 @@ prescriptive powers.
 
 
 
-04.ramadan [ˈræmədæn]
+04.Ramadan [ˈræmədæn]
 
 [noun] This means the date of Ramadan will vary slightly each year.
 
@@ -38328,7 +38442,7 @@ D[noun]  the attractiveness of travelling abroad.
 
 
 
-#### 04/13.05
+#### 04/13.07
 
 01.resemblance /rɪˈzembləns/
 
@@ -38362,19 +38476,67 @@ D[noun]  the attractiveness of travelling abroad.
 
 
 
-04.intriguing /ɪnˈtriːɡɪŋ/
+04.conceal /kənˈsiːl/
 
-[adj]These discoveries raise intriguing questions.
+[v] For a long time his death was concealed from her.
 
- "very interesting **because of being unusual** or not having an **obvious** answer"
+"to hide sb/sth"
 
 
 
-05.hijacker /ˈhaɪdʒækər/
+> Conceal and hide are actually very similar. They both mean to under something.  
+>
+> Hide means to keep out of sight.  
+>
+> Conceal means the same thing, to keep something out of sight, but it also means to keep something hidden, such as a secret, or to stop something from being known or noticed.  
+>
+> 
+>
+> Here are some Examples.  
+>
+> 
+>
+> I hid my face. 
+>
+> I concealed my face. 
+>
+> In this case they both mean the same thing.  
+>
+> 
+>
+> But in another case. Ex.  
+>
+> She hid herself from others. 
+>
+> She concealed herself from others.  
+>
+> In this case they have two different meanings.
+
+
+
+05.concealment /kənˈsiːlmənt/
+
+[n] Many animals rely on concealment for protection.
+
+"the act of hiding sth; the state of being hidden"
+
+
+
+06.hijacker /ˈhaɪdʒækər/
 
 [noun] The hijacker commandeered the plane on a domestic flight. 
 
 "a person who hijacks a plane or other vehicle"
+
+
+
+07.intriguing /ɪnˈtriːɡɪŋ/
+
+[adj] These discoveries raise intriguing questions.
+
+ "very interesting **because of being unusual** or not having an **obvious** answer"
+
+
 
 
 
@@ -38716,6 +38878,22 @@ In basketball, a splash is **a shot that goes through the basket, only touching 
 
 
 
+03.narrative /ˈnærətɪv/
+
+[n] She stressed that the narratives about migrants should be reshaped to portray them as essential members of society, beyond merely meeting labor needs.
+
+"a description of events, especially in a novel"
+
+
+
+04.merely /ˈmɪəli/ /ˈmɪrli/
+
+[adv] It is not merely a job, but a way of life.
+
+"used meaning ‘only’ or ‘simply’ to emphasize a fact or sth that you are saying"
+
+
+
 #### 05/04.02
 
 01.negligence /ˈneɡlɪdʒəns/
@@ -39006,7 +39184,7 @@ For example, if someone says that their drink is laced with alcohol, it means th
 
 09.collate /kəˈleɪt/
 
-[v] to collate data/information/figures. 
+[v] to collate data/information/figures. /You could use a custom `collate_fn` as a fix for this particular error in the `DataLoader` and return a list, which contains targets of different sizes.
 
 "to collect information together from different sources in order to examine and compare it"
 
@@ -39058,9 +39236,11 @@ Imitate is used more often than mimic and has a more general and **neutral** mea
 
 
 
-03.touch wood /tʌtʃ wʊd/
+03.humiliate /hjuːˈmɪlieɪt/
 
-[phrase] **said in order to avoid bad luck, either when you mention good luck that you have had in the past or when you mention hopes you have for the future**: The deal will be agreed on Wednesday, touch wood. Good luck and bad luck.
+[v] I didn't want to humiliate her in front of her colleagues.
+
+"to make sb feel ashamed or stupid and lose the respect of other people"
 
 
 
@@ -39091,6 +39271,12 @@ Imitate is used more often than mimic and has a more general and **neutral** mea
 "loose and without much shape" -baggy-
 
 [adj] Don't make the mixture too sloppy."containing too much liquid"
+
+
+
+07.touch wood /tʌtʃ wʊd/
+
+[phrase] **said in order to avoid bad luck, either when you mention good luck that you have had in the past or when you mention hopes you have for the future**: The deal will be agreed on Wednesday, touch wood. Good luck and bad luck.
 
 
 
@@ -40227,6 +40413,18 @@ Growing levels of pollution represent a serious health hazard to the local popul
 02.mung bean /mʌŋ biːn/
 
 [n] "erect bushy annual widely cultivated in warm regions of India and Indonesia and United States for forage and especially its edible seeds"
+
+
+
+03.erect /ɪˈrekt/
+
+[adj] Stand with your arms by your side and your head erect.
+
+"in a vertical position"
+
+[v] The church was erected in 1582.
+
+"to build sth"
 
 
 
@@ -42611,11 +42809,19 @@ The officer briefed her on what to expect  [verb] "给(某人)指示;向(某人)
 
 
 
-02.pyramidal /ˈpɪrəmɪdl/
+02.take down /teɪk daʊn/
 
-[adj] ...a black pyramidal tent.
+[vp] I took the poster down from the wall in Lab 23403B. 
 
-"Something that is **pyramidal** is shaped like a pyramid."
+"If you **take** something **down**, you reach up and get it from a high place such as a shelf."
+
+[vp] The Canadian army took down the barricades erected by the Indians...
+
+ "If you **take down** a structure, you remove each piece of it."
+
+[vp] We've been trying to get back to you, Tom, but we think we took your number down incorrectly...
+
+"If you **take down** a piece of information or a statement, you write it down."
 
 
 
@@ -42632,6 +42838,14 @@ The officer briefed her on what to expect  [verb] "给(某人)指示;向(某人)
 [v] Nichols set off for his remote farmhouse in Connecticut...
 
 "When you **set off**, you start a journey."
+
+
+
+05.pyramidal /ˈpɪrəmɪdl/
+
+[adj] ...a black pyramidal tent.
+
+"Something that is **pyramidal** is shaped like a pyramid."
 
 
 
@@ -44668,7 +44882,7 @@ d[adv]shabbily dressed
 
 
 
-#### 02/26
+#### 02/26.07
 
 01.verbose /vɜːrˈboʊs/
 
@@ -44720,3 +44934,267 @@ d[adv]shabbily dressed
 
 
 
+06.break room 
+
+[phrase] "break room could be a space where people can take a break, unwind, and recharge."
+
+-"lounge," or "relaxation area,"-
+
+
+
+07.unwind /ˌʌnˈwaɪnd/ 
+
+[v] He unwound his scarf from his neck.
+
+"to undo sth that has been wrapped into a ball or around sth"
+
+[v] Music helps me unwind after a busy day.
+
+"to stop worrying or thinking about problems and start to relax"
+
+
+
+#### 03/04.05
+
+01.hazel /ˈheɪzl/
+
+[n] "a small tree that produces small nuts (called hazelnuts ) that can be eaten"
+
+[adj] "greenish-brown or reddish-brown in colour"
+
+
+
+02.hazelnut /ˈheɪzlnʌt/
+
+[n] You can also find a new non-dairy Hazelnut Flavored Creamer, inspired by Starbucks' Hazelnut Latte, which I will be adding to my coffee all autumn long.
+
+"**Hazelnuts** are nuts from a hazel tree, which can be eaten."
+
+
+
+03.non-dairy /ˌnɒn ˈdeəri/ /ˌnɑːn ˈderi/
+
+[adj] a non-dairy whipped topping.
+
+"not made with milk or cream"
+
+
+
+04.whip /wɪp/
+
+[n]  He cracked his whip and the horse leapt forward.
+
+"a long thin piece of rope or leather, attached to a handle, used for making animals move or punishing people"
+
+[v] Serve the pie with whipped cream .
+
+"to hit a person or an animal hard with a whip , as a punishment or to make them go faster or work harder"
+
+
+
+05.waitlist / ˈweɪtˌlɪst /
+
+[v] All they could do was to waitlist us for the afternoon flight.
+
+"to place on a waiting list" 
+
+
+
+#### 03/05.02
+
+01.speculative /ˈspekjələtɪv/
+
+[adj] Calls grow to prevent speculative homebuying by foreigners.
+
+"done in the hope of making a profit but involving the risk of losing money"
+
+
+
+02.dwelling /ˈdwelɪŋ/
+
+[n] Australia also enforces restrictions on home ownership for foreigners, allowing them to purchase only one established dwelling, which must be occupied by the owner.
+
+"a house, flat/apartment, etc. where a person lives"
+
+
+
+03.homebuying 
+
+[noun] "购房"
+
+
+
+#### 03/08.02
+
+01.melanin /ˈmelənɪn/
+
+[n] 멜라닌.
+
+"a dark substance in the skin and hair that causes the skin to change colour in the sun's light"
+
+
+
+02.dune /djuːn/ /duːn/
+
+[n] *Dune* is a 2021 American epic science fiction film directed and co-produced by Denis Villeneuve, who co-wrote the screenplay with Jon Spaihts and Eric Roth.
+
+"a small hill of sand formed by the wind, near the sea or in a desert"
+
+
+
+#### 03/11.01
+
+01.toll /təʊl/ /toʊl/
+
+[n] a toll road/bridge. 
+
+"money that you pay to use a particular road or bridge"
+
+[n] "the sound of a bell ringing with slow regular strokes"
+
+[v] This year **Ramdan 2024 will start from 11 March 2024 and will go on toll 9 April 2024**.
+
+"when a bell tolls or sb tolls it, it is rung slowly many times, especially as a sign that sb has died"
+
+
+
+#### 03/14.06
+
+01.streaker /ˈstriːkər/
+
+[n] The Oscars Streaker | 46th Oscars (1974). 
+
+"a person who runs through a public place with no clothes on as a way of getting attention"
+
+
+
+02.cultivated land /ˈkʌltɪveɪtɪd lænd/
+
+[n] "arable land that is worked by plowing and sowing and raising crops"
+
+
+
+03.arable /ˈærəbl/
+
+[adj] arable farming/farms/crops. 
+
+"connected with growing crops such as wheat"
+
+
+
+04.wheat /wiːt/
+
+[n] wheat flour. 
+
+"a plant grown for its grain that is used to produce the flour for bread, cakes, pasta , etc.; the grain of this plant"
+
+
+
+05.plow/plaʊ/  =plough犁;耕 sow  /soʊ , saʊ/ 播种 raise /reɪz/
+
+
+
+06.most-sought-after
+[adj] The most-sought-after item during the holiday season was the limited edition gaming console, with eager customers lining up outside stores for hours to secure one.
+
+"The term "most-sought-after" refers to something that is highly desired or pursued by a large number of people. "
+
+
+
+#### 03/17.01
+
+01.conceptual /kənˈseptʃuəl/
+
+[adj] "related to or based on ideas/概念上的"
+
+
+
+#### 03/18.01
+
+01.galloping /ˈɡæləpɪŋ/
+
+[adj] In Wikipedia, it is stated that when the hippo is galloping, its speed is 30 km/h.
+
+"increasing or spreading rapidly"
+
+
+
+#### 03/20.04
+
+01.catastrophic /ˌkætəˈstrɒfɪk/ /ˌkætəˈstrɑːfɪk/
+
+[adj]  Forgetting speed in long-range dependency for transformers is catastrophic.
+
+"Something that is **catastrophic** involves or causes a sudden terrible disaster."
+
+
+
+02.top up /ˈtɒp ʌp/ /ˈtɑːp ʌp/
+
+[pv] The sentence "How to top up the transportation card?" is grammatically correct. It is a question inquiring about the process of adding funds or credit to a transportation card, such as a subway pass or bus pass.
+
+"If you **top** something **up**, you make it full again when part of it has been used."
+
+
+
+03.fare gate/feə(r)/ /fer/
+
+
+
+04.turnstile /ˈtɜːrnstaɪl/
+
+[n] And then push the turnstile to get into the platform. 
+
+"a gate at the entrance to a public building, stadium , etc. that turns in a circle when pushed, allowing one person to go through at a time"
+
+
+
+#### 03/22.04
+
+01.impressed /ɪmˈprest/
+
+[adj] They weren't that **impressed** with being able to order their **groceries** online
+
+"feeling admiration for sb/sth because you think they are particularly good, interesting, etc."
+
+
+
+02.grocery /ˈɡrəʊsəri/ /ˈɡroʊsəri/
+
+[n] "food and other goods sold by a grocer or at a supermarket"
+
+
+
+03.come in handy /kʌm ɪn ˈhændi/
+
+[vP] "be useful for a certain purpose"
+
+
+
+04.granularity 
+
+[n] "the quality or condition of being granular"
+
+[n] the bill data doesn't provide sufficient granularity to answer the questions.
+
+"the scale or level of detail present in a set of data or other phenomenon."
+
+#### 
+
+
+
+#### 03/24
+
+01.disposable /dɪˈspoʊzəbl/
+
+[adj] Concerns rise over excessive use of disposable cups at marathons
+
+"made to be thrown away after use"
+
+
+
+02.hobbyist /ˈhɒbiɪst/ /ˈhɑːbiɪst/
+
+[n] The primary intended users of the model are researchers and hobbyists in computer vision, machine learning, and artificial intelligence.
+
+"a person who is very interested in a particular hobby"
