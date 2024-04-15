@@ -335,7 +335,7 @@ While both words can be used to refer to the act of regulating or limiting somet
 
 27.raid /reɪd/
 
-[noun] {~ (on sth)} They carried out a bombing raid on enemy bases.
+[noun] {~ (on sth)} They carried out a bombing raid on enemy bases./Gaza's al-Shifa hospital in ruins after two-week Israeli raid.
 
 "a **short surprise** **attack** on an enemy by soldiers, ships or aircraft"
 
@@ -1489,25 +1489,24 @@ twisted ankle vs sprained ankle
 
 
 38.essentially  [ɪˈsenʃəli]
-[adv]  There are three essentially different ways of tackling the problem.
+
+[adv]  There are three essentially different ways of tackling the problem./Exposed to high levels of carbon monoxide, the room erupted in chaos as explosions ensued, leaving vomit strewn everywhere, **rendering the occupants** essentially dead.
 
 "when you think about the true, important or basic nature of sb/sth"
 
 
 
-39.ranking [ˈræŋkɪŋ] 
+39.strew /struː/
 
-[noun] He has improved his ranking this season from 67th to 30th.
-
-"the position of sb/sth on a scale that shows how good or important they are in relation to other similar people or things, especially in sport"
-
- [**adj**]  He was the ranking officer(= the most senior officer present at a particular time) 
-
-"having a high or the highest rank in an organization, etc."
+[v] Clothes were strewn across the floor. "to cover a surface with things" -scatter-
 
 
 
+40.occupant /ˈɒkjəpənt/ /ˈɑːkjəpənt/
 
+[n] All outstanding bills will be paid by the previous occupants.
+
+"a person who lives or works in a particular house, room, building, etc."
 
 
 
@@ -2139,25 +2138,29 @@ D[adv] internally connected rooms.
 
 
 
-03.barb [bɑːrb]
+03.internally /ɪnˈtɜrnəli/
 
-[noun] "the point of an arrow or a hook that is curved backwards to make it difficult to pull out"
+[adv] The new posts were only advertised internally.
 
-[noun] "a remark that is meant to hurt sb's feelings"
+"on or from the inside"
 
 
 
-04.dig  [dɪɡ]
+04.advertise  [ˈædvə(r)taɪz] 
 
-[verb] to dig for coal/gold/Roman remains. {~ (for sth)} "to make a hole in the ground or to move soil from one place to another using your hands, a tool or a machine"
+[verb]  If you want to attract more customers, try advertising in the local paper. 
 
-[verb] I'll dig some potatoes for lunch. "to remove sth from the ground with a tool"
+"to tell the public about a product or a service in order to encourage people to buy or to use it"
 
-[verb] I dug around in my bag for a pen. "to search in sth in order to find an object in sth"
+[noun] We are currently advertising for a new sales manager. 
 
-[noun] She gave him a dig in the ribs . "a small push with your finger or elbow"
+"to let people know that sth is going to happen, or that a job is available by giving details about it in a newspaper, on a notice in a public place, on the Internet, etc."
 
-[noun] {~ (at sb/sth)} He kept making sly little digs at me. "a remark that is intended to annoy or upset sb"
+ [noun]  I wouldn't advertise the fact that you don't have a work permit. 
+
+"to show or tell sth about yourself to other people"
+
+
 
 
 
@@ -2583,6 +2586,24 @@ The tidal energy is not stable.
 
 
 
+47.barb [bɑːrb]
+
+[noun] "the point of an arrow or a hook that is curved backwards to make it difficult to pull out"
+
+[noun] "a remark that is meant to hurt sb's feelings"
+
+
+
+48.ranking [ˈræŋkɪŋ] 
+
+[noun] He has improved his ranking this season from 67th to 30th.
+
+"the position of sb/sth on a scale that shows how good or important they are in relation to other similar people or things, especially in sport"
+
+ [**adj**]  He was the ranking officer(= the most senior officer present at a particular time) 
+
+"having a high or the highest rank in an organization, etc."
+
 #### 2019/12/31.21
 
 01.quiz [kwɪz] 
@@ -2954,19 +2975,17 @@ D[noun]  contiguity.
 
 
 
-12.advertise  [ˈædvə(r)taɪz] 
+12.dig  [dɪɡ]
 
-[verb]  If you want to attract more customers, try advertising in the local paper. 
+[verb] to dig for coal/gold/Roman remains. {~ (for sth)} "to make a hole in the ground or to move soil from one place to another using your hands, a tool or a machine"
 
-"to tell the public about a product or a service in order to encourage people to buy or to use it"
+[verb] I'll dig some potatoes for lunch. "to remove sth from the ground with a tool"
 
-[noun] We are currently advertising for a new sales manager. 
+[verb] I dug around in my bag for a pen. "to search in sth in order to find an object in sth"
 
-"to let people know that sth is going to happen, or that a job is available by giving details about it in a newspaper, on a notice in a public place, on the Internet, etc."
+[noun] She gave him a dig in the ribs . "a small push with your finger or elbow"
 
- [noun]  I wouldn't advertise the fact that you don't have a work permit. 
-
-"to show or tell sth about yourself to other people"
+[noun] {~ (at sb/sth)} He kept making sly little digs at me. "a remark that is intended to annoy or upset sb"
 
 
 
@@ -3244,9 +3263,9 @@ He informed on his own brother.
 
 
 
-27.fabric conditioner [ˈfæbrɪk kənˈdɪʃənə(r)] 
 
-[phrasal noun] "What does Fabric Conditioner do? Just as conditioner protects your hair, Downy Fabric Conditioner **protects your clothes**. Downy strengthens fabrics and helps reduce **friction** during the laundry process, which helps clothes keep their original shape, reduce color fading, and reduce pilling  [ˈpɪlɪŋ] and fuzz [fʌz] ."
+
+
 
 
 
@@ -7459,15 +7478,7 @@ We're open till 6 o'clock.
 
 
 
-04.litter [ˈlɪtə(r)]
 
-[noun] There will be fines for people who drop litter. 
-
-"small pieces of rubbish/garbage such as paper, cans and bottles, that people have left lying in a public place"
-
- [verb] Piles of books and newspapers littered the floor.
-
-"to be spread around a place, making it look untidy"//Piles of books 成堆的书
 
 
 
@@ -13396,6 +13407,14 @@ D[adv] We regret this service is temporarily unavailable.
 
 
 
+11.solar eclipse /ˈsoʊlər ɪˈklɪps/
+
+[n] please do not take medical advise from a man who looked directly at a solar eclipse. 
+
+"the moon interrupts light from the sun"
+
+
+
 #### 2020/09/25.17
 
 01.receipt [rɪˈsiːt] 
@@ -13500,10 +13519,6 @@ D[adv] We regret this service is temporarily unavailable.
 
 
 
-
-
-
-
 12.distinctive  [dɪˈstɪŋktɪv]
 
 [adj] clothes with a distinctive style.  /state what is distinctive and new about the current manuscript relative to these previously published works. -characteristic[ˌkærəktəˈrɪstɪk]-
@@ -13520,7 +13535,11 @@ distinct means something that makes it different from others. It doesn’t mean 
 
 13.deteriorate  [dɪˈtɪəriəreɪt] 
 
-[verb] Her health deteriorated rapidly, and she died shortly afterwards. "to become worse"
+[verb] Her health deteriorated rapidly, and she died shortly afterwards. 
+
+/Korea's hydrogen charging infrastructure deteriorates in past 3 yrs.
+
+"to become worse"
 
 D[noun] a serious deterioration in relations between the two countries.
 
@@ -13790,7 +13809,7 @@ dominant hand vs non-dominant hand
 
 "the practice of showing respect for God or a god, by saying prayers, singing with others, etc.; a ceremony for this"
 
-[v] He worshipped at the local mosque.
+[v] He worshipped at the local mosque./Freedom to worship as you wish.
 
 "to go to a service in a religious building"
 
@@ -18435,7 +18454,7 @@ The team is bidding to retain its place in the league.
 
 02.merit [ˈmerɪt] 
 
-[noun] a work of outstanding artistic merit. 
+[noun] a work of outstanding artistic merit. /The company's policy dictates that the salary is based on merit, ensuring that employees are rewarded in accordance with their performance and contributions.
 
 "The quality of being good and of deserving praise, reward or admiration" -worth-
 
@@ -18779,7 +18798,7 @@ D[noun] Riots [ˈraɪəts]  led to the postponement  [pəˈspəʊnmənt]  of loc
 
 
 
-#### 2020/12/02.08
+#### 2020/12/02.10
 
 ##### vent
 
@@ -18888,6 +18907,26 @@ D01.prevention  [prɪˈvenʃn]
 [adj] a conventional power station (= using oil or coal as fuel, rather than nuclear power).
 
 "not nuclear"
+
+
+
+09.distillation /dɪstɪˈleɪʃn/
+
+[n]  The discovery of distillation is usually accredited to the Arabs of the 11th century.
+
+"the process of purifying a liquid by boiling it and condensing its vapors"
+
+
+
+10.accredited /əˈkredɪtɪt/
+
+[adj] Only accredited journalists were allowed entry.
+
+"officially recognized as sth; with official permission to be sth"
+
+[adj] a fully accredited school/university/course. 
+
+"officially approved as being of an accepted quality or standard"
 
 
 
@@ -22031,9 +22070,11 @@ I have been fortunate enough to visit many parts of the world as a lecturer.
 
 30.expatriate  [ˌeksˈpeɪtriət]
 
-[noun] American expatriates in Paris. "a person living in a country that is not their own"
+[noun] American expatriates in Paris. "a person living in a country that is not their own" -expat-
 
-#### 20210214.06
+
+
+#### 20210214.07
 
 01.assembly  [əˈsembli]
 
@@ -22081,11 +22122,7 @@ I have been fortunate enough to visit many parts of the world as a lecturer.
 
 
 
-
-
-
-
-08.civilian  [səˈvɪliən]
+07.civilian  [səˈvɪliən]
 
 [noun] "a person who is not a member of the armed forces or the police"
 
@@ -24489,7 +24526,9 @@ D [noun] a bad ankle sprain.
 
 02.bail /beɪl/
 
-[n] Can anyone put up bail for you? 
+[n] Can anyone put up bail for you? /
+
+We were informed that our CEO Richard Qiangdong Liu was **taken into custody(20201017)** by Minneapolis police on August 31, 2018. He has been released without any charges, and without requirement for bail. Mr. Liu has returned to work in China,” the company said on Monday
 
 "money that sb agrees to pay if a person accused of a crime does not appear at their trial. When bail has been arranged, the accused person is allowed to go free until the trial."
 
@@ -24507,15 +24546,9 @@ D [noun] a bad ankle sprain.
 
 
 
-04.infect [ɪnˈfekt] 
+04.taken into custody 
 
-[verb] {~ sb/sth (with sth)} It is not possible to infect another person through kissing. "to make a disease or an illness spread to a person, an animal or a plant"
-
-[verb] eggs infected with salmonella. "to make a substance contain harmful bacteria that can spread disease" -contaminate-
-
-[verb] "to make a computer virus spread to another computer or program"
-
-[verb] She infected the children with her enthusiasm for music. "to make sb share a particular feeling"
+"被羁押"
 
 
 
@@ -24610,6 +24643,20 @@ D[adv] We reluctantly agreed to go with her.
 [verb] The virus can cause pregnant animals to abort. "to give birth to a child or young animal too early for it to survive"
 
 [verb]We had no option but to abort the mission. "to end or cause sth to end before it has been completed, especially because it is likely to fail"
+
+
+
+15.infect [ɪnˈfekt] 
+
+[verb] {~ sb/sth (with sth)} It is not possible to infect another person through kissing. "to make a disease or an illness spread to a person, an animal or a plant"
+
+[verb] eggs infected with salmonella. "to make a substance contain harmful bacteria that can spread disease" -contaminate-
+
+[verb] "to make a computer virus spread to another computer or program"
+
+[verb] She infected the children with her enthusiasm for music. "to make sb share a particular feeling"
+
+
 
 #### 20210404.05
 
@@ -26102,6 +26149,18 @@ Park Min Young addresses dating rumor controversy: 'Regretted it everyday...'
 
 
 
+03.customary /ˈkʌstəmeri/
+
+[adj] Is it customary to tip hairdressers in this country?
+
+"if sth is customary , it is what people usually do in a particular place or situation"
+
+[adj] The king carried himself with his customary elegance... 
+
+"typical of a particular person"
+
+
+
 03.continuous  [kənˈtɪnjuəs] 
 
 [adj] She was in continuous employment until the age of sixty-five. 
@@ -27549,6 +27608,32 @@ Kim Jong-un's slimmer frame has prompted more speculation about his health./Ther
 "a room or rooms in a building, partly or completely below the level of the ground"
 
 
+
+07.deer /dɪr/
+
+[n] a herd of deer.
+
+"an animal with long legs, that eats grass, leaves, etc. and can run fast. Most male deer have antlers (= horns shaped like branches). There are many types of deer ."
+
+
+
+08.reindeer /ˈreɪndɪr/
+
+[n] herds of reindeer.
+
+"a large deer with long antlers (= horns shaped like branches), that lives in cold northern regions"
+
+
+
+09.antler /ˈæntlər/
+
+[n] "one of the two horns that grow on the head of male deer"
+
+
+
+10.horn 
+
+[n] horn{antler, ram's horn, ox horn}
 
 #### 20210701.10
 
@@ -33618,9 +33703,11 @@ D[noun] proneness to depression.
 
 [noun] Chinese VP known as Xi's right-hand man to attend Yoon's inauguration.
 
+"the ceremonial induction into a position"
+
+[n] A French diver slipped and fell into the water as athletes performed in the inauguration ceremony of an Olympic aquatics centre north of Paris on Thursday. 
+
 "the act of starting a new operation or practice"
-
-
 
 
 
@@ -35672,6 +35759,38 @@ D[noun]  Bullying is a problem in many schools.
 
 
 
+10.bowel /ˈbaʊəl/
+
+[n] (medical 医) to empty/move/open your bowels (= to pass solid waste out of the body). 
+
+"the tube along which food passes after it has been through the stomach, especially the end where waste is collected before it is passed out of the body"
+
+
+
+11.constipation /ˌkɑːnstɪˈpeɪʃn/
+
+[n] Try to make sure your bowel motions are regular and that you avoid any constipation.
+
+"the condition of being unable to get rid of waste material from the bowels easily (= being constipated )"
+
+
+
+12.constipated /ˈkɑːnstɪpeɪtɪd/
+
+[adj] If you're constipated, you should take a laxative. 
+
+"unable to get rid of waste material from the bowels easily"
+
+
+
+13.laxative /ˈlæksətɪv/
+
+[n] Foods that ferment(2023/10/17) quickly in the stomach are excellent natural laxatives.
+
+"a medicine, food or drink that makes sb empty their bowels easily"
+
+
+
 #### 12/14.05
 
 01.interracial marriage  [ˌɪntəˈreɪʃl ˈmærɪdʒ] 
@@ -36489,6 +36608,8 @@ dizzy [ˈdɪzi]
 01.offset  [ˈɒfset] 
 
 [verb] {~ sth (against sth)} Prices have risen in order to offset the increased cost of materials.
+
+/ Alex Johnson, who owns 10 Auntie Anne’s Pretzels and Cinnabon locations around the San Francisco Bay Area, told the Associated Press that the [wage increase will cost him about $470,000](https://apnews.com/article/california-fast-food-minimum-wage-a04c2e559b09cbcd26dd5702e0755a83) a year and require him to raise menu prices between 5 and 15 percent to offset the additional costs. 
 
 "to use one cost, payment or situation in order to cancel or reduce the effect of another"
 
@@ -43583,7 +43704,7 @@ D[noun] She is a designer of extraordinary **versatility**.
 
 02.merits and demerits /ˈmerɪts ənd diˈmɛrəts/
 
-[n] 
+[n]  "优缺点;功过"
 
 
 
@@ -45183,7 +45304,7 @@ d[adv]shabbily dressed
 
 
 
-#### 03/24
+#### 03/24.02
 
 01.disposable /dɪˈspoʊzəbl/
 
@@ -45198,3 +45319,252 @@ d[adv]shabbily dressed
 [n] The primary intended users of the model are researchers and hobbyists in computer vision, machine learning, and artificial intelligence.
 
 "a person who is very interested in a particular hobby"
+
+
+
+#### 03/28.01
+
+01.missive /ˈmɪsɪv/
+
+[n] ...the customary (20210512) missive from your dear mother.
+
+"a letter, especially a long or an official one" 
+
+
+
+#### 04/02.07
+
+01.wellness /ˈwelnəs/
+
+[n] Niksen (doing nothing) – a Dutch wellness trend that means "doing nothing" – has caught the attention of the world as a way to manage stress or recover from burnout.
+
+"the state of being healthy"
+
+
+
+02.burnout /ˈbɜːrnaʊt/
+
+[n] "the state of being extremely tired or ill, either physically or mentally, because you have worked too hard"
+
+
+
+03.cede /siːd/
+
+[v] Samsung ceded the No. 1 position to Apple in September last year, but the Galaxy 24, which features a range of AI functions, has seen a positive response in the market since its debut in January.
+
+"to give sb control of sth or give them power, a right, etc., especially unwillingly"
+
+
+
+04.preacher /ˈpriːtʃər/
+
+[n] Seoul City to remove street preachers, homeless from Seoul Station Square.
+
+"a person, often a member of the clergy(20230903) , who gives religious talks and often performs religious ceremonies, for example in a church"
+
+
+
+05.allegedly 
+
+[adv] *The Wall Street Journal* reported that some businesses, including allegedly Pizza Hut, [laid off employees in advance of the wage increase](https://www.wsj.com/business/hospitality/california-restaurants-cut-jobs-as-fast-food-wages-set-to-rise-eb5ddaaa?mod=business_lead_story). "An **alleged** (20210319) fact has been stated but has not been proved to be true."
+
+
+
+06.sprint /sprɪnt/
+
+[v] When my mom and I landed on the roof of the hospital, a team of nearly twenty doctors and nurses sprinted onto the helipad and wheeled me into the trauma unit.
+
+"to run or swim a short distance very fast"
+
+[n] "a race in which the people taking part run, swim, etc. very fast over a short distance"
+
+
+
+07.trauma /ˈtrɔːmə/ /ˈtraʊmə/
+
+[n] trauma unit.
+
+"an injury"
+
+
+
+#### 04/03.01
+
+01.chicken out /ˈtʃɪkɪn/
+
+[v] I'm afraid he'll chicken out when we really start to do it. 
+
+"to decide not to do sth because you are afraid"
+
+
+
+#### 04/04.02
+
+01.heiress /eəˈres/ /ˈerəs/
+
+[n]  the third-generation heiress of a Queens Group conglomerate and the queen of a department store, and **Baek Hyun Woo** (played by [Kim Soo Hyun](https://www.allkpop.com/artisttag/Kim-Soo-Hyun)), the son of a village chief and the prince of a supermarket. 
+
+"An **heiress** is a woman or girl who has the right to inherit property or a title, or who has inherited it, especially when this involves great wealth."
+
+
+
+02.minimum wage
+
+[phrase] a national minimum wage would lead to job losses.
+
+"the lowest wage permitted by law or by a special agreement (such as one with a labor union)."
+
+
+
+#### 04/05.07
+
+01.judiciously / dʒuˈdɪʃəsli /
+
+[adv] Modern fertilisers should be used judiciously.
+
+"If you describe an action or decision as **judicious**, you approve of it because you think that it shows good judgment and sense."
+
+
+
+02.judicious /dʒuˈdɪʃəs/
+
+[adj]  judicious use of one's money.
+
+"careful and sensible; showing good judgement"
+
+
+
+03.invocation /ˌɪnvəˈkeɪʃn/
+
+[n]  ...an invocation for divine guidance.
+
+"the act of asking for help, from a god or from a person in authority; the act of referring to sth or of calling for sth to appear"
+
+[n] Web services are only one approach you can use to implement a service invocation.  "the act of making a particular function start"
+
+
+
+04.synchronization /ˌsɪŋkrənaɪ'zeɪʃ(ə)n/
+
+[n] "同步"
+
+
+
+05.asynchronization 
+
+[n] "异步"
+
+
+
+06.elapsed time /ɪˌlæpst ˈtaɪm/
+
+[n] Then, `torch.cuda.synchronize()` is used to ensure that all CUDA operations are completed before calculating the elapsed time. 
+
+"used to describe the time that passes between the start and end of a project or a computer operation, in contrast to the actual time needed to do a particular task which is part of the project"
+
+
+
+07.consume /kənˈsjuːm/
+
+[v] The electricity industry consumes large amounts of fossil fuels. 
+
+"to use sth, especially fuel, energy or time"
+
+
+
+#### 04/10.03
+
+01.clutter /ˈklʌtər/
+
+[n] There's always so much clutter on your desk! 
+
+"a lot of things in an untidy state, especially things that are not necessary or are not being used; a state of confusion"
+
+[v] Don't clutter the page with too many diagrams./Instead of cluttering your code with `try-except` blocks, you can use `contextlib.suppress` to make your code more concise and readable.
+
+"to fill a place with too many things, so that it is untidy"
+
+
+
+02.litter [ˈlɪtə(r)]
+
+[noun] There will be fines for people who drop litter. 
+
+"small pieces of rubbish/garbage such as paper, cans and bottles, that people have left lying in a public place"
+
+ [verb] Piles of books and newspapers littered the floor.
+
+"to be spread around a place, making it look untidy"//Piles of books 成堆的书
+
+
+
+03.shatter /ˈʃætər/
+
+[v]  He dropped the vase and it shattered into pieces on the floor.
+
+"to suddenly break into small pieces; to make sth suddenly break into small pieces"
+
+
+
+#### 04/11.02
+
+01.glass ceiling /ˌɡlæs ˈsiːlɪŋ/
+
+[n]  Korean women still struggle to shatter glass ceiling in finance sector.
+
+"the imaginary barrier that stops women, or other groups, from getting the best jobs in a company, etc. although there are no official rules to prevent them from getting these jobs"
+
+
+
+02.oversight /ˈoʊvərsaɪt/
+
+[n] "the fact of making a mistake because you forget to do sth or you do not notice sth" -omission-
+
+
+
+#### 04/12.01
+
+01.four distinct seasons 
+
+[phrase] Like the rest of Korea, Seoul has four distinct seasons, which means the landscape changes considerably throughout the year.
+
+
+
+#### 04/13.01
+
+01.permutation /ˌpɜːrmjuˈteɪʃn/
+
+[n] The possible permutations of x, y and z are xyz, xzy, yxz, yzx, zxy and zyx.
+
+"any of the different ways in which a set of things can be ordered"
+
+
+
+#### 04/14
+
+01.normalcy /ˈnɔrməlsi/
+
+[n] It is normalcy for foreigners to not be treated fairly in South Korea.
+
+"**Normalcy** is a situation in which everything is normal."
+
+
+
+02.fabric conditioner [ˈfæbrɪk kənˈdɪʃənə(r)] 
+
+[phrasal noun] "What does Fabric Conditioner do? Just as conditioner protects your hair, Downy Fabric Conditioner **protects your clothes**. Downy strengthens fabrics and helps reduce **friction** during the laundry process, which helps clothes keep their original shape, reduce color fading, and reduce pilling  [ˈpɪlɪŋ] and fuzz [fʌz] ."
+
+
+
+03.cultural fabric
+
+[phrase] Migrants contribute to the economy of the host country, while also enriching the social and cultural fabric. "The "cultural fabric" refers to the collective identity and shared values, beliefs, traditions, and customs that define a society or community. 文化结构"
+
+
+
+04.necessarily /ˌnesəˈserəli/
+
+[adv] The number of places available is necessarily limited.
+
+"used to say that sth cannot be avoided/ 不可避免地"
+
