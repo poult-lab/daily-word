@@ -18258,7 +18258,7 @@ D[adj] skewed statistics."not accurate or correct" -distorted-
 
 [noun] {~ (to sth)} He was charged with being an accessory to murder.
 
-"a person who helps sb to commit a crime or who knows about it and protects the person from the police"
+"a person who helps sb to **commit** **a crime** or who knows about it and protects the person from the police"
 
 [adj] the accessory muscles of respiration."not the most important when compared to others"
 
@@ -18429,6 +18429,10 @@ The team is bidding to retain its place in the league.
 [verb] { ~ sth (from sb)}  I think it's time we sought legal advice.
 
 "to ask sb for sth"
+
+
+
+15.commit a crime
 
 
 
@@ -22911,6 +22915,8 @@ British Airways."a route regularly used by planes"
 
 Adidas CEO Bjorn Gulden, who took office in January, is facing growing calls from Korean franchisees of the German sportswear brand to revoke the restructuring plan pursued by Kasper Rorsted, his predecessor, according to industry officials, Tuesday.
 
+However, your trip must be temporary and you cannot remain outside the United States for more than **1 year**. If the Customs and Border Protection (CBP) officer believes you do not intend to continue living permanently in the United States, they could revoke your status as a permanent resident.
+
 "When people in authority **revoke** something such as a licence, a law, or an agreement, they cancel it."
 
 
@@ -24386,13 +24392,13 @@ She refused to be intimidated by their threats.
 
 
 
-06.sprain [spreɪn] 
+06.ravel /ˈrævl/
 
-[verb] I stumbled and sprained my ankle. /A *sprained ankle* is an injury that occurs when you roll, twist or turn your ankle in an awkward way.
+[v] "to make a situation or problem more complicated"
 
-"to injure a joint in your body, especially your wrist or ankle, by suddenly twisting it"
+[vp] He was trying to ravel out the complicated series of events that had led to this situation.
 
-D [noun] a bad ankle sprain.
+"to open sth which has become twisted or which contains knots" -unravel-
 
 
 
@@ -24507,6 +24513,16 @@ D [noun] a bad ankle sprain.
 [verb] Therefore, people of independent directors even dubbed the "Vase Director." What cause for this difference? Korean composer Chin Un-suk won the Ernst von Siemens Music Prize, dubbed the Nobel Prize of classical music, Thursday, becoming the first Asian to do so.
 
 "to give sb/sth a particular name, often in a humorous or critical way"
+
+
+
+22.sprain [spreɪn] 
+
+[verb] I stumbled and sprained my ankle. /A *sprained ankle* is an injury that occurs when you roll, twist or turn your ankle in an awkward way.
+
+"to injure a joint in your body, especially your wrist or ankle, by suddenly twisting it"
+
+D [noun] a bad ankle sprain.
 
 
 
@@ -29816,7 +29832,7 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-#### 2021/10/06.05
+#### 2021/10/06.07
 
 01.prance  [præns]
 
@@ -29854,9 +29870,25 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-05.forgetful [fəˈɡetfl] 
+05.sponsor /ˈspɑːnsər/
+
+[v] Green card holders **cannot vote and cannot serve on a jury**. They can sponsor their spouses or their children, but that is it. They can travel into the United States for as long as they want, but they can have their status revoked if they commit a crime or they stay outside of the United States for too long.
+
+"a person who agrees to be officially responsible for another person"
+
+
+
+06.forgetful [fəˈɡetfl] 
 
 [adj] She has become very forgetful in recent years."often forgetting things"
+
+
+
+07.commit a crime /kəˈmɪt ə kraɪm/
+
+[vp] ": **to do something illegal**."
+
+
 
 
 
@@ -45540,7 +45572,7 @@ d[adv]shabbily dressed
 
 
 
-#### 04/14
+#### 04/14.04
 
 01.normalcy /ˈnɔrməlsi/
 
@@ -45567,4 +45599,52 @@ d[adv]shabbily dressed
 [adv] The number of places available is necessarily limited.
 
 "used to say that sth cannot be avoided/ 不可避免地"
+
+
+
+#### 04/15.01
+
+01.superfluous /suːˈpɜːrfluəs/
+
+[adj] My presence at the afternoon's proceedings was superfluous... 
+
+"more than you need or want"
+
+
+
+#### 04/23.01
+
+01.compound interest /ˌkɒmpaʊnd ˈɪntrəst/
+
+[n] "interest that is paid both on the original amount of money saved and on the interest that has been added to it"
+
+
+
+#### 04/25
+
+01.premiere /prɪˈmɪr/
+
+[n] The movie will have its premiere in July.
+
+"the first public performance of a film/movie or play"
+
+[v] **Star-studded** film 'Wonderland' to premiere in June. 
+
+"to perform a play or piece of music or show a film/movie to an audience for the first time; to be performed or shown to an audience for the first time"
+
+
+
+02.Star-studded /stɑːr ˈstʌdɪd/
+
+[adj] a star-studded cast. 
+
+"including many famous performers"
+
+
+
+03.fiasco /fiˈæskoʊ/
+
+[n] How Korea's World Scout Jamboree became a global fiasco.
+
+"something that does not succeed, often in a way that causes embarrassment"
 
