@@ -10779,7 +10779,7 @@ Everything has been fixed in advance. "ahead of time"
 
 
 
-#### 2020/08/24.08
+#### 2020/08/24.09
 
 01.recently [ˈriːsntli]
 
@@ -10851,7 +10851,7 @@ Within weeks, his confidence had spread throughout the team. "to affect or make 
 
 
 
-#### 2020/08/26.11
+#### 2020/08/26.12
 
 01.pop up  [ˈpɒp ʌp]
 
@@ -10893,9 +10893,15 @@ You solved one problem and another would immediately pop up."If someone or somet
 
 
 
-06.means of a vote
+> The difference between iron and steel is simply that **iron is an element and steel, in its most basic form, is an alloy of iron and carbon**.
 
-"表决方式"
+
+
+06.alloy /ˈælɔɪ , əˈlɔɪ/
+
+[n] Brass is an alloy of copper and zinc.
+
+"a metal that is formed by mixing two types of metal together, or by mixing metal with another substance" 
 
 
 
@@ -10930,6 +10936,12 @@ You solved one problem and another would immediately pop up."If someone or somet
 11.occasional [əˈkeɪʒənl]
 
 [adj] He works for us on an occasional basis. "happening or done sometimes but not often"
+
+
+
+12.means of a vote
+
+"表决方式"
 
 
 
@@ -13220,23 +13232,7 @@ doves are generally of a smaller stature while pigeons are often larger and stub
 
 
 
-03.resist [rɪˈzɪst]
 
-[verb] to resist change."to refuse to accept sth and try to stop it from happening" 
-
--oppose-
-
-[verb] He tried to **pin me down**, but I resisted.
-
-"to fight back when attacked; to use force to stop sth from happening"
-
-[verb]  I finished the cake. I couldn't resist it .
-
-"to stop yourself from having sth you like or doing sth you very much want to do"
-
-[verb] A healthy diet should help your body resist infection. 
-
-"to not be harmed or damaged by sth"
 
 
 
@@ -16267,11 +16263,21 @@ A special bond unites our two countries.
 
 "to laugh at sb and make jokes about them, either in a friendly way or in order to annoy or embarrass them"
 
+[n] "a person who likes to play tricks and jokes on other people, especially by telling them sth that is not true or by not telling them sth that they want to know"
 
 
 
+02.tease out /tiːz aʊt/
+
+[pv]  The intention of this blog is to provide a detailed and comprehensive break down and also tease out the foundational intuition behind the math and provide a detailed narrative of why Mamba works.
+
+"If you **tease out** information or a solution, you succeed in obtaining it even though this is difficult."
 
 
+
+03.tease apart [tiːz əˈpɑːt]
+
+[verb phrasal] We can tease apart the prediction function "**disentangle and raise the fibers of**"
 
 
 
@@ -24301,9 +24307,7 @@ D[noun]blind/complete/unquestioning/total obedience.
 
 
 
-11.tease apart [tiːz əˈpɑːt]
 
-[verb phrasal] We can tease apart the prediction function "**disentangle and raise the fibers of**"
 
 
 
@@ -34880,13 +34884,51 @@ ICPR 2024 is the 27th event of the series and it provides a great opportunity to
 
 04.temptation  [tempˈteɪʃn] 
 
-[noun] the temptation of easy profits.
+[noun] the temptation of easy profits./Will they be able to resist the temptation to buy?
 
 "the desire to do or have sth that you know is bad or wrong"
 
 
 
-05.nuns [nʌnz] and priests  [priːsts] 
+05.resist [rɪˈzɪst]
+
+[verb] to resist change."to refuse to accept sth and try to stop it from happening" 
+
+-oppose-
+
+[verb] He tried to **pin me down**, but I resisted.
+
+"to fight back when attacked; to use force to stop sth from happening"
+
+[verb]  I finished the cake. I couldn't resist it .
+
+"to stop yourself from having sth you like or doing sth you very much want to do"
+
+[verb] A healthy diet should help your body resist infection. 
+
+"to not be harmed or damaged by sth"
+
+
+
+06.nun [nʌn] 
+
+[n] It has confirmed me in my decision not to become a nun. 
+
+"a member of a religious community of women who promise to serve God all their lives and often live together in a convent"
+
+
+
+07.priest [priːst]
+
+ [n] He had trained to be a Catholic priest.
+
+"a person who is qualified to perform religious duties and ceremonies in the Roman Catholic, Anglican and Orthodox Churches"
+
+
+
+08.Catholic /ˈkæθlɪk/
+
+[n] All three major branches of Christianity (Orthodoxy, Catholicism, and Protestantism) subscribe to the doctrine of the trinity, the idea that there’s one god in three persons (the father, the son, and the holy spirit) [1]. They all, effectively, worship Jesus.
 
 
 
@@ -37513,7 +37555,7 @@ A hazard is usually used to refer to risky situations that are very serious or l
 
 05.wane [weɪn]
 
-[verb] Is K-pop's popularity waning after reaching its peak?. The number of Chinese tourists, traditionally the biggest spenders in South Korea’s duty-free industry, is waning and the void is now being filled by Japanese.
+[verb] Is K-pop's popularity waning after reaching its peak?. The number of Chinese tourists, traditionally the biggest spenders in South Korea’s duty-free industry, is waning and the void is now being filled by Japanese./Chinese tourists opt for visa-free destinations, weak yen as Korea's appeal wanes.
 
 "to become gradually weaker or less important" -decrease;fade-
 
@@ -45620,7 +45662,7 @@ d[adv]shabbily dressed
 
 
 
-#### 04/25
+#### 04/25.03
 
 01.premiere /prɪˈmɪr/
 
@@ -45648,3 +45690,56 @@ d[adv]shabbily dressed
 
 "something that does not succeed, often in a way that causes embarrassment"
 
+
+
+#### 05/01.01
+
+01.scepticism /ˈskeptɪsɪzəm/
+
+[n] After the video was released, some expressed skepticism, pointing out that the claim of needing 60 million won in the bank to study in France does not align with reality.
+
+"an attitude of doubting that claims or statements are true or that sth will happen"
+
+
+
+#### 05/02.01
+
+01.cross-legged /ˌkrɔːs ˈleɡd/
+
+[adv] He sat cross-legged on the floor.
+
+"If someone is sitting **cross-legged**, they are sitting on the floor with their legs bent so that their knees point outwards."
+
+
+
+#### 05/04
+
+01.expulsion /ɪkˈspʌlʃn/
+
+[n] Police investigate immigration official's role in expulsion of Uzbek students.
+
+"the act of forcing sb to leave a place; the act of expelling sb"
+
+
+
+02.dopamine /ˈdoʊpəmiːn/
+
+[n] Dopamine is **a neurotransmitter made in your brain**. It plays a role as a “reward center” and in many body functions, including memory, movement, motivation, mood, attention and more.
+
+"a chemical produced by nerve cells which has an effect on other cells"
+
+
+
+03.retention /rɪˈtenʃn/
+
+[n] Understanding the magic of the **5 to 7** rule in memory retention. Research (see sources) suggests that we need to see information between five to seven times for it to transition from short-term to long-term memory.
+
+"the ability to remember things"
+
+
+
+04.transition /trænˈzɪʃn/
+
+[n] This course is useful for students who are in transition (= in the process of changing) from one training programme to another.
+
+"the process or a period of changing from one state or condition to another"
