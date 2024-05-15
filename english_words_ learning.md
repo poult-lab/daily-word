@@ -2684,11 +2684,11 @@ Four men are being quizzed by police about the murder. "to ask sb a lot of quest
 
 
 
-08.colossal /kəˈlɒsl/ /kəˈlɑːsl/
+08.stainless steel /'steɪnləs/
 
-[adj]   The singer earns a colossal amount of money.  
+[phrase] "Stainless steel, also known as inox, corrosion-resistant steel (CRES) and rustless steel, is *an alloy of iron that is resistant to rusting and corrosion*."
 
-" extremely large  "
+
 
 
 
@@ -2852,6 +2852,12 @@ D[noun]  contiguity.
 [noun] a missile's trajectory. "the curved path of sth that has been fired, hit or thrown into the air" "轨道，弹道"
 
 
+
+04.colossal /kəˈlɒsl/ /kəˈlɑːsl/
+
+[adj]   The singer earns a colossal amount of money.  
+
+" extremely large  "
 
 #### 2020/01/02.17
 
@@ -30773,9 +30779,7 @@ The government will begin expanding efforts to crack down on unauthorized accomm
 
 
 
-04.idle [ˈaɪdl]
 
-[adj] an idle student."not working hard" -lazy-
 
 
 
@@ -31937,7 +31941,33 @@ The store sells women's and children's apparel."clothing, when it is being sold 
 
 
 
-07.price hike
+07.hike 
+
+[n] They went on a ten-mile hike through the forest.
+
+"a long walk in the country"
+
+[n] a tax/price hike. 
+
+"a large or sudden increase in prices, costs, etc."
+
+[v] to hike the Rockies.
+
+"to go for a long walk in the country, especially for pleasure"
+
+[v] The government hiked up the price of milk by over 40%.
+
+"to increase prices, taxes, etc. suddenly by large amounts"
+
+
+
+hike(远足) vs excursion(远行)
+
+> An excursion is more broad while hiking is more specific. Hiking is walking down trails or up and down a mountain of hill. An excursion can be going on a journey anywhere, walking or driving or biking, while hiking is only waking.
+
+
+
+08.price hike
 
 [np] Samsung Elec mulls price hike of new Galaxy S22 series due to costly chipsets. 
 
@@ -34243,6 +34273,20 @@ Thank you for your advice- I will bear it in mind.[携带]
 I was born in 1988. [生孩子，开花结果]
 
 The apple tree has born fruits.
+
+
+
+04.asymmetry /ˌeɪˈsɪmətri/
+
+[n] "**Asymmetry** is the appearance that something has when its two sides or halves are different in shape, size, or style./a lack of symmetry"
+
+
+
+05.symmetry /ˈsɪmətri/
+
+[n] the perfect symmetry of the garden design.
+
+"the exact match in size and shape between two halves, parts or sides of sth"
 
 
 
@@ -37459,7 +37503,9 @@ Her income was barely enough to maintain one child, let alone three.
 
 07.hazardous [ˈhæzə(r)dəs]
 
-[adj] a hazardous journey.
+[adj] a hazardous journey./
+
+AliExpress, Temu agree not to sell hazardous products in Korea.
 
 "involving risk or danger, especially to sb's health or safety"
 
@@ -44174,7 +44220,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 01.pluck /plʌk/
 
-[v] She plucked out a grey hair.
+[v] She plucked out a grey hair./ I prefer plucking my leg hairs one by one rather than waxing them all at once.
 
 "to pull out hairs with your fingers or with tweezers"
 
@@ -45712,7 +45758,7 @@ d[adv]shabbily dressed
 
 
 
-#### 05/04
+#### 05/04.04
 
 01.expulsion /ɪkˈspʌlʃn/
 
@@ -45743,3 +45789,175 @@ d[adv]shabbily dressed
 [n] This course is useful for students who are in transition (= in the process of changing) from one training programme to another.
 
 "the process or a period of changing from one state or condition to another"
+
+
+
+#### 05/05.04
+
+01.oblique /əˈbliːk/
+
+[adj] an oblique reference/approach/comment.
+
+"not expressed or done in a direct way"
+
+
+
+02.dysfunction /dɪsˈfʌŋkʃn/
+
+[n] ...kidney and liver dysfunction.
+
+"If someone has a physical **dysfunction**, part of their body is not working properly."
+
+
+
+03.hard-earned /ˌhɑːrd ˈɜːrnd/
+
+[adj] The more competitive Samsung can make its Exynos APs compared to Qualcomm's Snapdragon chips, the more likely it is that Samsung could power the entire flagship line with its own Exynos silicon which could save the company, and possibly even consumers, some hard-earned cash. 
+
+"that you get only after a lot of work and effort"
+
+
+
+04.keep your shirt on 
+
+[vp] Keep your shirt on, Bob, they'll be here in time for the wedding.
+
+"**Stay calm, be patient; not give way to temper or excitement**."
+
+
+
+#### 05/07.01
+
+01.delimiter / dɪˈlɪmɪtər /
+
+[n] "A delimiter is a sequence of one or more characters used to specify the boundary between separate, independent regions in plain text or other data streams."
+
+
+
+#### 05/08.03
+
+01.multitude /ˈmʌltɪtuːd/
+
+[n] How to load data to Colab from a multitude of data sources.
+
+"an extremely large number of things or people"
+
+
+
+02.idle [ˈaɪdl]
+
+[adj] an idle student."not working hard" -lazy-
+
+[adj] {of machines, factories, etc.}
+
+This means that the runtime will disconnect if it has remained idle for 90 minutes, or if it has been in use for 12 hours.
+
+"not in use"
+
+
+
+03.caveat /ˈkæviæt/
+
+[n] One important caveat to remember while using Colab is that the files you upload to it won’t be available forever.
+
+"a warning that particular things need to be considered before sth can be done"
+
+
+
+#### 05/14.05
+
+01.carcinogen /kɑːrˈsɪnədʒən/
+
+[n] The agreement comes in response to dozens of recent reports indicating that the two Chinese companies were selling unsafe goods to local consumers, including children's products containing carcinogens or dangerous items that could cause injury or death.
+
+"a substance that can cause cancer"
+
+
+
+02.tariff /ˈtærɪf/
+
+[n] America wants to eliminate tariffs on items such as electronics.
+
+"a tax that is paid on goods coming into or going out of a country"
+
+
+
+03.slap /slæp/
+
+[v] She slapped his face hard.
+
+"to hit sb/sth with the flat part of your hand"
+
+[v] slap tariff.
+
+"If journalists say that the authorities **slap** something such as a tax or a ban **on** something, they think it is unreasonable or put on without careful thought."
+
+
+
+04.forthcoming
+
+[adj] Korean steel and related stocks surged on Tuesday in anticipation of the forthcoming benefits from The U.S. government’s anticipated tariff hikes on Chinese products.
+
+"going to happen, be published, etc. very soon"
+
+
+
+05.steelworker /ˈstiːlwɜːrkər/
+
+[n] "a person who works in a place where steel is made"
+
+
+
+#### 05/15.03
+
+01.beacon /ˈbiːkən/
+
+[n] *A beacon of hope to countless* transplant *patients* worldwide. 
+
+"a light that is placed somewhere to guide vehicles and warn them of danger"
+
+
+
+02.esoteric /ˌesəˈterɪk/
+
+[adj] ...esoteric knowledge. "likely to be understood or enjoyed by only a few people with a special knowledge or interest"
+
+
+
+03.boilerplate /ˈbɔɪlərpleɪt/
+
+[n] Boilerplate text, or simply boilerplate, is **any written text (copy) that can be reused in new contexts or applications without significant changes to the original**.  "a standard form of words that can be used as a model for writing parts of a business document, legal agreement, etc."
+
+
+
+04.devise /dɪˈvaɪz/
+
+[v] A new system has been devised to control traffic in the city.
+
+"to invent sth new or a new way of doing sth"
+
+> "Devise" suggests logical thinking; to devise a machine, to devise a plan, to devise a clever new way to organize all the tools in your basement. "Design" suggests appearance, and making a drawing. He is a fashion designer. She designs websites.
+
+
+
+05.partition /pɑːrˈtɪʃn/
+
+[v] to partition a country./The room is partitioned into three sections.
+
+"to divide sth into parts"
+
+[n] a glass partition. 
+
+"a wall or screen that separates one part of a room from another"
+
+
+
+06.carcinoma /ˌkɑːrsɪˈnoʊmə/
+
+[n] "a cancer that affects the top layer of the skin or the lining of the organs inside the stomach"
+
+> What's the difference between cancer and carcinoma? **Carcinoma is a type of cancer that forms in epithelial tissue**. Other types of cancer form elsewhere, such as in connective tissue (sarcoma), bone marrow (leukemia), etc. Most cancer diagnoses are carcinoma.
+
+
+
+07.pluck out 
