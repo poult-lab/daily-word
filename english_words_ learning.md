@@ -21688,13 +21688,7 @@ This is a video that is very often quoted in all sorts of native media.
 
 
 
-15.cage [keɪdʒ]
 
-[noun]  a birdcage. "a structure made of metal bars or wire in which animals or birds are kept"
-
-[verb]  {~ sth (up)} The dogs are caged (up) at night.
-
- "to put or keep an animal in a cage"
 
 
 
@@ -45961,3 +45955,55 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 
 07.pluck out 
+
+[vp] She tried to pluck out some of her gray hairs. /**Caged birds** sometimes pluck out their breast feathers.
+
+"to pull something, especially with a sudden movement, in order to remove it: "
+
+
+
+08.cage [keɪdʒ]
+
+[noun]  a birdcage. "a structure made of metal bars or wire in which animals or birds are kept"
+
+[verb]  {~ sth (up)} The dogs are caged (up) at night.
+
+ "to put or keep an animal in a cage"
+
+
+
+#### 05/17
+
+01.solicit /səˈlɪsɪt/
+
+[v] A YouTuber tried to visit a random home gym and got the response: 'There is no soliciting.
+
+"to ask sb for sth, such as support, money, or information; to try to get sth or persuade sb to do sth"
+
+
+
+02.lacrosse /ləˈkrɔːs/
+
+[n] "a game played on a field by two teams of ten players who use sticks with curved nets on them to catch, carry, and throw the ball"
+
+
+
+03.whimper /ˈwɪmpər/
+
+[v] The child was lost and began to whimper.
+
+"to make low, weak crying noises; to speak in this way"
+
+[n] "a low weak cry that a person or an animal makes when they are hurt, frightened or sad"
+
+
+
+04.defeat /dɪˈfiːt/
+
+[v] He defeated the champion in three sets.
+
+"to win against sb in a war, competition, sports game, etc."
+
+[n] whimpers in defeat.
+
+"failure to win or to be successful"
