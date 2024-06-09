@@ -4877,11 +4877,7 @@ They also hire themselves out as hit men.
 
 
 
-14.colonial [kəˈləʊniəl]
 
-[adj] Tunisia achieved independence from French colonial rule in 1956. 
-
-"connected with or belonging to a country that controls another country"
 
 
 
@@ -13038,7 +13034,7 @@ When we use “borrow” in a sentence, we use the preposition “from.” Andy 
 
 
 
-#### 2020/09/21.18
+#### 2020/09/21.20
 
 01.monopolistic [məˌnɒpəˈlɪstɪk]  [məˌnɑːpəˈlɪstɪk]"
 
@@ -13148,27 +13144,19 @@ onions pickled in vinegar.
 
 
 
-12.sever [ˈsevə(r)] 
+12.colonial [kəˈləʊniəl]
 
-[verb] {~ sth (from sth)} to sever a **rope**. "To sever something means to cut completely through it or to **cut it completely off**."
+[adj] Tunisia achieved independence from French colonial rule in 1956. 
 
-[verb] The two countries have severed all diplomatic links. "to completely end a relationship or all communication with sb" -**break off**-
-
-```
-Sever means to completely cut off, like a severed head for example would mean the head is completely cut off from the body, while cut can mean slicing something but not all the way.
-```
+"connected with or belonging to a country that controls another country"
 
 
 
-13.strict  [strɪkt]
+13.colonialism /kəˈloʊniəlɪzəm/
 
-[adj] strict rules/regulations/discipline. "that must be obeyed exactly"
+[n] It is interesting to reflect why European colonialism ended.
 
-[adj] a strict teacher/parent/disciplinarian. "demanding that rules, especially rules about behaviour, should be obeyed"
-
-[adj] a strict Muslim. "obeying the rules of a particular religion, belief, etc. exactly"
-
-[adj] It wasn't illegal in the strict sense (of the word). "very exact and clearly defined"
+"the practice by which a powerful country controls another country or other countries"
 
 
 
@@ -13213,6 +13201,30 @@ Sever means to completely cut off, like a severed head for example would mean th
 ```
 doves are generally of a smaller stature while pigeons are often larger and stubbier.
 ```
+
+
+
+19.sever [ˈsevə(r)] 
+
+[verb] {~ sth (from sth)} to sever a **rope**. "To sever something means to cut completely through it or to **cut it completely off**."
+
+[verb] The two countries have severed all diplomatic links. "to completely end a relationship or all communication with sb" -**break off**-
+
+```
+Sever means to completely cut off, like a severed head for example would mean the head is completely cut off from the body, while cut can mean slicing something but not all the way.
+```
+
+
+
+20.strict  [strɪkt]
+
+[adj] strict rules/regulations/discipline. "that must be obeyed exactly"
+
+[adj] a strict teacher/parent/disciplinarian. "demanding that rules, especially rules about behaviour, should be obeyed"
+
+[adj] a strict Muslim. "obeying the rules of a particular religion, belief, etc. exactly"
+
+[adj] It wasn't illegal in the strict sense (of the word). "very exact and clearly defined"
 
 
 
@@ -19487,7 +19499,13 @@ to do sth to another player that is against the rules of the game"
 
 
 
-05.porcupine [ˈpɔː(r)kjupaɪn] 
+05.dislocate /ˈdɪsləkeɪt//ˈdɪsloʊkeɪt/
+
+[v] My spine dislocated. "to put a bone out of its normal position in a joint"
+
+
+
+06.porcupine [ˈpɔː(r)kjupaɪn] 
 
 [noun] "an animal covered with long stiff parts like needles (called quills ), which it can raise to protect itself when it is attacked"
 
@@ -20796,7 +20814,7 @@ D[noun] a refutation of previously held views.
 
 09.adversarial  [ˌædvərˈseriəl]
 
-[adj] the adversarial nature of the two-party system.
+[adj] the adversarial nature of the two-party system./What Is Adversarial Machine Learning? Attack Methods in 2024.
 
 "involving people who are in opposition and who make attacks on each other"
 
@@ -24151,11 +24169,24 @@ D[adv] to write prolifically.
 
 
 
-06.narrate  [nəˈreɪt] [ˈnæreɪt] 
+> At the surface level, the four terms seem to be synonymous with each other, but at a deeper level, we can sense the subtle differences in connotations as follows:
+>
+> - “reject" = say no, often outrightly or directly to an invitation or offer;
+> - “deny" = doesn't give others the chance to enjoy something;
+> - “refuse” = determined to decline to accept something;
+> - “object" = express or feel dislike or distaste or disapproval of something or someone;
 
-[verb] She entertained them by narrating her adventures in Africa. "to tell a story" -relate-
 
-[verb] The film was narrated by Andrew Sachs. "to speak the words that form the text of a documentary film or programme"
+
+06.outright /ˈaʊtraɪt/
+
+[adj] an outright ban/rejection/victory.
+
+"complete and total"
+
+[adv] Why don't you ask him outright if it's true?
+
+"in a direct way and without trying to hide anything"
 
 
 
@@ -24222,6 +24253,12 @@ D[adv] to write prolifically.
 [verb] to sweat heavily."when you sweat , drops of liquid appear on the surface of your skin, for example when you are hot, ill/sick or afraid" -perspire [pəˈspaɪə(r)] -
 
 
+
+15.narrate  [nəˈreɪt] [ˈnæreɪt] 
+
+[verb] She entertained them by narrating her adventures in Africa. "to tell a story" -relate-
+
+[verb] The film was narrated by Andrew Sachs. "to speak the words that form the text of a documentary film or programme"
 
 #### 20210326.14
 
@@ -25925,15 +25962,7 @@ D[noun] Make sure that there is adequate ventilation in the room before using th
 
 
 
-04.consent [kənˈsent] 
 
-[noun] { ~ (to sth)} Children under 16 cannot give consent to medical treatment. 
-
-"permission to do sth, especially given by sb in authority"
-
-[verb] {~ (to sth)} When she told them what she intended they readily consented. 
-
-"to agree to sth or give your permission for sth"
 
 
 
@@ -27655,6 +27684,8 @@ Kim Jong-un's slimmer frame has prompted more speculation about his health./Ther
 
 [n] horn{antler, ram's horn, ox horn}
 
+
+
 #### 20210701.10
 
 01.rally [ˈræli] 
@@ -28954,7 +28985,7 @@ D[adv] to perform competently.
 
 
 
-#### 20210906.03
+#### 20210906.04
 
 01.unveil [ˌʌnˈveɪl] 
 
@@ -28970,7 +29001,7 @@ D[adv] to perform competently.
 
 02.equitable [ˈekwɪtəbl]
 
-[adj] Creating a more equitable nd sustainable future.
+[adj] Creating a more equitable and sustainable future.
 
  "fair and reasonable; treating everyone in an equal way" -fair- 
 
@@ -28985,6 +29016,14 @@ D[adv] to perform competently.
 The odds are very much in our favour (= we are likely to succeed) . 
 
 "the degree to which sth is likely to happen"
+
+
+
+04.sustainable /səˈsteɪnəbl/
+
+[adj] sustainable forest management.
+
+"involving the use of natural products and energy in a way that does not harm the environment"
 
 
 
@@ -29349,6 +29388,10 @@ D[noun]  copyright infringement.
 "to take sb's attention away from what they are trying to do" -divert-
 
 
+
+09.divert /daɪˈvɜːrt/
+
+[v] A Singapore Airlines flight from London was diverted to Bangkok, where more than 70 people were being treated for injuries. "to make sb/sth change direction"
 
 #### 20210923.01
 
@@ -32841,7 +32884,7 @@ D[adv] to treat sb leniently.
 
 
 
-#### 02/10.06
+#### 02/10.07
 
 01.venture [ˈventʃə(r)] 
 
@@ -32907,7 +32950,15 @@ D[adv] to treat sb leniently.
 
 
 
-06.concise  [kənˈsaɪs]
+06.oppression/əˈpreʃn/
+
+[n] ...an attempt to escape political oppression.
+
+"**Oppression** is the cruel or unfair treatment of a group of people."
+
+
+
+07.concise  [kənˈsaɪs]
 
 [adj] In an effort to remain concise yet retain comprehensiveness.
 
@@ -33241,7 +33292,7 @@ D[adv] to treat sb leniently.
 
 02.vulnerable [ˈvʌlnərəbl] 
 
-[adj] {~ (to sb/sth)} to be vulnerable to attack.
+[adj] {~ (to sb/sth)} to be vulnerable to attack./ Additionally, DNNs are vulnerable to adversarial attacks, which further challenge their robustness.
 
 "weak and easily hurt physically or emotionally"
 
@@ -36251,11 +36302,13 @@ dizzy [ˈdɪzi]
 
 
 
-05.quota   [ˈkwəʊtə] 
+05.sequel /ˈsiːkwəl/
 
-[noun] South Korea will likely increase the quota of foreign workers with non-professional employment (E-9) visas to 110,000 next year from the current 69,000 and allow more workplaces to hire foreigners in efforts to ease labor shortages in the logistics and delivery sectors. 
+[n] {~ (to sth)} The series is based on the popular webtoon "Money Game" and its sequel "Pie Game" by Bae Jin-soo.
 
-"the limited number or amount of people or things that is officially allowed"
+"a book, film/movie, play, etc. that continues the story of an earlier one"
+
+
 
 
 
@@ -36294,6 +36347,14 @@ dizzy [ˈdɪzi]
 [noun] They each received a legacy of $5 000.
 
 "money or property that is given to you by sb when they die" -inheritance-
+
+
+
+11.quota   [ˈkwəʊtə] 
+
+[noun] South Korea will likely increase the quota of foreign workers with non-professional employment (E-9) visas to 110,000 next year from the current 69,000 and allow more workplaces to hire foreigners in efforts to ease labor shortages in the logistics and delivery sectors. 
+
+"the limited number or amount of people or things that is officially allowed"
 
 
 
@@ -36823,7 +36884,7 @@ dizzy [ˈdɪzi]
 
 
 
-#### 01/18.03
+#### 01/18.04
 
 01.pursue /pərˈsuː/
 
@@ -36866,6 +36927,22 @@ dizzy [ˈdɪzi]
 [noun] {old-fashioned, disapproving} Duhon told a mutual acquaintance within earshot that Howard had at least five **illegitimate children** through five different women.
 
 "a person whose parents were not married to each other when he or she was born"
+
+
+
+04.objective /əbˈdʒektɪv/
+
+[n] the main/primary/principal objective. 
+
+"something that you are trying to achieve"
+
+[adj] an objective analysis/assessment/report. 
+
+"not influenced by personal feelings or opinions; considering only facts" -unbiased-
+
+
+
+> **Purposes are long-term, meaningful goals.** **Objectives are short-term goals**. You pursue a purpose because it makes you happy. You pursue an objective because it helps you fulfill your purpose.
 
 
 
@@ -43692,6 +43769,8 @@ D[noun] She is a designer of extraordinary **versatility**.
 
 [n] A Korean delegation will make its last case for Busan’s bid to host the World Expo 2030 as representatives of 182 member states of the Bureau International des Expositions (BIE), a governing body for the event, are preparing to vote in Paris on Tuesday (local time) to determine the host city.
 
+/Welcome the delegation from SDAIA to graduate school of AI, SKKU. 
+
 "a group of people who represent the views of an organization, a country, etc."
 
 
@@ -44018,7 +44097,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 "if you incur sth unpleasant, you are in a situation in which you have to deal with it"
 
-[v] You risk incurring bank charges if you exceed your **overdraft limit**./As soon as the state of an instance changes to `shutting-down` or `terminated`, you stop incurring charges for that instance.
+[v] You risk incurring bank charges if you exceed your **overdraft limit**./As soon as the state of an instance changes to `shutting-down` or `terminated`, you stop incurring charges for that instance./**Stopped instances don't incur charges**, but Elastic IP addresses or EBS volumes attached to those instances do.
 
 "if you incur costs, you have to pay them"
 
@@ -44085,6 +44164,26 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 > --His accident occurred owing to the fact that he was talking on his cell phone.  
 >
 > However, most people use "due to" and "owing to" interchangeably now...it doesn't matter which one you use.
+
+
+
+09.wrath /ræθ/
+
+[n]  the wrath of God.
+
+"extreme anger"
+
+
+
+10.consent [kənˈsent] 
+
+[noun] { ~ (to sth)} Children under 16 cannot give consent to medical treatment. 
+
+"permission to do sth, especially given by sb in authority"
+
+[verb] {~ (to sth)} When she told them what she intended they readily consented. 
+
+"to agree to sth or give your permission for sth"
 
 
 
@@ -45766,6 +45865,8 @@ d[adv]shabbily dressed
 
 [n] Dopamine is **a neurotransmitter made in your brain**. It plays a role as a “reward center” and in many body functions, including memory, movement, motivation, mood, attention and more.
 
+The series touches on different social issues, **dopamine-driven** media addiction, social hierarchies and capitalism.
+
 "a chemical produced by nerve cells which has an effect on other cells"
 
 
@@ -45870,7 +45971,7 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 02.tariff /ˈtærɪf/
 
-[n] America wants to eliminate tariffs on items such as electronics.
+[n] America wants to eliminate tariffs on items such as electronics./Gov't to reduce tariffs on fresh food imports to curb inflation.
 
 "a tax that is paid on goods coming into or going out of a country"
 
@@ -45972,7 +46073,7 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 
 
-#### 05/17
+#### 05/17.04
 
 01.solicit /səˈlɪsɪt/
 
@@ -46007,3 +46108,235 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 [n] whimpers in defeat.
 
 "failure to win or to be successful"
+
+
+
+#### 05/19.01
+
+01.cherry-pick /ˈtʃeri pɪk/
+
+[vp] The club is in debt while others are queuing to cherry-pick their best players. 
+
+"to choose the best people or things from a group and leave those which are not so good"
+
+
+
+#### 05/20.01
+
+01.objector /əbˈdʒektər/
+
+[n] {~ (to sth)} There were no objectors to the plan.
+
+"a person who objects to sth"
+
+
+
+#### 05/23.03
+
+01.penthouse /ˈpenthaʊs/
+
+[n] Yoo purchased one of the penthouses, which includes four bedrooms, three bathrooms, a living room, a kitchen and a spacious terrace for exclusive use.
+
+"an expensive and comfortable flat/apartment or set of rooms at the top of a tall building"
+
+
+
+02.terrace /ˈterəs/
+
+[n] a sun terrace. / a roof terrace.
+
+"a flat, hard area, especially outside a house or restaurant, where you can sit, eat and enjoy the sun"
+
+
+
+03.turbulence /ˈtɜːrbjələns/
+
+[n] One Dead and Dozens Injured After ‘Extreme Turbulence’ on Flight.
+
+"a series of sudden and violent changes in the direction that air or water is moving in"
+
+
+
+#### 05/24.02
+
+01.protagonist /prəˈtæɡənɪst/
+
+[n] In the survival genre works, the protagonist is usually a hero who overcomes crisis. However, in 'The 8 Show,' the '3rd Floor,' the protagonist and narrator of the story is just like any of us in real life. He's rather naive, and things keep going the other way than he expected. 
+
+"the main character in a play, film/movie or book"
+
+
+
+02.narrator /ˈnæreɪtər/
+
+[n] a first-person narrator.
+
+"a person who tells a story, especially in a book, play or film/movie; the person who speaks the words in a television programme but who does not appear in it"
+
+
+
+#### 05/26.01
+
+01.hiccup /ˈhɪkʌp/
+
+[v] She was still hiccuping from the egg she had swallowed whole.
+
+"to have hiccups or a single hiccup"
+
+[n] She gave a loud hiccup.
+
+"a sharp, usually repeated, sound made in the throat, that is caused by a sudden movement of the diaphragm and that you cannot control"
+
+[n] I ate too quickly and got hiccups.
+
+"a series of hiccups"
+
+
+
+#### 05/28.02
+
+01.cashier /kæˈʃɪr/
+
+[n] "a person whose job is to receive and pay out money in a bank, shop/store, hotel, etc."
+
+
+
+02.cashew /ˈkæʃuː/
+
+[n] Cashew nuts are rich in carbohydrate.
+
+"the small curved nut of the tropical American cashew tree , used in cooking and often eaten salted with alcoholic drinks"
+
+
+
+#### 05/29.04
+
+01.memorandum /ˌmeməˈrændəm/
+
+[n] Galaxy Corporation recently signed a memorandum of understanding (MOU) with KAIST to secure different technologies to expand the K-pop industry globally.
+
+"a record of a legal agreement which has not yet been formally prepared and signed"
+
+
+
+02.blunt /blʌnt/
+
+[adj] To be blunt, your work is appalling.
+
+"very direct; saying exactly what you think without trying to be polite"
+
+[v] Age hadn't blunted his passion for adventure.
+
+"to make sth weaker or less effective"
+
+
+
+03.amicable /ˈæmɪkəbl/
+
+[adj] an amicable relationship.
+
+"done or achieved in a polite or friendly way and without arguing"
+
+
+
+04.condominium /ˌkɑːndəˈmɪniəm/
+
+[n] How much will it cost to rent a condominium for one week. 
+
+"an apartment building in which each flat/apartment is owned by the person living in it but the building and shared areas are owned by everyone together; a flat/apartment in such a building"
+
+
+
+#### 05/31.02
+
+01.bisect /baɪˈsekt/
+
+[verb] YONA bisects an image, substitutes one half with noise, and applies data augmentation techniques to the remaining half.
+
+"to divide sth into two equal parts"
+
+
+
+02.bifurcate /ˈbaɪfərkeɪt/
+
+[v] YONA initially bifurcates the image into two equal segments along either the height or width dimension.
+
+"to divide into two separate parts"
+
+
+
+#### 06/03.01
+
+01.hose /hoʊz/
+
+[n] put out the hose.
+
+"a long tube made of rubber, plastic, etc., used for putting water onto fires, gardens, etc."
+
+
+
+#### 06/05.02
+
+01.reminiscent /ˌremɪˈnɪsnt/
+
+[adj] {~ of sb/sth}  The way he laughed was strongly reminiscent of his father.
+
+"reminding you of sb/sth"
+
+[adj] a reminiscent smile.
+
+"showing that you are thinking about the past, especially in a way that causes you pleasure"
+
+
+
+02.valve /vælv/
+
+[n] open the valve.
+
+"a device for controlling the flow of a liquid or gas, letting it move in one direction only"
+
+
+
+#### 06/07.02
+
+01.pragmatism /ˈpræɡmətɪzəm/
+
+[n]  Was Lee Kuan Yew pragmatic?
+
+"thinking about solving problems in a practical and sensible way rather than by having fixed ideas and theories"
+
+
+
+02.evaporate /ɪˈvæpəreɪt/
+
+[v] If I fill a bucket with water, I KNOW that some of that water is evaporating.
+
+"if a liquid evaporates or if sth evaporates it, it changes into a gas, especially steam"
+
+
+
+#### 06/09
+
+01.avid /ˈævɪd/
+
+[adj]  Clear is an avid weightlifter and photographer.
+
+"very enthusiastic about sth (often a hobby)"
+
+[adj] He was avid for more information.
+
+"wanting to get sth very much"
+
+
+
+02.brutality /bruːˈtæləti/
+
+[n] He accused the police of using unwarranted brutality. 
+
+"**Brutality** is cruel and violent treatment or behaviour. A **brutality** is an instance of cruel and violent treatment or behaviour."
+
+
+
+03.encampment /ɪnˈkæmpmənt/
+
+[n] a military encampment "a group of tents, huts , etc. where people live together, usually for only a short period of time"
