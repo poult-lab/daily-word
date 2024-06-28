@@ -4530,7 +4530,7 @@ The proximity of the college to London makes it very popular.
 
 [noun] {~ (of sth) (against sb) | ~ (that…) | ~ (about sb/sth)} 
 
-The tennis star made the allegations on Chinese social media site Weibo./Seo Soo-jin to drop first new music in two years after bullying allegations
+The tennis star made the allegations on Chinese social media site Weibo./Seo Soo-jin to drop first new music in two years after bullying allegations./Son Heung-min's father, coaches face child abuse allegations.
 
 "a public statement that is made without giving proof, accusing sb of doing sth that is wrong or illegal" 
 
@@ -9591,9 +9591,20 @@ a narrow victory  [ˈvɪktəri] "险胜"
 
 narrow interests "目光短浅的利益"
 
+
+
 02.spacious [ˈspeɪʃəs]  넓다
 
-White walls can give a feeling of spaciousness.
+[adj] White walls can create a spacious atmosphere. /It's a small car, yet it's surprisingly spacious.
+
+"large and with plenty of space for people to move around in" -roomy /ˈruːmi/-
+
+
+
+03.spaciousness / ˈspeɪʃəsnəs /
+
+[n] White walls can give a feeling of spaciousness.
+"spatial largeness and extensiveness (especially inside a building)"
 
 
 
@@ -13481,7 +13492,9 @@ D[adv] We regret this service is temporarily unavailable.
 
 "to reach an opinion or decide that sth is true on the basis of information that is available"-deduce-
 
-[verb] Are you inferring (that) I'm not capable of doing the job? "to suggest indirectly that sth is true"
+[verb] Are you inferring (that) I'm not capable of doing the job? ACCV reviewing is double blind, in that authors do not know the names of the area chair/reviewers of their papers, and the area chairs/reviewers cannot, beyond reasonable doubt, **infer** the names of the authors from the submission and the additional material. 
+
+"to suggest indirectly that sth is true"
 
 
 
@@ -15357,7 +15370,7 @@ The examination is near at hand.
 
 08.prejudice [ˈpredʒudɪs] 
 
-[noun] {~ (against sb/sth)} a victim of racial prejudice.
+[noun] {~ (against sb/sth)} a victim of racial prejudice./Seoul's stand-up comedians to tackle prejudice with pride.
 
 "an unreasonable dislike of or preference for a person, group, custom, etc., especially when it is based on their race, religion, sex, etc."
 
@@ -16440,6 +16453,8 @@ It is mandatory for blood banks to test all donated blood for the virus.
 04.deem /diːm/
 
 [v] {not usually used in the progressive tenses }The evening was deemed a great success.
+
+/Papers with more than 14 pages (excluding references) will be rejected without review. This includes papers where the margins and formatting including the font are deemed to have been significantly altered from those laid down by this style guide.
 
 "to have a particular opinion about sth" -consider/视为-
 
@@ -17892,7 +17907,7 @@ D[adj] a freckled face/schoolgirl.
 
 
 
-#### 2020/11/14.06
+#### 2020/11/14.08
 
 01.mindful of  [ˈmaɪndfl]
 
@@ -17944,7 +17959,15 @@ D[adj] a freckled face/schoolgirl.
 
 
 
-06.closure  [ˈkləʊʒə(r)]
+06.anonymity /ˌænəˈnɪməti/
+
+[n] For the sake of anonymity, authors must omit acknowledgements in the review copy. They can be added later when you prepare the final copy. 
+
+"the state of remaining unknown to most other people"
+
+
+
+07.closure  [ˈkləʊʒə(r)]
 
 [noun] factory closures."the situation when a **factory, school, hospital**, etc. shuts permanently"
 
@@ -17953,6 +17976,18 @@ D[adj] a freckled face/schoolgirl.
 [noun] The conviction of their son's murderer helped to give them a sense of closure.
 
 "the feeling that a difficult or an unpleasant experience has come to an end or been dealt with in an acceptable way"
+
+
+
+08.sake  /seɪk , ˈsɑːki/
+
+[n]  They stayed together for the sake of the children.
+
+"in order to help sb/sth or because you like sb/sth"
+
+[n] "a Japanese alcoholic drink made from rice"
+
+
 
 
 
@@ -18992,13 +19027,23 @@ D[adj] inattentive  [ˌɪnəˈtentɪv]
 
 04.entrepreneur [ˌɒntrəprəˈnɜː(r)]  [ˌɑːntrəprəˈnɜːr]
 
-[noun] "a person who makes money by starting or running businesses, especially when this involves taking financial risks"
+[noun] How one Chinese entrepreneur built a cross-border delivery empire in Seoul without speaking Korean.
+
+"a person who makes money by starting or running businesses, especially when this involves taking financial risks"
 
 D[adj] entrepreneurial skills.
 
 
 
-05.tailor  [ˈteɪlə(r)]
+05.enterprise /ˈentərpraɪz/
+
+[n] In general usage, **'company' and 'enterprise' can often be used interchangeably to refer to a business organization**. However, 'enterprise' can sometimes imply a larger, more complex organization, often with multiple operations or businesses under its umbrella./企业.
+
+"a company or business"
+
+
+
+06.tailor  [ˈteɪlə(r)]
 
 [noun] "a person whose job is to make men's clothes, especially sb who makes suits, etc. for individual customers"
 
@@ -19008,7 +19053,7 @@ D[adj] entrepreneurial skills.
 
 
 
-06.customize  [ˈkʌstəmaɪz]
+07.customize  [ˈkʌstəmaɪz]
 
 [verb] You can customize the software in several ways. "to make or change sth to suit the needs of the owner"
 
@@ -19321,15 +19366,11 @@ Let's assume for the sake of argument (= in order to discuss the problem) that w
 
 
 
-08.felony /ˈfeləni/
-
-[n] a charge of felony./ prison: incarceration for felonies and longer sentences.
-
-the act of committing a serious crime such as murder or rape ; a crime of this type ""
 
 
 
-09.incarceration /ɪnˌkɑrsəˈreɪʃən/
+
+08.incarceration /ɪnˌkɑrsəˈreɪʃən/
 
 [n] This time his period of incarceration will last longer. 
 
@@ -19337,7 +19378,7 @@ the act of committing a serious crime such as murder or rape ; a crime of this t
 
 
 
-10.handler  [ˈhændlə(r)]
+09.handler  [ˈhændlə(r)]
 
 [noun] "a person who trains and controls animals, especially dogs"
 
@@ -19347,7 +19388,7 @@ the act of committing a serious crime such as murder or rape ; a crime of this t
 
 
 
-11.hatred /ˈheɪtrɪd/
+10.hatred /ˈheɪtrɪd/
 
 [n] {~ (for/of sb/sth) | ~ (towards sb)}
 
@@ -19457,7 +19498,7 @@ to do sth to another player that is against the rules of the game"
 
 
 
-#### 2020/12/15.05
+#### 2020/12/15.11
 
 01.bypass  [ˈbaɪpɑːs]  [ˈbaɪpæs] 
 
@@ -19505,7 +19546,44 @@ to do sth to another player that is against the rules of the game"
 
 
 
-06.porcupine [ˈpɔː(r)kjupaɪn] 
+06.disc /dɪsk/
+
+[noun] He's been off work with a slipped disc (= one that has moved from its correct position, causing pain) . "a structure made of cartilage between the bones of the back"
+
+<img src="https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/10/%40shutterstock_405564442.jpg" style="zoom:50%;" />
+
+
+
+07.intervertebral 
+[adj] "pertaining to the space between two **vertebrae**"
+
+
+
+08.vertebra /ˈvɜːrtɪbrə/
+
+[n] "**Vertebrae** are the small circular bones that form the spine of a human being or animal."
+
+
+
+09.bulge /bʌldʒ/
+
+[v] His eyes bulged.
+
+"to stick out from sth in a round shape"
+
+[n] the bulge of a gun in his pocket. "a lump that sticks out from sth in a round shape"
+
+
+
+10.stick out /stɪk aʊt/
+
+[vp] She made a face and stuck out her tongue at him...
+
+"If you **stick out** part of your body, you extend it away from your body."
+
+
+
+11.porcupine [ˈpɔː(r)kjupaɪn] 
 
 [noun] "an animal covered with long stiff parts like needles (called quills ), which it can raise to protect itself when it is attacked"
 
@@ -20343,11 +20421,7 @@ We got a good bang for our buck. " is an idiom meaning the worth of one's money 
 
  
 
-23.disposal [dɪˈspoʊzl] 
 
-[noun] sewage disposal systems. "the act of getting rid of sth"
-
-[noun] {business} "the sale of part of a business, property, etc."
 
 
 
@@ -20604,7 +20678,7 @@ D[noun] a period of economic stagnation.
 
 
 
-#### 20210126.12
+#### 20210126.18
 
 01.refurbish  [ˌriːˈfɜːbɪʃ]  
 
@@ -20692,17 +20766,25 @@ He had a heart tattooed on his shoulder/His shoulder was tattooed with a heart.
 
 
 
-11.bass [beɪs]
+11.low profile /ˌloʊ ˈproʊfaɪl/
 
-[noun] He always plays his stereo with the bass turned right up. "the lowest tone or part in music, for instruments or voices"
+[n] While Xu has kept a low profile in [Asia](https://www.the-sun.com/where/asia/), the [E-commerce](https://www.the-sun.com/topic/ecommerce/) guru ranks among China's most successful entrepreneurs.
 
-[adj] a bass voice. "low in tone"
+"a state of low visibility in which public notice is avoided"
 
 
 
-12.seabass / ˈsiˌbæs /
+12.guru  [ˈɡʊruː]
 
-[noun] "any of numerous marine fishes of the family Serranidae"
+[noun] "a Hindu or Sikh religious teacher or leader"
+
+[noun] {informal} a management/health/fashion, etc. guru. 
+
+"a person who is an expert on a particular subject or who is very good at doing sth"
+
+
+
+
 
 
 
@@ -20737,6 +20819,20 @@ You think I did it deliberately, but I assure you (that) I did not.
 [verb]  Victory would assure a place in the finals. "to make sth certain to happen"
 
 -guarantee-
+
+
+
+17.bass [beɪs]
+
+[noun] He always plays his stereo with the bass turned right up. "the lowest tone or part in music, for instruments or voices"
+
+[adj] a bass voice. "low in tone"
+
+
+
+18.seabass / ˈsiˌbæs /
+
+[noun] "any of numerous marine fishes of the family Serranidae"
 
 
 
@@ -25199,19 +25295,9 @@ We have collaborated on many projects over the years.
 
 
 
-09.lean /liːn/
+09.over the years /ˈoʊvər ðə jɪrz/
 
-[v]  Sit up, children! Don't lean over the table! 
-
-"to bend or move from a vertical position" "靠"
-
-[adj] a lean, muscular body. 
-
-"without much flesh; thin and fit"
-
-[n] "the part of meat that has little or no fat"
-
-
+[phrase] She has not changed much over the years./The document is based on Springer LNCS instructions as well as on ACCV policies, as established over the years. "Over the years” means **for a long period of time**."
 
 
 
@@ -25246,6 +25332,20 @@ He has already intimated to us his intention to retire. "to let sb know what you
 "the feeling of liking or loving sb/sth very much and caring about them"
 
 [noun] Anne had two men trying to win her affections. "a person's feelings of love"
+
+
+
+14.lean /liːn/
+
+[v]  Sit up, children! Don't lean over the table! 
+
+"to bend or move from a vertical position" "靠"
+
+[adj] a lean, muscular body. 
+
+"without much flesh; thin and fit"
+
+[n] "the part of meat that has little or no fat"
 
 
 
@@ -25658,7 +25758,7 @@ D[adv] ‘Why now?’ she wondered hazily.
 
 
 
-#### 20210426.21
+#### 20210426.22
 
 01.field trip  [ˈfiːld trɪp] 
 
@@ -25670,13 +25770,21 @@ D[adv] ‘Why now?’ she wondered hazily.
 
 02.delicatessen/deli  [ˌdelɪkəˈtesn] 
 
-[noun] "a shop/store or part of one that sells cooked meats and cheeses, and special or unusual foods that come from other countries"
+[noun] I bought some salami from the delicatessen.
+
+"a shop/store or part of one that sells cooked meats and cheeses, and special or unusual foods that come from other countries"
 
 
 
-04.luncheon  [ˈlʌntʃən] 
+03.deli meats
 
-[noun] Luncheon will be served at one, Madam. "a formal lunch or a formal word for lunch"
+[phrase] **Monosodium glutamate** (MSG) is a flavor enhancer often added to restaurant foods, canned vegetables, soups, deli meats and other foods.
+
+
+
+04.Monosodium glutamate /ˈɡluːtəmeɪt/
+
+[phrase] "a chemical that is sometimes added to food to improve its flavour"
 
 
 
@@ -25840,6 +25948,10 @@ I was thrilled to be invited. "very excited and pleased"
 
 
 
+23.luncheon  [ˈlʌntʃən] 
+
+[noun] Luncheon will be served at one, Madam. "a formal lunch or a formal word for lunch"
+
 #### 20210427.09
 
 01.lettuce  [ˈletɪs]
@@ -25926,13 +26038,7 @@ D[noun] Make sure that there is adequate ventilation in the room before using th
 
 
 
-02.guru  [ˈɡʊruː]
 
-[noun] "a Hindu or Sikh religious teacher or leader"
-
-[noun] {informal} a management/health/fashion, etc. guru. 
-
-"a person who is an expert on a particular subject or who is very good at doing sth"
 
 
 
@@ -26714,9 +26820,11 @@ The City of Taylor in Texas has endorsed an incentive to refund 92.5 percent of 
 
 
 
-03.furious  [ˈfjʊəriəs]   [ˈfjʊriəs] 
+03.grapple /ˈɡræpl/
 
-[adj] {~ (with sb) | ~ (at sth/sb) | ~ (that…)} She was absolutely furious at having been deceived. "very angry"
+[v] They managed to grapple him to the ground."to take a firm hold of sb/sth and struggle with them"
+
+[v] The new government has yet to grapple with the problem of air pollution."to try hard to find a solution to a problem"
 
 
 
@@ -26803,6 +26911,10 @@ The interview prompted a backlash in China, which considers self-ruling Taiwan t
 "a chemical element. Hydrogen is a gas that is the lightest of all the elements. It combines with oxygen to form water."
 
 
+
+16.furious  [ˈfjʊəriəs]   [ˈfjʊriəs] 
+
+[adj] {~ (with sb) | ~ (at sth/sb) | ~ (that…)} She was absolutely furious at having been deceived. "very angry"
 
 #### 20210527.18
 
@@ -28293,7 +28405,15 @@ Sure, here are some examples of nobility and aristocracy:
 
 
 
-10.goalless /ˈɡoʊlləs/
+10.at stake 
+
+[slang] Much was at stake for both Biden and Trump, who have been in a tight race according to various nationwide polls.
+
+"that can be won or lost, depending on the success of a particular action"
+
+
+
+11.goalless /ˈɡoʊlləs/
 
 [adj] (BrE) The match ended in a goalless draw.
 
@@ -28305,7 +28425,7 @@ Sure, here are some examples of nobility and aristocracy:
 
 
 
-11.diversify /daɪˈvɜːsɪfaɪ/
+12.diversify /daɪˈvɜːsɪfaɪ/
 
 [v] Associated goals are diversifying the international student population to include more Indian, Pakistani, Polish, US, and Indian students – particularly in STEM programmes.
 
@@ -29497,7 +29617,7 @@ in a fixed or stable manner"
 
 
 
-#### 20210926.12
+#### 20210926.10
 
 01.tractor [ˈtræktə(r)] 
 
@@ -29553,7 +29673,11 @@ in a fixed or stable manner"
 
 
 
+08.transplant  [trænsˈplɑːnt , ˈtrænsplɑːnt] 
 
+[verb] {~ sth (from sb/sth) (into sb/sth)} Surgeons have successfully transplanted a liver into a four-year-old boy.
+
+"to take an organ, skin, etc. from one person, animal, part of the body, etc. and put it into or onto another"
 
 
 
@@ -29565,21 +29689,9 @@ in a fixed or stable manner"
 
 10.frenzy  [ˈfrenzi] 
 
-[noun] in a frenzy of activity/excitement/violence.
+[noun] in a frenzy of activity/excitement/violence./Cosmetics stocks gain on K-beauty frenzy.
 
 "a state of great activity and strong emotion that is often violent or frightening and not under control"
-
-
-
-
-
-
-
-12.transplant  [trænsˈplɑːnt , ˈtrænsplɑːnt] 
-
-[verb] {~ sth (from sb/sth) (into sb/sth)} Surgeons have successfully transplanted a liver into a four-year-old boy.
-
-"to take an organ, skin, etc. from one person, animal, part of the body, etc. and put it into or onto another"
 
 
 
@@ -31114,7 +31226,7 @@ The government will begin expanding efforts to crack down on unauthorized accomm
 
 06.petroleum [pəˈtrəʊliəm] 
 
-[noun] We ought to and can produce more petroleum.
+[noun] We ought to and can produce more petroleum./Major export items such as semiconductors, petroleum products, and wireless communications posted positive growth rates thanks to the recovery of the information technology (IT) industry and the improvement in the economies of major countries.
 
 "mineral [ˈmɪnərəl] oil that is found under the ground or the sea and is used to produce petrol/gas, paraffin , diesel oil, etc."
 
@@ -35535,7 +35647,13 @@ synonym: conflict
 
 "to come together and fight or compete in a contest"
 
-[v] The leaders clashed with party members on the issue."to argue or disagree seriously with sb about sth, and to show this in public"
+[v] {~ (with sb) (over/on sth)}
+
+The leaders clashed with party members on the issue./
+
+Biden, Trump clash over inflation, immigration, foreign policy in first presidential debate.
+
+"to argue or disagree seriously with sb about sth, and to show this in public"
 
 
 
@@ -35754,7 +35872,7 @@ D[noun]  Bullying is a problem in many schools.
 
 
 
-#### 12/04.03
+#### 12/04.07
 
 01.high bar
 
@@ -35762,7 +35880,25 @@ D[noun]  Bullying is a problem in many schools.
 
 
 
-02.conviction  [kənˈvɪkʃn] 
+02.convict /kənˈvɪkt , ˈkɑːnvɪkt/
+
+[v] The two sides also touched on sensitive issues. Biden pointed out that Trump was the only convicted felon at the stage. Trump raised an issue with Biden's son, Hunter.
+
+"to decide and state officially in court that sb is guilty of a crime"
+
+[n] "a person who has been found guilty of a crime and sent to prison"
+
+
+
+03.acquit /əˈkwɪt/
+
+[v] The jury acquitted him of murder.
+
+"to decide and state officially in court that sb is not guilty of a crime"
+
+
+
+04.conviction  [kənˈvɪkʃn] 
 
 [noun] She has six previous convictions for theft.
 
@@ -35778,11 +35914,27 @@ D[noun]  Bullying is a problem in many schools.
 
 
 
-03.theft [θeft] 
+05.theft [θeft] 
 
 [noun] Police are investigating the theft of computers from the company's offices.
 
 "the crime of stealing sth from a person or place"
+
+
+
+06.felon /ˈfelən/ 
+
+[n] Biden calls Trump a convicted felon at first presidential debate.
+
+"a person who has committed a felony"
+
+
+
+07.felony /ˈfeləni/
+
+[n] a charge of felony./ prison: incarceration for felonies and longer sentences.
+
+"the act of committing a serious crime such as murder or rape ; a crime of this type"
 
 
 
@@ -37862,7 +38014,7 @@ A hazard is usually used to refer to risky situations that are very serious or l
 
 
 
-#### 03/15.05
+#### 03/15.07
 
 01.prune [pruːn]
 
@@ -37914,9 +38066,25 @@ Job hopping is **a trend that is growing exponentially in the labour market and 
 
 05.predecessor [ˈpredəsesər]
 
-[noun] The new president reversed many of the policies of his predecessor.
+[noun] The new president reversed many of the policies of his predecessor./President Joe Biden and his predecessor Donald Trump locked horns over defense policy, immigration, inflation, Russia's war in Ukraine and other hot-button issues in this year's first general election debate on Thursday, lambasting each other as the "worst president" in America's history.
 
 "a person who did a job before sb else"
+
+
+
+06.hot-button /ˈhɑːt bʌtn/
+
+[adj] the hot-button issue of nuclear waste disposal.
+
+"a topic or issue that is highly charged [emotionally](https://www.google.com/search?newwindow=1&sca_esv=334a9bda33585e15&sxsrf=ADLYWIKenOAe_eczADXpF5xXnGsX9akInw:1719551024587&q=emotionally&si=ACC90nwZrNcJVJVL0KSmGGq5Ka2YmdRjS93PXbbDNpHS22qaHJ-AuFJvrFxOpzbp6gbSZrriEsVocknZ5KU_5WY2Ej7mndXnYzzCcemAdmtMSt-LY1jU3bs%3D&expnd=1&sa=X&ved=2ahUKEwiolvnfwv2GAxWTr1YBHWL9C30QyecJegQINBAQ) or [politically](https://www.google.com/search?newwindow=1&sca_esv=334a9bda33585e15&sxsrf=ADLYWIKenOAe_eczADXpF5xXnGsX9akInw:1719551024587&q=politically&si=ACC90nwZrNcJVJVL0KSmGGq5Ka2Ybwz5AxKtlpiSVtoLcyI1IEDqOIUboJGdVVfn3bZ3lnDq9cYv3gvQASBwqLkZF2mdpZ7sP_OhzB_mq3Y9IPdTzhrDgRU%3D&expnd=1&sa=X&ved=2ahUKEwiolvnfwv2GAxWTr1YBHWL9C30QyecJegQINBAR)."
+
+
+
+07.disposal [dɪˈspoʊzl] 
+
+[noun] sewage disposal systems. "the act of getting rid of sth"
+
+[noun] {business} "the sale of part of a business, property, etc."
 
 
 
@@ -38862,7 +39030,7 @@ D[noun]  the attractiveness of travelling abroad.
 
 
 
-#### 04/19.08
+#### 04/19.10
 
 01.sparkling water /ˈspɑːrklɪŋ ˈwɔːtər/
 
@@ -38959,6 +39127,14 @@ In basketball, a splash is **a shot that goes through the basket, only touching 
 [PHRASE] When did you move off Australia?
 
 "When you **move off**, you start moving away from a place."
+
+
+
+10.outrage /ˈaʊtreɪdʒ/
+
+[n] Couple playing tennis inside Incheon Airport terminal sparks outrage.
+
+"a strong feeling of shock and anger"
 
 
 
@@ -44451,11 +44627,11 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-#### 01/10.06
+#### 01/10.07
 
 01.refrain /rɪˈfreɪn/
 
-[verb] However, the report refrains from commenting on the energy efficiency of the two chips.
+[verb] However, the report refrains from commenting on the energy efficiency of the two chips./Specifically, please refrain from using Times when preparing your paper with \LaTeX{}. Using a different font can be interpreted as purposely circumventing the length limitations and may lead to rejection without review.
 
 "to stop yourself from doing sth, especially sth that you want to do"
 
@@ -44477,9 +44653,13 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-03.presumably /prɪˈzuːməbli/
+03.circumvent /ˌsɜːrkəmˈvent/
 
-[adv] "used to say that you think that sth is probably true"
+[v] They found a way of circumventing the law.
+
+"to find a way of avoiding a difficulty or a rule"
+
+
 
 
 
@@ -44504,6 +44684,12 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 [n] Japan’s former princess Mako begins new life as ‘commoner’ in New York.
 
 "a person who does not come from a royal or noble family"
+
+
+
+07.presumably /prɪˈzuːməbli/
+
+[adv] "used to say that you think that sth is probably true"
 
 
 
@@ -46279,7 +46465,7 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 01.reminiscent /ˌremɪˈnɪsnt/
 
-[adj] {~ of sb/sth}  The way he laughed was strongly reminiscent of his father.
+[adj] {~ of sb/sth}  The way he laughed was strongly reminiscent of his father. / The optimization process is reminiscent of the sliding block puzzle and thus the name Puzzle Mix.
 
 "reminding you of sb/sth"
 
@@ -46315,7 +46501,7 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 
 
-#### 06/09
+#### 06/09.03
 
 01.avid /ˈævɪd/
 
@@ -46340,3 +46526,497 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 03.encampment /ɪnˈkæmpmənt/
 
 [n] a military encampment "a group of tents, huts , etc. where people live together, usually for only a short period of time"
+
+
+
+#### 06/10.02
+
+01.counteraction / ˌkaʊntərˈækʃən /
+
+[n] "action intended to nullify the effects of some previous action"
+
+
+
+02.nullify /ˈnʌlɪfaɪ/
+
+[v] Judges were unwilling to nullify government decisions.
+
+"to make sth such as an agreement or order lose its legal force" -invalidate-
+
+[v] An unhealthy diet will nullify the effects of training.
+
+"to make sth lose its effect or power" -negate-
+
+
+
+#### 06/16.07
+
+01.formative /ˈfɔːrmətɪv/
+
+[adj] who is the formative people in your upbringing. 
+
+"having an important and lasting influence on the development of sth or of sb's character"
+
+
+
+02.charisma /kəˈrɪzmə/
+
+[n] The President has great personal charisma.
+
+"the powerful personal quality that some people have to attract and impress other people"
+
+
+
+03.mon·e·tize  /ˈmɑːn.ə.taɪz/
+
+[v] the company has not said how it expects to monetize the game.
+
+"earn revenue from (an asset, business, etc.)."
+
+
+
+04.bureaucracy /bjʊˈrɑːkrəsi/
+
+[n] The bureaucracy is building up.
+
+"the system of official rules and ways of doing things that a government or an organization has, especially when these seem to be too complicated"
+
+
+
+05.morale /məˈræl/
+
+[n] to boost/raise/improve morale. 
+
+"the amount of confidence and enthusiasm, etc. that a person or a group has at a particular time"
+
+
+
+06.offshoring /ˌɔːfˈʃɔːrɪŋ/
+
+[n] the offshoring of call-centre jobs to India. "the practice of a company in one country arranging for people in another country to do work for it"
+
+
+
+07.geopolitical /ˌdʒiːoʊpəˈlɪtɪkl/
+
+[adj] The “strategic competition” between the *US* and *China* remains the top *geopolitical* risk facing markets worldwide.
+
+"**Geopolitical** means relating to or concerned with geopolitics."
+
+
+
+#### 06/18.01
+
+01.backfire /ˌbækˈfaɪər/
+
+[v] Unfortunately the plan backfired. 
+
+"to have the opposite effect to the one intended, with bad or dangerous results"
+
+
+
+#### 06/19.05
+
+01.resume /rɪˈzuːm/
+
+[n] a brief résumé of events so far.
+
+"a short summary or account of sth"
+
+[v] She resumed her career after an interval of six years.
+
+"if you resume an activity, or if it resumes , it begins again or continues after an interruption"
+
+
+
+02.nausea /ˈnɔːziə/
+
+[n] Erythritol is **a sugar alcohol used as a low-calorie sweetener**. Eating a large amount of it may cause digestive issues, including nausea. 
+
+"the feeling that you have when you want to vomit , for example because you are ill/sick or are disgusted by sth"
+
+
+
+03.Erythritol /*eɾitɾiˈtol*/ 
+
+[chemistry] **66 grams per kilogram of a man's weight each day** and . 80 grams a day for women, however, larger doses have also been shown to be well tolerated. For example, "a 150 lb. person could safely tolerate up to 68 grams of **erythritol** per day without experiencing negative side effects," explains Messer.
+
+
+
+04.Psicose 
+
+[chemistry] D-Psicose (C6H12O6), also known as D-allulose, or simply allulose, is a low-calorie epimer of the monosaccharide sugar fructose, used by some major commercial food and beverage manufacturers **as a low-calorie sweetener**.
+
+
+
+04.clot /klɒt/ /klɑːt/
+
+[n] They removed a clot from his brain.
+
+"= blood clot"
+
+[v] a drug that stops blood from clotting during operations.
+
+"when blood or cream clots or when sth clots it, it forms thick lumps or clots"
+
+
+
+05.intoxicated /ɪnˈtɑːksɪkeɪtɪd/
+
+[adj] *Singer Justin Timberlake has been arrested* and is accused of driving while intoxicated on Long Island.
+
+"under the influence of alcohol or drugs"
+
+
+
+#### 06/20.02
+
+01.fiscal /ˈfɪskl/
+
+[adj] The company is focusing on providing more affordable home furnishing products to our customers instead of maximizing profits in the fiscal year of 2024. 
+
+"connected with government or public money, especially taxes"
+
+
+
+02.nag /næɡ/
+
+[v] Stop nagging─I'll do it as soon as I can.
+
+"to keep complaining to sb about their behaviour or keep asking them to do sth"
+
+
+
+#### 06/21.03
+
+01.purifier /ˈpjʊrɪfaɪər/
+
+[n] an air/water purifier. 
+
+"a device that removes substances that are dirty, harmful or not wanted"
+
+
+
+02.outlet 
+
+[n] She needed to find an outlet for her many talents and interests.
+
+"a way of expressing or making good use of strong feelings, ideas or energy"
+
+[n] the Nike outlet in the outlet mall.
+
+"a shop/store that sells goods of a particular make at reduced prices"
+
+[n] "An **outlet** is a place, usually in a wall, where you can connect electrical devices to the electricity supply."  "in BRIT, usually use 英国英语通常用 socket"
+
+
+
+03.anecdote /ˈænɪkdəʊt/
+
+[n] There are only two public anecdotes about Xu Yangtian, also known as Chris Xu – the mysterious billionaire founder of [Shein](https://www.theguardian.com/business/shein). One positive, one negative. 
+
+"a short, interesting or amusing story about a real person or event"
+
+
+
+#### 06/23.03
+
+01.hostess /ˈhoʊstəs/
+
+[n] The hostess introduced them... 
+
+"a woman who invites guests to a meal, a party, etc.; a woman who has people staying at her home"
+
+[n]  Why Do So Many Japanese Girls Become Hostesses?
+
+"A **hostess** at a night club or dance hall is a woman who is paid by a man to be with him for the evening."
+
+
+
+02.preservation /ˌprezərˈveɪʃn/
+
+[n] building/environmental/food preservation.
+
+"the act of keeping sth in its original state or in good condition"
+
+[n] The central issue in the strike was the preservation of jobs.
+
+"the act of making sure that sth is kept"
+
+
+
+03.imperative /ɪmˈperətɪv/
+
+[adj] It is imperative that the paper ID is mentioned on each page of the manuscript of the review version.
+
+"very important and needing immediate attention or action" 
+
+
+
+#### 06/24.04
+
+01.ripen /ˈraɪpən/
+
+[v] Wrapping those stems with plastic wrap or aluminum foil slows down the ripening process. 
+
+"to become ripe ; to make sth ripe"
+
+
+
+02.aluminum foil /əˈlumənəm fɔɪl/
+
+[n] "foil made of aluminum"
+
+
+
+03.ethylene /ˈeθɪliːn/
+
+[chemistry] According to Express, separating the bananas and wrapping each stem individually with plastic wrap will allow them to stay fresh for **up to two weeks**. This method traps the tops of the fruit, which is where ethylene gas is released.
+
+"a gas which is present in coal, crude oil , and natural gas"
+
+
+
+04.ripe /raɪp/
+
+[adj] Always choose firm, but ripe fruit.
+
+"**Ripe** fruit or grain is fully grown and ready to eat."
+
+[adj] Conditions were ripe for an outbreak of cholera...
+
+"If a situation is **ripe for** a particular development or event, you mean that development or event is likely to happen soon."
+
+
+
+#### 06/25.02
+
+01.quest /kwest/
+
+[n] {~ (for sth)}  the quest for happiness/knowledge/truth.
+
+"a long search for sth, especially for some quality such as happiness"
+
+[v] "to search for sth that is **difficult** to find; 探索"
+
+
+
+02.bait /beɪt/
+
+[n] China's Xi accused the US of trying to trick him into invading Taiwan, but said he won't take the bait, report says. 
+
+"food put on a hook to catch fish or in nets, traps, etc. to catch animals or birds"
+
+[v] He baited the trap with a piece of meat.
+
+"to place food on a hook, in a trap, etc. in order to attract or catch an animal"
+
+
+
+#### 06/26.15
+
+01.strabismus/strəˈbɪzməs/
+
+ [n] "the condition of having a squint (= when one eye looks in a different direction from the other)" -crossed eyes-
+
+
+
+02.taxonomy /tækˈsɑːnəmi/
+
+[n] **Taxonomy** is the process of naming and classifying things such as animals and plants into groups within a larger system, according to their similarities and differences.
+
+"the scientific process of classifying things (= arranging them into groups)"
+
+
+
+03.namesake /ˈneɪmseɪk/
+
+[n] Unlike his more famous namesake, this Bill Clinton has little interest in politics.
+
+"a person or thing that has the same name as sb/sth else"
+
+
+
+04.verbal /ˈvɜːrbl/
+
+[adj] Son Woong-jung, the father of Korean football star Son Heung-min and director of his namesake football academy, and two of his coaches have been accused of verbal and physical abuse of a young athlete, Yonhap News Agency learned Wednesday.
+
+"relating to words"
+
+
+
+05.corporal punishment /ˈkɔːrpərəl/
+
+[phrase]  Son and two of his coaches at Son Football Academy in Chuncheon, 76 kilometers northeast of Seoul, are accused of verbally abusing a player and giving him corporal punishment for making mistakes during training sessions and matches.
+
+"Corporal punishment is defined as the use of physical force with the intention of causing a child to experience pain so as to correct their misbehavior." 
+
+
+
+06.bruise /bruːz/
+
+[v] Strawberries bruise easily.
+
+"to develop a bruise , or make a bruise or bruises appear on the skin of sb/sth"
+
+[v] They had been badly bruised by the defeat.
+
+"to affect sb badly and make them feel unhappy and less confident"
+
+[n] The parents of the player reported Son, 62, and the two coaches to police in March after discovering a bruise on their son's thigh, following a training camp in Okinawa, Japan.
+
+"a blue, brown or purple mark that appears on the skin after sb has fallen, been hit, etc."
+
+[n] "a mark on a fruit or vegetable where it is damage"
+
+
+
+07.buttock /ˈbʌtək/
+
+[n] When the player and three teammates failed to make it in time, they were forced to take a pushup position and were struck in the buttocks.
+
+"either of the two round soft parts at the top of a person's legs"
+
+
+
+08.stature /ˈstætʃər/
+
+[n] In an online video, Liang Zhongjin, 39, a small-in-stature man with a plump smiling face stands in a bustling warehouse, animatedly explaining how parcels shipped from Korea can reach their destination in China in just three days.
+
+"a person's height"
+
+[n] Who can deny his stature as the world's greatest cellist?...
+
+"the importance and respect that a person has because of their ability and achievements"
+
+
+
+09.cellist /ˈtʃelɪst/
+
+[n] "A **cellist** is someone who plays the cello."
+
+
+
+10.plump /plʌmp/
+
+[adj] a plump face.
+
+"having a soft, round body; slightly fat"
+
+
+
+11.animatedly 
+
+[adv] People were talking animatedly. /交谈甚欢.
+
+"Someone who is **animated** or who is having an **animated** conversation is lively and is showing their feelings."
+
+
+
+12.parcel /ˈpɑːrsl/
+
+[n] {(especially BrE) NAmE usually package}"something that is wrapped in paper or put into a thick envelope so that it can be sent by mail, carried easily, or given as a present"
+
+
+
+13.the course of ten years
+
+[phrase] The video, posted on WeChat — a Chinese "app for everything" — a few weeks ago, has already garnered over 210,000 views, 2,500 likes and 1,500 shares, introducing viewers to the largest cross-border courier business from Korea to China started by Liang from humble beginnings over the course of ten years.'十年的历程'
+
+
+
+14.hindrance /ˈhɪndrəns/
+
+[n] However, he turned what could have been a significant hindrance into a strength.
+
+"a person or thing that makes it more difficult for sb to do sth or for sth to happen"
+
+
+
+15.abate /əˈbeɪt/
+
+[v] "to become less strong; to make sth less strong"
+
+
+
+#### 06/27
+
+01.alcoholism /ˈælkəhɒlɪzəm/ /ˈælkəhɑːlɪzəm/
+
+[n] ...the problems of alcoholism.
+
+"the medical condition caused by drinking too much alcohol regularly"
+
+
+
+02.dispatched work/dɪˈspætʃt /
+
+
+
+03.subcontracted worker /ˌsʌbˈkɑːntræktɪd ˈwɜːrkər/
+
+
+
+#### 06/28
+
+01.incumbent /ɪnˈkʌmbənt/
+
+[adj] Calling Biden's defense policy "insane," Trump cited tensions with North Korea, Russia and China and accused the incumbent president of bringing the United States "closer to World War III."
+
+"having an official position"
+
+
+
+02.lambaste /læmˈbeɪst/
+
+[v] lambasting each other as the "worst president" in America's history.
+
+"to attack or criticize sb very severely, especially in public" -lay into-
+
+
+
+03.rancorous /ˈræŋkərəs/
+
+[adj] Hosted by CNN, the 90-minute rancorous debate took place without an audience in the battleground state of Georgia more than four months ahead of the Nov. 5 presidential election.
+
+"A **rancorous** argument or person is full of bitterness and anger."
+
+
+
+04.bipartisan /ˌbaɪˈpɑːrtɪzn/
+
+[adj] Biden stressed his administration's effort to get a bipartisan agreement for border security, while **accentuating** what happened during Trump's presidency.
+
+"involving two political parties"
+
+
+
+05.accentuate /əkˈsentʃueɪt/
+
+[v] "to emphasize sth or make it more noticeable"
+
+
+
+06.conjecture 
+
+[n] Biden said that a vote by presidential historians showed that Trump was "the worst in all of American history."
+
+"That's a fact. That's not conjecture," he said.
+
+"the forming of an opinion or idea that is not based on definite knowledge"
+
+
+
+07.excoriate /ˌeksˈkɔːrieɪt/
+
+[v] They also pummeled each other, excoriating each other as the worst president in the U.S. history.
+
+"to criticize sb/sth severely"
+
+
+
+08.pummel /ˈpʌml/
+
+[v] (figurative) She pummelled (= strongly criticized) her opponents.
+
+"to keep hitting sb/sth hard, especially with your fists (= tightly closed hands)"
