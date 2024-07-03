@@ -15011,7 +15011,9 @@ Speak is more commonly used when it's normal talking being considered.
 
 01.humidity [hjuːˈmɪdəti]
 
-[noun] high/low humidity. "the amount of water in the air"
+[noun] high/low humidity. /According to the Environmental Protection Agency, the best indoor relative humidity falls **between 30% and 50%**, and it should never exceed 60%. Other studies suggest 40% to 60% is a better range. Regardless, 60% seems to be the agreed-upon threshold for indoor humidity.
+
+"the amount of water in the air"
 
 [noun] These [ðiːz] plants need heat and humidity to grow well. "conditions in which the air is very warm and damp"
 
@@ -34928,6 +34930,8 @@ ICPR 2024 is the 27th event of the series and it provides a great opportunity to
 
 "to help sb/sth to develop and be successful"
 
+[n] nature vs nurture."care, encouragement and support given to sb/sth while they are growing"
+
 
 
 #### 10/23.02
@@ -46939,7 +46943,7 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 
 
-#### 06/27
+#### 06/27.03
 
 01.alcoholism /ˈælkəhɒlɪzəm/ /ˈælkəhɑːlɪzəm/
 
@@ -46957,7 +46961,7 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 
 
-#### 06/28
+#### 06/28.10
 
 01.incumbent /ɪnˈkʌmbənt/
 
@@ -47020,3 +47024,97 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 [v] (figurative) She pummelled (= strongly criticized) her opponents.
 
 "to keep hitting sb/sth hard, especially with your fists (= tightly closed hands)"
+
+
+
+09.laggy  /ˈlæɡ.i/
+
+[adj] my PC's been pretty laggy lately.
+
+"(of a computer, video game, or internet connection) slow to respond."
+
+
+
+10.lately 
+
+[adv] Have you seen her lately?
+
+"recently; in the recent past"
+
+
+
+lately vs recently
+
+
+
+> Both "lately" and "recently" refer to actions or events that occurred in the near past, but they are used slightly differently in sentences:
+>
+> - **Lately**: Typically used with present perfect or present perfect continuous tenses to describe actions or situations that have happened frequently or continuously up to the present moment.
+>   - **Example**: "I have been feeling tired lately." / "Lately, she has been very busy with work."
+> - **Recently**: Can be used with past, present perfect, or past perfect tenses to refer to actions or events that happened at some point in the near past, without necessarily implying ongoing action.
+>   - **Example**: "I saw a great movie recently." / "He has recently moved to a new city."
+>
+> Examples:
+>
+> - **Lately**: "Lately, I have been thinking a lot about changing my job."
+> - **Recently**: "I recently read an interesting book."
+>
+> In summary, use "lately" to emphasize ongoing or repeated actions, and "recently" to point to specific past actions or events.
+
+
+
+#### 06/30.05
+
+01.hoarse /hɔːrs/
+
+[adj] He shouted himself hoarse.
+
+"sounding rough and unpleasant, especially because of a sore throat"
+
+
+
+02.dissect /dɪˈsekt/
+
+[v] We dissected a frog in biology class.
+
+"to cut up a dead person, animal or plant in order to study it"
+
+[v] The main idea in my implementation is to dissect the network so we could obtain the activations of the last convolutional layer.
+
+"to study sth closely and/or discuss it in great detail"
+
+
+
+03.fond /fɑːnd/
+
+[adj] {~ of sb} Over the years, I have grown quite fond of her.
+
+"feeling affection for sb, especially sb you have known for a long time"
+
+
+
+> **"I like you" is something you can say to a friend who's not particularly close, but "I am fond of you" is stronger** - often said by grandparents to their grandchildren, nieces etc. In British English and in the past "fond of" could mean actual tentative first steps of love!
+
+
+
+04.niece /niːs/
+
+[n] "the daughter of your brother or sister; the daughter of your husband's or wife's brother or sister"
+
+
+
+05.nephew /ˈnefjuː/
+
+[n] "the son of your brother or sister; the son of your husband's or wife's brother or sister"
+
+
+
+#### 07/03
+
+01.probable /ˈprɑːbəbl/
+
+[adj] compute the most probable class.
+
+"likely to happen, to exist or to be true"
+
+[noun] "a person or an animal that is likely to win a race or to be chosen for a team"
