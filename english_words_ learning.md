@@ -8823,7 +8823,7 @@ e.g: state-owned enterprises
 
 
 
-#### 2020/06/11.12
+#### 2020/06/11.13
 
 01.diagnose /ˌdaɪəɡˈnoʊs/ {dia bi}{gnos know}{"两头都知道"} "诊断(疾病);判断(问题的原因)"
 
@@ -8859,25 +8859,21 @@ e.g: state-owned enterprises
 
 
 
-04.perception  [pəˈsepʃn] 
+04.punitive /ˈpjuːnətɪv/
 
-[noun] {formal or technical} our perception of reality. "the way you notice things, especially with the senses" "感知"
+[adj] There are calls for more **punitive measures** against people who drink and drive. 
 
-[n] She showed great perception in her assessment of the family situation.
-
-"the ability to understand the true nature of sth"
-
-[n] a **campaign** to change public perception of the police. 
-
-"an idea, a belief or an image you have as a result of how you see or understand sth"
+"intended as punishment"
 
 
 
-05.shrug  [ʃrʌɡ] 
+05.walkout /ˈwɔːkaʊt/
 
-[verb] Sam shrugged and said nothing. 
+[n] Gov't drops all punitive measures against trainee doctors over walkout.
 
-"to raise your shoulders and then drop them to show that you do not know or care about sth"
+"a sudden strike by workers"
+
+[n] "the act of suddenly leaving a meeting as a protest against sth"
 
 
 
@@ -8948,6 +8944,28 @@ strike a balance /straɪk ə ˈbæləns/
 [noun] The police think the videotape may hold some vital clues to the identity of the killer.
 
 "an object, a piece of evidence or some information that helps the police solve a crime"
+
+
+
+13.shrug  [ʃrʌɡ] 
+
+[verb] Sam shrugged and said nothing. 
+
+"to raise your shoulders and then drop them to show that you do not know or care about sth"
+
+
+
+14.perception  [pəˈsepʃn] 
+
+[noun] {formal or technical} our perception of reality. "the way you notice things, especially with the senses" "感知"
+
+[n] She showed great perception in her assessment of the family situation.
+
+"the ability to understand the true nature of sth"
+
+[n] a **campaign** to change public perception of the police. 
+
+"an idea, a belief or an image you have as a result of how you see or understand sth"
 
 
 
@@ -47109,7 +47127,7 @@ lately vs recently
 
 
 
-#### 07/03
+#### 07/03.01
 
 01.probable /ˈprɑːbəbl/
 
@@ -47118,3 +47136,47 @@ lately vs recently
 "likely to happen, to exist or to be true"
 
 [noun] "a person or an animal that is likely to win a race or to be chosen for a team"
+
+
+
+#### 07/10.01
+
+01.cringe /krɪndʒ/
+
+[v] Molly had cringed when Ann started picking up the guitar...
+
+"If you **cringe at** something, you feel embarrassed or disgusted, and perhaps show this feeling in your expression or by making a slight movement."
+
+
+
+#### 07/11.02
+
+01.uptick /ˈʌptɪk/
+
+[n] July exports continue uptick led by semiconductors.
+
+"a small increase"
+
+
+
+02.downtick
+
+[n] a downtick in the unemployment rate is welcome news. "a small decrease or slight [downward](https://www.google.com/search?newwindow=1&sca_esv=4206a373bb569601&sxsrf=ADLYWILBzUmSh0e-hMefqGbukkHrJHgCVQ:1720688060144&q=downward&si=ACC90nx67Z8g0WkBmnrPB4IqtqGvix5N0J4ld5DroJ43rodvKR4nJBPH9bf8s64VhHqQNgAYjwMtl_S-VTc1ljRPQ9DLZpoN6SIc9OZEpTZCMU86E89ZybE%3D&expnd=1&sa=X&ved=2ahUKEwiAjeDEzp6HAxVyj68BHfltFtsQyecJegQIMBAO) trend."
+
+
+
+#### 07/12
+
+01.solar terms /ˈsoʊlər tɜːrmz/
+
+[n] A **solar term** (or ***jieqi***, [simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters): 节气; [traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters): 節氣) is any of twenty-four periods in traditional [Chinese](https://en.wikipedia.org/wiki/Chinese_calendar) [lunisolar calendars](https://en.wikipedia.org/wiki/Lunisolar_calendar) that matches a particular astronomical event or signifies some natural phenomenon.
+
+
+
+#### 07/15
+
+01.emaciate / ɪˈmeɪʃiˌeɪt /
+
+[v] PSY uploaded Sunday a video on his social media with the caption, ”After receiving harsh criticism for weight loss and being called ’emaciated‘ by a fan,“ explaining the situation.
+
+"grow weak and thin or waste away physically"
