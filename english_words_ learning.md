@@ -15,7 +15,15 @@
 
 
 
-02.adoption  [əˈdɒpʃn]
+02.adaptive /əˈdæptɪv/
+
+[adj] The chameleon /kəˈmiːliən/ is highly adaptive, allowing it to change its color to blend in with different environments.
+
+"concerned with changing; able to change when necessary in order to deal with different situations"
+
+
+
+03.adoption  [əˈdɒpʃn]
 
 [noun] She put the baby up for adoption. "the act of adopting a child"
 
@@ -25,7 +33,7 @@
 
 
 
-adopt  [əˈdɒpt] [əˈdɑːpt]
+04.adopt  [əˈdɒpt] [əˈdɑːpt]
 
 [v] a **campaign** to encourage childless couples to adopt. "to take sb else's child into your family and become its legal parent(s)"
 
@@ -35,7 +43,7 @@ adopt  [əˈdɒpt] [əˈdɑːpt]
 
 
 
-03.campaign /kæmˈpeɪn/
+05.campaign /kæmˈpeɪn/
 
 [n] {~ (against/for sth)} a campaign against **ageism** in the workplace.
 
@@ -48,32 +56,6 @@ campaign vs activity
 运动vs活动
 
 
-
-04.resolution  [ˌrezəˈluːʃn] 
-
-[noun] to pass/adopt/carry a resolution. "a formal statement of an opinion agreed on by a committee or a council, especially by means of a vote"
-
-[noun] The government is pressing for an early resolution of the dispute."the act of solving or settling a problem, disagreement, etc." -settlement-
-
-[noun] The reforms owe a great deal to the resolution of one man."the quality of being resolute or determined" -resolve-
-
-[noun] {~ (to do sth)}She made a resolution to visit her relatives more often. 
-
-"a **firm decision** to do or not to do sth"
-
-[noun]high-resolution graphics. "the power of a computer screen, printer, etc. to give a clear image, depending on the size of the dots that make up the image"
-
-
-
-05.resolute /ˈrezəluːt/
-
-[adj] He became even more resolute in his opposition to the plan.
-
-"having or showing great determination" -determined-
-
-
-
-> there's not really a difference. Historically maybe there once was, or they have different origins, but today they are exactly the same word. Use whichever sounds better to you.  Resolute is a little less common and sounds more like prose than determined.
 
 
 
@@ -2603,6 +2585,38 @@ The tidal energy is not stable.
  [**adj**]  He was the ranking officer(= the most senior officer present at a particular time) 
 
 "having a high or the highest rank in an organization, etc."
+
+
+
+49.resolution  [ˌrezəˈluːʃn] 
+
+[noun] to pass/adopt/carry a resolution. "a formal statement of an opinion agreed on by a committee or a council, especially by means of a vote"
+
+[noun] The government is pressing for an early resolution of the dispute."the act of solving or settling a problem, disagreement, etc." -settlement-
+
+[noun] The reforms owe a great deal to the resolution of one man."the quality of being resolute or determined" -resolve-
+
+[noun] {~ (to do sth)}She made a resolution to visit her relatives more often. 
+
+"a **firm decision** to do or not to do sth"
+
+[noun]high-resolution graphics. "the power of a computer screen, printer, etc. to give a clear image, depending on the size of the dots that make up the image"
+
+
+
+50.resolute /ˈrezəluːt/
+
+[adj] He became even more resolute in his opposition to the plan.
+
+"having or showing great determination" -determined-
+
+
+
+> there's not really a difference. Historically maybe there once was, or they have different origins, but today they are exactly the same word. Use whichever sounds better to you.  Resolute is a little less common and sounds more like prose than determined.
+
+
+
+
 
 #### 2019/12/31.21
 
@@ -7978,21 +7992,22 @@ D[adj] I felt that life was no longer endurable. -unendurable-
 
 
 
-All three words, bear, tolerate, and endure, convey a sense of dealing with something difficult, unpleasant or challenging. However, there are subtle differences in the way they are used and the degree of **hardship** implied by each one.
-
-1. Bear: To bear means to carry or support a weight, burden or responsibility. It can also mean to endure or tolerate something difficult or unpleasant, without necessarily implying that it is intolerable or unbearable.
-
-Example: She could barely bear the weight of her backpack on the long hike.
-
-1. Tolerate: To tolerate means to allow or permit something without protesting or resisting it, even if it's disagreeable or unpleasant. It implies that there is some level of discomfort involved but it is not intolerable.
-
-Example: I can tolerate spicy food, but only up to a certain level.
-
-1. Endure: To endure means to suffer or undergo something difficult, painful, or unpleasant without giving up or complaining. It suggests a higher degree of hardship or suffering than tolerate or bear.
-
-Example: He endured the harsh winter without heat or electricity.
-
-In summary, bear is more about carrying or supporting something, tolerate is about accepting something unpleasant, and endure is about persisting through something difficult or painful.
+> All three words, bear, tolerate, and endure, convey a sense of dealing with something difficult, unpleasant or challenging. However, there are subtle differences in the way they are used and the degree of **hardship** implied by each one.
+>
+> Bear: To bear means to carry or support a weight, burden or responsibility. It can also mean to endure or tolerate something difficult or unpleasant, without necessarily implying that it is intolerable or unbearable.
+>
+> Example: She could barely bear the weight of her backpack on the long hike.
+>
+> Tolerate: To tolerate means to allow or permit something without protesting or resisting it, even if it's disagreeable or unpleasant. It implies that there is some level of discomfort involved but it is not intolerable.
+>
+> Example: I can tolerate spicy food, but only up to a certain level.
+>
+> Endure: To endure means to suffer or undergo something difficult, painful, or unpleasant without giving up or complaining. It suggests a higher degree of hardship or suffering than tolerate or bear.
+>
+> Example: He endured the harsh winter without heat or electricity.
+>
+> In summary, bear is more about carrying or supporting something, tolerate is about accepting something unpleasant, and endure is about persisting through something difficult or painful.
+>
 
 
 
@@ -15123,17 +15138,20 @@ After the operation you may find it difficult to chew and swallow.
 
 
 
-"Dissolve" and "melt" are two different processes that involve the transformation of substances from one state to another, typically involving a change from a solid state to a liquid state. However, they are distinct processes with different implications:
-
-1. **Melt**:
-   - **Definition**: Melting is the process of a solid substance changing into a liquid state due to an increase in temperature. When a solid melts, its molecules or atoms gain enough kinetic energy to break free from their fixed positions and move more freely, transitioning into a liquid state.
-   - **Example**: Ice melts into water when heated above its melting point (0°C or 32°F at standard atmospheric pressure).
-
-2. **Dissolve**:
-   - **Definition**: Dissolving refers to the process in which a solid substance (solute) becomes incorporated into a liquid (solvent) at the molecular or ion level. It typically involves the breaking of chemical bonds in the solid as it mixes with the solvent. Dissolving can also occur with gases in liquids or solids in other solids.
-   - **Example**: When you add table salt (sodium chloride, NaCl) to water, the salt crystals break apart into sodium ions (Na+) and chloride ions (Cl-) as they become dispersed in the water. This is an example of dissolution.
-
-In summary, melting is a phase change from solid to liquid due to an increase in temperature, while dissolving involves the incorporation of solid (or gas) particles into a liquid at the **molecular** or ion level, often without a change in temperature. They are related processes but have distinct mechanisms and implications.
+> "Dissolve" and "melt" are two different processes that involve the transformation of substances from one state to another, typically involving a change from a solid state to a liquid state. However, they are distinct processes with different implications:
+>
+> **Melt**:
+>
+> - **Definition**: Melting is the process of a solid substance changing into a liquid state due to an increase in temperature. When a solid melts, its molecules or atoms gain enough kinetic energy to break free from their fixed positions and move more freely, transitioning into a liquid state.
+> - **Example**: Ice melts into water when heated above its melting point (0°C or 32°F at standard atmospheric pressure).
+>
+> **Dissolve**:
+>
+> - **Definition**: Dissolving refers to the process in which a solid substance (solute) becomes incorporated into a liquid (solvent) at the molecular or ion level. It typically involves the breaking of chemical bonds in the solid as it mixes with the solvent. Dissolving can also occur with gases in liquids or solids in other solids.
+> - **Example**: When you add table salt (sodium chloride, NaCl) to water, the salt crystals break apart into sodium ions (Na+) and chloride ions (Cl-) as they become dispersed in the water. This is an example of dissolution.
+>
+> In summary, melting is a phase change from solid to liquid due to an increase in temperature, while dissolving involves the incorporation of solid (or gas) particles into a liquid at the **molecular** or ion level, often without a change in temperature. They are related processes but have distinct mechanisms and implications.
+>
 
 
 
@@ -15764,27 +15782,30 @@ D[adv] relatively  [ˈrelətɪvli]
 
 
 
-"Relatively," "comparatively," and "correspondingly" are all adverbs that are used to establish a relationship or make a comparison between different elements. While they share some similarities, there are slight differences in their meanings and usage:
-
-1. Relatively: This adverb is used to indicate a comparison between two or more things in relation to each other. It suggests that something is considered or evaluated in relation to something else. It highlights the degree or extent of a quality or characteristic in comparison to others. For example:
-   - "The rent in this city is relatively high compared to neighboring towns."
-   - "She is relatively young compared to her colleagues." "相对de"
-2. Comparatively: This adverb is used to draw a comparison between two or more things, highlighting similarities or differences. It indicates that something is being considered in relation to a standard or benchmark. It is often used to express a relative degree or extent. For example:
-   - "The car is comparatively cheaper than other models in its class."
-   - "The company's profits increased comparatively more this year." "相比较de"
-3. Correspondingly: This adverb is used to indicate a relationship or connection between two or more things, suggesting that one thing corresponds or matches with another. It emphasizes that there is a parallel or corresponding aspect in relation to something else. For example:
-   - "As the demand for the product increased, the price correspondingly rose."
-   - "The company's sales went up, and correspondingly, its market share increased." "相对应de"
-
-In summary, "relatively" emphasizes the comparison in relation to others, "comparatively" emphasizes a comparison to a standard or benchmark, and "correspondingly" highlights a **parallel or matching relationship** between elements.
-
-
-
-another explanation:
-
-What is the difference between comparatively and relatively?
-
-They are very similar. Comparatively is simply good for when you are making a comparison between two or more things. Like "Japan is comparatively safer than other countries."  Relatively can be used for comparison but also as "basically". For example, you can say "This is relatively easy!". A comparison is implied, but it doesn't feel as direct as "comparatively". I use "relatively" often in conversation. I never use comparatively though. It's more academic.
+> "Relatively," "comparatively," and "correspondingly" are all adverbs that are used to establish a relationship or make a comparison between different elements. While they share some similarities, there are slight differences in their meanings and usage:
+>
+> Relatively: This adverb is used to indicate a comparison between two or more things in relation to each other. It suggests that something is considered or evaluated in relation to something else. It highlights the degree or extent of a quality or characteristic in comparison to others. For example:
+> - "The rent in this city is relatively high compared to neighboring towns."
+> - "She is relatively young compared to her colleagues." "相对de"
+>
+> Comparatively: This adverb is used to draw a comparison between two or more things, highlighting similarities or differences. It indicates that something is being considered in relation to a standard or benchmark. It is often used to express a relative degree or extent. For example:
+> - "The car is comparatively cheaper than other models in its class."
+> - "The company's profits increased comparatively more this year." "相比较de"
+>
+> Correspondingly: This adverb is used to indicate a relationship or connection between two or more things, suggesting that one thing corresponds or matches with another. It emphasizes that there is a parallel or corresponding aspect in relation to something else. For example:
+> - "As the demand for the product increased, the price correspondingly rose."
+> - "The company's sales went up, and correspondingly, its market share increased." "相对应de"
+>
+> In summary, "relatively" emphasizes the comparison in relation to others, "comparatively" emphasizes a comparison to a standard or benchmark, and "correspondingly" highlights a **parallel or matching relationship** between elements.
+>
+> 
+>
+> another explanation:
+>
+> What is the difference between comparatively and relatively?
+>
+> They are very similar. Comparatively is simply good for when you are making a comparison between two or more things. Like "Japan is comparatively safer than other countries."  Relatively can be used for comparison but also as "basically". For example, you can say "This is relatively easy!". A comparison is implied, but it doesn't feel as direct as "comparatively". I use "relatively" often in conversation. I never use comparatively though. It's more academic.
+>
 
 
 
@@ -21012,7 +21033,7 @@ D[noun] a refutation of previously held views.
 
 
 
-#### 20210128.10
+#### 20210128.12
 
 01.rewind  [ˌriːˈwaɪnd] 
 
@@ -21066,33 +21087,38 @@ D[noun] a refutation of previously held views.
 
 
 
-The levels of formality are, in descending order: *intentionally*, *deliberately*, and *on purpose*. If you look at published books and journals that have blank pages, you'll find some with printed statements "This page **intentionally** left blank". That's because it's the most formal and the most neutral. Yes, *deliberately* is a synonym that means *intentionally*, but it more often has a negative connotation than *intentionally* does (especially among high school students, at least that was true when I was in high school), although both words are used both positively and negatively, e.g., *That was {a deliberate / an intentional snub}* (negative use, and [Google Ngrams](http://books.google.com/ngrams/graph?content=intentional snub,deliberate snub&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=) shows more frequent use of the former than the latter). Maybe that's merely because *deliberately* is more frequently used than *intentionally* is.
+07.intentionally [ɪnˈtɛnʃənəli]
 
-Wikipedia has an article on *[deliberate practice](http://en.wikipedia.org/wiki/Practice_(learning_method))*, however, which shows that word's very positive connotation. There are also Web pages for *[intentional practice](http://www.wisdompage.com/practicing.html)* that show its equally positive connotation. [Google Ngrams](http://books.google.com/ngrams/graph?content=intentional practice,deliberate practice&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=) shows that *deliberate practice* is more often used than *intentional practice*. *On purpose* is what children say for *intentionally* and *deliberately*, which is why it's the at the lowest level of formality of those three terms. They are not always interchangeable: register and context must be taken into account.
+[adv] I've never **intentionally** hurt anyone.
 
-----------------below from chatGPT-----------------------------------------------------------
-
-"Deliberately," "intentionally," and "on purpose" are all adverbs that convey the idea of doing something with a specific intention or purpose. While they share a similar meaning, there are subtle differences in usage and emphasis.
-
-1. Deliberately: This adverb emphasizes the careful consideration or thought that goes into an action. When someone does something deliberately, it implies that they have taken the time to think about the consequences or implications before acting. It suggests a level of premeditation or planning. For example:
-
-   "He deliberately chose his words to avoid causing offense."
-
-2. Intentionally: This adverb focuses on the intent behind an action. When someone does something intentionally, it means they had a clear purpose or objective in mind while carrying out the action. It implies that the action was not accidental or unintentional. For example:
-
-   "She intentionally left the party early because she had an early morning appointment."
-
-3. On purpose: This adverb emphasizes the conscious decision to perform an action for a specific reason. It indicates that the action was not accidental or incidental but was done deliberately for a particular purpose. For example:
-
-   "He knocked over the vase on purpose to get attention."
-
-In summary, while "deliberately" emphasizes careful consideration, "intentionally" focuses on the intention, and "on purpose" highlights the conscious decision to carry out an action. They are often used interchangeably, but the choice of one over the other can depend on the context and the nuance you want to convey.
+"with intention; in an intentional manner"
 
 
 
-07.pond  [pɒnd]  [pɑːnd]
-
-[noun] a fish pond. "a small area of still water, especially one that is artificial"
+> The levels of formality are, in descending order: *intentionally*, *deliberately*, and *on purpose*. If you look at published books and journals that have blank pages, you'll find some with printed statements "This page **intentionally** left blank". That's because it's the most formal and the most neutral. Yes, *deliberately* is a synonym that means *intentionally*, but it more often has a negative connotation than *intentionally* does (especially among high school students, at least that was true when I was in high school), although both words are used both positively and negatively, e.g., *That was {a deliberate / an intentional snub}* (negative use, and [Google Ngrams](http://books.google.com/ngrams/graph?content=intentional snub,deliberate snub&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=) shows more frequent use of the former than the latter). Maybe that's merely because *deliberately* is more frequently used than *intentionally* is.
+>
+> Wikipedia has an article on *[deliberate practice](http://en.wikipedia.org/wiki/Practice_(learning_method))*, however, which shows that word's very positive connotation. There are also Web pages for *[intentional practice](http://www.wisdompage.com/practicing.html)* that show its equally positive connotation. [Google Ngrams](http://books.google.com/ngrams/graph?content=intentional practice,deliberate practice&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=) shows that *deliberate practice* is more often used than *intentional practice*. *On purpose* is what children say for *intentionally* and *deliberately*, which is why it's the at the lowest level of formality of those three terms. They are not always interchangeable: register and context must be taken into account.
+>
+> 
+>
+> ----------------below from chatGPT-----------------------------------------------------------
+>
+> "Deliberately," "intentionally," and "on purpose" are all adverbs that convey the idea of doing something with a specific intention or purpose. While they share a similar meaning, there are subtle differences in usage and emphasis.
+>
+> Deliberately: This adverb emphasizes the careful consideration or thought that goes into an action. When someone does something deliberately, it implies that they have taken the time to think about the consequences or implications before acting. It suggests a level of premeditation or planning. For example:
+>
+> "He deliberately chose his words to avoid causing offense."
+>
+> Intentionally: This adverb focuses on the intent behind an action. When someone does something intentionally, it means they had a clear purpose or objective in mind while carrying out the action. It implies that the action was not accidental or unintentional. For example:
+>
+> "She intentionally left the party early because she had an early morning appointment."
+>
+> On purpose: This adverb emphasizes the conscious decision to perform an action for a specific reason. It indicates that the action was not accidental or incidental but was done deliberately for a particular purpose. For example:
+>
+> "He knocked over the vase on purpose to get attention."
+>
+> In summary, while "deliberately" emphasizes careful consideration, "intentionally" focuses on the intention, and "on purpose" highlights the conscious decision to carry out an action. They are often used interchangeably, but the choice of one over the other can depend on the context and the nuance you want to convey.
+>
 
 
 
@@ -21133,6 +21159,14 @@ In summary, while "deliberately" emphasizes careful consideration, "intentionall
 [adv] beat me unmercifully.
 
 "If you do something **unmercifully**, you do it a lot, showing no pity."
+
+
+
+12.pond  [pɒnd]  [pɑːnd]
+
+[noun] a fish pond. "a small area of still water, especially one that is artificial"
+
+
 
 #### 20210129.10
 
@@ -28042,6 +28076,8 @@ D[adv]heinously  D[noun]heinousness
 
 [noun] The assassination of the president precipitated the country into war.
 
+The EPIC Return of Trump After FAILED Assassination Attempt.
+
 "murder of a public figure by surprise attack"
 
 
@@ -30287,7 +30323,7 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-3.moor [mɔː(r)]  [mʊr] 
+03.moor [mɔː(r)]  [mʊr] 
 
 [noun] the North York moors.
 
@@ -30814,7 +30850,7 @@ Servants are now almost extinct in modern society."no longer in existence in soc
 
 #### 2021/11/09.08
 
-1.buy out  [baɪ aʊt] 
+01.buy out  [baɪ aʊt] 
 
 [phrasal verb] CJ CheilJedang to buy out Dutch CDMO Batavia Bioscienses to strengthen bio.
 
@@ -31700,7 +31736,7 @@ She was bursting with impatience to tell me the news.
 
 #### 2021/11/26.03
 
-1.luster  [ˈlʌstə(r)]
+01.luster  [ˈlʌstə(r)]
 
 [noun] While Samsung is also the world's top smartphone firm, it's been losing its luster despite its ambitious unveiling of foldable mobile devices."a quality that outshines the usual"
 
@@ -33706,7 +33742,7 @@ D[adv] to treat sb leniently.
 
 #### 04/13.02
 
-1.distraction [dɪˈstrækʃn]
+01.distraction [dɪˈstrækʃn]
 
 [noun] I find it hard to work at home because there are too many distractions.
 
@@ -34259,7 +34295,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 #### 06/09.03
 
-1.pupil  [ˈpjuːpl]
+01.pupil  [ˈpjuːpl]
 
 [noun] How many pupils does the school have?
 
@@ -35695,12 +35731,14 @@ Biden, Trump clash over inflation, immigration, foreign policy in first presiden
 
 
 
-Conflict and clash are both terms used to describe situations involving disagreement or opposition, but they carry slightly different connotations and nuances. Here's an explanation of their differences:
-
-1. Conflict: Conflict refers to a broader concept of disagreement or opposition between individuals, groups, or entities. It can arise from various factors such as differences in opinions, goals, values, interests, or actions. Conflict often involves a deeper and more complex issue or problem, and it may persist over a longer duration. Conflict can occur on different levels, including interpersonal, societal, or international. It may involve verbal arguments, ideological disputes, power struggles, or even physical confrontations. Conflict can be constructive if it leads to positive change or resolution, but it can also be destructive if it escalates without a productive resolution.
-2. Clash: Clash, on the other hand, typically refers to a more immediate and direct confrontation or disagreement between two or more parties. It implies a sudden and forceful collision of opposing ideas, interests, or actions. A clash often occurs when two or more perspectives or approaches are incompatible or **contradictory**, leading to a clash of interests or values. Clashes can occur in various contexts, including personal relationships, business negotiations, or even clashes between opposing forces in a conflict or war. While a clash may be part of a larger conflict, it can also refer to a standalone incident that highlights a sharp divergence of views or interests.
-
-In summary, conflict is a broader and more encompassing term that describes a general state of disagreement or opposition, while clash refers to a more immediate and forceful confrontation between conflicting parties. A conflict can involve multiple clashes, and clashes can contribute to a larger conflict. Hint: 冲突  clash: 碰撞
+> Conflict and clash are both terms used to describe situations involving disagreement or opposition, but they carry slightly different connotations and nuances. Here's an explanation of their differences:
+>
+> Conflict: Conflict refers to a broader concept of disagreement or opposition between individuals, groups, or entities. It can arise from various factors such as differences in opinions, goals, values, interests, or actions. Conflict often involves a deeper and more complex issue or problem, and it may persist over a longer duration. Conflict can occur on different levels, including interpersonal, societal, or international. It may involve verbal arguments, ideological disputes, power struggles, or even physical confrontations. Conflict can be constructive if it leads to positive change or resolution, but it can also be destructive if it escalates without a productive resolution.
+>
+> Clash: Clash, on the other hand, typically refers to a more immediate and direct confrontation or disagreement between two or more parties. It implies a sudden and forceful collision of opposing ideas, interests, or actions. A clash often occurs when two or more perspectives or approaches are incompatible or **contradictory**, leading to a clash of interests or values. Clashes can occur in various contexts, including personal relationships, business negotiations, or even clashes between opposing forces in a conflict or war. While a clash may be part of a larger conflict, it can also refer to a standalone incident that highlights a sharp divergence of views or interests.
+>
+> In summary, conflict is a broader and more encompassing term that describes a general state of disagreement or opposition, while clash refers to a more immediate and forceful confrontation between conflicting parties. A conflict can involve multiple clashes, and clashes can contribute to a larger conflict. Hint: 冲突  clash: 碰撞
+>
 
 
 
@@ -37920,13 +37958,7 @@ A hazard is usually used to refer to risky situations that are very serious or l
 
 
 
-#### 03/07.01
 
-1.intentionally [ɪnˈtɛnʃənəli]
-
-[adv] I've never **intentionally** hurt anyone.
-
-"with intention; in an intentional manner"
 
 
 
@@ -38562,9 +38594,9 @@ prescriptive powers.
 ```javascript
 The words "recover," "restore," and "resume" all have slightly different meanings, although they are often used interchangeably in casual conversation. Here are the definitions and differences between these words:
 
-1. Recover: To recover means to regain something that was lost or stolen. It can refer to both physical objects (such as a lost item) or abstract concepts (such as lost health or lost data). For example, if you recover from an illness, it means that you regain your health. If you recover lost data from a computer, it means that you are able to access the data again.
-2. Restore: To restore means to bring something back to its original state or condition. This often involves repairing or fixing something that was damaged or degraded over time. For example, if you restore an old car, it means that you repair and refurbish it to bring it back to its original condition.
-3. Resume: To resume means to begin again after a pause or interruption. It often refers to an activity or process that was stopped temporarily and then restarted. For example, if you resume a conversation with someone, it means that you pick up where you left off after a pause. If you resume work after a vacation, it means that you start working again after a break.
+Recover: To recover means to regain something that was lost or stolen. It can refer to both physical objects (such as a lost item) or abstract concepts (such as lost health or lost data). For example, if you recover from an illness, it means that you regain your health. If you recover lost data from a computer, it means that you are able to access the data again.
+Restore: To restore means to bring something back to its original state or condition. This often involves repairing or fixing something that was damaged or degraded over time. For example, if you restore an old car, it means that you repair and refurbish it to bring it back to its original condition.
+Resume: To resume means to begin again after a pause or interruption. It often refers to an activity or process that was stopped temporarily and then restarted. For example, if you resume a conversation with someone, it means that you pick up where you left off after a pause. If you resume work after a vacation, it means that you start working again after a break.
 
 In summary, "recover" is about regaining something that was lost or stolen, "restore" is about bringing something back to its original state, and "resume" is about starting something again after a pause or interruption.
 ```
@@ -40474,19 +40506,21 @@ An electronic cigarette is an electronic device that simulates tobacco smoking. 
 
 
 
-
-"Clamp down" and "stamp down" are **idiomatic** expressions that are used to describe different actions or approaches in different contexts. While they may have some overlapping meanings, they generally convey distinct ideas. Here's an explanation of each phrase:
-
-1. Clamp down:
-   - Meaning: To take strict measures or exert control over a situation, usually to suppress or limit certain activities.
-   - Usage: It is often used when authorities or organizations enforce rules, regulations, or restrictions to maintain order, prevent illegal activities, or curb undesirable behavior.
-   - Example: "The government decided to clamp down on tax evasion by introducing stricter penalties and conducting more thorough audits."
-2. Stamp down:
-   - Meaning: To forcefully suppress or eliminate something, often with a sense of aggression or intensity.
-   - Usage: It is commonly used to describe actions taken to eradicate or eliminate an undesirable or problematic situation or behavior, typically through vigorous or forceful measures.
-   - Example: "The organization aims to stamp down corruption within its ranks by implementing a zero-tolerance policy and conducting thorough investigations."
-
-While both phrases convey the idea of taking action to control or suppress something, "clamp down" generally focuses on imposing stricter rules or regulations, while "stamp down" emphasizes forcefully eliminating or eradicating a problem.
+>
+> "Clamp down" and "stamp down" are **idiomatic** expressions that are used to describe different actions or approaches in different contexts. While they may have some overlapping meanings, they generally convey distinct ideas. Here's an explanation of each phrase:
+>
+> Clamp down:
+> - Meaning: To take strict measures or exert control over a situation, usually to suppress or limit certain activities.
+> - Usage: It is often used when authorities or organizations enforce rules, regulations, or restrictions to maintain order, prevent illegal activities, or curb undesirable behavior.
+> - Example: "The government decided to clamp down on tax evasion by introducing stricter penalties and conducting more thorough audits."
+>
+> Stamp down:
+> - Meaning: To forcefully suppress or eliminate something, often with a sense of aggression or intensity.
+> - Usage: It is commonly used to describe actions taken to eradicate or eliminate an undesirable or problematic situation or behavior, typically through vigorous or forceful measures.
+> - Example: "The organization aims to stamp down corruption within its ranks by implementing a zero-tolerance policy and conducting thorough investigations."
+>
+> While both phrases convey the idea of taking action to control or suppress something, "clamp down" generally focuses on imposing stricter rules or regulations, while "stamp down" emphasizes forcefully eliminating or eradicating a problem.
+>
 
 
 
@@ -42250,7 +42284,7 @@ In essence, the key difference between the two lies in their steadiness and inte
 
 #### 09/04.02
 
-0.1full-fledged /ˌfʊl ˈfledʒd/  fully fledged
+01.full-fledged /ˌfʊl ˈfledʒd/  fully fledged
 
 [adj] While the figure came to just 540,000 over the January-June period of this year, the number of visitors is widely expected to start a full-fledged recovery in the fall on the back of normalized international travel and Beijing's updated policies.
 
@@ -42440,21 +42474,28 @@ complex 的意思为繁杂的
 
 
 
-**Dispense:(定量分发)**
-
-1. **To give out or provide something to someone:** Dispense is used when you want to emphasize the act of providing or giving something, often in a controlled or regulated manner.
-   - *The pharmacist dispensed the prescribed medication to the patient.* (Here, the pharmacist is providing medication to a specific patient according to a prescription.)
-2. **To administer or give a specific amount of something:** Dispense can also be used in the context of giving out a precise quantity of something.
-   - *The vending machine dispenses snacks when you insert coins.* (The machine provides a specific item in exchange for payment.)
-
-**Distribute:**
-
-1. **To divide or spread something among multiple recipients:** Distribute is used when you want to convey the idea of spreading something among various individuals, groups, or locations.
-   - *The charity organization distributes food to needy families in the community.* (Here, the organization is giving food to multiple families in different locations.)
-2. **To scatter or disperse:** Distribute can also mean to scatter or disperse items or things across an area or space.
-   - *The wind helped distribute the seeds of the plant across the field.* (The wind scattered the seeds in different parts of the field.)
-
-In summary, consider using "dispense" when you want to highlight the act of providing or giving something, often in a controlled manner, and use "distribute" when you want to emphasize the act of spreading or sharing something among multiple recipients or across different areas. The choice between these words depends on the specific context and the nuance you want to convey in your communication.
+> **Dispense:(定量分发)**
+>
+> **To give out or provide something to someone:** Dispense is used when you want to emphasize the act of providing or giving something, often in a controlled or regulated manner.
+>
+> - *The pharmacist dispensed the prescribed medication to the patient.* (Here, the pharmacist is providing medication to a specific patient according to a prescription.)
+>
+> **To administer or give a specific amount of something:** Dispense can also be used in the context of giving out a precise quantity of something.
+>
+> - *The vending machine dispenses snacks when you insert coins.* (The machine provides a specific item in exchange for payment.)
+>
+> **Distribute:**
+>
+> **To divide or spread something among multiple recipients:** Distribute is used when you want to convey the idea of spreading something among various individuals, groups, or locations.
+>
+> - *The charity organization distributes food to needy families in the community.* (Here, the organization is giving food to multiple families in different locations.)
+>
+> **To scatter or disperse:** Distribute can also mean to scatter or disperse items or things across an area or space.
+>
+> - *The wind helped distribute the seeds of the plant across the field.* (The wind scattered the seeds in different parts of the field.)
+>
+> In summary, consider using "dispense" when you want to highlight the act of providing or giving something, often in a controlled manner, and use "distribute" when you want to emphasize the act of spreading or sharing something among multiple recipients or across different areas. The choice between these words depends on the specific context and the nuance you want to convey in your communication.
+>
 
 
 
