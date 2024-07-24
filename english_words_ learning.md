@@ -8970,18 +8970,6 @@ strike a balance /straɪk ə ˈbæləns/
 
 
 
-14.perception  [pəˈsepʃn] 
-
-[noun] {formal or technical} our perception of reality. "the way you notice things, especially with the senses" "感知"
-
-[n] She showed great perception in her assessment of the family situation.
-
-"the ability to understand the true nature of sth"
-
-[n] a **campaign** to change public perception of the police. 
-
-"an idea, a belief or an image you have as a result of how you see or understand sth"
-
 
 
 #### 2020/06/12.10
@@ -10859,9 +10847,7 @@ Within weeks, his confidence had spread throughout the team. "to affect or make 
 
 
 
-05.perceptual  [pəˈseptʃuəl]
 
-[adj] perceptual skills. "relating to the ability to perceive things or the process of perceiving"
 
 
 
@@ -21186,7 +21172,7 @@ D[noun] a refutation of previously held views.
 
 
 
-03.ironically [aɪˈrɒnɪkli]  [aɪˈrɑːnɪkli] 
+
 
 
 
@@ -29377,17 +29363,7 @@ The wind veered to the west.
 
 
 
-02.infringe  [ɪnˈfrɪndʒ]
 
-[verb] {of an action, a plan, etc.}
-
-The material can be copied without infringing copyright.
-
-"to break a law or rule"
-
-[verb] {~ (on/upon) sth} They said that compulsory identity cards would infringe civil liberties."to limit sb's legal rights"
-
-D[noun]  copyright infringement.
 
 
 
@@ -34725,7 +34701,7 @@ The apple tree has born fruits.
 
 
 
-#### 08/22.05
+#### 08/22.04
 
 01.ready-made  [ˌredi ˈmeɪd] 
 
@@ -34743,21 +34719,17 @@ The apple tree has born fruits.
 
 
 
-03.celibate [ˈselɪbət] 
-
-[adj] I've been celibate for the past six months.
-
-"not having sex"
 
 
 
-04.wild goose chase  [ˌwaɪld ˈɡuːs tʃeɪs] 
+
+03.wild goose chase  [ˌwaɪld ˈɡuːs tʃeɪs] 
 
 [noun] This is a wild goose chase.
 
 
 
-05.sophisticated  [səˈfɪstɪkeɪtɪd] 
+04.sophisticated  [səˈfɪstɪkeɪtɪd] 
 
 [adj] highly sophisticated computer systems.
 
@@ -35340,24 +35312,6 @@ ICPR 2024 is the 27th event of the series and it provides a great opportunity to
 "active strength of body or mind"
 
 
-
-05.sway /sweɪ/
-
-[n] "a movement from side to side"
-
-[v] The branches were swaying in the wind.
-
-"to move slowly from side to side; to move sth in this way"
-
-[v] He's easily swayed."to persuade sb to believe sth or do sth"
-
-
-
-> 摇摆vs摇晃
->
-> In my opinion, swing describes an object moving through space, usually around an axis. To me it could be only once, as in you could swing your arm around, but I also think of the way that a swing moves on the playground.
->
-> To me, sway means to **oscillate** back and forth, in a rhythmic fashion or pattern. Sway also makes me think of being unsteady on one's feet. A drunk person might sway when they were standing up. A building might sway in the wind. Oscillate is a much more mechanically precise movement, which is the same every single time. Sway, to me, can imply an **unsteadiness** of motion.
 
 
 
@@ -42404,12 +42358,6 @@ KFC, with 29,000 stores and 800,000 employees globally, is one of the world’s 
 
 
 
-10.fatigue /fəˈtiːɡ/
-
-[n] physical and mental fatigue.
-
-"a feeling of being **extremely tired**, usually because of hard work or exercise"
-
 
 
 11.Blood Draw 
@@ -42783,7 +42731,7 @@ screen vs monitor
 
 
 
-#### 09/19.08
+#### 09/19.07
 
 01.extraneous /ɪkˈstreɪniəs/
 
@@ -42839,19 +42787,11 @@ D[adv] The applicant has experience in teaching and, more relevantly, in industr
 
 
 
-07.ample /ˈæmpl/
-
-[adj] Toss Bank explained that the current level of delinquency rate is within its forecast model, adding it has prepared ample reserves as an allowance for bad debts.
-
-"enough or more than enough"
-
-[adj] {of a person's figure} an ample bosom.
-
-"large, often in an attractive way"
 
 
 
-08.compose /kəmˈpoʊz/
+
+07.compose /kəmˈpoʊz/
 
 [v] Ten men compose the committee. "to combine together to form a whole" -make up-
 
@@ -47206,7 +47146,7 @@ lately vs recently
 
 
 
-#### 07/12
+#### 07/12.01
 
 01.solar terms /ˈsoʊlər tɜːrmz/
 
@@ -47214,10 +47154,188 @@ lately vs recently
 
 
 
-#### 07/15
+#### 07/15.01
 
 01.emaciate / ɪˈmeɪʃiˌeɪt /
 
 [v] PSY uploaded Sunday a video on his social media with the caption, ”After receiving harsh criticism for weight loss and being called ’emaciated‘ by a fan,“ explaining the situation.
 
 "grow weak and thin or waste away physically"
+
+
+
+#### 07/21.05
+
+01.perception  [pəˈsepʃn] 
+
+[noun] {formal or technical} our perception of reality. "the way you notice things, especially with the senses" "感知"
+
+[n] She showed great perception in her assessment of the family situation.
+
+"the ability to understand the true nature of sth"
+
+[n] a **campaign** to change public perception of the police. 
+
+"an idea, a belief or an image you have as a result of how you see or understand sth"
+
+
+
+02.perceptive /pərˈseptɪv/
+
+[adj] a highly perceptive comment.
+
+"having or showing the ability to see or understand things quickly, especially things that are not obvious"
+
+[adj] "connected with seeing, hearing and understanding"
+
+
+
+03.perceptual  [pəˈseptʃuəl]
+
+[adj] perceptual skills. "relating to the ability to perceive things or the process of perceiving"
+
+
+
+> They are synonymous. 
+>
+> You can use either to indicate the level of response to a sensory stimulation (sight, sound, touch, taste, smell)  
+>
+> Alternately, perceptive is often used to describe someone who is keen or notices things quickly and easily.  
+>
+> "The perceptive girl noticed the change in tone of his voice"
+
+
+
+04.perceptible /pərˈseptəbl/
+
+[adj] a perceptible change/increase/decline/impact.
+
+"great enough for you to notice it" -noticeable-
+
+
+
+05.imperceptible /ˌɪmpərˈseptəbl/
+
+[adj] The changes in the software's interface were so imperceptible that most users didn't even notice them. 
+
+"very small and therefore unable to be seen or felt".
+
+
+
+#### 07/23.09
+
+01.ample /ˈæmpl/
+
+[adj] Toss Bank explained that the current level of delinquency rate is within its forecast model, adding it has prepared ample reserves as an allowance for bad debts.
+
+"enough or more than enough"
+
+[adj] {of a person's figure} an ample bosom.
+
+"large, often in an attractive way"
+
+
+
+02.cataract /ˈkætərækt/
+
+[n] We can have cataract surgery in South Korea in one day.
+
+"a medical condition that affects the lens of the eye and causes a gradual loss of sight"
+
+
+
+03.ironically [aɪˈrɒnɪkli]  [aɪˈrɑːnɪkli] 
+
+[adv]  Ironically, we can have cataract surgery in South Korea in just one day, despite the shortage of doctors they suffer from.
+
+"You use **ironically** to draw attention to a situation which is odd or amusing because it involves a contrast."
+
+
+
+04.fatigue /fəˈtiːɡ/
+
+[n] physical and mental fatigue.
+
+"a feeling of being **extremely tired**, usually because of hard work or exercise"
+
+
+
+05.sway /sweɪ/
+
+[n] "a movement from side to side"
+
+[v] The branches were swaying in the wind.
+
+"to move slowly from side to side; to move sth in this way"
+
+[v] He's easily swayed."to persuade sb to believe sth or do sth"
+
+
+
+> 摇摆vs摇晃
+>
+> In my opinion, swing describes an object moving through space, usually around an axis. To me it could be only once, as in you could swing your arm around, but I also think of the way that a swing moves on the playground.
+>
+> To me, sway means to **oscillate** back and forth, in a rhythmic fashion or pattern. Sway also makes me think of being unsteady on one's feet. A drunk person might sway when they were standing up. A building might sway in the wind. Oscillate is a much more mechanically precise movement, which is the same every single time. Sway, to me, can imply an **unsteadiness** of motion.
+
+
+
+06.infringe  [ɪnˈfrɪndʒ]
+
+[verb] {of an action, a plan, etc.}
+
+The material can be copied without infringing copyright.
+
+"to break a law or rule"
+
+[verb] {~ (on/upon) sth} They said that compulsory identity cards would infringe civil liberties."to limit sb's legal rights"
+
+D[noun]  copyright infringement.
+
+
+
+07.outpatient/ˈaʊtpeɪʃnt/
+
+[n] an outpatient clinic.
+
+"An **outpatient** is someone who receives treatment at a hospital but does not spend the night there."
+
+
+
+08.stand-off  /ˈstænd ɔːf/
+
+[n] The government and doctors are at a stand-off.
+
+"a situation in which no agreement can be reached"
+
+
+
+09.standstill /ˈstændstɪl/
+
+[n] The government and doctors are currently at a standstill, unable to reach an agreement on crucial healthcare policies.
+
+"a situation in which all activity or movement has stopped"
+
+
+
+#### 07/24
+
+01.chastity /ˈtʃæstəti/
+
+[n] He took a vow of chastity and celibacy.
+
+"the state of not having sex with anyone or only having sex with the person you are married to; being chaste"
+
+
+
+02.celibacy /ˈselɪbəsi/
+
+[n] "**Celibacy** is the state of being celibate."
+
+
+
+03.celibate [ˈselɪbət] 
+
+[adj] I've been celibate for the past six months.
+
+"not having sex"
