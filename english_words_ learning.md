@@ -9809,9 +9809,9 @@ sliced meat.
 
 [noun] a pirate ship. 
 
-"(especially in the past) a person on a ship who attacks other ships at sea in order to steal from them"
+"(especially in the past) a person on a ship who attacks other ships at sea in order to steal from them" "海盗"
 
-[n] a pirate edition. 
+[n] a pirate edition. "盗版"
 
 "a person who makes illegal copies of video tapes, computer programs, books, etc., in order to sell them"
 
@@ -20472,15 +20472,13 @@ We got a good bang for our buck. " is an idiom meaning the worth of one's money 
 
 #### 20210119.06
 
-01.vendor  [ˈvendər]
+01.hive /haɪv/
 
-[noun] street vendors. "a person who sells things, for example food or newspapers, usually outside on the street"
+[n] The hive is made of wood.
 
-[noun] software vendors."a company that sells a particular product"
+"a structure made for bees to live in"
 
-[noun] "a person who is selling a house, etc."
 
-hive
 
 02.ponder [ˈpɒndə(r)]  [ˈpɑːndər]
 
@@ -43442,19 +43440,11 @@ The officer briefed her on what to expect  [verb] "给(某人)指示;向(某人)
 
 
 
-07.slaughter /ˈslɔːtər/
+07.eradicate /ɪˈrædɪkeɪt/
 
-[n] cows taken for slaughter.
+[v] We are determined to eradicate racism from our sport.
 
-'the killing of animals for their meat'
-
-[n] the wholesale slaughter of innocent people.
-
-'the cruel killing of large numbers of people at one time, especially in a war'
-
-[v] Men, women and children were slaughtered and villages destroyed. 'to kill a large number of people or animals violently'
-
-eradicate
+"to destroy or get rid of sth completely, especially sth bad" -wipe out-
 
 
 
@@ -47318,7 +47308,7 @@ D[noun]  copyright infringement.
 
 
 
-#### 07/24
+#### 07/24.03
 
 01.chastity /ˈtʃæstəti/
 
@@ -47339,3 +47329,72 @@ D[noun]  copyright infringement.
 [adj] I've been celibate for the past six months.
 
 "not having sex"
+
+
+
+#### 07/26.03
+
+01.vendor  [ˈvendər]
+
+[noun] street vendors. "a person who sells things, for example food or newspapers, usually outside on the street"
+
+[noun] software vendors."a company that sells a particular product"
+
+[noun] "a person who is selling a house, etc."
+
+
+
+> **A Vendor is the one that supplies the products, usually at wholesale prices.** **The seller is the “reseller” or “retailer” that sells the product at market prices.**
+
+
+
+02.wholesale /ˈhoʊlseɪl/
+
+[adj] wholesale prices.
+
+"connected with goods that are bought and sold in large quantities, especially so they can be sold again to make a profit"
+
+[adj] the wholesale slaughter of innocent people.
+
+"happening or done to a very large number of people or things"
+
+[adv] We buy the building materials wholesale./These young people die wholesale from heroin overdoses.
+
+
+
+03.slaughter /ˈslɔːtər/
+
+[n] cows taken for slaughter.
+
+'the killing of animals for their meat'
+
+[n] the wholesale slaughter of innocent people.
+
+'the cruel killing of large numbers of people at one time, especially in a war'
+
+[v] Men, women and children were slaughtered and villages destroyed. 'to kill a large number of people or animals violently'
+
+
+
+#### 07/28
+
+01.edition  /ɪˈdɪʃn/
+
+[n] A paperback edition is now available at bookshops.
+
+"An **edition** is a particular version of a book, magazine, or newspaper that is printed at one time."
+
+[n] History was made when the International Olympic Committee (IOC) decided to create Olympic Esports Games. The first edition will be held in 2025 in the Kingdom of Saudi Arabia.
+
+ "An **edition** is a single television or radio programme that is one of a series about a particular subject."
+
+
+
+#### 07/30
+
+01.baddie / ˈbædi /
+
+[n] I don't get it, are you a baddie now?
+
+ "the principle bad character in a film or work of fiction"
+
