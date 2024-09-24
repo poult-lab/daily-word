@@ -13166,11 +13166,7 @@ onions pickled in vinegar.
 
 
 
-11.colony  [ˈkɒləni]   [ˈkɑːləni] 
 
-[noun] former British colonies. 
-
-"a country or an area that is governed by people from another, more powerful, country"
 
 
 
@@ -14859,11 +14855,7 @@ D[adv] sexually abused children.
 
 
 
-05.accusation [ˌækjuˈzeɪʃn]
 
-[noun] {~ (of sth) (against sb) | ~ (that…)} accusations of corruption/cruelty/racism.
-
-"a statement saying that you think a person is guilty of doing sth wrong, especially of committing a crime; the fact of accusing sb"
 
 
 
@@ -15963,15 +15955,7 @@ rest assured.
 
 
 
-13.minor  [ˈmaɪnə(r)]
 
-[adj] a minor road. "not very large, important or serious"
-
-[adj] the key of C minor. "based on a scale in which the third note is a semitone/half tone higher than the second note"
-
-[noun] {law} It is an offence to serve alcohol to minors."a person who is under the age at which you legally become an adult and are responsible for your actions"
-
-[verb phrase] **minor in sth.** "to study sth at college, but not as your main subject"
 
 
 
@@ -17016,35 +17000,7 @@ flare up.
 
 
 
-02.crafty [ˈkrɑːfti]  [ˈkræfti] 
-
-[adj] He's a crafty old devil. "clever at getting what you want, especially by indirect or dishonest methods" -cunning/wily-
-
-D[noun] traditional crafts like basket-weaving."an activity involving a special skill at making things with your hands"
-
-[noun] chefs who learned their craft in top hotels. "all the skills needed for a particular activity"
-
-[noun] He knew how to win by craft and diplomacy what he could not gain by force. "skill in making people believe what you want them to believe"
-
-
-
-03.wily [ˈwaɪli]
-
-[adj] The boss is a wily old fox. "clever at getting what you want, and willing to trick people" -cunning-
-
-
-
-04.cunning  [ˈkʌnɪŋ] 
-
-[adj] a cunning liar. "able to get what you want in a clever way, especially by tricking or cheating sb" -crafty/wily-
-
-[adj] It was a cunning piece of detective work."clever and skilful"
-
-
-
-> The differences are indeed very subtle. I would say *cunning* usually denotes uncommon intelligence; *crafty* usually denotes uncommon creativity; and *wily* usually denotes uncommon skill.
->
-> Of the three, *crafty* has the weakest, most lightweight connotation. Someone who is *cunning* might also be described as brilliant. Someone who is *wily* may not be particularly smart or ingenious in a conventional sense; they may have developed their skill through sheer experience, or they may have strong "street sense".
+> 
 
 
 
@@ -23027,7 +22983,7 @@ British Airways."a route regularly used by planes"
 
 
 
-#### 20210302.06
+#### 20210302.05
 
 01.pertinent  [ˈpɜː(r)tnənt]
 
@@ -23067,19 +23023,7 @@ British Airways."a route regularly used by planes"
 
 
 
-05.revoke [rɪˈvoʊk] 
-
-[verb] The government revoked her husband's license to operate migrant labor crews./
-
-Adidas CEO Bjorn Gulden, who took office in January, is facing growing calls from Korean franchisees of the German sportswear brand to revoke the restructuring plan pursued by Kasper Rorsted, his predecessor, according to industry officials, Tuesday.
-
-However, your trip must be temporary and you cannot remain outside the United States for more than **1 year**. If the Customs and Border Protection (CBP) officer believes you do not intend to continue living permanently in the United States, they could revoke your status as a permanent resident.
-
-"When people in authority **revoke** something such as a licence, a law, or an agreement, they cancel it."
-
-
-
-06.migrant  [ˈmaɪɡrənt] 
+05.migrant  [ˈmaɪɡrənt] 
 
 [noun]  which heavily rely on migrant labor.
 
@@ -30398,11 +30342,7 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-08.sputum  [ˈspjuːtəm] 
 
-[noun] blood in the sputum. 
-
-"liquid from the throat or lungs, especially when it is coughed up because of disease"
 
 
 
@@ -35473,11 +35413,7 @@ ICPR 2024 is the 27th event of the series and it provides a great opportunity to
 
 
 
-07.ultimatum  [ˌʌltɪˈmeɪtəm] 
 
-[noun] Elon Musk gives ultimatum to Twitter employees: Do ‘extremely hardcore’ work or get out.
-
-"a final warning to a person or country that if they do not do what you ask, you will use force or take action against them"
 
 
 
@@ -47376,7 +47312,7 @@ D[noun]  copyright infringement.
 
 
 
-#### 07/28
+#### 07/28.01
 
 01.edition  /ɪˈdɪʃn/
 
@@ -47390,7 +47326,7 @@ D[noun]  copyright infringement.
 
 
 
-#### 07/30
+#### 07/30.01
 
 01.baddie / ˈbædi /
 
@@ -47398,3 +47334,204 @@ D[noun]  copyright infringement.
 
  "the principle bad character in a film or work of fiction"
 
+
+
+#### 08/08.01
+
+01.revoke [rɪˈvoʊk] 
+
+[verb] Yonsei University revokes master's degree of Cho Kuk's son.
+
+The government revoked her husband's license to operate migrant labor crews./
+
+Adidas CEO Bjorn Gulden, who took office in January, is facing growing calls from Korean franchisees of the German sportswear brand to revoke the restructuring plan pursued by Kasper Rorsted, his predecessor, according to industry officials, Tuesday.
+
+However, your trip must be temporary and you cannot remain outside the United States for more than **1 year**. If the Customs and Border Protection (CBP) officer believes you do not intend to continue living permanently in the United States, they could revoke your status as a permanent resident.
+
+"When people in authority **revoke** something such as a licence, a law, or an agreement, they cancel it."
+
+
+
+#### 08/23.01
+
+01.homage /ˈhɑːmɪdʒ/
+
+[n] {~ (to sb/sth)} the title of this paper is an homage to Katharopoulos et al. (2020) which first showed that “Transformers are RNNs”.
+
+"something that is said or done to show respect for sb"
+
+
+
+#### 08/28.01
+
+01.minor  [ˈmaɪnə(r)]
+
+[adj] a minor road. "not very large, important or serious"
+
+[adj] the key of C minor. "based on a scale in which the third note is a semitone/half tone higher than the second note"
+
+[noun] {law} It is an offence to serve alcohol to minors./More than 3 out of 10 deepfake victims are minors
+
+"a person who is under the age at which you legally become an adult and are responsible for your actions"
+
+[verb phrase] **minor in sth.** "to study sth at college, but not as your main subject"
+
+
+
+#### 08/29.04
+
+01.backlog /ˈbæklɔːɡ/
+
+[n] Hiring temporary workers who did not receive proper safety and emergency escape training to make up for a backlog of production contributed to the large number of casualties, police and labour ministry officials said. 
+
+"a quantity of work that should have been done already, but has not yet been done"
+
+
+
+02.casualty  /ˈkæʒuəlti/
+
+[n] Both sides had suffered heavy casualties (= many people had been killed) .
+
+"a person who is killed or injured in war or in an accident"
+
+
+
+03.probe /proʊb/
+
+[v] “This company and Taeil first became aware of the accusation in the middle of this month,” SM Entertainment said Thursday, confirming Taeil was probed by the police the previous day. 
+
+"to ask questions in order to find out secret or hidden information about sb/sth"
+
+[n]  a police probe into the financial affairs of the company. 
+
+"a thorough and careful investigation of sth"
+
+
+
+04.accusation [ˌækjuˈzeɪʃn]
+
+[noun] {~ (of sth) (against sb) | ~ (that…)} accusations of corruption/cruelty/racism.
+
+"a statement saying that you think a person is guilty of doing sth wrong, especially of committing a crime; the fact of accusing sb"
+
+
+
+#### 08/30.08
+
+01.colony  [ˈkɒləni]   [ˈkɑːləni] 
+
+[noun] former British colonies. /Yes, Pakistan was part of British India, a British colony, until 1947.
+
+"a country or an area that is governed by people from another, more powerful, country"
+
+
+
+02.colonial /kəˈloʊniəl/
+
+[adj]  In August 1947 British India was partitioned, ending three hundred years of colonial rule with the creation two independent nations: India and Pakistan.
+
+"connected with or belonging to a country that controls another country"
+
+
+
+03.colonize /ˈkɒlənaɪz//ˈkɑːlənaɪz/
+
+[v] The area was colonized by the Vikings. 
+
+"to take control of an area or a country that is not your own, especially using force, and send people from your own country to live there"
+
+
+
+04.colonization /ˌkɑːlənəˈzeɪʃn/
+
+[n] Colonization refers to the process by which a country establishes control over a foreign territory, often for economic exploitation, political power, or strategic advantage. 
+
+"the act of colonizing"
+
+
+
+05.crafty [ˈkrɑːfti]  [ˈkræfti] 
+
+[adj] He's a crafty old devil. "clever at getting what you want, especially by indirect or dishonest methods" -cunning/wily-
+
+D[noun] traditional crafts like basket-weaving."an activity involving a special skill at making things with your hands"
+
+[noun] chefs who learned their craft in top hotels. "all the skills needed for a particular activity"
+
+[noun] He knew how to win by craft and diplomacy what he could not gain by force. "skill in making people believe what you want them to believe"
+
+
+
+06.wily [ˈwaɪli]
+
+[adj] The boss is a wily old fox. "clever at getting what you want, and willing to trick people" -cunning-
+
+
+
+07.cunning  [ˈkʌnɪŋ] 
+
+[adj] a cunning liar. "able to get what you want in a clever way, especially by tricking or cheating sb" -crafty/wily-
+
+[adj] It was a cunning piece of detective work."clever and skilful"
+
+
+
+> The differences are indeed very subtle. I would say *cunning* usually denotes uncommon intelligence; *crafty* usually denotes uncommon creativity; and *wily* usually denotes uncommon skill.
+>
+> Of the three, *crafty* has the weakest, most lightweight connotation. Someone who is *cunning* might also be described as brilliant. Someone who is *wily* may not be particularly smart or ingenious in a conventional sense; they may have developed their skill through sheer experience, or they may have strong "street sense".
+
+   
+
+08.sputum  [ˈspjuːtəm] 
+
+[noun] blood in the sputum. 
+
+"liquid from the throat or lungs, especially when it is coughed up because of disease"
+
+
+
+#### 09/09.02
+
+01.ergonomic /ˌɜːrɡəˈnɑːmɪk/
+
+[adj] ergonomic design. 
+
+"designed to improve people's working conditions and to help them work more efficiently"
+
+
+
+02.impersonate /ɪmˈpɜːrsəneɪt/
+
+[v] BLACKPINK's Jennie is taking legal action against an individual impersonating her father.
+
+"to pretend to be sb in order to trick people or to entertain them"
+
+
+
+#### 09/10.01
+
+01.reign /reɪn/
+
+[n] in/during the reign of Charles II.
+
+"the period during which a king, queen, emperor , etc. rules"
+
+
+
+#### 09/13
+
+01.ultimatum  [ˌʌltɪˈmeɪtəm] 
+
+[noun] Elon Musk gives ultimatum to Twitter employees: Do ‘extremely hardcore’ work or get out.
+
+What is behind NewJeans's 2-week ultimatum to HYBE?
+
+"a final warning to a person or country that if they do not do what you ask, you will use force or take action against them"
+
+
+
+02.seduce /sɪˈduːs/
+
+[v] She has set out to seduce Stephen.
+
+"to persuade sb to have sex with you, especially sb who is younger or who has less experience than you"
