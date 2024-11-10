@@ -15674,6 +15674,10 @@ I used to stay up late with my mom and watch movies.
 
 [noun] the plague of AIDS. "any infectious disease that kills a lot of people" -epidemic-
 
+[n] {avoid sb/sth like the plague} Everyone is avoiding Naruto as if he were the plague.
+
+"to try very hard not to meet sb, do sth, etc."
+
 [verb] ~ sb/sth (with sth) to be plagued by doubt. 
 
 "to cause pain or trouble to sb/sth over a period of time"
@@ -20390,7 +20394,7 @@ We got a good bang for our buck. " is an idiom meaning the worth of one's money 
 
 22.conservative [kənˈsɜː(r)vətɪv]
 
-[adj] the conservative views of his parents. "opposed to great or sudden social change; showing that you prefer traditional styles and values"
+[adj] the conservative views of his parents./It proposes a conservative data augmentation strategy by applying Non-Uniform-Mix over different rounds to gradually enhance the data, aiming to reduce noise and improve the analysis and classification of electrocardiogram (ECG) signals. "opposed to great or sudden social change; showing that you prefer traditional styles and values"
 
 
 
@@ -20403,10 +20407,6 @@ We got a good bang for our buck. " is an idiom meaning the worth of one's money 
 [noun] "a member of the British Liberal Party in the past, or of a Liberal Party in another country"
 
  
-
-
-
-
 
 24.lease  [liːs]
 
@@ -33564,6 +33564,12 @@ D[adv] to treat sb leniently.
 
 
 
+04.as if /æz ɪf/
+
+[] "as would be the case if/hao xiang, si hu"
+
+
+
 #### 03/29.03
 
 01.poisonous  [ˈpɔɪzənəs] 
@@ -37798,7 +37804,11 @@ A hazard is usually used to refer to risky situations that are very serious or l
 
 08.distill [dɪˈstɪl]
 
-[verb] Mainly studying the method of how to **distill** the feature of the image. "提取"
+[verb] Mainly studying the method of how to **distill** the feature of the image. 
+
+Clear is known for his ability to **distill complex topics into simple behaviors that can be easily applied to daily life and work**.
+
+"提取"
 
 
 
@@ -38503,7 +38513,7 @@ In summary, "recover" is about regaining something that was lost or stolen, "res
 
 06.rigorous  [ˈrɪɡərəs] 
 
-[adj] a rigorous analysis. "done carefully and with a lot of attention to detail"
+[adj] a rigorous analysis./After the rigorous review process, 99% papers have received at least 3 reviews, and the conference has accepted 196 regular papers and 205 short papers."done carefully and with a lot of attention to detail"
 
 [adj] The work failed to meet their rigorous standards. "demanding that particular rules, processes, etc. are strictly followed" -strict-
 
@@ -47518,7 +47528,7 @@ D[noun] traditional crafts like basket-weaving."an activity involving a special 
 
 
 
-#### 09/13
+#### 09/13.02
 
 01.ultimatum  [ˌʌltɪˈmeɪtəm] 
 
@@ -47535,3 +47545,109 @@ What is behind NewJeans's 2-week ultimatum to HYBE?
 [v] She has set out to seduce Stephen.
 
 "to persuade sb to have sex with you, especially sb who is younger or who has less experience than you"
+
+
+
+#### 09/26.01
+
+01.pitch /pɪtʃ/
+
+[n] Seoul World Cup Stadium faces criticism for poor quality of pitch.
+
+"an area of ground specially prepared and marked for playing a sports game"
+
+
+
+#### 10/07.01
+
+01.proclamation /ˌprɑːkləˈmeɪʃn/
+
+[n] ...a proclamation of independence.
+
+"an official statement about sth important that is made to the public; the act of making an official statement"
+
+
+
+#### 10/21.01
+
+01.heads up /hedz ʌp/
+
+[noun] Heads up, boys! a train is coming. 
+
+"an advance warning of something"
+
+
+
+#### 10/24.01
+
+01.discrepancy /dɪsˈkrepənsi/
+
+[n] What are the reasons for the discrepancy between girls' and boys' performance in school?
+
+"a difference between two or more things that should be the same"
+
+
+
+#### 11/01.04
+
+01.derby /ˈdɜːrbi/
+
+[n] The Derby is **the name of a race for three-year-old horses that takes place each year**. In Britain, it refers to a race that takes place in Epsom. In the United States, it refers particularly to the Kentucky Derby.
+
+
+
+02.riverbed /ˈrɪvərˌbɛd/
+
+[n] In the process of riverbed evolution, the hydrodynamic model and sediment transport model are generally used to decouple riverbed deformation.
+
+"a channel occupied (or formerly occupied) by a river"
+
+
+
+03.sediment /ˈsedɪmənt/
+
+[n] Many organisms that die in the sea are soon buried by sediment.
+
+"the solid material that settles at the bottom of a liquid"
+
+
+
+04.decouple /diːˈkʌpl/
+
+[v] ..a conception which decouples culture and politics. "to end the connection or relationship between two things"
+
+
+
+#### 11/05
+
+01.cyclic /ˈsaɪklɪk/
+
+[adj] Economic activity often follows a cyclical pattern.
+
+"repeated many times and always happening in the same order"
+
+
+
+02.cyclicality /sɪklɪˈkælɪtɪ/
+
+[n] These people think that commodity prices have left cyclicality in the past.
+
+"the property or characteristic of being cyclical"
+
+
+
+03.commodity /kəˈmɑːdəti/
+
+[n] a drop in commodity prices.
+
+"a product or a raw material that can be bought and sold"
+
+
+
+#### 11/07
+
+01.probation /proʊˈbeɪʃn/
+
+[n] In contrast, T.O.P has faced a less welcoming response. In 2016, he was convicted of smoking marijuana at his home and sentenced to two years of probation.
+
+"a system that allows a person who has committed a crime not to go to prison if they behave well and if they see an official (called a probation officer ) regularly for a fixed period of time"
