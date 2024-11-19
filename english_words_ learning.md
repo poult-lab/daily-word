@@ -5269,7 +5269,11 @@ a more flexible approach.
 
 "a small shellfish that can be eaten, like a prawn but smaller. Shrimps turn pink when cooked"
 
-prawn [prɔːn] "a shellfish with ten legs and a long tail, that can be eaten. Prawns turn pink when cooked."
+prawn [prɔːn] 
+
+"a shellfish with ten legs and a long tail, that can be eaten. Prawns turn pink when cooked."
+
+> Shrimp, as we know, have a tight curl to them. Examining their legs will also help you decipher the two. Shrimp's front pincers are the largest and they have claws on two pairs of legs. Prawns, on the other hand, have their largest pincers on the second pair of legs and claws on three pairs of their legs.
 
 
 
@@ -10182,6 +10186,52 @@ D[noun] total/temporary/partial blindness.
 [v] {vert formal} The management effected a new policy."to make sth happen"
 
 /impact [ˈɪmpækt]
+
+
+
+> "Affect" is a verb that means to impact or change something, while "effect" is a noun that indicates the result of a change. 
+>
+> "Impact" is a noun that means a collision.
+>
+> 
+>
+> Here are some examples of how to use these words:
+>
+> - **Affect**: 
+>
+>   "The weather affected his mood".
+>
+>   
+>
+>    
+>
+> - **Effect**: 
+>
+>   "Computers have had a huge effect on our lives".
+>
+>   
+>
+>    
+>
+> - **Impact**: 
+>
+>   "The downed power line had an impact on some power customers".
+>
+>   
+>
+> Here are some synonyms for "affect": 
+>
+> alter, change, influence, and modify.
+>
+> 
+>
+> Here are some synonyms for "effect": 
+>
+> result, repercussion, consequence, outcome, and aftermath.
+>
+>  
+>
+> "Affect" and "effect" are homophones, which means they are pronounced similarly but have different meanings.
 
 
 
@@ -47618,7 +47668,7 @@ What is behind NewJeans's 2-week ultimatum to HYBE?
 
 
 
-#### 11/05
+#### 11/05.03
 
 01.cyclic /ˈsaɪklɪk/
 
@@ -47644,10 +47694,49 @@ What is behind NewJeans's 2-week ultimatum to HYBE?
 
 
 
-#### 11/07
+#### 11/07.01
 
 01.probation /proʊˈbeɪʃn/
 
 [n] In contrast, T.O.P has faced a less welcoming response. In 2016, he was convicted of smoking marijuana at his home and sentenced to two years of probation.
 
 "a system that allows a person who has committed a crime not to go to prison if they behave well and if they see an official (called a probation officer ) regularly for a fixed period of time"
+
+
+
+#### 11/13
+
+01.cohabit /koʊˈhæbɪt/
+
+[v] In Italy people hardly ever cohabit .
+
+"to live together and have a sexual relationship without being married"
+
+
+
+02.detoxify /ˌdiːˈtɑːksɪfaɪ/
+
+[v] There is not much harm in taking tea after banana, but I would suggest to take a break of 30 mins in between consuming both. Personal suggestion: **You can take Green Tea and banana in the early morning**. It will give you energy and also helps to detoxify your body.
+
+"to remove harmful substances or poisons from sth"
+
+
+
+#### 11/19
+
+01.Mediterranean /ˌmedɪtəˈreɪniən/
+
+[adj] a Mediterranean climate. 
+
+"connected with the Mediterranean Sea or the countries and regions that surround it; typical of this area"
+
+A Mediterranean climate is characterized by warm to hot, dry summers and mild to cool, wet winters. This type of climate is typical of regions located along the Mediterranean Sea, but it can also be found in other parts of the world, such as parts of California, Chile, South Africa, and Australia.
+
+Here are some key features of a Mediterranean climate:
+
+- **Temperatures**: Generally mild with average temperatures ranging from 30°C (86°F) in summer to 10°C (50°F) in winter.
+- **Precipitation**: Most of the rainfall occurs during the winter months, while summers are usually dry.
+- **Seasons**: Distinct wet and dry seasons, with little to no rainfall during the summer.
+- **Vegetation**: Often features drought-resistant plants such as olive trees, grapevines, and various shrubs and herbs.
+
+The pleasant and consistent weather makes regions with Mediterranean climates popular for agriculture and tourism.
