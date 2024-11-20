@@ -4582,7 +4582,9 @@ The tennis star made the allegations on Chinese social media site Weibo./Seo Soo
 
 [noun] {~ (against/for sth)} a petition against experiments on animals.
 
-*As of Friday, nearly 41,000 people have signed the petition exposing the student's alleged academic misconduct.*
+*As of Friday, nearly 41,000 people have signed the petition exposing the student's alleged academic misconduct.*/
+
+But the labor ministry said the Seoul western labor office decided to reject the petition regarding NewJeans member Hanni because she cannot be viewed as a worker under the Labor Standards Act.
 
 "a written document signed by a large number of people that asks sb in a position of authority to do or change sth/请愿"
 
@@ -12812,6 +12814,8 @@ These are freshly dug mass graves.
 
 "to say in a direct way to sb that you would like to have sex with them"
 
+
+
 #### 2020/09/18.11
 
 01.enemy  [ˈenəmi] 
@@ -12840,7 +12844,9 @@ These are freshly dug mass graves.
 
 03.opponent  [əˈpəʊnənt]
 
-[noun] a political opponent. "a person that you are playing or fighting against in a game, competition, argument, etc."
+[noun] a political opponent. / The chess player studied his opponent's moves carefully, planning a counterstrategy.
+
+"a person that you are playing or fighting against in a game, competition, argument, etc."
 
 [noun] {~ (of sth)} opponents of abortion. "a person who is against sth and tries to change or stop it"
 
@@ -21708,7 +21714,9 @@ This is a video that is very often quoted in all sorts of native media.
 
 "a belief or set of beliefs held and taught by a Church, a political party, etc."
 
-[noun]the Monroe Doctrine. "a statement of government policy"
+[noun]the Monroe Doctrine./ATM, it feels like they have a doctrine of "pick only the fights you can win" 
+
+"a statement of government policy"
 
 
 
@@ -35718,6 +35726,30 @@ downplay[v]  Why do you persist in blaming yourself for what happened?
 
 
 
+03.counter /ˈkaʊntər/
+
+[n] I asked the woman behind the counter if they had any postcards. 
+
+"a long flat surface over which goods are sold or business is done in a shop/store, bank, etc."
+
+[v] Such arguments are not easily countered.
+
+"to reply to sb by trying to prove that what they said is not true"
+
+[v] Businesses would like to see new laws to counter late payments of debts. 
+
+"to do sth to reduce or prevent the bad effects of sth" -counteract-
+
+
+
+04.counterstrategy 
+
+[n] weighed the possibilities of what his enemy's next move might be before deciding on his next counterstrategy. 
+
+"a strategy that counters another strategy"
+
+
+
 #### 11/29.03
 
 01.somber ['sɒmbə(r)] 
@@ -35733,8 +35765,6 @@ downplay[v]  Why do you persist in blaming yourself for what happened?
 [vt] It saddened her that people could be so cruel.
 
 "to make sb sad"
-
-
 
 
 
@@ -47704,7 +47734,7 @@ What is behind NewJeans's 2-week ultimatum to HYBE?
 
 
 
-#### 11/13
+#### 11/13.02
 
 01.cohabit /koʊˈhæbɪt/
 
@@ -47722,7 +47752,7 @@ What is behind NewJeans's 2-week ultimatum to HYBE?
 
 
 
-#### 11/19
+#### 11/19.01
 
 01.Mediterranean /ˌmedɪtəˈreɪniən/
 
@@ -47740,3 +47770,55 @@ Here are some key features of a Mediterranean climate:
 - **Vegetation**: Often features drought-resistant plants such as olive trees, grapevines, and various shrubs and herbs.
 
 The pleasant and consistent weather makes regions with Mediterranean climates popular for agriculture and tourism.
+
+
+
+#### 11/20
+
+01.glamorize /ˈɡlæməraɪz/
+
+[v] TV shows criticized for glamorizing alcohol consumption.
+
+"If someone **glamorizes** something, they make it look or seem more attractive than it really is, especially in a film, book, or programme."
+
+
+
+02.single out /ˈsɪŋɡl aʊt/
+
+[vp] I feel like all of Korea glamorizes drinking. It feels weird to single out specific broadcasts.
+
+"to choose sb/sth from a group for special attention"
+
+
+
+03.vilify /ˈvɪlɪfaɪ/
+
+[v] {[VN] ~ sb/sth (as sth) | ~ sb/sth (for sth/for doing sth)} The politician tried to vilify his opponent by spreading false rumors about their past actions.
+
+"to say or write unpleasant things about sb/sth so that other people will have a low opinion of them"
+
+
+
+04.cheapen /ˈtʃiːpən/
+
+[v] "Excessive promise can sometimes cheapen one's own position in the hearts of others.
+
+to make sb lose respect for himself or herself"
+
+
+
+05.overpromising 
+
+[n]  It conveys a deep and thoughtful idea about the impact of overpromising on personal credibility and relationships.
+
+
+
+06.teller /ˈtelər/
+
+[n] The bank teller kindly assisted the elderly customer with her transaction.
+
+"a person whose job is to receive and pay out money in a bank"
+
+[n] automatic teller machines.
+
+"a machine that pays out money automatically"
