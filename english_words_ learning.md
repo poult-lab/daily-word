@@ -31,7 +31,7 @@
 
 [noun] his adoption as the Labour candidate. "the act of choosing sb as a candidate for an election"
 
-
+chicken
 
 04.adopt  [əˈdɒpt] [əˈdɑːpt]
 
@@ -54,8 +54,6 @@
 campaign vs activity
 
 运动vs活动
-
-
 
 
 
@@ -437,7 +435,9 @@ In summary, "region" refers to a larger and more general area that is defined by
 
 38.dispute [dɪˈspjuːt] 
 
-[noun] The dispute ended. But now the electric vehicle market is growing and Elon Musk is also the owner of the electric manufacturer company Tesla in the world and the company claims that it is the best electric car.
+[noun] The dispute ended. But now the electric vehicle market is growing and Elon Musk is also the owner of the electric manufacturer company Tesla in the world and the company claims that it is the best electric car.\
+
+Members of K-pop group NewJeans say they are leaving agency after dispute.
 
 "an argument or a disagreement between two people, groups or countries; discussion about a subject where there is disagreement"
 
@@ -2334,7 +2334,7 @@ D[noun]  insufficiency.
 
 21.prominent /ˈprɑːmɪnənt/
 
-[adj] He played a prominent part in the campaign."important or well known"
+[adj] He played a prominent part in the campaign. /AuM not only achieves comparable performance to the Audio Spectrogram Transformer (AST), the most prominent approach in audio classification, but also retains several advantages of transformer-based models."important or well known"
 
 [adj] The story was given a prominent position on the front page. "easily seen"
 
@@ -5267,16 +5267,6 @@ a more flexible approach.
 
 
 
-02.shrimp [ʃrɪmp]
-
-"a small shellfish that can be eaten, like a prawn but smaller. Shrimps turn pink when cooked"
-
-prawn [prɔːn] 
-
-"a shellfish with ten legs and a long tail, that can be eaten. Prawns turn pink when cooked."
-
-> Shrimp, as we know, have a tight curl to them. Examining their legs will also help you decipher the two. Shrimp's front pincers are the largest and they have claws on two pairs of legs. Prawns, on the other hand, have their largest pincers on the second pair of legs and claws on three pairs of their legs.
-
 
 
 03.shell  [ʃel]
@@ -7424,9 +7414,7 @@ We're open till 6 o'clock.
 
 
 
-07.innocence/innocent 
 
-[noun] She protested her innocence. "清白;无辜;无罪"
 
 
 
@@ -8740,7 +8728,7 @@ e.g: state-owned enterprises
 
 05.stringent /ˈstrɪndʒənt/
 
-[adj] {formal} The government is facing growing calls to curb the purchases of homes in Korea by foreign nationals, who could obtain mortgage loans from banks abroad and are subject to less stringent borrowing regulations than Koreans.
+[adj] {formal} The government is facing growing calls to curb the purchases of homes in Korea by foreign nationals, who could obtain mortgage loans from banks abroad and are subject to less stringent borrowing regulations than Koreans./Under the proposal, foreign experts in government-designated high-tech areas would be allowed to receive benefits, including less stringent visa screening, residence permits for their families and extended stay without frequently renewing their visas.
 
 "very strict and that must be obeyed"
 
@@ -8909,6 +8897,14 @@ e.g: state-owned enterprises
 strike a balance /straɪk ə ˈbæləns/
 
 [phrase]  "choose a moderate course or compromise."
+
+
+
+07.strike down
+
+[vp] strike down dictatorship. 
+
+"If a judge or court **strikes down** a law or regulation, they say that it is illegal and end it."
 
 
 
@@ -12988,6 +12984,10 @@ I think we can safely dismiss their objections.
 
 [verb] {~ sb (from sth)} She claims she was unfairly dismissed from her post. "to officially remove sb from their job"
 
+[verb] Mexican president dismisses Trump tariff threat after ‘excellent’ talk.
+
+"to say that a trial or legal case should not continue, usually because there is not enough evidence"
+
 
 
 07.tumour  [ˈtjuːmə(r)] 
@@ -12996,7 +12996,11 @@ I think we can safely dismiss their objections.
 
 
 
+08.smuggle  /ˈsmʌɡl/
 
+[v] The president of Mexico spoke to reporters on Thursday following Trump’s threat earlier in the week to apply a [25% tariff against Mexico and Canada](https://www.theguardian.com/us-news/2024/nov/25/trump-mexico-canada-tariffs-border), and an additional 10% tariff against China, when he takes office in January if the countries did not stop all illegal immigration and fentanyl smuggling into the US.
+
+"to take, send or bring goods or people secretly and illegally into or out of a country, etc."
 
 
 
@@ -13222,7 +13226,9 @@ onions pickled in vinegar.
 
 
 
+11.avert /əˈvɜːrt/
 
+[v] Mexican president says she is confident that a tariff war with the US can be averted. "to prevent sth bad or dangerous from happening"
 
 
 
@@ -25205,7 +25211,9 @@ the growing polarity between the left and right wings of the party.
 
 08.mess up/screw up [ˈskruː ʌp]
 
-[vp] You can't open the window because it screws up the air conditioning...
+[vp] You can't open the window because it screws up the air conditioning.../
+
+ U.S. President Joe Biden on Thursday said he hoped President-elect Donald Trump would rethink his plan to impose [tariffs](https://www.reuters.com/world/us/trump-promises-25-tariff-products-mexico-canada-2024-11-25/) on Mexico and Canada, saying it could "screw up" relationships with close allies.
 
 "To **screw** something **up**, or to **screw up**, means to cause something to fail or be spoiled."
 
@@ -27602,7 +27610,7 @@ Kim Jong-un's slimmer frame has prompted more speculation about his health./Ther
 
 03.parasite  [ˈpærəsaɪt] 
 
-[noun] One of the ways the parasite spreads is through fecal matter. 
+[noun] One of the ways the parasite spreads is through fecal matter./The invasive plant acted as a parasite, drawing nutrients from its host tree and leaving it weakened over time.
 
 "a small animal or plant that lives on or inside another animal or plant and gets its food from it"
 
@@ -28321,7 +28329,11 @@ Sure, here are some examples of nobility and aristocracy:
 
 
 
+13.simmering
 
+[adj] Both Mexico and Canada have the absolute right and power to easily solve this long simmering problem.
+
+" the term **simmering** metaphorically refers to a problem that has been slowly developing or persisting over a long period of time, much like how food simmers on low heat."
 
 
 
@@ -28341,7 +28353,11 @@ Sure, here are some examples of nobility and aristocracy:
 
 01.cuisine  [kwɪˈziːn] 
 
-[noun] Italian cuisine. /Given the historical connection between traditional Korean cuisine and vegetarian dishes often prepared in households and Buddhist temples, this list serves as both a representation of Seoul's past and its present.
+[noun] Italian cuisine. 
+
+/Given the historical connection between traditional Korean cuisine and vegetarian dishes often prepared in households and Buddhist temples, this list serves as both a representation of Seoul's past and its present./
+
+Korean cuisine enters global mainstream fueled by K-content fever.
 
 "a style of cooking"
 
@@ -28763,11 +28779,53 @@ D [noun] finalization
 
 
 
-04.confiscate  [ˈkɒnfɪskeɪt]   [ˈkɑːnfɪskeɪt] 
+04.scarcity /ˈskersəti/
 
-[verb] Illegal sheets will be confiscated at the place.
+[n] The expansion of cloud services, encompassing servers and software solutions, continues to drive market growth, intensifying the scarcity of talent.
 
-"to officially take sth away from sb, especially as a punishment"
+"if there is a scarcity of sth, there is not enough of it and it is difficult to obtain it"
+
+
+
+The terms **shortage** and **scarcity** are related but distinct, particularly in economics and general usage. Here's the difference:
+
+1. **Scarcity***
+
+- **Definition**: Scarcity refers to the fundamental economic problem of having limited resources to meet unlimited wants. It is a natural condition and applies universally.
+
+- Key Features
+
+  :
+
+  - Permanent and unavoidable.
+  - Reflects the limitations of resources (e.g., time, land, water, minerals).
+  - Requires prioritization and decision-making to allocate resources.
+
+- **Example**: Clean water is scarce globally, as there is a limited amount compared to the growing population's needs.
+
+2. **Shortage**
+
+- **Definition**: A shortage occurs when the demand for a product or service exceeds its supply at a specific price point in a market. It is a temporary imbalance.
+
+- Key Features
+
+  :
+
+  - Often caused by market conditions, like disruptions in supply chains or price controls.
+  - Can be resolved by increasing production, adjusting prices, or other market mechanisms.
+
+- **Example**: A shortage of gasoline can occur during a natural disaster when supply routes are disrupted.
+
+**Key Difference**
+
+| **Aspect**     | **Scarcity**                         | **Shortage**                                  |
+| -------------- | ------------------------------------ | --------------------------------------------- |
+| **Nature**     | Permanent, due to limited resources. | Temporary, due to market or external factors. |
+| **Scope**      | Universal; affects all resources.    | Specific to a product or market.              |
+| **Resolution** | Cannot be eliminated, only managed.  | Can be resolved through market adjustments.   |
+| **Cause**      | Fundamental resource limitations.    | Supply and demand imbalance at a given price. |
+
+
 
 
 
@@ -28826,6 +28884,16 @@ D [noun] finalization
 [verb] Deadly crowd crush spurs people's interest in CPR. 
 
 "to make sth happen faster or sooner"
+
+
+
+10.confiscate  [ˈkɒnfɪskeɪt]   [ˈkɑːnfɪskeɪt] 
+
+[verb] Illegal sheets will be confiscated at the place.
+
+"to officially take sth away from sb, especially as a punishment"
+
+
 
 
 
@@ -30956,15 +31024,17 @@ The government will begin expanding efforts to crack down on unauthorized accomm
 
 
 
+04.emirate /ˈemərət/
+
+[noun] Dubai is one of the seven emirates that make up the United Arab Emirates, each governed by its own ruler.
+
+"An **emirate** is a country that is ruled by an emir."
 
 
 
+05.emir /eˈmɪr/
 
-05.warehouse  [ˈwerhaʊs] 
-
-[noun] CJ Logistics to spend $2.1 bn to expand warehouse by 8 times, add high tech.
-
-"a building where large quantities of goods are stored, especially before they are sent to shops/stores to be sold"
+[n] "the title given to some Muslim rulers"
 
 
 
@@ -30981,6 +31051,30 @@ The government will begin expanding efforts to crack down on unauthorized accomm
 [adj] Armed robbery and aggravated unlawful use of a weapon.
 
 "an aggravated crime involves further unnecessary violence or unpleasant behaviour"
+
+
+
+08.warehouse  [ˈwerhaʊs] 
+
+[noun] CJ Logistics to spend $2.1 bn to expand warehouse by 8 times, add high tech.
+
+"a building where large quantities of goods are stored, especially before they are sent to shops/stores to be sold"
+
+
+
+09.ruler /ˈruːlər/
+
+[n] The land was simply appropriated by the rulers."a person who rules or governs"
+
+[n] "a straight strip of wood, plastic or metal, marked in centimetres or inches, used for measuring or for drawing straight lines"
+
+
+
+10.appropriate /əˈproʊpriət , əˈproʊprieɪt/
+
+[v] He was accused of appropriating club funds.
+
+"to take sth, sb's ideas, etc. for your own use, especially illegally or without permission"
 
 
 
@@ -33006,13 +33100,9 @@ D[adv] to treat sb leniently.
 
 
 
-#### 02/06.01
 
-01.Hispanic  [hɪˈspænɪk] 
 
-[adj] "of or connected with Spain or Spanish-speaking countries, especially those of Latin America"
 
-[noun]  "a person whose first language is Spanish, especially one from a Latin American country living in the US or Canada"
 
 
 
@@ -34100,7 +34190,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-#### 05/16.03
+#### 05/16.04
 
 01.vet  [vet] 
 
@@ -34126,17 +34216,17 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-#### 05/18.02
+04.non-compliance /ˌnɑːn kəmˈplaɪəns/
 
-01.demographic [ˌdeməˈɡræfɪk]
+[n] Non-compliance with the manuscript format, including manipulation of margins or vertical spacing, will lead to automatic desk rejection.
 
-[adj] South Korea’s demographic trends and corresponding initiatives to address them have challenged long-held conceptions of nationhood based on claims of ethnocultural purity.
-
-"**Demographic** means relating to or concerning demography."
+"the fact of failing or refusing to obey a rule"
 
 
 
-02.enact  [ɪˈnækt] 
+#### 05/18.01
+
+01.enact  [ɪˈnækt] 
 
 [vt] South Korea has enacted several reforms to attract immigrants in response to its looming demographic woes, but some of these measures are hampered by harmful patriarchal and ethnocentric blindspots. "to pass a law"
 
@@ -35317,7 +35407,7 @@ ICPR 2024 is the 27th event of the series and it provides a great opportunity to
 
 
 
-06.oscillate /ˈɒsɪleɪt/ /ˈɑːsɪleɪt/
+05.oscillate /ˈɒsɪleɪt/ /ˈɑːsɪleɪt/
 
 [v] Her moods oscillated between depression and elation.
 
@@ -35327,7 +35417,7 @@ ICPR 2024 is the 27th event of the series and it provides a great opportunity to
 
 
 
-07.imply /ɪmˈplaɪ/
+06.imply /ɪmˈplaɪ/
 
 [v] Are you implying (that) I am wrong?
 
@@ -35341,7 +35431,7 @@ ICPR 2024 is the 27th event of the series and it provides a great opportunity to
 
 
 
-08.implicit /ɪmˈplɪsɪt/
+07.implicit /ɪmˈplɪsɪt/
 
 [adj] implicit criticism.
 
@@ -35357,7 +35447,7 @@ ICPR 2024 is the 27th event of the series and it provides a great opportunity to
 
 
 
-09.explicit /ɪkˈsplɪsɪt/
+08.explicit /ɪkˈsplɪsɪt/
 
 [adj]  {of a statement or piece of writing} He gave me very explicit directions on how to get there. "clear and easy to understand"
 
@@ -35368,6 +35458,14 @@ ICPR 2024 is the 27th event of the series and it provides a great opportunity to
 [adj] The reasons for the decision should be made explicit.
 
 "said, done or shown in an open or direct way, so that you have no doubt about what is happening"
+
+
+
+09.explicit content 
+
+[phrase] 'Squid Game' actor Park Sung-hoon tearfully apologizes for posting explicit content.
+
+"The phrase "explicit content" is written as **a warning that media (pictures, films or music) contains adult content**. This is often sexual or pornographic. It may be bad language. The explicit content warning is for parents who want to sensor what their children see."
 
 
 
@@ -35551,13 +35649,21 @@ ICPR 2024 is the 27th event of the series and it provides a great opportunity to
 
 01.go-to 
 
-[adj] go-to protein. 
+[adj] ***Shopping on platforms like\*** ***Temu\*** ***and\*** ***Shein\*** ***has become a go-to for bargain hunters, offering trendy items at unbeatable prices.\*** 
 
-"denoting a person or thing that may be relied on or is regularly **sought out** in a particular situation."
+ "You use go-to **to say that someone or something is the best person, place or thing for a particular purpose or situation**. "
 
 
 
-02.longevity  [lɒnˈdʒevəti] 
+02.trendy /ˈtrendi/
+
+[adj] He had a trendy haircut, an earring and designer stubble.  
+
+"very fashionable"
+
+
+
+03.longevity  [lɒnˈdʒevəti] 
 
 [noun] {formal}  We wish you both health and longevity. 
 
@@ -36554,21 +36660,43 @@ dizzy [ˈdɪzi]
 
 
 
-#### 12/28.02
+#### 12/28.05
 
 01.pardon [ˈpɑː(r)dn] 
 
-[noun] Lee Myung-bak, South Korean Ex-President, Receives Pardon.
+[noun] Lee Myung-bak, South Korean Ex-President, Receives Pardon./Today, I signed a *pardon* for my son *Hunter*. 
 
 "an official decision not to punish sb for a crime, or to say that sb is not guilty of a crime"
 
  
 
-02.stray cat [streɪ kæt]
+02.amnesty /ˈæmnəsti/
+
+"The main difference between amnesty and a pardon is that amnesty abolishes a crime or declares innocence, while a pardon simply relieves someone of punishment. Amnesty is usually granted to a group of people, while a pardon is usually granted to an individual."
+
+"Amnesty can be distinguished from pardon in that **amnesty is extended to persons who are subject to prosecution but not yet convicted whereas, a pardon is granted to a person who has already been convicted**."
+
+
+
+03.stray cat [streɪ kæt]
 
 [adj] {of animals normally kept as pets} stray dogs.
 
 "away from home and lost; having no home"
+
+
+
+04.innocence/innocent 
+
+[noun] She protested her innocence. "清白;无辜;无罪"
+
+
+
+05.abolish /əˈbɑːlɪʃ/
+
+[v] This tax should be abolished.
+
+"to officially end a law, a system or an institution"
 
 
 
@@ -37900,7 +38028,7 @@ Clear is known for his ability to **distill complex topics into simple behaviors
 
 
 
-#### 03/06.03
+#### 03/06.04
 
 01.fiance [ˌfiən'seɪ]
 
@@ -37935,6 +38063,12 @@ Clear is known for his ability to **distill complex topics into simple behaviors
 "to happen; to start to exist"
 
 
+
+04.chicken /ˈtʃɪkɪn/
+
+[adj] They thought I was chicken when I refused to go with them. 
+
+"not brave; afraid to do sth"
 
 
 
@@ -40522,6 +40656,22 @@ An electronic cigarette is an electronic device that simulates tobacco smoking. 
 
 
 
+07.stamp out /stæmp aʊt/
+
+[vp] Trump promises 25% tariff on Mexico and Canada, extra 10% tariff on China
+
+*US president-elect says measures will remain until countries stamp out irregular border crossings and drug trafficking.*
+
+"If you **stamp out** something bad that is happening, you make it stop."
+
+
+
+08.traffic /ˈtræfɪk/
+
+[v] to traffic in drugs.
+
+"to buy and sell sth illegally"
+
 
 
 #### 05/31.03
@@ -41195,7 +41345,7 @@ It's important to note that in some contexts, people might use the term "identic
 
 
 
-#### 07/28.05
+#### 07/28.07
 
 01.arrest /əˈrest/
 
@@ -41253,7 +41403,15 @@ It's important to note that in some contexts, people might use the term "identic
 
 
 
-06.turf /tɜː(r)f/
+06.shun /ʃʌn/
+
+[v] Korea is known as one of the least open countries to foreign workers. In recent years, more jobs have been offered, but mostly in labor-intensive industries that Korean nationals shun. 
+
+"If you **shun** someone or something, you deliberately avoid them or keep away from them."
+
+
+
+07.turf /tɜː(r)f/
 
 [n] newly laid turf.
 
@@ -42132,11 +42290,7 @@ In essence, the key difference between the two lies in their steadiness and inte
 
 
 
-02.scarcity /ˈskersəti/
 
-[n] The expansion of cloud services, encompassing servers and software solutions, continues to drive market growth, intensifying the scarcity of talent.
-
-"if there is a scarcity of sth, there is not enough of it and it is difficult to obtain it"
 
 
 
@@ -42991,6 +43145,8 @@ D[adv] The applicant has experience in teaching and, more relevantly, in industr
 
 [n] to introduce/propose/table an amendment (= to suggest it). /Experts argue that legal reforms, including amendments to personal data protection laws, are necessary to boost private investment in the sector.
 
+On the afternoon of November 26, Representative **Jeong Hye Kyung** of the Progressive Party held a press conference at the National Assembly's communication hall to **propose a partial amendment to the Labor Standards Act** aimed at preventing workplace harassment. She emphasized, “***Regardless of income, employment status, or contract type, no one should suffer harassment at work from superiors or others.***”
+
 "a small change or improvement that is made to a law or a document; the process of changing a law or a document"
 
 
@@ -43096,6 +43252,14 @@ neglect vs ignore
 > Neglect is used when someone has forgotten or is being careless:  
 >
 > "He neglected his plants, so they were beginning to dry up."
+
+
+
+07.neglected /nɪˈɡlektɪd/
+
+[adj] neglected children./neglected diseases. 
+
+"not receiving enough care or attention"
 
 
 
@@ -45543,7 +45707,7 @@ d[adv]shabbily dressed
 
 01.speculative /ˈspekjələtɪv/
 
-[adj] Calls grow to prevent speculative homebuying by foreigners.
+[adj] Calls grow to prevent speculative homebuying by foreigners./ A speculative estimate of [NewJeans](https://www.allkpop.com/artisttag/NewJeans)' contract termination fee has surfaced via [Min Hee Jin](https://www.allkpop.com/artisttag/min-hee-jin)'s past **KakaoTalk** conversations with **ADOR**'s former deputy CEOs.
 
 "done in the hope of making a profit but involving the risk of losing money"
 
@@ -46232,7 +46396,7 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 04.devise /dɪˈvaɪz/
 
-[v] A new system has been devised to control traffic in the city.
+[v] A new system has been devised to control traffic in the city./We also devised an evaluation metric that considered the costs of screening, diagnosis, misdiagnosis, and treatment, allowing us to investigate the benefits of algorithmic diagnostic screening and facilitate the development of more clinically relevant algorithms.
 
 "to invent sth new or a new way of doing sth"
 
@@ -47492,7 +47656,7 @@ However, your trip must be temporary and you cannot remain outside the United St
 
 "to ask questions in order to find out secret or hidden information about sb/sth"
 
-[n]  a police probe into the financial affairs of the company. 
+[n]  a police probe into the financial affairs of the company. /Police analyzing Yoon's phone records in martial law probe.
 
 "a thorough and careful investigation of sth"
 
@@ -47773,7 +47937,7 @@ The pleasant and consistent weather makes regions with Mediterranean climates po
 
 
 
-#### 11/20
+#### 11/20.06
 
 01.glamorize /ˈɡlæməraɪz/
 
@@ -47822,3 +47986,281 @@ to make sb lose respect for himself or herself"
 [n] automatic teller machines.
 
 "a machine that pays out money automatically"
+
+
+
+#### 11/21.01
+
+01.umbilical cord /ʌmˈbɪlɪkl kɔːrd/
+
+[n] According to the police, a report was filed around 5 p.m. the previous day about a crying baby inside a black bag left in the restroom. Officers arrived at the scene and found a newborn girl with her umbilical cord still attached. 
+
+"a long piece of tissue that connects a baby to its mother before it is born and is cut at the moment of birth"
+
+
+
+#### 11/26.01
+
+01.devastating  /ˈdevəsteɪtɪŋ/
+
+[adj] Ontario Premier Doug Ford said the proposed tariffs would be “devastating” to workers and jobs in both countries. 
+
+"causing a lot of damage and destruction"
+
+
+
+#### 11/29.04
+
+01.shrimp [ʃrɪmp]
+
+"a small shellfish that can be eaten, like a prawn but smaller. Shrimps turn pink when cooked"
+
+
+
+02.prawn [prɔːn] 
+
+"a shellfish with ten legs and a long tail, that can be eaten. Prawns turn pink when cooked."
+
+> Shrimp, as we know, have a tight curl to them. Examining their legs will also help you decipher the two. Shrimp's front pincers are the largest and they have claws on two pairs of legs. Prawns, on the other hand, have their largest pincers on the second pair of legs and claws on three pairs of their legs.
+
+
+
+03.spawn /spɔːn/
+
+[v] His errors spawned a great number of economic loss. 
+
+"to cause sth to develop or be produced"
+
+[n] ...fish species like salmon and trout which go upstream, spawn and then die...
+
+"a soft substance containing the eggs of fish, frogs etc."
+
+
+
+04.creek /kriːk/
+
+[n] After he was found, Sam told police that he stayed in his car for a couple of days and then walked to a creek where he camped for 10 to 15 days. 
+
+"a small river or stream"
+
+
+
+#### 12/02.05
+
+01.fixation /fɪkˈseɪʃn/
+
+[n] Can Korea break away from apartment fixation?
+
+"a very strong interest in sb/sth, that is not normal or natural"
+
+
+
+02.assisted dying /əˌsɪstɪt ˈdaɪɪŋ/
+
+[phrase] "However, assisted dying generally refers to **a person who is terminally ill receiving lethal drugs from a medical practitioner, which they administer themselves**"
+
+
+
+03.assisted suicide
+
+[phrase] "Assisted suicide is intentionally helping another person to end their life, including someone who is not terminally ill."
+
+
+
+04.terminally /'tɜːmɪnəli/
+
+[adj] The patient is terminally ill.
+
+"A **terminal** illness or disease causes death, often slowly, and cannot be cured."
+
+
+
+05.administer /ədˈmɪnɪstər/
+
+[v] Paramedics are trained to administer certain drugs.
+
+"If a doctor or a nurse **administers** a drug, they give it to a patient."
+
+
+
+#### 12/04.05
+
+01.impeach/ɪmˈpiːtʃ/
+
+[v] At the same time, the opposition also moved to impeach cabinet members and several top prosecutors- including the head of the government's audit agency - for failing to investigate the First Lady.
+
+"to charge an important public figure with a serious crime" 
+
+
+
+02.prosecutor /ˈprɑːsɪkjuːtər/
+
+[n] Could you tell me who the public prosecutor was?
+
+"a public official who charges sb officially with a crime and prosecutes them in court"
+
+
+
+03.martial law /ˌmɑːrʃl ˈlɔː/
+
+[n] Why South Korea's president suddenly declared martial law.
+
+"a situation where the army of a country controls an area instead of the police during a time of trouble"
+
+
+
+04.defy /dɪˈfaɪ/
+
+[v] South Korean Parliament Votes to Defy President by Lifting His Declaration of Martial Law. 
+
+"to refuse to obey or show respect for sb in authority, a law, a rule, etc."
+
+
+
+05.out of the blue
+
+[adv] her brother showed up at the wedding out of the blue.
+
+"in a way that was not expected"
+
+
+
+#### 12/25.01
+
+01.artifact /ˈɑːrtɪfækt/
+
+[n] gold and silver artifacts. 
+
+"an object made by a human being, typically an item of cultural or historical interest"
+
+
+
+#### 12/26.03
+
+01.Body dysmorphic /dɪsˈmɔːr.fɪk/ disorder
+
+[phrase] "Body dysmorphic disorder (BDD), or body dysmorphia, is **a mental health condition where a person spends a lot of time worrying about flaws in their appearance**. These flaws are often unnoticeable to others. People of any age can have BDD, but it's most common in teenagers and young adults. It affects both men and women."
+
+
+
+02.malformation /ˌmælfɔːrˈmeɪʃn/
+
+[n] Some foetal malformations cannot be diagnosed until late in pregnancy.
+
+"a part of the body that is not formed correctly"
+
+
+
+03.preoccupy /priˈɑːkjupaɪ/
+
+[verb] The research preoccupies the brain of the PhD student, leaving little room for anything else. "if sth is preoccupying you, you think or worry about it very often or all the time"
+
+
+
+#### 12/31.01
+
+01.spoiler /ˈspɔɪlər/
+
+[n] At this point, anything I might say is going to be a spoiler, so I want to be cautious. But what I can say is, after Season 2 launches, I believe we will be announcing the launch date for Season 3 soon.
+
+"information that you are given about what is going to happen in a film/movie, television series etc. before it is shown to the public"
+
+
+
+### 2025
+
+#### 01/02.01
+
+01.moviegoer /ˈmuːviɡoʊər/
+
+(especially NAmE)
+
+= film-goer
+
+[n] "Harbin" Surpasses 3 Million Moviegoers.
+
+"someone who goes to see movies"
+
+
+
+#### 01/09.02
+
+01.oyster /ˈɔɪstər/
+
+[n] Korea aims to become world's largest oyster exporter.
+
+"a large flat shellfish . Some types of oyster can be eaten and others produce shiny white jewels called pearls ."
+
+"the world is your oyster", "there is no limit to the opportunities open to you"
+
+
+
+02.testosterone /teˈstɑːstəroʊn/
+
+[n] Oysters are a good source of many nutrients that may help support sexual health. In particular, **the zinc in oysters may increase testosterone levels and help maintain healthy levels of dopamine**.
+
+"a hormone produced in men's testicles that causes them to develop the physical and sexual features that are characteristic of the male body"
+
+
+
+#### 01/10.02
+
+01.contrastive /kənˈtræstɪv/
+
+[adj] The study highlighted the contrastive differences between the cultural practices of the two regions, emphasizing their unique traditions and customs.
+
+"showing the differences between languages"
+
+
+
+02.nab /nab/
+
+[verb] Chinese tourist nabbed for filming Jeju Int'l Airport with a drone.
+
+"catch (someone) doing something wrong."
+
+
+
+#### 01/12.01
+
+01.all of you combined
+
+[phrase] I've cleaned more toilets than all of you combined. 
+
+
+
+#### 01/13
+
+01.compatriot /kəmˈpeɪtriət/
+
+[n] The United States is our precious ally that helped South Korea during its most difficult times, and Los Angeles is home to the largest number of compatriots in the world.
+
+"a person who was born in, or is a citizen of, the same country as sb else"
+
+
+
+02.ally /ˈælaɪ , əˈlaɪ/ "As a noun, pronounce ally like this: "**AL-eye**." As a verb, it's "uh-LIE.""
+
+[n] a close ally and friend of the prime minister.  **AL-eye**
+
+"a person who helps and supports sb who is in a difficult situation, especially a politician"
+
+[v] Britain was allied with the United States many times in history.    "uh-LIE."
+
+"to give your support to another group or country"
+
+
+
+03.Hispanic  [hɪˈspænɪk] 
+
+[adj] "of or connected with Spain or Spanish-speaking countries, especially those of Latin America"
+
+[noun]  "a person whose first language is Spanish, especially one from a Latin American country living in the US or Canada"
+
+
+
+04.demographic [ˌdeməˈɡræfɪk]
+
+[adj] South Korea’s demographic trends and corresponding initiatives to address them have challenged long-held conceptions of nationhood based on claims of ethnocultural purity.
+
+"**Demographic** means relating to or concerning demography."
