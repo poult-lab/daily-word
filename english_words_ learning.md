@@ -712,11 +712,11 @@ So, while all four words describe something that is important, crucial implies t
 
 
 
-61.survival /sərˈvaɪvl/ 
+61.crucially /ˈkruʃəlɪ/
 
-[n] His only chance of survival was a heart transplant.
+[adv]  Crucially, in contrast to ResNets, we never combine features through summation before they are passed into a layer; instead, we combine features by concatenating them.
 
-'the state of continuing to live or exist, often despite difficulty or danger' 'the noun of survive'
+"to a crucial degree"
 
 
 
@@ -2096,7 +2096,7 @@ We are not set up for you to go undercover as a drug mule.
 
 
 
-#### Previously on: 201~250
+#### Previously on: 201~300
 
 01.domain   [dəˈmeɪn] 
 
@@ -2615,6 +2615,14 @@ The tidal energy is not stable.
 > there's not really a difference. Historically maybe there once was, or they have different origins, but today they are exactly the same word. Use whichever sounds better to you.  Resolute is a little less common and sounds more like prose than determined.
 
 
+
+
+
+51.survival /sərˈvaɪvl/ 
+
+[n] His only chance of survival was a heart transplant.
+
+'the state of continuing to live or exist, often despite difficulty or danger' 'the noun of survive'
 
 
 
@@ -13565,7 +13573,7 @@ D[adv] We regret this service is temporarily unavailable.
 
 05.infer [ɪnˈfɜː(r)]
 
-[verb] {~ sth (from sth)}  Much of the meaning must be inferred from the context. 
+[verb] {~ sth (from sth)}  Much of the meaning must be inferred from the context. /Looking at these results and progress, we can infer that convolutional approaches make it possible to learn many sophisticated features with simple computations.
 
 "to reach an opinion or decide that sth is true on the basis of information that is available"-deduce-
 
@@ -15550,11 +15558,7 @@ The examination is near at hand.
 
 
 
-18.powder[ˈpaʊdə(r)] 
 
-[noun] chilli powder. "a dry mass of very small fine pieces or grains"
-
-[verb] She powdered her face and put on her lipstick. "to put powder on sth"
 
 
 
@@ -16902,7 +16906,7 @@ D[noun] "elimination"
 
 
 
-#### 2020/10/25.05
+#### 2020/10/25.06
 
 01.companion [kəmˈpæniən] 
 
@@ -16955,6 +16959,14 @@ D[noun] "elimination"
 [n] a marble floor/sculpture. 
 
 "a type of hard stone that is usually white and often has coloured lines in it. It can be polished and is used in building and for making statues, etc." 
+
+
+
+06.singular /ˈsɪŋɡjələr/
+
+[n] The singular of ‘bacteria’ is ‘bacterium’."a form of a noun or verb that refers to one person or thing"
+
+[adj] landscape of singular beauty."very great or obvious" -outstanding-
 
 
 
@@ -27044,9 +27056,7 @@ The interview prompted a backlash in China, which considers self-ruling Taiwan t
 
 
 
-07.trait [treɪt] 
 
-[noun] personality traits. "a particular quality in your personality"
 
 
 
@@ -33478,7 +33488,7 @@ D[adv] to treat sb leniently.
 
 01.tenant  [ˈtenənt]
 
-[noun] The tenant wanted to extend the lease by a year. 
+[noun] The tenant wanted to extend the lease by a year. / The West faces a decisive challenge: To not become a society divided into two classes, the rich landlords and poor tenants.
 
 "a person who pays rent for the use of a room, building, land, etc. to the person who owns it"
 
@@ -34048,7 +34058,7 @@ D[noun] proneness to depression.
 
 01.inauguration  [ɪˌnɔːɡjəˈreɪʃn] 
 
-[noun] Chinese VP known as Xi's right-hand man to attend Yoon's inauguration.
+[noun] Chinese VP known as Xi's right-hand man to attend Yoon's inauguration./Michelle Obama will skip Trump inauguration, but ex-presidents will attend.
 
 "the ceremonial induction into a position"
 
@@ -34103,16 +34113,6 @@ D[noun] proneness to depression.
 01.expired food  [ɪkˈspaɪəd fuːd]
 
 [phrase] Foods past their prime often develop mold, bacteria, and yeast, causing them to give warning signs to your senses. 
-
-
-
-02.yeast /jiːst/
-
-[n] You need yeast in order to make bread.
-
-"a fungus used in making beer and wine, or to make bread rise"
-
-[adj] {yeasty} a yeasty smell.
 
 
 
@@ -41934,7 +41934,7 @@ It’s been a good start to life for the second season of D.P. on Netflix. Howev
 
 
 
-#### 08/17.06
+#### 08/17.07
 
 01.capsule /ˈkæpsjuːl/ /ˈkæpsl/
 
@@ -41948,11 +41948,11 @@ It’s been a good start to life for the second season of D.P. on Netflix. Howev
 
 
 
-02.safety seal /ˈseɪfti siːl/
+02.encapsulate /ɪnˈkæpsjuleɪt/
 
-[phrase] Do not use if outer safety seal is broken or missing.
+[verb] the conclusion **is encapsulated in** one sentence.
 
-<img src="./images/safety_seal.jpg" alt="safety_seal" style="zoom:33%;" />
+"to express the most important parts of sth in a few words, a small space or a single object"
 
 
 
@@ -42007,6 +42007,18 @@ It’s been a good start to life for the second season of D.P. on Netflix. Howev
 [adj] a patriotic man who served his country well.
 
 "having or expressing a great love of your country"
+
+
+
+07.safety seal /ˈseɪfti siːl/
+
+[phrase] Do not use if outer safety seal is broken or missing.
+
+<img src="./images/safety_seal.jpg" alt="safety_seal" style="zoom:33%;" />
+
+
+
+
 
 
 
@@ -45761,7 +45773,7 @@ d[adv]shabbily dressed
 
 
 
-#### 03/14.06
+#### 03/14.07
 
 01.streaker /ˈstriːkər/
 
@@ -45785,11 +45797,7 @@ d[adv]shabbily dressed
 
 
 
-04.wheat /wiːt/
 
-[n] wheat flour. 
-
-"a plant grown for its grain that is used to produce the flour for bread, cakes, pasta , etc.; the grain of this plant"
 
 
 
@@ -45801,6 +45809,10 @@ d[adv]shabbily dressed
 [adj] The most-sought-after item during the holiday season was the limited edition gaming console, with eager customers lining up outside stores for hours to secure one.
 
 "The term "most-sought-after" refers to something that is highly desired or pursued by a large number of people. "
+
+
+
+
 
 
 
@@ -48229,7 +48241,7 @@ to make sb lose respect for himself or herself"
 
 
 
-#### 01/13
+#### 01/13.04
 
 01.compatriot /kəmˈpeɪtriət/
 
@@ -48264,3 +48276,113 @@ to make sb lose respect for himself or herself"
 [adj] South Korea’s demographic trends and corresponding initiatives to address them have challenged long-held conceptions of nationhood based on claims of ethnocultural purity.
 
 "**Demographic** means relating to or concerning demography."
+
+
+
+#### 01/14.08
+
+01.powder[ˈpaʊdə(r)] 
+
+[noun] chilli powder. "a dry mass of very small fine pieces or grains"
+
+[verb] She powdered her face and put on her lipstick. "to put powder on sth"
+
+
+
+02.wheat /wiːt/
+
+[n] wheat flour. 
+
+"a plant grown for its grain that is used to produce the flour for bread, cakes, pasta , etc.; the grain of this plant"
+
+
+
+03.wheat flour /wiːt ˈflaʊər/
+
+[n] "flour prepared from wheat"
+
+
+
+In short, flour is a specific type of powder used for cooking and baking, while powder is a more general term for any fine, dry substance.
+
+
+
+**Rice is generally considered to be easier to digest than wheat flour chapati/roti**. This is because rice is lower in fiber and gluten compared to wheat flour, making it gentler on the digestive system for some people.
+
+
+
+04.gluten /ˈɡluːtn/
+
+[n] We sell a range of gluten-free products (= not containing gluten ) . 
+
+"a sticky substance that is a mixture of two proteins and is left when starch is removed from flour, especially wheat flour"
+
+
+
+05.leavening agent
+
+[phrase] "leavening agent, **substance causing expansion of doughs and batters by the release of gases within such mixtures, producing baked products with porous structure**."
+
+
+
+06.yeast /jiːst/
+
+[n] You need yeast in order to make bread.
+
+"a fungus used in making beer and wine, or to make bread rise"
+
+[adj] {yeasty} a yeasty smell.
+
+
+
+07.resilience /rɪˈzɪliəns/
+
+[n] A startup founder requires many skills, but what tops the list for [Sam Altman](https://twitter.com/sama) is resilience- a trait he has observed as a common factor among thousands of successful founders over the course of a decade. 
+
+"the ability of people or things to feel better quickly after sth unpleasant, such as shock, injury, etc."
+
+
+
+08.trait [treɪt] 
+
+[noun] personality traits. "a particular quality in your personality"
+
+
+
+#### 01/16
+
+01.fatigue /fəˈtiːɡ/
+
+[n] physical and mental fatigue.
+
+"a feeling of being extremely tired, usually because of hard work or exercise"
+
+
+
+02.stimulus /ˈstɪmjələs/
+
+[n] Interest rates could fall soon and be a stimulus to the US economy.
+
+"something that helps sb/sth to develop better or more quickly"
+
+
+
+03.hypertrophy /haɪˈpɜːrtrəfi/
+
+[n]  *Hypertrophy* increases the size of your muscles. Strength training increases the strength of your muscles. 
+
+"an increase in the size of an organ or tissue because its cells grow in size"
+
+
+
+04.contraction /kənˈtræktaɪl/
+
+[n] Muscle contraction is **the tightening, shortening, or lengthening of muscles when you do some activity**.  "the process in which a muscle becomes or is made shorter and tighter"
+
+[n] The sudden contraction of the markets left them with a lot of unwanted stock."the process of becoming smaller"
+
+
+
+05.myofibril / ˌmaɪəˈfaɪbrəl /
+
+[n] "one of many contractile filaments that make up a striated muscle fiber"
