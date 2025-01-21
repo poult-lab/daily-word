@@ -48349,7 +48349,7 @@ In short, flour is a specific type of powder used for cooking and baking, while 
 
 
 
-#### 01/16
+#### 01/16.05
 
 01.fatigue /fəˈtiːɡ/
 
@@ -48386,3 +48386,51 @@ In short, flour is a specific type of powder used for cooking and baking, while 
 05.myofibril / ˌmaɪəˈfaɪbrəl /
 
 [n] "one of many contractile filaments that make up a striated muscle fiber"
+
+
+
+#### 01/17.02
+
+01.leftist /ˈleftɪst/
+
+[n] IU’s Instagram was flooded with insults on Thursday, including accusations like “IU is a leftist,” “Is this what you wanted?” and “Is IU a Chinese spy?”
+
+"a person who supports left-wing political parties and their ideas, Socialists and Communists are sometimes referred to as **leftists**."
+
+
+
+02.rightist /ˈraɪtɪst/
+
+[n] A well-known example of someone often described as a "rightist" is **Ronald Reagan** (1911–2004), the 40th President of the United States.
+
+"a person who supports right-wing political parties and their ideas"
+
+
+
+#### 01/18.01
+
+01.represent /ˌreprɪˈzent/
+
+[v] Who is representing Nike?
+
+"to act or speak officially for sb and defend their interests"
+
+
+
+#### 01/19.01
+
+01.reprieve /rɪˈpriːv/
+
+[n] TikTok probably will get a 90-day reprieve on ban, Trump says.
+
+"a delay before sth bad happens"
+
+
+
+#### 01/21
+
+01.fatigue /fəˈtiːɡ/
+
+[n] Important micronutrients for the reduction of tiredness and fatigue.
+
+"a feeling of being extremely tired, usually because of hard work or exercise"
