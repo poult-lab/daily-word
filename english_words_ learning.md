@@ -6501,9 +6501,7 @@ D[adv] {continually} They argue continually about money.
 
 
 
-11.strength  [streŋθ] 
 
-[noun] She has always been encouraged to swim to build up the strength of her muscles. "the quality of being physically strong"
 
 
 
@@ -7116,15 +7114,7 @@ D[adv] an illegally parked car.
 
 
 
-10.concrete  [ˈkɒŋkriːt]  "混凝土制的"
 
-[adj] a concrete floor. "made of concrete"
-
-[adj] concrete evidence/proposals/proof.  "based on facts, not on ideas or guesses"
-
-[noun] a slab of concrete. "building material that is made by mixing together cement , sand, small stones and water"
-
-[verb] The garden had been concreted over. "to cover sth with concrete"
 
 
 
@@ -9815,33 +9805,37 @@ sliced meat.
 
 #### 2020/07/14.10
 
-01.pirate  [ˈpaɪrət]
+01.cumin /ˈkjuːmɪn/
 
-[noun] a pirate ship. 
+[n] "the dried seeds of the cumin plant, used in cooking as a spice"
 
-"(especially in the past) a person on a ship who attacks other ships at sea in order to steal from them" "海盗"
+**Benefits of Cumin**
 
-[n] a pirate edition. "盗版"
-
-"a person who makes illegal copies of video tapes, computer programs, books, etc., in order to sell them"
-
-[noun] a pirate radio station. 
-
-"a person or an organization that broadcasts illegally"
-
-[adj] piratical.
-
-[verb] pirated computer games.
-
-"to copy and use or sell sb's work or a product without permission and without having the right to do so"
+- Source of Vitamins
+- Improves Digestion
+- Good for the Brain
+- Rich in Antioxidants
+- May Help Balance Blood Sugar
+- Relieves Asthma
+- Boosts Immunity
+- Helps Colds
 
 
 
 02.cuminum/cumin [ˈkjuːmɪn]
 
+In summary:
+
+- **Cuminum** is the scientific term for the plant genus.
+- **Cumin** refers to the spice derived from the seeds of *Cuminum cyminum*.
 
 
-03.mechanical [məˈkænɪkl] "机械"
+
+
+
+03.mechanical [məˈkænɪkl] "机械de"
+
+[adj]
 
 
 
@@ -9858,6 +9852,8 @@ sliced meat.
 
 
 05.mechatronics
+
+[n] "technology combining electronics and mechanical engineering."
 
 
 
@@ -11505,7 +11501,9 @@ If we budget carefully we'll be able to afford the trip.
 
 "to be careful about the amount of money you spend; to plan to spend an amount of money for a particular purpose"
 
-[adj] a budget flight/hotel."low in price"
+[adj] a budget flight/hotel./It's quite encouraging to see Samsung finally (sort of) announcing a release timeline for the Android 15-based One UI 7, even though it comes months after Android 15's official release — at a time when budget smartphones have already received the update and Google is preparing to start Android 16 testing.
+
+"low in price"
 
 
 
@@ -13773,27 +13771,7 @@ D[noun] a serious deterioration in relations between the two countries.
 
 
 
-03.constitution /ˌkɒnstɪˈtjuːʃn/ /ˌkɑːnstɪˈtuːʃn/
 
-[n] your right to vote under the constitution.
-
-"the system of laws and basic principles that a state, a country or an organization is governed by"
-
-[n] to have a healthy/strong/weak constitution. 
-
-"the condition of a person's body and how healthy it is"
-
-[n] {formal} the genetic constitution of cells. "the way sth is formed or organized"
-
-
-
-04.constitutional [ˌkɒnstɪˈtjuːʃənl] [ˌkɑːnstɪˈtuːʃənl] 
-
-[adj] constitutional government/reform. 
-
-"connected with the **constitution** of a country or an organization"
-
-[adj] They can't pass this law. It's not constitutional. "allowed or limited by the constitution of a country or an organization"
 
 
 
@@ -21013,7 +20991,7 @@ D[noun] a refutation of previously held views.
 
 [adj] a loose, fluid style of dancing."smooth and elegant" -flowing-
 
-[adj] a fluid political situation. "likely to change; not fixed"
+[adj] a fluid political situation. /Fluid intelligence (Gf) is defined as **reasoning ability, and the ability to generate, transform, and manipulate different types of novel information in real time**."likely to change; not fixed"
 
 [adj] a fluid consistency. "that can flow freely, as gases and liquids do"
 
@@ -21190,13 +21168,7 @@ D[noun] a refutation of previously held views.
 
 
 
-02.precedent  [ˈpresɪdənt]
 
-[noun] The ruling set a precedent for future libel cases."an official action or decision that has happened in the past and that is seen as an example or a rule to be followed in a similar situation later"
-
-[noun] historical precedents. "a similar action or event that happened earlier"
-
-[noun] to break with precedent (= to do sth in a different way) . "the way that things have always been done" -tradition-
 
 
 
@@ -21738,7 +21710,7 @@ This is a video that is very often quoted in all sorts of native media.
 
 
 
-#### 20210205.16
+#### 20210205.17
 
 01.inception [ɪnˈsepʃn]
 
@@ -21872,7 +21844,15 @@ This is a video that is very often quoted in all sorts of native media.
 
 
 
+15.crystallize /ˈkrɪstəlaɪz/
 
+[v] Our ideas began to crystallize into a definite plan.
+
+"to become clear and fixed; to make thoughts, beliefs, etc. clear and fixed"
+
+[v] The salt crystallizes as the water evaporates.
+
+ "to form or make sth form into crystals"
 
 
 
@@ -21883,6 +21863,14 @@ This is a video that is very often quoted in all sorts of native media.
 World race population 2023 Mongoloid 27%, Caucasian 27% and Negroid 43%.
 
 "a member of any of the races of people who have pale skin"
+
+
+
+17.evaporate /ɪˈvæpəreɪt/
+
+[v] If I fill a bucket with water, I KNOW that some of that water is evaporating.
+
+"if a liquid evaporates or if sth evaporates it, it changes into a gas, especially steam"
 
 
 
@@ -23393,9 +23381,7 @@ immigrant (移民者) immigration (移民的过程; 移民局检查站, 移民�
 
 
 
-04.mechanic  [məˈkænɪk] 
 
-[noun] a car mechanic. "a person whose job is repairing machines, especially the engines of vehicles"
 
 
 
@@ -27056,7 +27042,18 @@ The interview prompted a backlash in China, which considers self-ruling Taiwan t
 
 
 
+07.elucidate /iˈluːsɪdeɪt/
 
+[v] "to make sth clearer by explaining it more fully"
+
+
+
+> Key differences:
+>
+> - Elucidate focuses on making something clear and understandable
+> - Elaborate focuses on providing more details or expanding on an existing explanation
+>
+> While both words involve explaining something, "elucidate" is more about bringing clarity, while "elaborate" is more about adding more information or depth to an existing explanation.
 
 
 
@@ -30506,11 +30503,7 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 #### 2021/10/26.02
 
-01.strengthen  [ˈstreŋθn] 
 
-[verb] Netflix promotes Korean executives to strengthen its Asian strategy.
-
-"to become stronger; to make sb/sth stronger"
 
 
 
@@ -38220,7 +38213,7 @@ Job hopping is **a trend that is growing exponentially in the labour market and 
 
 04.overturn [ˌoʊvərˈtɜːrn]
 
-[verb] Adidas CEO urged to overturn predecessor's plan to reduce stores in Korea.
+[verb] Adidas CEO urged to overturn predecessor's plan to reduce stores in Korea./ Yoon's supporters protest, call on court to overturn impeachment.
 
 "to officially decide that a legal decision etc. is not correct, and to make it no longer valid"
 
@@ -41066,7 +41059,7 @@ Growing levels of pollution represent a serious health hazard to the local popul
 
 02.gear up /ɡɪr ʌp/
 
-[phrasal verb] The bus leaves in 30 minutes, so gear up
+[phrasal verb] The bus leaves in 30 minutes, so gear up./With just a day left until Samsung's Galaxy Unpacked event, the company is gearing up for a big launch. 
 
 "If someone **is gearing up for** a particular activity, they are preparing to do it. If they **are geared up to** do a particular activity, they are prepared to do it."
 
@@ -46688,11 +46681,7 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 
 
-02.evaporate /ɪˈvæpəreɪt/
 
-[v] If I fill a bucket with water, I KNOW that some of that water is evaporating.
-
-"if a liquid evaporates or if sth evaporates it, it changes into a gas, especially steam"
 
 
 
@@ -48427,10 +48416,206 @@ In short, flour is a specific type of powder used for cooking and baking, while 
 
 
 
-#### 01/21
+#### 01/21.01
 
 01.fatigue /fəˈtiːɡ/
 
 [n] Important micronutrients for the reduction of tiredness and fatigue.
 
 "a feeling of being extremely tired, usually because of hard work or exercise"
+
+
+
+#### 01/22.08
+
+01.concrete  [ˈkɒŋkriːt]  "混凝土制的"
+
+[adj] a concrete floor. "made of concrete"
+
+[adj] concrete evidence/proposals/proof.  "based on facts, not on ideas or guesses"
+
+[noun] a slab of concrete. "building material that is made by mixing together cement , sand, small stones and water"
+
+[verb] The garden had been concreted over. "to cover sth with concrete".
+
+
+
+02.asphalt /ˈæsfɔːlt/
+
+[n] ...the school's asphalt driveway.
+
+"a thick black sticky substance used especially for making the surface of roads"
+
+
+
+03.right out of the box 
+
+[phrase] The software performed exceptionally well **right out of the box**, requiring no additional configuration or setup.
+
+
+
+04.retainer /rɪˈteɪnər/
+
+[n] The consultant required a **retainer fee** upfront to ensure her availability for the duration of the project.
+
+"a sum of money that is paid to sb to make sure they will be available to do work when they are needed"
+
+
+
+05.upfront /ˌʌpˈfrʌnt/
+
+[adj] There will be an upfront fee of 4%.
+
+"paid in advance, before other payments are made"
+
+
+
+06.outside director/independent director 
+
+[phrase] "An outside director is **a member of a company's board of directors who is not an employee or stakeholder in the company**. Outside directors are paid an annual retainer fee in the form of cash, benefits and/or stock options."
+
+
+
+07.avalanche /ˈævəlæntʃ/
+
+[n] alpine villages destroyed in an avalanche.
+
+"a mass of snow, ice and rock that falls down the side of a mountain"
+
+
+
+08.roe/roʊ/
+
+[n] cod's roe. **Roe** is the eggs or sperm of a fish, which is eaten as food."
+
+
+
+#### 01/23.01
+
+01.gesture /ˈdʒestʃər/
+
+[n] He made a rude gesture at the driver of the other car.
+
+"a movement that you make with your hands, your head or your face to show a particular meaning"
+
+[n] We think that this is an amazing gesture and gives us hope that there are still good CEOs out there who are doing their job for the benefit of the company not for their own personal gain. 
+
+"something that you do or say to show a particular feeling or intention"
+
+[v] {~ (for/to sb) (to do sth)} She gestured for them to come in.
+
+"to move your hands, head, face, etc. as a way of expressing what you mean or want"
+
+
+
+#### 01/24.08
+
+01.at once /æt wʌns/
+
+[adv] If necessary I can come at once. 
+
+"without delay or hesitation"
+
+
+
+02.blatantly /ˈbleɪtəntli/
+
+[adv] they blatantly violated the laws.
+
+"**Blatantly** is used to add emphasis when you are describing states or situations which you think are bad."
+
+
+
+03.constitution /ˌkɒnstɪˈtjuːʃn/ /ˌkɑːnstɪˈtuːʃn/
+
+[n] your right to vote under the constitution.
+
+"the system of laws and basic principles that a state, a country or an organization is governed by"
+
+[n] to have a healthy/strong/weak constitution. 
+
+"the condition of a person's body and how healthy it is"
+
+[n] {formal} the genetic constitution of cells. "the way sth is formed or organized"
+
+
+
+04.constitutional [ˌkɒnstɪˈtjuːʃənl] [ˌkɑːnstɪˈtuːʃənl] 
+
+[adj] constitutional government/reform. 
+
+"connected with the **constitution** of a country or an organization"
+
+[adj] They can't pass this law. It's not constitutional. "allowed or limited by the constitution of a country or an organization"
+
+
+
+05.unconstitutional /ˌʌnˌkɑːnstɪˈtuːʃənl/
+
+[adj] This is a blatantly unconstitutional order,
+
+"not allowed by the constitution of a country, a political system or an organization"
+
+
+
+06.precedent  [ˈpresɪdənt]
+
+[noun] The ruling set a precedent for future libel cases."an official action or decision that has happened in the past and that is seen as an example or a rule to be followed in a similar situation later"
+
+[noun] historical precedents./dealing the president his first setback as he attempts to upend the nation’s immigration laws and reverse **decades of precedent**. "a similar action or event that happened earlier"
+
+[noun] to break with precedent (= to do sth in a different way) . "the way that things have always been done" -tradition-
+
+
+
+07.pirate  [ˈpaɪrət]
+
+[noun] a pirate ship. 
+
+"(especially in the past) a person on a ship who attacks other ships at sea in order to steal from them" "海盗"
+
+[n] a pirate edition. "盗版"
+
+"a person who makes illegal copies of video tapes, computer programs, books, etc., in order to sell them"
+
+[noun] a pirate radio station. 
+
+"a person or an organization that broadcasts illegally"
+
+[adj] piratical.
+
+[verb] pirated computer games.
+
+"to copy and use or sell sb's work or a product without permission and without having the right to do so"
+
+
+
+08.mechanic  [məˈkænɪk] 
+
+[noun] a car mechanic. "a person whose job is repairing machines, especially the engines of vehicles"
+
+[n] mechanic shop. "An automobile repair shop (also known regionally as a garage or a workshop) is **an establishment where automobiles are repaired by auto mechanics and technicians**."
+
+
+
+#### 01/26
+
+01.strength  [streŋθ] 
+
+[noun] She has always been encouraged to swim to build up the strength of her muscles. "the quality of being physically strong"
+
+
+
+02.strengthen  [ˈstreŋθn] 
+
+[verb] Netflix promotes Korean executives to strengthen its Asian strategy.
+
+"to become stronger; to make sb/sth stronger"
+
+
+
+03.shaven /ˈʃeɪvn/
+
+[adj] And they're all shaved too.
+
+"with all the hair shaved off"
