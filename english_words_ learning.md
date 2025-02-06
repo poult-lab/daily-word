@@ -4422,9 +4422,7 @@ The knee-jerk reflex is also called the patellar reflex. Its main biological pur
 
 
 
-23.quadriceps /ˈkwɒdrɪseps/
 
-[n] {anatomy} "the large muscle at the front of the thigh""四头肌"
 
 
 
@@ -8041,11 +8039,7 @@ D[adj] I felt that life was no longer endurable. -unendurable-
 
 
 
-08.exterior  [ɪkˈstɪəriə(r)] 
 
-[noun] The exterior of the house needs painting. "the outside of sth, especially a building"
-
-[adj] exterior walls/surfaces. "on the outside of sth; done or happening outdoors"
 
 
 
@@ -13819,15 +13813,7 @@ dominant hand vs non-dominant hand
 
 
 
-09.anemia /əˈnimiə/
 
-[n] I was put on iron tablets for my anemia. "a deficiency of red blood cells"
-
-
-
-10.anemic /əˈnimɪk/
-
-[adj] anemic patients. 
 
 
 
@@ -15147,37 +15133,6 @@ She expended all her efforts on the care of home and children. "to use or spend 
 After the operation you may find it difficult to chew and swallow.
 
 "to bite food into small pieces in your mouth with your teeth to make it easier to swallow"
-
-
-
-09.dissolve  [dɪˈzɒlv]   [dɪˈzɑːlv]
-
-[verb] {~ (in sth)} Salt dissolves in water. "to mix with a liquid and become part of it"
-
-[verb] {~ sth (in sth)} Dissolve the tablet in water. "to make a solid become part of a liquid" 
-
-[verb] Their marriage was dissolved in 1999. 
-
-"to officially end a marriage, business agreement or parliament"
-
-[verb]  When the ambulance had gone, the crowd dissolved. "to disappear; to make sth disappear"
-
-
-
-> "Dissolve" and "melt" are two different processes that involve the transformation of substances from one state to another, typically involving a change from a solid state to a liquid state. However, they are distinct processes with different implications:
->
-> **Melt**:
->
-> - **Definition**: Melting is the process of a solid substance changing into a liquid state due to an increase in temperature. When a solid melts, its molecules or atoms gain enough kinetic energy to break free from their fixed positions and move more freely, transitioning into a liquid state.
-> - **Example**: Ice melts into water when heated above its melting point (0°C or 32°F at standard atmospheric pressure).
->
-> **Dissolve**:
->
-> - **Definition**: Dissolving refers to the process in which a solid substance (solute) becomes incorporated into a liquid (solvent) at the molecular or ion level. It typically involves the breaking of chemical bonds in the solid as it mixes with the solvent. Dissolving can also occur with gases in liquids or solids in other solids.
-> - **Example**: When you add table salt (sodium chloride, NaCl) to water, the salt crystals break apart into sodium ions (Na+) and chloride ions (Cl-) as they become dispersed in the water. This is an example of dissolution.
->
-> In summary, melting is a phase change from solid to liquid due to an increase in temperature, while dissolving involves the incorporation of solid (or gas) particles into a liquid at the **molecular** or ion level, often without a change in temperature. They are related processes but have distinct mechanisms and implications.
->
 
 
 
@@ -17374,13 +17329,7 @@ an ingenious device
 
 > In summary, while both words refer to situations involving limited space or congestion, "crowded" suggests a high density of people or objects in a space without necessarily implying discomfort, whereas "cramped" suggests a lack of physical space and a feeling of tightness or discomfort due to the limited area available.
 
-15.cram/kræm/-crammed-crammed
 
-[v] {~ (sth) into/onto sth | ~ (sth) in} He crammed eight people into his car. 
-
-"to push or force sb/sth into a small space; to move into a small space with the result that it is full"
-
-[v] He's been cramming for his exams all week."to learn a lot of things in a short time, in preparation for an exam"-swot-
 
 
 
@@ -17844,7 +17793,7 @@ contribute/distribute/attribute
 
 
 
-#### 2020/11/12.08
+#### 2020/11/12.09
 
 01.coincidence [kəʊˈɪnsɪdəns] 
 
@@ -17876,11 +17825,17 @@ contribute/distribute/attribute
 
 03.mole  [məʊl] 
 
-[noun] "a small animal with dark grey fur, that is almost blind and digs tunnels under the ground to live in"
+[noun] American shrew mole.
 
-[noun] "a small dark brown mark on the skin, sometimes slightly higher than the skin around it" -freckle-
+"a small animal with dark grey fur, that is almost blind and digs tunnels under the ground to live in"
+
+[noun] Take a biopsy of the mole.
+
+"a small dark brown mark on the skin, sometimes slightly higher than the skin around it" -freckle-
 
 [noun] "a person who works within an organization and secretly passes important information to another organization or country"
+
+[n] One mole of carbon dioxide"a unit for measuring the amount of substance"
 
 <img src="./images/mole.jpg" alt="mole" style="zoom:25%;" />
 
@@ -17943,6 +17898,14 @@ D[adj] a freckled face/schoolgirl.
 
 
 > The baby was fussing, but I comforted her with a blanket. **"Comfort" can be about anything from physical to emotional circumstances.** **"Console" is emotional, used for grief, bereavement, pain, or trouble**. 'Solace' is very uncommon or oldfashioned as a verb.
+
+
+
+09.biopsy /ˈbaɪɑːpsi/
+
+[n] A biopsy is usually a minor surgical procedure.
+
+"the removal and examination of tissue from the body of sb who is ill/sick, in order to find out more about their disease"
 
 
 
@@ -20288,21 +20251,7 @@ D[noun]  Their age can be determined by extrapolation from their growth rate.
 
 
 
-04.viable  [ˈvaɪəbl]
 
-[adj] a viable option/proposition. "that can be done;that will be successful"
-
-[adj] viable organisms. "capable of developing and surviving independently"
-
-
-
-05.feasible [ˈfiːzəbl]
-
-[adj] a feasible plan/suggestion/idea. "that is possible and likely to be achieved" 
-
--practicable-
-
-D[noun] I doubt the feasibility of the plan.
 
 
 
@@ -21388,11 +21337,7 @@ D[difference]
 
  
 
-16.abduction [æbˈdʌkʃ(ə)n]/adduction [əˈdʌkʃən]
 
-[noun] "(physiology) moving of a body part away from the central axis of the body"
-
-[noun] "(physiology) moving of a body part toward the central axis of the body"
 
 
 
@@ -22699,15 +22644,7 @@ D[adj] a cowardly attack on a defenceless man.
 
 
 
-05.tentative [ˈtentətɪv]
 
-[adj] We made a tentative arrangement to meet on Friday. 
-
-"not definite or certain because you may want to change it later"
-
-[adj] a tentative greeting.
-
-"not behaving or done with confidence" -hesitiant [ˈhezɪtənt]-
 
 
 
@@ -25181,9 +25118,7 @@ the growing polarity between the left and right wings of the party.
 
 
 
-05.rush in  [rʌʃ ɪn]  
 
-[phrasal verb]  I rushed in the house to pick up my wallet."To enter some place hurriedly or quickly"
 
 
 
@@ -27721,7 +27656,7 @@ Kim Jong-un's slimmer frame has prompted more speculation about his health./Ther
 
 
 
-#### 20210629.04
+#### 20210629.03
 
 01.appetizer  [ˈæpɪtaɪzər] 
 
@@ -27731,15 +27666,7 @@ Kim Jong-un's slimmer frame has prompted more speculation about his health./Ther
 
 
 
-02.freak out
-
-[phrasal verb] *I remember the first time I went onstage. I freaked out completely.* 
-
-"If someone **[freaks](https://www.collinsdictionary.com/dictionary/english/freak) out**, or if something **freaks** them **out**, they [suddenly](https://www.collinsdictionary.com/dictionary/english/suddenly) feel extremely [surprised](https://www.collinsdictionary.com/dictionary/english/surprise), [upset](https://www.collinsdictionary.com/dictionary/english/upset), [angry](https://www.collinsdictionary.com/dictionary/english/angry), or [confused](https://www.collinsdictionary.com/dictionary/english/confuse)." "中文有点儿像吓尿了"
-
-
-
-03.hearsay  [ˈhɪrseɪ] 
+02.hearsay  [ˈhɪrseɪ] 
 
 [noun] We can't make a decision based on hearsay and guesswork.
 
@@ -27747,7 +27674,7 @@ Kim Jong-un's slimmer frame has prompted more speculation about his health./Ther
 
 
 
-04.confront [kənˈfrʌnt] 
+03.confront [kənˈfrʌnt] 
 
 [verb] the economic problems confronting the country.
 
@@ -32909,11 +32836,7 @@ My sister and I used to quarrel all the time."to have an angry argument or disag
 
 
 
-07.star-studded [ˈstɑː stʌdɪd]
 
-[adj] "The Silent Sea," has created a buzz among K-drama fans not only due to its star-studded cast members, like Gong Yoo and Bae Doo-na, but also because of its executive producer, Jung Woo-sung who is a famous actor.
-
-"including many famous performers"
 
 
 
@@ -33595,13 +33518,13 @@ D[adv] to treat sb leniently.
 
 
 
+03.gastronomic /ˌɡæstrəˈnɑːmɪk/
+
+[adj] The 30 judges, ranging from local food and beverage industry experts to gastronomic travelers, scholars and food journalists, have participated in making the list.
+
+"connected with cooking and eating good food"
 
 
-03.cramp  [kræmp]
-
-[noun] When I had a cramp, ask me how it was last Friday.
-
-"a sudden pain that you get when the muscles in a particular part of your body contract, usually caused by cold or too much exercise"
 
 
 
@@ -33619,11 +33542,7 @@ D[adv] to treat sb leniently.
 
 
 
-05.gastronomic /ˌɡæstrəˈnɑːmɪk/
 
-[adj] The 30 judges, ranging from local food and beverage industry experts to gastronomic travelers, scholars and food journalists, have participated in making the list.
-
-"connected with cooking and eating good food"
 
 
 
@@ -34277,15 +34196,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-07.pledge [pledʒ]
 
-[verb] {~ sth (to sb/sth)} South Korea’s Hyundai Motor Group on Sunday pledged investment of another $5 billion in high-tech areas of robotics, autonomous vehicle solutions, artificial intelligence, and urban aerial mobility in the United States through 2025 on top of $5.54 billion electric vehicle project in Georgia.
-
-"to formally promise to give or do sth"
-
-[noun] {~ (to do sth)} Management has given a pledge that there will be no job losses this year.
-
-"a serious promise"
 
 
 
@@ -37011,11 +36922,7 @@ dizzy [ˈdɪzi]
 
 
 
-03.asylum-seeker  [əˈsaɪləm siːkə(r)]
 
-[noun] Russian asylum-seekers stranded in Incheon airport.
-
-" An asylum seeker is someone who has fled their home in search of safety and protection in another country. "
 
 
 
@@ -37977,11 +37884,7 @@ A hazard is usually used to refer to risky situations that are very serious or l
 
 
 
-05.wane [weɪn]
 
-[verb] Is K-pop's popularity waning after reaching its peak?. The number of Chinese tourists, traditionally the biggest spenders in South Korea’s duty-free industry, is waning and the void is now being filled by Japanese./Chinese tourists opt for visa-free destinations, weak yen as Korea's appeal wanes.
-
-"to become gradually weaker or less important" -decrease;fade-
 
 
 
@@ -40003,11 +39906,7 @@ She also alluded to her rival's past marital troubles.
 
 
 
-03.tipsy /ˈtɪpsi/
 
-[adj] K-pop stars get tipsy on YouTube, but some voice concerns.
-
-"slightly drunk"
 
 
 
@@ -40061,7 +39960,7 @@ Adding some liquor to the equation could spice things up even more."any alcoholi
 
 
 
-03.You reap what you sow
+
 
 
 
@@ -45845,7 +45744,7 @@ d[adv]shabbily dressed
 
 
 
-03.fare gate/feə(r)/ /fer/
+
 
 
 
@@ -48598,7 +48497,7 @@ In short, flour is a specific type of powder used for cooking and baking, while 
 
 
 
-#### 01/26
+#### 01/26.03
 
 01.strength  [streŋθ] 
 
@@ -48619,3 +48518,512 @@ In short, flour is a specific type of powder used for cooking and baking, while 
 [adj] And they're all shaved too.
 
 "with all the hair shaved off"
+
+
+
+#### 01/27.03
+
+01.venom /ˈvenəm/
+
+[n] Bee Venom: Potential Benefits and Side Effects.
+
+"the poisonous liquid that some snakes, spiders, etc. produce when they bite or sting you"
+
+
+
+02.fare/fer/
+
+[n] **Subway fares were increased from 1,250 won to 1,400 won in October 2023**, and the Seoul government had said a further 150 won increase would come in 2024. 
+
+"the money that you pay to travel by bus, plane, taxi, etc."
+
+
+
+> Fare is used for the price of  transport eg bus fare, train fare, metro fare 
+>
+> Fee is used for the price of a professionals services eg lawyers' fees, or for the entrance fee to a facility like a museum or swimming pool.
+
+Key Differences:
+
+1. Scope
+
+   :
+
+   - **Fare** is specific to transportation.
+   - **Fee** is broader and applies to various services.
+
+2. Payment Nature
+
+   :
+
+   - **Fare** is usually variable, depending on distance or class of service.
+   - **Fee** is often fixed and predefined for a particular service.
+
+
+
+03.fare gate/feə(r)/ /fer/
+
+"Noun. faregate (plural faregates) **A barrier limiting access to a public transport network to those who have paid a fare**."
+
+
+
+#### 01/28.02
+
+01.Egypt /ˈiːdʒɪpt/ /ˈidʒəpt/
+
+[n] "*Egypt* officially the Arab Republic of *Egypt*, is a country spanning the northeast corner of Africa and the Sinai Peninsula in the southwest corner of Asia."
+
+
+
+02.exotic /ɪɡˈzɑːtɪk/
+
+[adj] The vibrant market was filled with exotic fruits, spices, and fabrics from distant lands, each telling its own unique story.
+
+"from or in another country, especially a tropical one; seeming exciting and unusual because it is connected with foreign countries"
+
+
+
+#### 01/29.06
+
+01.freak out /friːk aʊt/
+
+[phrasal verb] *I remember the first time I went onstage. I freaked out completely.* /It took about a month for the finance world to start freaking out about DeepSeek, but when it did, it took [more than half a trillion dollars](https://www.bloomberg.com/news/articles/2025-01-27/asml-sinks-as-china-ai-startup-triggers-panic-in-tech-stocks?sref=M8H6LjUF) — or [one entire Stargate](https://www.theverge.com/2025/1/24/24351418/project-stargate-openai-spending-meta-microsoft) — off Nvidia’s market cap. 
+
+"If someone **[freaks](https://www.collinsdictionary.com/dictionary/english/freak) out**, or if something **freaks** them **out**, they [suddenly](https://www.collinsdictionary.com/dictionary/english/suddenly) feel extremely [surprised](https://www.collinsdictionary.com/dictionary/english/surprise), [upset](https://www.collinsdictionary.com/dictionary/english/upset), [angry](https://www.collinsdictionary.com/dictionary/english/angry), or [confused](https://www.collinsdictionary.com/dictionary/english/confuse)." "中文有点儿像吓尿了"
+
+
+
+02.upend /ʌpˈend/
+
+[v] DeepSeek seems to have just upended our idea of how much AI costs, with potentially enormous implications across the industry.
+
+"to turn sb/sth upside down"
+
+
+
+03.star-studded [ˈstɑː stʌdɪd]
+
+[adj] "The Silent Sea," has created a buzz among K-drama fans not only due to its star-studded cast members, like Gong Yoo and Bae Doo-na, but also because of its executive producer, Jung Woo-sung who is a famous actor.
+
+"including many famous performers"
+
+
+
+04.buzz /bʌz/
+
+[noun] On Christmas Day, DeepSeek released a reasoning model (v3) that caused a lot of buzz. 
+
+"In this sentence, **"buzz"** means excitement, discussion, or widespread interest."
+
+
+
+05.live off /lɪv ɔːf/
+
+[vp] These close sourced companies, to some degree, they obviously live off people thinking they’re doing the greatest things and that’s how they can maintain their valuation. And maybe they overhyped a little bit to raise more money or build more projects.
+
+"If you **live off** another person, you rely on them to provide you with money."
+
+
+
+06.procreate /ˈproʊkrieɪt/
+
+[v] Encouraging people to procreate can help save the low birth rate in South Korea.
+
+"to produce children or baby animals"
+
+
+
+#### 01/30.04
+
+01.gastroscopy /ɡæsˈtrɑːskəpi/
+
+[n] In April 2024, Ms Tong signed up for a medical screening package at a hospital in Incheon city which included a gastroscopy – the examination of the upper gastrointestinal tract – and a colonoscopy, both to be done under sedation.
+
+"visual examination of the stomach by means of a gastroscope inserted through the esophagus"
+
+
+
+02.vegetative /ˈvedʒɪteɪtɪv/
+
+[adj] The harshness of the climate makes vegetative growth extremely slow.
+
+"relating to plant life"
+
+[adj] The Singaporean woman left in a vegetative state after a botched gastroscopy in South Korea has returned to Singapore just in time for Chinese New Year. 
+
+"alive but showing no sign of brain activity"
+
+
+
+03.botch /bɑːtʃ/
+
+[v] He completely botched up the interview.
+
+"to spoil sth by doing it badly"
+
+[n] I've made a real botch of the decorating.
+
+"a piece of work or a job that has been done badly"
+
+
+
+04.botched /bɑːtʃt/
+
+[adj] "(of a task) carried out badly or carelessly."/作劣
+
+
+
+> Use **botched** when referring to a failed or poorly executed action.
+>
+> Use **awful** when describing something generally bad or unpleasant.
+
+
+
+#### 01/31.10
+
+01.exterior  [ɪkˈstɪəriə(r)] 
+
+[noun] The exterior of the house needs painting. "the outside of sth, especially a building"
+
+[adj] exterior walls/surfaces./Photos released by the SSO show that the captured items included a mobile phone that appears to be a Samsung 2G model based on its exterior design.
+
+"on the outside of sth; done or happening outdoors"
+
+
+
+02.interior /ɪnˈtɪriər/
+
+[n] the interior of a building/a car. 
+
+"the inside part of sth"
+
+[adj] The interior walls were painted green...
+
+"You use **interior** to describe something that is inside a building or vehicle." 
+
+
+
+03.audit /ˈɔːdɪt/
+
+[n] a tax audit./Meanwhile, the NTS has conducted only 67 tax audits on YouTubers since 2019, when it introduced a new industry classification code for one-person media content creators. "an official examination of business and financial records to see that they are true and correct"
+
+[v] Each year they audit our accounts and certify them as being true and fair.
+
+"to officially examine the financial accounts of a company"
+
+
+
+04.wane [weɪn]
+
+[verb] Is K-pop's popularity waning after reaching its peak?. The number of Chinese tourists, traditionally the biggest spenders in South Korea’s duty-free industry, is waning and the void is now being filled by Japanese./Chinese tourists opt for visa-free destinations, weak yen as Korea's appeal wanes./Samsung Electronics Q4 net profit expands over 20% despite waning chip demand
+
+"to become gradually weaker or less important" -decrease;fade-
+
+
+
+05.gerund /ˈdʒerənd/
+
+[n] "a noun in the form of the present participle of a verb (that is, ending in -ing ), for example travelling in the sentence I preferred travelling alone."
+
+
+
+Sure! Here are some similar structures where an adjective is followed by a preposition + gerund:
+
+1. **Afraid of + (gerund)**
+
+- She is **afraid of failing** the exam.
+- They are **afraid of losing** the match.
+
+2. **Interested in + (gerund)**
+
+- He is **interested in learning** new languages.
+- She is **interested in joining** the club.
+
+3. **Capable of + (gerund)**
+
+- He is **capable of solving** difficult problems.
+- She is **capable of handling** the pressure.
+
+4. **Tired of + (gerund)**
+
+- I am **tired of waiting** for the bus.
+- She is **tired of hearing** excuses.
+
+5. **Excited about + (gerund)**
+
+- They are **excited about going** on vacation.
+- She is **excited about meeting** her favorite celebrity.
+
+Are you guys **confident in winning**
+
+
+
+06.anemia /əˈnimiə/
+
+[n] I was put on iron tablets for my anemia. "a deficiency of red blood cells"
+
+
+
+07.anemic /əˈnimɪk/
+
+[adj] anemic patients. 
+
+
+
+08.deficiency /dɪˈfɪʃnsi/
+
+[n] Vitamin deficiency in the diet can cause illness.
+
+"the state of not having, or not having enough of, sth that is essential"
+
+
+
+09.reap/riːp/
+
+[v]You reap what you sow. "to obtain sth, especially sth good, as a direct result of sth that you have done"
+
+
+
+10.dissolve  [dɪˈzɒlv]   [dɪˈzɑːlv]
+
+[verb] {~ (in sth)} Salt dissolves in water. "to mix with a liquid and become part of it"
+
+[verb] {~ sth (in sth)} Dissolve the tablet in water. "to make a solid become part of a liquid" 
+
+[verb] Their marriage was dissolved in 1999. 
+
+"to officially end a marriage, business agreement or parliament"
+
+[verb]  When the ambulance had gone, the crowd dissolved. "to disappear; to make sth disappear"
+
+
+
+> "Dissolve" and "melt" are two different processes that involve the transformation of substances from one state to another, typically involving a change from a solid state to a liquid state. However, they are distinct processes with different implications:
+>
+> **Melt**:
+>
+> - **Definition**: Melting is the process of a solid substance changing into a liquid state due to an increase in temperature. When a solid melts, its molecules or atoms gain enough kinetic energy to break free from their fixed positions and move more freely, transitioning into a liquid state.
+> - **Example**: Ice melts into water when heated above its melting point (0°C or 32°F at standard atmospheric pressure).
+>
+> **Dissolve**:
+>
+> - **Definition**: Dissolving refers to the process in which a solid substance (solute) becomes incorporated into a liquid (solvent) at the molecular or ion level. It typically involves the breaking of chemical bonds in the solid as it mixes with the solvent. Dissolving can also occur with gases in liquids or solids in other solids.
+> - **Example**: When you add table salt (sodium chloride, NaCl) to water, the salt crystals break apart into sodium ions (Na+) and chloride ions (Cl-) as they become dispersed in the water. This is an example of dissolution.
+>
+> In summary, melting is a phase change from solid to liquid due to an increase in temperature, while dissolving involves the incorporation of solid (or gas) particles into a liquid at the **molecular** or ion level, often without a change in temperature. They are related processes but have distinct mechanisms and implications.
+
+
+
+#### 02/02.03
+
+01.knock knees /ˌnɑːk ˈniːz/
+
+[n] Knock knees (genu valgum) is **a condition in which the knees tilt inward while the ankles remain spaced apart**. 
+
+"legs that turn towards each other at the knees"
+
+
+
+02.abduction [æbˈdʌkʃ(ə)n]/adduction [əˈdʌkʃən]
+
+[noun] "(physiology) moving of a body part away from the central axis of the body"
+
+[noun] Lying Abduction. "the criminal act of capturing and carrying away by force a family member"
+
+
+
+03.quadriceps/quad /ˈkwɒdrɪseps/ /ˈkwɑːdrɪseps/
+
+[n] {anatomy} "the large muscle at the front of the thigh""四头肌"
+
+
+
+#### 02/03.04
+
+01.cram/kræm/-crammed-crammed
+
+[v] {~ (sth) into/onto sth | ~ (sth) in} He crammed eight people into his car. 
+
+"to push or force sb/sth into a small space; to move into a small space with the result that it is full"
+
+[v] He's been cramming for his exams all week."to learn a lot of things in a short time, in preparation for an exam"-swot-
+
+
+
+02.cram school
+
+[phrase, American English] "A **cram school** is an educational institution that provides intensive, fast-paced training to help students prepare for exams. These schools are especially common in East Asian countries like Japan, South Korea, China, and Taiwan, but they also exist in other parts of the world."
+
+
+
+03.Crammer
+
+[phrase, ] "In **British English**, the term **"crammer"** is sometimes used instead, referring to an intensive course or a school that helps students prepare for exams quickly. "
+
+
+
+04.disruptive /dɪsˈrʌptɪv/
+
+[adj] DeepSeek might not be as disruptive as claimed, firm reportedly has 50,000 Nvidia GPUs and spent $1.6 billion on buildouts.
+
+"causing problems, noise, etc. so that sth cannot continue normally"
+
+
+
+#### 02/04.10
+
+01.tipsy /ˈtɪpsi/
+
+[adj] K-pop stars get tipsy on YouTube, but some voice concerns.
+
+"slightly drunk"
+
+
+
+02.asylum /əˈsaɪləm/
+
+[n] Korea's asylum acceptance rate at 2.7% amid 122,000 applications.
+
+"protection that a government gives to people who have left their own country, usually because they were in danger for political reasons"
+
+
+
+03.asylum-seeker  [əˈsaɪləm siːkə(r)]
+
+[noun] Russian asylum-seekers stranded in Incheon airport.
+
+" An asylum seeker is someone who has fled their home in search of safety and protection in another country. "
+
+
+
+04.pledge [pledʒ]
+
+[verb] {~ sth (to sb/sth)} South Korea’s Hyundai Motor Group on Sunday pledged investment of another $5 billion in high-tech areas of robotics, autonomous vehicle solutions, artificial intelligence, and urban aerial mobility in the United States through 2025 on top of $5.54 billion electric vehicle project in Georgia./Trump agrees to pause tariffs on Canada, Mexico after they pledge to boost border enforcement
+
+"to formally promise to give or do sth"
+
+[noun] {~ (to do sth)} Management has given a pledge that there will be no job losses this year.
+
+"a serious promise"
+
+
+
+05.tentative [ˈtentətɪv]
+
+[adj] We made a tentative arrangement to meet on Friday./ When asked about a tentative release timeline, the support executive stated that they did not have a specific date for the update. 
+
+"not definite or certain because you may want to change it later"
+
+[adj] a tentative greeting.
+
+"not behaving or done with confidence" -hesitiant [ˈhezɪtənt]-
+
+
+
+06.speculate /ˈspekjuleɪt/
+
+[v] We can’t speculate on this”—likely a move to prevent fans from creating hype, as has happened many times in the past.
+
+"to form an opinion about sth without knowing all the details or facts"
+
+[v] He likes to speculate on the stock market.
+
+"to buy goods, property, shares, etc., hoping to make a profit when you sell them, but with the risk of losing money"
+
+
+
+07.lumbar /ˈlʌmbər/
+
+[adj] Lumbar support is very important if you're driving a long way./ lumbar disc degeneration.
+
+"relating to the lower part of the back"
+
+
+
+08.lumber /ˈlʌmbər/
+
+[n] We don’t need anything they have. We have unlimited Energy, should make our own Cars, and have more Lumber than we can ever use.
+
+"**Lumber** consists of trees and large pieces of wood that have been roughly cut up."
+
+
+
+09.viable  [ˈvaɪəbl]
+
+[adj] a viable option/proposition. "that can be done;that will be successful"
+
+[adj] viable organisms./Without this massive subsidy, Canada ceases to exist as a viable Country. "capable of developing and surviving independently"
+
+
+
+10.feasible [ˈfiːzəbl]
+
+[adj] a feasible plan/suggestion/idea. "that is possible and likely to be achieved" 
+
+-practicable-
+
+D[noun] I doubt the feasibility of the plan.
+
+
+
+**Feasibility is the possibility and ability for something to be done.** **Viability is that something's ability to survive**.
+
+
+
+#### 02/05.02
+
+01.rush in  [rʌʃ ɪn]  
+
+[phrasal verb]  I rushed in the house to pick up my wallet."To enter some place hurriedly or quickly"
+
+
+
+02.no rush /noʊ rʌʃ/
+
+[phrase] Trump in 'no rush' to speak with China's Xi despite tariff battle.
+
+"No rush" means **it's not urgent, whatever you're being asked to do doesn't have to take precedence**. You could also say "No need to hurry"."
+
+
+
+#### 02/06.
+
+01.chuckle /ˈtʃʌkl/
+
+[v]  She chuckled at the memory.
+
+"to laugh quietly"
+
+[n] She gave a chuckle of delight.
+
+
+
+02.limbo/ˈlɪmboʊ/
+
+[n] Uncertainty over Filipino caregiver program leaves parents in limbo.
+
+"a situation in which you are not certain what to do next, cannot take action, etc., especially because you are waiting for sb else to make a decision"
+
+
+
+03.parturition /ˌpɑːrtʃəˈrɪʃn/
+
+[n] Did the parturition go well yesterday evening?
+
+"the process of giving birth"
+
+
+
+04.postpartum /ˌpoʊstˈpɑːrtəm/
+
+[adj] Over 85% of Korean women turn to postpartum care centers.
+
+"occurring immediately after birth"
+
+
+
+05.cramp  [kræmp]
+
+[noun] When I had a cramp, ask me how it was last Friday. /If this existed in the US, someone would get a cramp from squatting and sue the city.
+
+"a sudden pain that you get when the muscles in a particular part of your body contract, usually caused by cold or too much exercise"
