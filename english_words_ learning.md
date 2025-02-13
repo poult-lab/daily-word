@@ -1352,47 +1352,7 @@ twisted ankle vs sprained ankle
 
 
 
-26.barely [ˈbeəli]
 
-[adv] The music was barely **audible**. "in a way that is **just possible** but only with difficulty"
-
-[adv] She barely acknowledged his presence. "in a way that almost does **not happen** or exist"
-
-[adv] Barely 50% of the population voted. "just; certainly not more than (a particular amount, age, time, etc.)"
-
-[adv] I had barely started speaking when he interrupted me. "only a very short time before"
-
-
-
-> 勉强vs很少
->
-> barely vs rarely
->
-> Rarely is not often.
->
-> "I rarely go to the store."
->
-> Barely is sort of like saying that you almost couldn't do something, but did
->
-> "I could barely reach the shelf"
->
-> "I barely passed the class"
->
-> I almost didn't reach the shelf (but did)
->
-> I almost didn't pass the class (but did)
->
-> It can also be used to mean "infrequent" on occasion, like "I barely call my mom" which is like "I rarely call my mom" Those would mean the same thing, but it's usually used like the other sentences show Seldom also means "not often" You could say "I seldom call my mom" "I seldom watch TV"
->
-> To summarize, rarely and seldom are very similar. Barely can be used the same way but also has more meanings.
-
-
-
-27.rarely /ˈrerli/
-
-[adv] She is rarely seen in public nowadays.
-
-"not very often"
 
 
 
@@ -10145,15 +10105,7 @@ D[noun] total/temporary/partial blindness.
 
 
 
-02.outstanding [aʊtˈstændɪŋ]
 
-[adj] an outstanding player/achievement/success. "extremely good; excellent"
-
-[adj] the outstanding features of the landscape. "very obvious or important" 
-
--prominent-
-
-[adj] She has outstanding debts of over £500. "not yet paid, done, solved, etc."
 
 
 
@@ -15038,17 +14990,7 @@ Speak is more commonly used when it's normal talking being considered.
 
 
 
-17.carrot  [ˈkærət] 
 
-[noun] grated carrot. "a long pointed orange root **vegetable**"
-
-[noun] They are holding out a carrot of $120 million in economic aid. 
-
-"a reward promised to sb in order to persuade them to do sth" -incentive-
-
-[idiom phrase] the carrot and (the) stick (approach). 
-
-"if you use the carrot and stick approach , you persuade sb to try harder by offering them a reward if they do, or a punishment if they do not"
 
 
 
@@ -25891,11 +25833,7 @@ D [adj] It was a very enlightening interview.
 
 
 
-18.thrilled  [θrɪld] 
 
-[adj] {~ (about/at/with sth) | ~ (to do sth) | ~ (that…)} 
-
-I was thrilled to be invited. "very excited and pleased"
 
 
 
@@ -28429,7 +28367,7 @@ Korean cuisine enters global mainstream fueled by K-content fever.
 
 
 
-#### 20210727.06
+#### 20210727.05
 
 01.testify  [ˈtestɪfaɪ] 
 
@@ -28459,15 +28397,7 @@ Korean cuisine enters global mainstream fueled by K-content fever.
 
 
 
-04.grit [ɡrɪt]
-
-[noun] I had a piece of grit in my eye."very small pieces of stone or sand"
-
-[noun] You've got to admire her grit. "the courage and determination that makes it possible for sb to continue doing sth difficult or unpleasant"
-
-
-
-05.manslaughter /ˈmænslɔːtər/
+04.manslaughter /ˈmænslɔːtər/
 
 [n] Jennifer Crumbley, Michigan school shooter's mother, to testify in manslaughter trial.
 
@@ -28475,7 +28405,7 @@ Korean cuisine enters global mainstream fueled by K-content fever.
 
 
 
-06.testimony /ˈtestɪmoʊni/
+05.testimony /ˈtestɪmoʊni/
 
 [n] Can I refuse to give testimony? 
 
@@ -30301,19 +30231,11 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-03.moor [mɔː(r)]  [mʊr] 
-
-[noun] the North York moors.
-
-"a high open area of land that is not used for farming, especially an area covered with rough grass and heather"
-
-[verb] {~ sth (to sth)}  A number of fishing boats were moored to the quay.
-
-"to attach a boat, ship, etc. to a fixed object or to the land with a rope, or anchor it" -tie up-
 
 
 
-04.harbor  [ˈhɑ(r)bə(r)] 
+
+03.harbor  [ˈhɑ(r)bə(r)] 
 
 [noun] pearl[pɜː(r)l] harbor."a sheltered port where ships can take on or discharge cargo"
 
@@ -38152,19 +38074,7 @@ Job hopping is **a trend that is growing exponentially in the labour market and 
 
 #### 03/16.13
 
-01.portray[pɔːrˈtreɪ]
 
-[verb] "to show sb/sth in a picture; to describe sb/sth in a piece of writing" -depict-
-
-[verb] I love how the director portray your character and all other's so well.
-
-"to describe or show sb/sth in a particular way, especially when this does not give a complete or accurate impression of what they are like"
-
-[verb] Her father will be portrayed by Sean Connery.
-
-/As Squid Game viewers would know, Anupam was given the role of a lifetime when he portrayed Ali, a Pakistani worker in South Korea who joined the deathly games to earn money for his wife and young child.
-
-"to act a particular role in a film/movie or play" -play-
 
 
 
@@ -48167,7 +48077,7 @@ to make sb lose respect for himself or herself"
 
 
 
-#### 01/14.08
+#### 01/14.07
 
 01.powder[ˈpaʊdə(r)] 
 
@@ -48228,12 +48138,6 @@ In short, flour is a specific type of powder used for cooking and baking, while 
 [n] A startup founder requires many skills, but what tops the list for [Sam Altman](https://twitter.com/sama) is resilience- a trait he has observed as a common factor among thousands of successful founders over the course of a decade. 
 
 "the ability of people or things to feel better quickly after sth unpleasant, such as shock, injury, etc."
-
-
-
-08.trait [treɪt] 
-
-[noun] personality traits. "a particular quality in your personality"
 
 
 
@@ -48986,7 +48890,7 @@ D[noun] I doubt the feasibility of the plan.
 
 
 
-#### 02/06.
+#### 02/06.05
 
 01.chuckle /ˈtʃʌkl/
 
@@ -49027,3 +48931,309 @@ D[noun] I doubt the feasibility of the plan.
 [noun] When I had a cramp, ask me how it was last Friday. /If this existed in the US, someone would get a cramp from squatting and sue the city.
 
 "a sudden pain that you get when the muscles in a particular part of your body contract, usually caused by cold or too much exercise"
+
+
+
+#### 02/07.07
+
+01.portray[pɔːrˈtreɪ]
+
+[verb] "to show sb/sth in a picture; to describe sb/sth in a piece of writing" -depict-
+
+[verb] I love how the director portray your character and all other's so well./How accurately do American TV shows portray Korean teenage life?
+
+"to describe or show sb/sth in a particular way, especially when this does not give a complete or accurate impression of what they are like"
+
+[verb] Her father will be portrayed by Sean Connery.
+
+/As Squid Game viewers would know, Anupam was given the role of a lifetime when he portrayed Ali, a Pakistani worker in South Korea who joined the deathly games to earn money for his wife and young child.
+
+"to act a particular role in a film/movie or play" -play-
+
+
+
+02.carrot  [ˈkærət] 
+
+[noun] grated carrot. "a long pointed orange root **vegetable**"
+
+[noun] They are holding out a carrot of $120 million in economic aid. 
+
+"a reward promised to sb in order to persuade them to do sth" -incentive-
+
+[idiom phrase] the carrot and (the) stick (approach). 
+
+"if you use the carrot and stick approach , you persuade sb to try harder by offering them a reward if they do, or a punishment if they do not"
+
+
+
+03.radish /ˈrædɪʃ/
+
+[n] diced radish.
+
+"**Radishes** are small red or white vegetables that are the roots of a plant. They are eaten raw in salads."
+
+
+
+04.moor [mɔː(r)]  [mʊr] 
+
+[noun] the North York moors./Scottish Honey, Gathered on the moors in late summer.
+
+"a high open area of land that is not used for farming, especially an area covered with rough grass and heather"
+
+[verb] {~ sth (to sth)}  A number of fishing boats were moored to the quay.
+
+"to attach a boat, ship, etc. to a fixed object or to the land with a rope, or anchor it" -tie up-
+
+
+
+05.clover /ˈkloʊvər/
+
+[n] Bees were buzzing in the clover.
+
+"a small wild plant that usually has three leaves on each stem and purple, pink or white flowers that are shaped like balls"
+
+
+
+06.bellflower 
+
+[n] "any of various plants of the genus Campanula having blue or white bell-shaped flowers"
+
+
+
+07.ling/lɪŋ/
+
+[n] "a low plant that is a type of heather and that grows on areas of wild open land (= moorland )"
+
+
+
+#### 02/10.04
+
+01.newlywed /ˈnuliˌwɛd/
+
+[n] Seoul plans to give **1 million won ($685) to newlywed couples who register their marriage in the capital this year to further boost the city's rebounding birthrate**.
+
+"**Newlyweds** are a man and woman who have very recently got married to each other."
+
+
+
+02.instrumental/ˌɪnstrəˈmentl/
+
+[adj] He was instrumental in bringing about an end to the conflict. 
+
+"important in making sth happen"
+
+[adj] instrumental music.
+
+"made by or for musical instruments"
+
+
+
+03.oath /oʊθ/
+
+[n] Take the oath of citizenship.
+
+"a formal promise to do sth or a formal statement that sth is true"
+
+
+
+04.outstanding [aʊtˈstændɪŋ]
+
+[adj] an outstanding player/achievement/success. "extremely good; excellent"
+
+[adj] the outstanding features of the landscape. "very obvious or important" 
+
+-prominent-
+
+[adj] She has outstanding debts of over £500. "not yet paid, done, solved, etc."
+
+
+
+#### 02/11.01
+
+01.dividend /ˈdɪvɪdend/
+
+[N] Chinese companies don’t know where to put their cash — and it’s sparking a record rise in dividend payouts.
+
+"an amount of the profits that a company pays to people who own shares in the company"
+
+
+
+#### 02/12.02
+
+01.detrimental /ˌdetrɪˈmentl/
+
+[adj] He accused “certain activists and highly political judges” of attempting to derail his efforts, claiming that losing momentum would be “very detrimental to finding the TRUTH.” He added: “Much left to find. No Excuses!!!”.
+
+"harmful"
+
+
+
+02.derail /dɪˈreɪl/
+
+[v] The present wave of political killings is the work of people trying to derail peace talks.
+
+"To **derail** something such as a plan or a series of negotiations means to prevent it from continuing as planned."
+
+[v] Several people were injured today when a train was derailed...
+
+"If a train **is derailed** or if it **derails**, it comes off the track on which it is running."
+
+
+
+#### 02/13
+
+01.millennium  /mɪˈleniəm/
+
+[n] the second millennium AD.
+
+"a period of 1 000 years, especially as calculated before or after the birth of Christ"
+
+
+
+02.millennial /mɪˈlɛniəl/
+
+[adj] This millennial’s startup raised $120 million. He reveals what helped him succeed — and says it’s ‘more crucial’ than hard work.
+
+"relating to a millennium or span of a thousand years"
+
+
+
+03.extended family /ɪkˌstendɪd ˈfæməli/
+
+[n] Lim was born and raised in Singapore and was the first in his family to attend university. From selling eggs at the local market to driving trucks, Lim says, most of his extended family, including his parents, were — and still are — hourly workers.
+
+"a family group with a close relationship among the members that includes not only parents and children but also uncles, aunts, grandparents, etc."
+
+
+
+04.pain points 
+
+[phrase]  what we would like to do is talk to our customers about what pain points they're experiencing./Our job was to go out to talk to business owners, so we talked to tens, if not hundreds of business owners around Palo Alto, and we heard about pain points.
+
+"a part of a process or system that causes problems or obstructions"
+
+[phrase] the trick to solving knee tendinitis is finding the exact pain point and applying ice.
+
+"a small area on the body that is sensitive to pain."
+
+
+
+05.firehose /ˈfaɪər həʊz/
+
+[n] I was so hungry when I was at Harvard, I felt like I was drinking from a firehose. Typical people take four classes — I was doing seven classes every term. "a long tube that is used for directing water onto fires"
+
+
+
+06.nudge /nʌdʒ/
+
+[v] My mom told me: ‘I cannot pay for your college. You shouldn’t go to college. You should go and work,‘” said Lim. “That nudged me to figure out how to go to college on my own. "to push sb/sth gently or gradually in a particular direction"
+
+[v] He nudged me and whispered, ‘Look who's just come in.’
+
+"to push sb gently, especially with your elbow, in order to get their attention"
+
+
+
+07.trait [treɪt] 
+
+[noun] personality traits./Lim had a strong work ethic early on. He was inspired watching his parents and family members hustle as hourly workers to earn a living, but there is one trait that he says that can be even more important. 
+
+"a particular quality in your personality"
+
+
+
+08.chops 
+
+[n] Lim was also selected to play basketball professionally for the Singapore National Youth Team while in high school. It quickly became clear that he had the chops to get into a top university, but his family didn’t have the means to support his education.
+
+"the ability, skill, or experience needed to do something well"
+
+
+
+09.payroll /ˈpeɪroʊl/
+
+[n] There are many tools out there for payroll, but it’s all built for people who work in tech, who work in office, who [are] desktop first,” said Lim. “So what we have built is a mobile-first, AI-driven software to help [hourly companies] do their payroll, HR onboarding, all in the same place, to help them to save money and time.
+
+"a list of people employed by a company showing the amount of money to be paid to each of them"
+
+
+
+10.barely [ˈbeəli]
+
+[adv] The music was barely **audible**. "in a way that is **just possible** but only with difficulty"
+
+[adv] She barely acknowledged his presence. [My parents] both only finished fourth grade,” he said. “My dad is up at 5 a.m. every morning, and he gets home by seven, and he works six and a half days per week. He barely stops for lunch.
+
+"in a way that almost does **not happen** or exist"
+
+[adv] Barely 50% of the population voted. "just; certainly not more than (a particular amount, age, time, etc.)"
+
+[adv] I had barely started speaking when he interrupted me. "only a very short time before"
+
+
+
+> 勉强vs很少
+>
+> barely vs rarely
+>
+> Rarely is not often.
+>
+> "I rarely go to the store."
+>
+> Barely is sort of like saying that you almost couldn't do something, but did
+>
+> "I could barely reach the shelf"
+>
+> "I barely passed the class"
+>
+> I almost didn't reach the shelf (but did)
+>
+> I almost didn't pass the class (but did)
+>
+> It can also be used to mean "infrequent" on occasion, like "I barely call my mom" which is like "I rarely call my mom" Those would mean the same thing, but it's usually used like the other sentences show Seldom also means "not often" You could say "I seldom call my mom" "I seldom watch TV"
+>
+> To summarize, rarely and seldom are very similar. Barely can be used the same way but also has more meanings.
+
+
+
+11.rarely /ˈrerli/
+
+[adv] She is rarely seen in public nowadays.
+
+"not very often"
+
+
+
+12.grit [ɡrɪt]
+
+[noun] I had a piece of grit in my eye."very small pieces of stone or sand"
+
+[noun] You've got to admire her grit./Lim saw the grit and work ethic that his parents had and applied those characteristics to his own life. In high sch*o*ol, not only was he a top student, but he also led his school’s basketball team, as captain, to win a national competition. 
+
+"the courage and determination that makes it possible for sb to continue doing sth difficult or unpleasant"
+
+
+
+13.door-knocking 
+
+[phrase] The early days of Workstream involved lots of door-knocking.
+
+“It was fun ... [I was] selling door to door, with some help from Max and Lei. So we were just three immigrants in the streets of Palo Alto trying to knock on doors and talk to people. It was kind of funny [and] we learned so much,” said Lim.
+
+
+
+14.backer /ˈbækər/
+
+[n] From there, the two stayed friends for about a decade, and when Lim reached out to get funding for his company, the Zoom founder quickly became Workstream’s first backer.
+
+"a person or company that gives support to sb/sth, especially financial support"
+
+
+
+15.thrilled  [θrɪld] 
+
+[adj] {~ (about/at/with sth) | ~ (to do sth) | ~ (that…)} 
+
+I was thrilled to be invited. /We’re thrilled to bring forward the Apple Health Study, which will only accelerate our understanding of health and technology across the human body, both physically and mentally
+
+"very excited and pleased"
