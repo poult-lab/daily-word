@@ -2548,32 +2548,6 @@ The tidal energy is not stable.
 
 
 
-49.resolution  [ˌrezəˈluːʃn] 
-
-[noun] to pass/adopt/carry a resolution. "a formal statement of an opinion agreed on by a committee or a council, especially by means of a vote"
-
-[noun] The government is pressing for an early resolution of the dispute."the act of solving or settling a problem, disagreement, etc." -settlement-
-
-[noun] The reforms owe a great deal to the resolution of one man."the quality of being resolute or determined" -resolve-
-
-[noun] {~ (to do sth)}She made a resolution to visit her relatives more often. 
-
-"a **firm decision** to do or not to do sth"
-
-[noun]high-resolution graphics. "the power of a computer screen, printer, etc. to give a clear image, depending on the size of the dots that make up the image"
-
-
-
-50.resolute /ˈrezəluːt/
-
-[adj] He became even more resolute in his opposition to the plan.
-
-"having or showing great determination" -determined-
-
-
-
-> there's not really a difference. Historically maybe there once was, or they have different origins, but today they are exactly the same word. Use whichever sounds better to you.  Resolute is a little less common and sounds more like prose than determined.
-
 
 
 
@@ -22179,9 +22153,7 @@ I have been fortunate enough to visit many parts of the world as a lecturer.
 
 
 
-05.preconceived [ˌpriːkənˈsiːvd]
 
-[adj] Before I started the job, I had no **preconceived notions** of what it would be like. "formed before you have enough information or experience of sth"
 
 
 
@@ -31750,10 +31722,6 @@ interface/interaction/international.
 
 
 
-07.reciprocal /rɪˈsɪprəkl/
-
-[adj] "involving two people or groups who agree to help each other or behave in the same way to each other"
-
 
 
 08.diplomat  [ˈdɪpləmæt] 
@@ -37560,7 +37528,7 @@ to change a written record or information so that it is no longer true"
 
 
 
-#### 02/22.01
+#### 02/22.03
 
 01.orientation [ˌɔːriənˈteɪʃn]
 
@@ -37570,35 +37538,7 @@ to change a written record or information so that it is no longer true"
 
 
 
-#### 02/23.01
-
-01.looming /ˈluːmɪŋ/
-
-[adj] Demographic crisis looming.
-
-"If a worrying or threatening situation or event **is looming**, it seems likely to happen soon."
-
-
-
-#### 02/26.04
-
-01.slain [sleɪn]
-
-[pp of slay] Univ. of Utah to Pay $5 Million to Parents of Slain Student。
-
-"**Slain** is the past participle of **slay**."; 这边用pp+noun的意思是将动词表示被动。
-
-
-
-02.loom [luːm]
-
-[verb] Another government spending crisis is looming in the United States...
-
-"to **appear** important or threatening and likely to happen soon"
-
-
-
-03.is pegged[peɡd] on 
+02.is pegged[peɡd] on 
 
 [phrase] The understanding of Cross-Entropy is pegged on understanding of Softmax activation function.
 
@@ -37606,7 +37546,7 @@ to change a written record or information so that it is no longer true"
 
 
 
-04.raised [reɪzd] 
+03.raised [reɪzd] 
 
 [verb] And I **raised** by a single mom who had to  work and who struggled at times to pay the bills and wasn't always able to give us the things that other kids had.
 
@@ -43021,17 +42961,9 @@ On the afternoon of November 26, Representative **Jeong Hye Kyung** of the Progr
 
 <img src="./images/Classic-elf-ear_cur.webp" alt="Classic-elf-ear_cur" style="zoom:25%;" />
 
-04.ferment /fə(r)ˈment , ˈfɜː(r)ment/
-
-[v] Fruit juices ferment if they are kept for too long.
-
-post-fermented tea
-
-"to experience a chemical change because of the action of yeast or bacteria, often changing sugar to alcohol; to make sth change in this way"
 
 
-
-05.drive /draɪv/
+04.drive /draɪv/
 
 [v] Could you drive me home?
 
@@ -43039,7 +42971,7 @@ post-fermented tea
 
 
 
-06.neglect /nɪˈɡlekt/
+05.neglect /nɪˈɡlekt/
 
 [v] She denies neglecting her baby.
 
@@ -43069,7 +43001,7 @@ neglect vs ignore
 
 
 
-07.neglected /nɪˈɡlektɪd/
+06.neglected /nɪˈɡlektɪd/
 
 [adj] neglected children./neglected diseases. 
 
@@ -49080,7 +49012,7 @@ D[noun] I doubt the feasibility of the plan.
 
 
 
-#### 02/13
+#### 02/13.15
 
 01.millennium  /mɪˈleniəm/
 
@@ -49237,3 +49169,137 @@ D[noun] I doubt the feasibility of the plan.
 I was thrilled to be invited. /We’re thrilled to bring forward the Apple Health Study, which will only accelerate our understanding of health and technology across the human body, both physically and mentally
 
 "very excited and pleased"
+
+
+
+#### 02/14.11
+
+01.looming /ˈluːmɪŋ/
+
+[adj] Demographic crisis looming.
+
+"If a worrying or threatening situation or event **is looming**, it seems likely to happen soon."
+
+
+
+02.slain [sleɪn]
+
+[pp of slay] Univ. of Utah to Pay $5 Million to Parents of Slain Student。
+
+"**Slain** is the past participle of **slay**."; 这边用pp+noun的意思是将动词表示被动。
+
+
+
+03.loom [luːm]
+
+[verb] Another government spending crisis is looming in the United States.../U.S. and India to double bilateral trade in five years, Prime Minister Modi says, as Trump tariffs loom.
+
+"to **appear** important or threatening and likely to happen soon"
+
+
+
+04.loom large 
+
+[phrase] The Trump-Modi meeting had the threat of U.S. tariffs looming large.
+
+"to be worrying or frightening and seem hard to avoid"
+
+
+
+05.reciprocal /rɪˈsɪprəkl/
+
+[adj] “We are, right now, a reciprocal nation... We’re going to have whatever India charges, we’re charging them. Whatever another country charges, we’re charging them. So it’s called reciprocal, which I think is a very fair way,” the U.S. president said at the press briefing. 
+
+"involving two people or groups who agree to help each other or behave in the same way to each other"
+
+
+
+06.disparity /dɪˈspærəti/
+
+[n] Trump acknowledged India’s recent move to reduce tariffs on U.S. imports and said he would begin talks on disparities on trade and hoped to reach an agreement.
+
+"a difference, especially one connected with unfair treatment"
+
+
+
+07.preconceived [ˌpriːkənˈsiːvd]
+
+[adj] Before I started the job, I had no **preconceived notions** of what it would be like. "formed before you have enough information or experience of sth"
+
+
+
+08.detractor /dɪˈtræktər/
+
+[n] Elon Musk seemed surprised to learn he had 'detractors.' He pointed out that the Republican party had won the House and the Senate, with Americans voting for 'government reform.' 'People are going to get what they voted for,' Musk insisted. 
+
+"a person who tries to make sb/sth seem less good or valuable by criticizing it"
+
+
+
+09.continental /ˌkɑːntɪˈnentl/
+
+[adj] A continental breakfast is **a light morning meal typically consisting of pastries and baked goods, fruits, toast, and coffee**.
+
+"of or in the continent of Europe, not including Britain and Ireland"
+
+
+
+10.resolution  [ˌrezəˈluːʃn] 
+
+[noun] to pass/adopt/carry a resolution. "a formal statement of an opinion agreed on by a committee or a council, especially by means of a vote"
+
+[noun] The government is pressing for an early resolution of the dispute."the act of solving or settling a problem, disagreement, etc." -settlement-
+
+[noun] The reforms owe a great deal to the resolution of one man."the quality of being resolute or determined" -resolve-
+
+[noun] {~ (to do sth)}She made a resolution to visit her relatives more often. 
+
+"a **firm decision** to do or not to do sth"
+
+[noun]high-resolution graphics. "the power of a computer screen, printer, etc. to give a clear image, depending on the size of the dots that make up the image"
+
+
+
+11.resolute /ˈrezəluːt/
+
+[adj] He became even more resolute in his opposition to the plan./Time magazine’s latest print cover features Elon Musk behind the Resolute Desk in the Oval Office.
+
+"having or showing great determination" -determined-
+
+
+
+> there's not really a difference. Historically maybe there once was, or they have different origins, but today they are exactly the same word. Use whichever sounds better to you.  Resolute is a little less common and sounds more like prose than determined.
+
+
+
+#### 02/16
+
+01.ferment /fə(r)ˈment , ˈfɜː(r)ment/
+
+[v] Fruit juices ferment if they are kept for too long./*Kimchi is a fermented food*. It is already “spoiled” in the same way yogurt is spoiled milk or wine is spoiled juice.
+
+post-fermented tea
+
+"to experience a chemical change because of the action of yeast or bacteria, often changing sugar to alcohol; to make sth change in this way"
+
+
+
+02.spoiled /spɔɪld/
+
+[adj]  Kimchi is fermented, not spoiled, which gives it its distinct tangy flavor and rich probiotics.
+
+"(of foodstuffs) not in an edible or usable condition"
+
+
+
+03.tangy /ˈtæŋi/
+
+[adj] The cranberry juice gives it a nice tangy flavor.
+
+"A **tangy** flavour or smell is one that is sharp, especially a flavour like that of lemon juice or a smell like that of sea air."
+
+
+
+04.probiotic /ˌprəʊbaɪˈɒtɪk/
+
+[n] "a beneficial bacterium found in the intestinal tract of healthy mammals"
