@@ -45966,7 +45966,7 @@ d[adv]shabbily dressed
 
 
 
-#### 05/04.04
+#### 05/04.03
 
 01.expulsion /ɪkˈspʌlʃn/
 
@@ -45994,11 +45994,7 @@ The series touches on different social issues, **dopamine-driven** media addicti
 
 
 
-04.transition /trænˈzɪʃn/
 
-[n] This course is useful for students who are in transition (= in the process of changing) from one training programme to another.
-
-"the process or a period of changing from one state or condition to another"
 
 
 
@@ -49272,7 +49268,7 @@ I was thrilled to be invited. /We’re thrilled to bring forward the Apple Healt
 
 
 
-#### 02/16
+#### 02/16.08
 
 01.ferment /fə(r)ˈment , ˈfɜː(r)ment/
 
@@ -49303,3 +49299,53 @@ post-fermented tea
 04.probiotic /ˌprəʊbaɪˈɒtɪk/
 
 [n] "a beneficial bacterium found in the intestinal tract of healthy mammals"
+
+
+
+05.lentil /ˈlentl/
+
+[n] If you are wondering which of these three will deliver the highest protein to carb ratio and the most fiber, then lentils would be your answer.  
+
+"a small green, orange or brown seed that is usually dried and used in cooking, for example in soup or stew"
+
+
+
+06.skim milk
+
+[phrase] "*Skimmed milk* (British English), or *skim milk* (American English), is made when all the milkfat is removed from whole milk."
+
+
+
+07.transition /trænˈzɪʃn/
+
+[n] This course is useful for students who are in transition (= in the process of changing) from one training programme to another.
+
+"the process or a period of changing from one state or condition to another"
+
+
+
+08.intrusion /ɪnˈtruːʒn/
+
+[n] Actress Kim Sae-ron found dead on the 16th… Police: "No signs of external intrusion." 
+
+"the act of entering a place which is private or where you may not be wanted"
+
+[n] They claim the noise from the new airport is an intrusion on their lives.
+
+"something that affects a situation or people's lives in a way that they do not want"
+
+
+
+#### 02/17
+
+01.cousin /ˈkʌzn/
+
+[n] She's my cousin.
+
+"a child of your aunt or uncle"
+
+
+
+02.half sibling vs step sibling 
+
+[compare] The main difference between half-siblings and step-siblings is their biological connection to you. **Half siblings share a blood relation, while step-siblings do not**. Another key difference is the legal aspect - step-siblings are not legally considered family members, while half-siblings are.
