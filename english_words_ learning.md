@@ -2560,7 +2560,7 @@ The tidal energy is not stable.
 
 
 
-#### 2019/12/31.21
+#### 2019/12/31.20
 
 01.quiz [kwɪz] 
 
@@ -2745,15 +2745,7 @@ Four men are being quizzed by police about the murder. "to ask sb a lot of quest
 
 
 
-18.contiguous  [kənˈtɪɡjuəs]
-
-[adj]  The countries are contiguous. "touching or **next to** sth"
-
-D[noun]  contiguity.
-
-
-
-19.respectively    [rɪˈspektɪvli]   
+18.respectively    [rɪˈspektɪvli]   
 
 [adv] Their sons, Ben and Jonathan, were three and six respectively.
 
@@ -2761,7 +2753,7 @@ D[noun]  contiguity.
 
 
 
-20.execution  [ˌeksɪˈkjuːʃn] 
+19.execution  [ˌeksɪˈkjuːʃn] 
 
 [**noun**]  He faced execution by hanging for murder."the act of killing sb, especially as a legal punishment"
 
@@ -2771,7 +2763,7 @@ D[noun]  contiguity.
 
 
 
-21.omit [əˈmɪt]
+20.omit [əˈmɪt]
 
 [verb]  {~ sth/sb (from sth)} If you are a student, you can omit questions 16–18. 
 
@@ -13987,7 +13979,7 @@ D[noun] stubbornness
 
 
 
-#### 2020/10/03.11
+#### 2020/10/03.09
 
 01.fabulous  [ˈfæbjələs]
 
@@ -14045,7 +14037,7 @@ I've read all the available literature on keeping rabbits. "pieces of writing or
 
 
 
-07.toe  [təʊ] [toʊ]
+06.toe  [təʊ] [toʊ]
 
 [noun] the big/little toe (= the largest/smallest toe) "one of the five small parts that stick out from the foot"
 
@@ -14055,7 +14047,7 @@ I've read all the available literature on keeping rabbits. "pieces of writing or
 
 
 
-08.reveal  [rɪˈviːl] 
+07.reveal  [rɪˈviːl] 
 
 [verb] {~ sth (to sb)} Details of the murder were revealed by the local paper. "to make sth known to sb"
 
@@ -14067,7 +14059,7 @@ I've read all the available literature on keeping rabbits. "pieces of writing or
 
 
 
- 09.satin [ˈsætɪn]
+ 08.satin [ˈsætɪn]
 
 [noun]  a white satin **ribbon**. "a type of cloth with a smooth shiny surface"
 
@@ -14075,7 +14067,7 @@ I've read all the available literature on keeping rabbits. "pieces of writing or
 
 
 
-10.derive  [dɪˈraɪv] 
+09.derive  [dɪˈraɪv] 
 
 [verb phrase]  **{derive from sth**/**be derived from sth}** The word ‘politics’ [ˈpɒlətɪks] is derived from a Greek word meaning ‘city’. "to come or develop from sth"
 
@@ -14085,11 +14077,7 @@ I've read all the available literature on keeping rabbits. "pieces of writing or
 
 
 
-11.disclose [dɪsˈkləʊz] 
 
-[vt] Financial terms were not officially disclosed.
-
-"to give sb information about sth, especially sth that was previously secret" -reveal [rɪˈviːl]-
 
 
 
@@ -22350,7 +22338,7 @@ D[adv] pungently.
 
 
 
-#### 20210217.05
+#### 20210217.04
 
 01.lunar [ˈluːnə(r)] 
 
@@ -22358,21 +22346,17 @@ D[adv] pungently.
 
 
 
-02.ignite [ɪɡˈnaɪt]
-
-[verb] Gas ignites very easily. Mobile technology has an incredible power to enable connection, productivity, creativity and more for people around the world, but until now, we haven’t seen mobile AI ignite that in truly meaningful ways
-
-"to start to burn; to make sth start to burn"
 
 
 
-03.lantern [ˈlæntə(r)n]
+
+02.lantern [ˈlæntə(r)n]
 
 [noun] "a lamp in a transparent case, often a metal case with glass sides, that has a handle, so that you can carry it outside"
 
 
 
-04.parade [pəˈreɪd]
+03.parade [pəˈreɪd]
 
 [noun] the Lord Mayor's parade.
 
@@ -22390,7 +22374,7 @@ D[adv] pungently.
 
 
 
-05.radiant [ˈreɪdiənt] 
+04.radiant [ˈreɪdiənt] 
 
 [adj] {~ (with sth)} a radiant smile."showing great happiness, love or health"
 
@@ -24123,49 +24107,6 @@ D[adj] She was used to receiving admiring glances from men.
 D[adv] to write prolifically.
 
 
-
-05.refuse  [rɪˈfjuːz , ˈrefjuːs] 
-
-[verb] Go on, ask her; she can hardly refuse.  "to say that you will not do sth that sb has asked you to do"
-
-[verb] I politely refused their invitation."to say that you do not want sth that has been offered to you" 
-
--turn down-
-
-[verb] They refused him a visa. "to say that you will not give sb sth that they want or need" -deny-
-
-[noun] domestic/household refuse. "waste material that has been thrown away" -rubbish/garbage-
-
-
-
-> They are synonyms and can often be used in the same sentence.  Both mean you do not receive or accept something (a physical thing or an idea, suggestion, etc.). 
->
-> "I refused / rejected  his job offer." 
->
-> Difference in Grammar: "Refuse" is often followed by an infinitive (to + VERB). 
->
-> Reject usually has a noun or noun phrase after it.   
->
-> There is a slight differences in meaning, but it's rather subtle. 
->
-> Refuse is a bit harsher / stronger.  
->
-> The person is insistent on not accepting something.   
->
-> "I refuse to answer that question. No!  I will not do it!" 
->
-> Reject can be used to not accept something that is broken, not working properly, not in good shape/order. 
->
-> "The company will reject any application that doesn't have a cover letter attached."
-
-
-
-> At the surface level, the four terms seem to be synonymous with each other, but at a deeper level, we can sense the subtle differences in connotations as follows:
->
-> - “reject" = say no, often outrightly or directly to an invitation or offer;
-> - “deny" = doesn't give others the chance to enjoy something;
-> - “refuse” = determined to decline to accept something;
-> - “object" = express or feel dislike or distaste or disapproval of something or someone;
 
 
 
@@ -26295,15 +26236,7 @@ D[adv] He has lived and worked in France almost continuously since 1990.
 
 
 
-04.disclosure [dɪsˈkləʊʒə(r)]
 
-[noun] the newspaper's disclosure of defence secrets.
-
-"the act of making sth known or public that was previously secret or private" -revelation-
-
-[noun] startling disclosures about his private life.
-
-"information or a fact that is made known or public that was previously secret or private" -revelation-
 
 
 
@@ -27902,21 +27835,7 @@ A hashtag is a metadata tag that is prefaced by the hash symbol, #
 
 
 
-03.heinous [ˈheɪnəs]
 
-[adj] U.S. condemns heinous assassination of Haitian leader. "morally very bad"
-
-D[adv]heinously  D[noun]heinousness
-
-
-
-04.assassination [əˌsæsɪ'neɪʃ(ə)n] 
-
-[noun] The assassination of the president precipitated the country into war.
-
-The EPIC Return of Trump After FAILED Assassination Attempt.
-
-"murder of a public figure by surprise attack"
 
 
 
@@ -27990,6 +27909,10 @@ The EPIC Return of Trump After FAILED Assassination Attempt.
 [phrasal] To follow your heart even when it leads you off the well-worn path.
 
 "A **well-worn** expression, remark, or idea has been used so often that it no longer seems to have much meaning or to be interesting."
+
+[adj] ...well-worn brown shoes.
+
+"A **well-worn** object or piece of clothing has been worn or used so frequently that it looks rather old and untidy."
 
 
 
@@ -32114,33 +32037,13 @@ D[adj] (BrE) a theological college . (NAmE) a theological seminary.
 
 
 
-#### 12/15.04
-
-01.fatality  [fəˈtæləti]
-
-[noun] Several people were injured, but there were no fatalities.
-
-"a death that is caused in an accident or a war, or by violence or disease"
-
-[noun] Fatality rate of coronavirus.
-
-"the fact that a particular disease will result in death"
-
-[noun] A sense of fatality gripped her.
-
-"the belief or feeling that we have no control over what happens to us"
+#### 12/15.02
 
 
 
-02.fatal /ˈfeɪtl/
-
-[adj] Last year, unionized Korean shipbuilding workers protested the government's decision to ease regulations on the requirements for the E-7 visa, arguing that the use of migrant workers at shipyards will increase fatal workplace accidents, due to poor communication stemming from language differences.
-
-"causing or ending in death"
 
 
-
-03.lukewarm /ˌluːkˈwɔːrm/
+01.lukewarm /ˌluːkˈwɔːrm/
 
 [adj] Our food was only lukewarm."slightly warm" -tepid-
 
@@ -32150,7 +32053,7 @@ D[adj] (BrE) a theological college . (NAmE) a theological seminary.
 
 
 
-04.stem  [stem]
+02.stem  [stem]
 
 [noun] "the main long thin part of a plant above the ground from which the leaves or flowers grow; a smaller part that grows from this and supports flowers or leaves"
 
@@ -32184,11 +32087,7 @@ D[adj] (BrE) a theological college . (NAmE) a theological seminary.
 
 
 
-03.shallow /ˈʃæloʊ/
 
-[adj] They were playing in the shallow end (= of the swimming pool) .
-
-"not having much distance between the top or surface and the bottom"
 
 
 
@@ -32260,17 +32159,7 @@ D[adj] (BrE) a theological college . (NAmE) a theological seminary.
 
 
 
-09.grind  [ɡraɪnd] ground ground
 
-[verb]  {~ sth (down/up) | ~ sth (to/into sth)} to grind coffee/corn.
-
-"to break or crush sth into very small pieces between two hard surfaces or using a special machine"
-
-[noun] the daily grind of family life.
-
-it was a grind./ I know people at Google, They are more interested in their Tahoe ski **lodges** than grind.
-
-"an activity that is tiring or boring and takes a lot of time" 
 
 
 
@@ -34587,7 +34476,7 @@ The apple tree has born fruits.
 
 
 
-#### 08/22.04
+#### 08/22.03
 
 01.ready-made  [ˌredi ˈmeɪd] 
 
@@ -34597,25 +34486,15 @@ The apple tree has born fruits.
 
 
 
-02.hassle  [ˈhæsl] 
-
-[noun] You can disable Wayland and use X without much hassle.
-
-"a situation that is annoying because it involves doing sth difficult or complicated that needs a lot of effort"
 
 
-
-
-
-
-
-03.wild goose chase  [ˌwaɪld ˈɡuːs tʃeɪs] 
+02.wild goose chase  [ˌwaɪld ˈɡuːs tʃeɪs] 
 
 [noun] This is a wild goose chase.
 
 
 
-04.sophisticated  [səˈfɪstɪkeɪtɪd] 
+03.sophisticated  [səˈfɪstɪkeɪtɪd] 
 
 [adj] highly sophisticated computer systems.
 
@@ -35407,11 +35286,7 @@ ICPR 2024 is the 27th event of the series and it provides a great opportunity to
 
 
 
-05.Prostitution  [ˌprɒstɪˈtjuːʃn] 
 
-[noun] Prostitution is illegal in Korea. 
-
-"the work of a prostitute"
 
 
 
@@ -39886,12 +39761,6 @@ D[adj] tainted drinking water.
 
 
 
-02.immense /ɪˈmens/
-
-[adj] But there will be immense instability for displaced workers.
-
-"extremely large or great"
-
 
 
 03.triumph /ˈtraɪʌmf/
@@ -40868,7 +40737,7 @@ Growing levels of pollution represent a serious health hazard to the local popul
 
 
 
-#### 06/28.02
+#### 06/28.01
 
 01.aviation /ˌeɪviˈeɪʃn/
 
@@ -40878,16 +40747,7 @@ Growing levels of pollution represent a serious health hazard to the local popul
 
 
 
-02.sentiment /ˈsentɪmənt/
 
-[n] Public sentiment is against any change to the law. 
-"a feeling or an opinion, especially one based on emotions"
-
-[n] There is no room for sentiment in business.
-
-"feelings of pity, romantic love, sadness, etc. which may be too strong or not appropriate"
-
-'Although synonyms, “Sentiment” and “Emotion” do not express the same thing. Looking at the dictionary, **a “sentiment” is defined as an opinion or view.** **As for the term “emotion”, it refers to “a strong feeling deriving from one's mood”**.'
 
 
 
@@ -42401,7 +42261,7 @@ complex 的意思为繁杂的
 
 "a sum of money that is sent to sb in order to pay for sth"
 
-[n]  The mobile bank also plans to roll out an overseas remittance service during the second half of this year.
+[n]  The mobile bank also plans to roll out an overseas remittance service during the second half of this year./To drive international expansion, Toss said it will leverage its most-used features, such as zero-fee remittance.
 
 "the act of sending money to sb in order to pay for sth" -payment-
 
@@ -44194,7 +44054,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-#### 12/20.08
+#### 12/20.09
 
 01.incur /ɪnˈkɜː(r)/
 
@@ -44280,15 +44140,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-10.consent [kənˈsent] 
 
-[noun] { ~ (to sth)} Children under 16 cannot give consent to medical treatment. 
-
-"permission to do sth, especially given by sb in authority"
-
-[verb] {~ (to sth)} When she told them what she intended they readily consented. 
-
-"to agree to sth or give your permission for sth"
 
 
 
@@ -44556,7 +44408,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-#### 01/10.07
+#### 01/10.06
 
 01.refrain /rɪˈfreɪn/
 
@@ -44590,17 +44442,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-
-
-04.succinctly / səkˈsɪŋktli /
-
-[adv] In other words, you need to succinctly state what your application does. 
-
-"with concise and precise brevity; to the point"
-
-
-
-05.headwind /ˈhedwɪnd/
+04.headwind /ˈhedwɪnd/
 
 [n] In contrast, companies that rely on consumer spending are likely to run into a very strong headwind.
 
@@ -44608,7 +44450,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-06.commoner /ˈkɒmənə(r)/ /ˈkɑːmənər/
+05.commoner /ˈkɒmənə(r)/ /ˈkɑːmənər/
 
 [n] Japan’s former princess Mako begins new life as ‘commoner’ in New York.
 
@@ -44616,7 +44458,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-07.presumably /prɪˈzuːməbli/
+06.presumably /prɪˈzuːməbli/
 
 [adv] "used to say that you think that sth is probably true"
 
@@ -44831,15 +44673,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-07.sentimental /ˌsentɪˈmentl/
 
-[adj] She kept the letters for sentimental reasons.
-
-"connected with your emotions, rather than reason"
-
-[adj] He's not the sort of man who gets sentimental about old friendships.
-
-"producing emotions such as pity, romantic love or sadness, which may be too strong or not appropriate; feeling these emotions too much"
 
 
 
@@ -49336,7 +49170,7 @@ post-fermented tea
 
 
 
-#### 02/17
+#### 02/17.02
 
 01.cousin /ˈkʌzn/
 
@@ -49349,3 +49183,534 @@ post-fermented tea
 02.half sibling vs step sibling 
 
 [compare] The main difference between half-siblings and step-siblings is their biological connection to you. **Half siblings share a blood relation, while step-siblings do not**. Another key difference is the legal aspect - step-siblings are not legally considered family members, while half-siblings are.
+
+
+
+#### 02/18.01
+
+01.persuasive /pərˈsweɪsɪv/
+
+[adj] The author did not train on ImageNet which I think will be more persuasive if done.
+
+"able to persuade sb to do or believe sth"
+
+
+
+#### 02/19.03
+
+01.remedy /ˈremədi/
+
+[v] to remedy a problem.
+
+"to correct or improve sth"
+
+[n] There is no simple remedy for unemployment.
+
+"a way of dealing with or improving an unpleasant or difficult situation"
+
+
+
+02.sentiment /ˈsentɪmənt/
+
+[n] Public sentiment is against any change to the law. 
+"a feeling or an opinion, especially one based on emotions"
+
+[n] There is no room for sentiment in business.
+
+"feelings of pity, romantic love, sadness, etc. which may be too strong or not appropriate"
+
+'Although synonyms, “Sentiment” and “Emotion” do not express the same thing. Looking at the dictionary, **a “sentiment” is defined as an opinion or view.** **As for the term “emotion”, it refers to “a strong feeling deriving from one's mood”**.'
+
+
+
+03.sentimental /ˌsentɪˈmentl/
+
+[adj] She kept the letters for sentimental reasons.
+
+"connected with your emotions, rather than reason"
+
+[adj] He's not the sort of man who gets sentimental about old friendships.
+
+"producing emotions such as pity, romantic love or sadness, which may be too strong or not appropriate; feeling these emotions too much"
+
+
+
+#### 02/20.02
+
+01.shallow /ˈʃæloʊ/
+
+[adj] They were playing in the shallow end (= of the swimming pool) .
+
+"not having much distance between the top or surface and the bottom"
+
+
+
+02.shadow /ˈʃædoʊ/
+
+[n] The children were having fun, chasing each other's shadows.
+
+"the dark shape that sb/sth's form makes on a surface, for example on the ground, when they are between the light and the surface"
+
+[v] He was shadowed for a week by the secret police.
+
+"to follow and watch sb closely and often secretly"
+
+[adj] the shadow Chancellor.
+
+"used to refer to senior politicians of the main opposition party who would become government ministers if their party won the next election"
+
+
+
+#### 02/21.01
+
+01.firestorm /ˈfaɪərstɔːrm/
+
+[n] This marked the beginning of what Hall described as a "firestorm."
+
+"a very large fire, usually started by bombs, that is not under control and is made worse by the winds that it causes"
+
+
+
+#### 02/24.04
+
+01.apples-to-apples 
+
+[phrase] However, you’re right that if the goal is a strict apples-to-apples comparison between models (e.g., Vision Mamba vs. another architecture), training from scratch might be preferable to eliminate the influence of pretrained weights. 
+
+"used with reference to a comparison regarded as valid because it concerns two things that are fundamentally the same."
+
+
+
+02.Foreign direct investment
+
+[phrase] "The term foreign direct investment (FDI) refers to **an ownership stake in a foreign company or project made by an investor, company, or government from another country**."
+
+
+
+03.levy/ˈlevi/
+
+[n] to put/impose a levy on oil imports.
+
+"an extra amount of money that has to be paid, especially as a tax to the government"
+
+[v] Tensions with the U.S. have meanwhile escalated as the White House has restricted Chinese access to advanced technology and levied tariffs on Chinese goods.
+
+"to use official authority to demand and collect a payment, tax, etc."
+
+
+
+04.procurement /prəˈkjʊrmənt/
+
+[n] Greater clarity on public procurement requirements is a “notable positive,” the chamber said, noting that “if fully implemented,” it could benefit foreign companies that have invested heavily to localize their production in China.
+
+"the process of obtaining supplies of sth, especially for a government or an organization"
+
+
+
+#### 02/25.02
+
+01.carry over /ˈkæri oʊvər/
+
+[phrase] For example, if you spend $1,000 on your credit card and only pay $800 by the due date, the remaining $200 is carried over, and interest will be applied to that amount based on your card’s APR.
+
+"If something **carries over** or **is carried over** from one situation **to** another, it continues to exist or apply in the new situation."
+
+
+
+02.truce /truːs/
+
+[n] Macron Says Ukraine Truce Could Be Weeks Away | WSJ News.
+
+"an agreement between enemies or opponents to stop fighting for an agreed period of time; the period of time that this lasts"
+
+
+
+#### 02/26.02
+
+01.contiguous  [kənˈtɪɡjuəs]
+
+[adj]  The countries are contiguous. "touching or **next to** sth"
+
+D[noun]  contiguity.
+
+
+
+02.parody /ˈpærədi/
+
+[n]  *How Lee Su-ji became 'queen of parody*' by poking fun at everyday life. 
+
+"A **parody** is a humorous piece of writing, drama, or music which imitates the style of a well-known person or represents a familiar situation in an exaggerated way."
+
+[v]  Any style can be parodied. 
+
+"When someone **parodies** a particular work, thing, or person, they imitate it in an amusing or exaggerated way."
+
+
+
+#### 02/27.12
+
+01.flinch /flɪntʃ/
+
+[v] *He offered you 30 million dollars* and you didn't even flinch. 
+
+"to make a sudden movement with your face or body as a result of pain, fear, surprise, etc." 
+
+
+
+02.turn down
+
+[vp] Mark Cuban made a $30 million offer to buy Coffee Meets Bagel (CMB) on Shark Tank in 2015, but the founders turned it down.
+
+"If you **turn down** a person or their request or offer, you refuse their request or offer."
+
+
+
+03.refuse  [rɪˈfjuːz , ˈrefjuːs] 
+
+[verb] Go on, ask her; she can hardly refuse.  "to say that you will not do sth that sb has asked you to do"
+
+[verb] I politely refused their invitation."to say that you do not want sth that has been offered to you" 
+
+-turn down-
+
+[verb] They refused him a visa. "to say that you will not give sb sth that they want or need" -deny-
+
+[noun] domestic/household refuse. "waste material that has been thrown away" -rubbish/garbage-
+
+
+
+> They are synonyms and can often be used in the same sentence.  Both mean you do not receive or accept something (a physical thing or an idea, suggestion, etc.). 
+>
+> "I refused / rejected  his job offer." 
+>
+> Difference in Grammar: "Refuse" is often followed by an infinitive (to + VERB). 
+>
+> Reject usually has a noun or noun phrase after it.   
+>
+> There is a slight differences in meaning, but it's rather subtle. 
+>
+> Refuse is a bit harsher / stronger.  
+>
+> The person is insistent on not accepting something.   
+>
+> "I refuse to answer that question. No!  I will not do it!" 
+>
+> Reject can be used to not accept something that is broken, not working properly, not in good shape/order. 
+>
+> "The company will reject any application that doesn't have a cover letter attached."
+
+
+
+> At the surface level, the four terms seem to be synonymous with each other, but at a deeper level, we can sense the subtle differences in connotations as follows:
+>
+> - “reject" = say no, often outrightly or directly to an invitation or offer;
+> - “deny" = doesn't give others the chance to enjoy something;
+> - “refuse” = determined to decline to accept something;
+> - “object" = express or feel dislike or distaste or disapproval of something or someone;
+
+
+
+04.diaper /ˈdaɪpər/
+
+[n] *Giannis* Antetokounmpo joked that his $500K prize for winning the 2024 Emirates NBA Cup was already spent on *diapers* and his family.
+
+"A **diaper** is a piece of soft towel or paper, which you fasten round a baby's bottom in order to soak up its urine and faeces." =nappy
+
+
+
+05.spineless /ˈspaɪnləs/
+
+[adj] spineless button."weak and easily frightened"
+
+[adj] **An invertebrate** is a cold-blooded animal with no backbone. Invertebrates can live on land—like insects, spiders, and worms—or in water. Marine invertebrates include crustaceans (such as crabs and lobsters), mollusks (such as squids and clams), and coral.
+
+"having no spine (= the long bone in the back)"
+
+
+
+06.hassle  [ˈhæsl] 
+
+[noun] You can disable Wayland and use X without much hassle.
+
+"a situation that is annoying because it involves doing sth difficult or complicated that needs a lot of effort"
+
+
+
+07.grind  [ɡraɪnd] ground ground
+
+[verb]  {~ sth (down/up) | ~ sth (to/into sth)} to grind coffee/corn.
+
+"to break or crush sth into very small pieces between two hard surfaces or using a special machine"
+
+[noun] the daily grind of family life.
+
+it was a grind./ I know people at Google, They are more interested in their Tahoe ski **lodges** than grind.
+
+"an activity that is tiring or boring and takes a lot of time" 
+
+
+
+08.keep grinding /ˈɡraɪndɪŋ/
+
+[phraes v] "The things that drive you, your passions, your goals, and your dreams need you to keep pushing and striving for them. "
+
+
+
+09.grinding /ˈɡraɪndɪŋ/
+
+[adj] Their grandfather had left his village in order to escape the grinding poverty.
+
+"If you describe a bad situation as **grinding**, you mean it never gets better, changes, or ends."
+
+
+
+10.trolley /ˈtrɑːli/
+
+[n] {NAmE cart} a shopping/supermarket/luggage trolley. 
+
+"a small vehicle with wheels that can be pushed or pulled along and is used for carrying things"
+
+
+
+11.Prostitution  [ˌprɒstɪˈtjuːʃn] 
+
+[noun] Prostitution is illegal in Korea. 
+
+"the work of a prostitute"
+
+ 
+
+12.immense /ɪˈmens/
+
+[adj] But there will be immense instability for displaced workers.
+
+"extremely large or great"
+
+
+
+> The difference depends on context  All of them mean large but it depends on the context  Each word describes something very large but the question is how large this thing that you are describing..  
+>
+> Tremendous is quite different from others. When you say something is Tremendous it means that it is it is sometimes wonderful and it is used to describe intensity.  
+>
+> Large: is uses when you want to describe the size of anything. 
+>
+> Immen: means is used to describe degree  
+>
+> Giant: I heard it on movies used to describe monsters which are very big. So it is used for mythical size as Google says.  
+>
+> Massive is also used to describe things that refer to size, amount and it is heavy.   
+>
+> Huge is also very big and as has the same meaning as mentioned above.  
+>
+> So, it depends on the context and what are you describing.
+
+
+
+#### 02/28
+
+01.start over /stɑːrt ˈoʊvər/
+
+[PHRASAL VERB] {in BRIT, use 英国英语用 start again} She wasn't happy with our work and made us start over.
+
+"If you **start over** or **start** something **over**, you begin something again from the beginning."
+
+
+
+02.stutter /ˈstʌtər/
+
+[v] ‘W-w-what?’ he stuttered.
+
+"to have difficulty speaking because you cannot stop yourself from repeating the first sound of some words several times"
+
+[n] He had a terrible stutter.
+
+"a speech problem in which a person finds it difficult to say the first sound of a word and repeats it several times"
+
+
+
+03.listless /ˈlɪstləs/
+
+[adj] The illness left her feeling listless and depressed.
+
+"having no energy or enthusiasm" -lethargic-
+
+
+
+04.foreclosure /fɔːrˈkloʊʒər/
+
+[n] that's about to go into **foreclosure**. He called me and said, you can **buy** it right now, but you **have** to let me know today. Yes or no?
+
+"**Foreclosure** is a legal process in which a [lender](https://en.wikipedia.org/wiki/Lender) attempts to recover the balance of a loan from a borrower who has [stopped making payments](https://en.wikipedia.org/wiki/Default_(finance)) to the lender by forcing the sale of the [asset](https://en.wikipedia.org/wiki/Asset) used as the [collateral](https://en.wikipedia.org/wiki/Collateral_(finance)) for the loan."
+
+
+
+05.collateral /kəˈlætərəl/
+
+[n] "property or sth valuable that you promise to give to sb if you cannot pay back money that you borrow"
+
+
+
+06.After you
+
+[phrase] after you, Mr. Pritchard.
+
+"a polite formula used to suggest that someone goes in front of or takes a turn before oneself."
+
+
+
+07.succinctly / səkˈsɪŋktli /
+
+[adv] In other words, you need to succinctly state what your application does. 
+
+"with concise and precise brevity; to the point"
+
+
+
+08.brevity /ˈbrevəti/
+
+[n] . For brevity in our experimental results, we sometimes abbreviate selective SSMs as S6 models, because they are S4 models with a selection mechanism and computed with a scan.
+
+"the quality of using few words when speaking or writing"
+
+
+
+09.fatality  [fəˈtæləti]
+
+[noun] Several people were injured, but there were no fatalities.
+
+"a death that is caused in an accident or a war, or by violence or disease"
+
+[noun] Fatality rate of coronavirus.
+
+"the fact that a particular disease will result in death"
+
+[noun] A sense of fatality gripped her.
+
+"the belief or feeling that we have no control over what happens to us"
+
+
+
+10.fatal /ˈfeɪtl/
+
+[adj] Last year, unionized Korean shipbuilding workers protested the government's decision to ease regulations on the requirements for the E-7 visa, arguing that the use of migrant workers at shipyards will increase fatal workplace accidents, due to poor communication stemming from language differences.
+
+"causing or ending in death"
+
+
+
+11.disclosure [dɪsˈkləʊʒə(r)]
+
+[noun] the newspaper's disclosure of defence secrets./Gov't to resume public disclosure of construction firms with fatal accidents.
+
+"the act of making sth known or public that was previously secret or private" -revelation-
+
+[noun] startling disclosures about his private life.
+
+"information or a fact that is made known or public that was previously secret or private" -revelation-
+
+
+
+12.disclose [dɪsˈkləʊz] 
+
+[vt] Financial terms were not officially disclosed.
+
+"to give sb information about sth, especially sth that was previously secret" -reveal [rɪˈviːl]-
+
+
+
+13.book /bʊk/
+
+[v] Japanese woman booked for allegedly kissing BTS' Jin without consent at fan event.
+
+"to write down sb's name and address because they have committed a crime or an offence"
+
+
+
+14.consent [kənˈsent] 
+
+[noun] { ~ (to sth)} Children under 16 cannot give consent to medical treatment. 
+
+"permission to do sth, especially given by sb in authority"
+
+[verb] {~ (to sth)} When she told them what she intended they readily consented. 
+
+"to agree to sth or give your permission for sth"
+
+
+
+> **Consent implies giving permission.** **Agree implies having the same thoughts or feelings with someone/something.**
+
+
+
+15.heinous [ˈheɪnəs]
+
+[adj] U.S. condemns heinous assassination of Haitian leader. "morally very bad"
+
+D[adv]heinously  D[noun]heinousness
+
+
+
+16.assassination [əˌsæsɪ'neɪʃ(ə)n] 
+
+[noun] The assassination of the president precipitated the country into war.
+
+The EPIC Return of Trump After FAILED Assassination Attempt.
+
+"murder of a public figure by surprise attack"
+
+
+
+17.assassin/əˈsæsn/
+
+[n] First Day Being An Assassin meme.
+
+"a person who murders sb important or famous, for money or for political reasons"
+
+
+
+18.adhesion /ədˈhiːʒn/
+
+[n] it is called adhesion. "**Adhesion** is the ability of one thing to stick firmly to another."
+
+
+
+> A hitman is paid to kill someone.
+>
+> An assassin is someone who kills someone important.
+>
+> A hitman can be an assassin (if they're hired to kill a politician or whatever), but they could also kill someone unimportant for hire.
+>
+> Similarly, an assassin can be paid, or not (like [Gavrilo Princip](http://en.wikipedia.org/wiki/Gavrilo_Princip), who assassinated Archduke Franz Ferdinand, but wasn't paid. He was an assassin, but not a hitman.)
+
+
+
+19.ignite [ɪɡˈnaɪt]
+
+[verb] Gas ignites very easily. Mobile technology has an incredible power to enable connection, productivity, creativity and more for people around the world, but until now, we haven’t seen mobile AI ignite that in truly meaningful ways
+
+"to start to burn; to make sth start to burn"
+
+
+
+These words all relate to fire or starting something, but they have different nuances:
+
+1. **Ignite** – To start burning or to spark something figuratively.
+   - 🔥 *The match ignited the dry wood.*
+   - 💡 *His speech ignited a passion for change.*
+2. **Light** – To start a fire or turn on illumination. More general and can be gentle.
+   - 🔥 *She lit a candle for the ceremony.*
+   - 💡 *Can you light the lamp?*
+3. **Kindle** – To start a small fire or to stir emotions or interest. Often poetic.
+   - 🔥 *He kindled a fire using dry leaves.*
+   - 💡 *The book kindled his love for history.*
+4. **Burn** – To be on fire, consume, or destroy with heat. Also used metaphorically.
+   - 🔥 *The logs burned all night.*
+   - 💡 *She burned with determination to succeed.*
+
+**Key Differences:**
+
+- **Ignite** focuses on starting a fire or metaphorical spark.
+- **Light** is softer and broader (can apply to lamps, fires, or even moods).
+- **Kindle** is often poetic, implying a gentle or nurturing start.
+- **Burn** refers to the ongoing process of combustion or destruction.
+
