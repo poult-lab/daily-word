@@ -10175,11 +10175,7 @@ D[noun] total/temporary/partial blindness.
 
 
 
-02.plasma  [ˈplæzmə] "血浆"
 
-[n] Keep some blood plasma back for the serious cases. 
-
-"the clear liquid part of blood, in which the blood cells, etc. float"
 
 
 
@@ -14936,11 +14932,7 @@ Speak is more commonly used when it's normal talking being considered.
 
 
 
-15.fume  [fjuːm]
 
-[verb] {~ (at/over/about sb/sth)} She sat in the car, **silently** fuming at the traffic jam. "to be very angry about sth"
-
-[N-PLURAL] ...car exhaust fumes... "**Fumes** are the unpleasant and often unhealthy smoke and gases that are produced by fires or by things such as chemicals, fuel, or cooking."
 
 
 
@@ -17823,27 +17815,7 @@ D[adj] a freckled face/schoolgirl.
 
 
 
-02.alien  [ˈeɪliən] 
 
-[adj] {~ (to sb/sth)} an alien environment. "strange and frightening; different from what you are used to"
-
--hostile-
-
-[adj] an alien culture."from another country or society; foreign"
-
-[adj]{~ to sb/sth}The idea is alien to our religion. "not usual or acceptable"
-
-[noun] an illegal alien."a person who is not a citizen of the country in which they live or work"
-
-[noun] aliens from outer space. "a creature from another world"
-
-
-
-03.hostile /ˈhɒstaɪl/ /ˈhɑːstl/
-
-[adj] China and the United States: From Hostility to Engagement. /NK leader calls for defining S. Korea as 'No. 1 hostile country' in Constitution
-
-"very unfriendly or aggressive and ready to argue or fight"
 
 
 
@@ -20554,13 +20526,7 @@ D[noun] a period of economic stagnation.
 
 
 
-02.stagnant /ˈstæɡnənt/
 
-[adj] South Korean travel industry is welcoming the resumption of Chinese group tours to Korea as it indicates a boost in business, which has been stagnant for years due to the Covid-19 pandemic and Beijing’s retaliatory measure against Seoul that led to more than six years of ban on group tours.
-
-/Why the offense can be so stagnant.
-
-"not developing, growing or changing" -static-
 
 
 
@@ -25858,15 +25824,7 @@ D[adj] a monogamous marriage.
 
 
 
-#### 20210501.02
 
-01.ventilate  [ˈventɪleɪt] 
-
-[verb] a well-ventilated room."to allow fresh air to enter and move around a room, building, etc."
-
-[verb] "to express your feelings or opinions publicly" -air-
-
-D[noun] Make sure that there is adequate ventilation in the room before using the paint.
 
 
 
@@ -31771,25 +31729,7 @@ interface/interaction/international.
 
 
 
-04.perfume  [pə(r)ˈfjuːm] 
 
-[noun] a bottle of expensive perfume.
-
-"a liquid, often made from flowers, that you put on your skin to make yourself smell nice"
-
-[noun] the heady perfume of the roses.
-
-"a pleasant, often sweet, smell" -scent-
-
-[verb] {(literary) (especially of flowers)} 
-
-The garden was perfumed with the smell of roses.
-
-"to make the air in a place smell pleasant"
-
-[verb] She perfumed her bath with fragrant oils.
-
-"to put perfume in or on sth"
 
 
 
@@ -34076,7 +34016,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-#### 06/15.03
+#### 06/15.04
 
 01.invigilator [ɪnˈvɪdʒɪleɪtə(r)] 
 
@@ -34090,15 +34030,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-03.commonwealth  [ˈkɒmənwelθ]  [ˈkɑːmənwelθ] 
-
-[noun] a member of the Commonwealth.
-
-"an organization consisting of the United Kingdom and most of the countries that used to be part of the British Empire"
-
-
-
-04.outreach  [ˈaʊtriːtʃ] 
+03.outreach  [ˈaʊtriːtʃ] 
 
 [noun] an outreach and education programme./Global Research Outreach
 
@@ -34106,7 +34038,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-05.encyclopaedia  [ɪnˌsaɪkləˈpidiə]
+04.encyclopaedia  [ɪnˌsaɪkləˈpidiə]
 
 [noun] "a reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty"
 
@@ -35699,11 +35631,7 @@ D[noun]  Bullying is a problem in many schools.
 
 
 
-03.acquit /əˈkwɪt/
 
-[v] The jury acquitted him of murder.
-
-"to decide and state officially in court that sb is not guilty of a crime"
 
 
 
@@ -37223,7 +37151,7 @@ to change a written record or information so that it is no longer true"
 
 
 
-#### 02/12.04
+#### 02/12.05
 
 01.subside [səbˈsaɪd]
 
@@ -37253,33 +37181,7 @@ to change a written record or information so that it is no longer true"
 
 
 
-05.mortal /ˈmɔːrtl/
-
-[adj] We are all mortal.
-
-"that cannot live for ever and must die"
-
-[adj] a mortal blow/wound. 
-
-"causing death or likely to cause death; very serious"
-
-[n] old stories about gods and mortals.
-
-"a human, especially an ordinary person with little power or influence" -human being-
-
-
-
-06.immortal /ɪˈmɔːrtl/
-
-[adj]  The soul is immortal. "that lives or lasts for ever" +mortal+
-
-[n] Shakespeare is one of the immortals.
-
-"a person (such as an author) of enduring fame"
-
-
-
-07.mortgage /ˈmɔːrɡɪdʒ/
+05.mortgage /ˈmɔːrɡɪdʒ/
 
 [n] to apply for/take out/pay off a mortgage. 
 
@@ -38371,15 +38273,7 @@ So, while both words describe a careful approach, the main difference lies in th
 
 
 
-08.bureau [ˈbjʊroʊ]
 
-[noun] Shin Jin-chang, the financial industry **bureau** head of the Financial Services Commission, also expressed confidence in the bank’s liquidity and soundness during the **panel** discussion, stating that there was no reason to worry.
-
-/After learning that our memory chips were used in Huawei’s new product, we immediately reported it to the industry security bureau under the U.S. Department of Commerce and initiated an investigation to clarify the circumstances
-
-//  The country’s National Bureau of Statistics announced on Wednesday that retail sales in China hit 4.33 trillion yuan ($597.5 billion) in October 2023, up 7.6 percent from a year earlier and exceeding market expectations of 7 percent.
-
-"A **bureau** is an office, organization, or government department that collects and distributes information."
 
 
 
@@ -49287,19 +49181,7 @@ post-fermented tea
 
 
 
-03.levy/ˈlevi/
-
-[n] to put/impose a levy on oil imports.
-
-"an extra amount of money that has to be paid, especially as a tax to the government"
-
-[v] Tensions with the U.S. have meanwhile escalated as the White House has restricted Chinese access to advanced technology and levied tariffs on Chinese goods.
-
-"to use official authority to demand and collect a payment, tax, etc."
-
-
-
-04.procurement /prəˈkjʊrmənt/
+03.procurement /prəˈkjʊrmənt/
 
 [n] Greater clarity on public procurement requirements is a “notable positive,” the chamber said, noting that “if fully implemented,” it could benefit foreign companies that have invested heavily to localize their production in China.
 
@@ -49506,7 +49388,7 @@ it was a grind./ I know people at Google, They are more interested in their Taho
 
 
 
-#### 02/28
+#### 02/28.19
 
 01.start over /stɑːrt ˈoʊvər/
 
@@ -49714,3 +49596,481 @@ These words all relate to fire or starting something, but they have different nu
 - **Kindle** is often poetic, implying a gentle or nurturing start.
 - **Burn** refers to the ongoing process of combustion or destruction.
 
+
+
+#### 03/02.04
+
+01.objectionable /əbˈdʒekʃənəbl/
+
+[adj] President Donald Trump found the tone and body language of Ukrainian President Volodymyr Zelenksyy objectionable during Friday’s Oval Office clash, the White House said. 
+
+"unpleasant or offensive"
+
+
+
+02.acquit /əˈkwɪt/
+
+[v] The jury acquitted him of murder./Trump was acquitted after a trial in the Senate.
+
+"to decide and state officially in court that sb is not guilty of a crime"
+
+
+
+03.craftsmanship /ˈkræftsmənʃɪp/
+
+[n] Wagener argued that true luxury is communicated to customers through "craftsmanship and sophistication." 
+
+"the level of skill shown by sb in making sth beautiful with their hands"
+
+
+
+04.educated guess /ˈedʒukeɪtɪd ɡes/
+
+[n] I'm gonna make an educated guess what happened here. 
+
+"An **educated guess** is a guess which is based on a certain amount of knowledge and is therefore likely to be correct."
+
+
+
+#### 03/03.10
+
+01.magnesium /mæɡˈniːziəm/
+
+[n] {(symb Mg) } A lack of magnesium causes muscles to go into spasm.
+
+"a chemical element. Magnesium is a light, silver-white metal that burns with a bright white flame."
+
+
+
+02.zinc /zɪŋk/
+
+[n] In children, zinc is a significant limiting factor for growth; in addition to stunting and cognitive impairment, impacts of severe zinc deficiency include **recurrent infections and skin and bone repair disfunction**. 
+
+"a chemical element. Zinc is a bluish-white metal that is mixed with copper to produce brass and is often used to cover other metals to prevent them from rusting ."
+
+
+
+03.potassium /pəˈtæsiəm/
+
+[n] {symb K}You also need potassium for a healthy digestive system and bone health. Low levels of potassium can affect these important functions in your body.
+
+"a chemical element. Potassium is a soft silver-white metal that exists mainly in compounds which are used in industry and farming."
+
+
+
+04.copper /ˈkɑːpər/
+
+[n] {symb Cu} Signs of possible copper deficiency include **anemia, low body temperature, bone fractures and osteoporosis, low white blood cell count, irregular heartbeat, loss of pigment from the skin, and thyroid problems**.
+
+"a chemical element. Copper is a soft reddish-brown metal used for making electric wires, pipes and coins"
+
+
+
+05.Iron /ˈaɪərn/
+
+[n] Without enough iron, your body can't produce enough of a substance in red blood cells that enables them to carry oxygen (hemoglobin). As a result, iron deficiency anemia may leave you **tired and short of breath**.
+
+"a chemical element. Iron is a hard strong metal that is used to make steel and is also found in small quantities in blood and food."
+
+
+
+06.sodium /ˈsoʊdiəm/
+
+[n] The fish or seafood is heavily salted with pure sodium chloride.
+
+"a chemical element. Sodium is a soft silver-white metal that is found naturally only in compounds , such as salt."
+
+
+
+07.selenium /səˈliːniəm/
+
+[n] {symb Na} "a chemical element. Selenium is a grey substance that is used in making electrical equipment and coloured glass. A lack of selenium in the human body can lead to illnesses such as depression ."
+
+
+
+08.folate 
+
+[n] "Folate (vitamin B-9) is **important in red blood cell formation and for healthy cell growth and function**. "
+
+
+
+09.niacin /ˈnaɪəsɪn/
+
+[n] "a vitamin of the B group that is found in foods such as milk and meat/ vitamin B3"
+
+
+
+10.pantothenic acid 
+
+[n] "Pantothenic acid is **vitamin B5**. It is widely found in both plants and animals including meat, vegetables, cereal grains, legumes, eggs, and milk. Pantothenic acid helps the body utilize carbohydrates, proteins, and lipids./B5"
+
+
+
+
+
+#### 03/04.07
+
+01.break into /breɪk ˈɪntə/
+
+[vp] You thought a man was breaking into a building, but he was actually stealing underwear."If someone **breaks into** a building, they get into it by force."
+
+
+
+02.oddity  /ˈɑːdəti/
+
+[n] So, it’s basically a mix of historical sound changes, exceptions, and spelling inconsistencies that led to *bread* having /ɛ/ and *break* having /eɪ/. English is full of these oddities!
+
+"a person or thing that is strange or unusual"
+
+
+
+03.mortal /ˈmɔːrtl/
+
+[adj] We are all mortal.
+
+"that cannot live for ever and must die"
+
+[adj] a mortal blow/wound. 
+
+"causing death or likely to cause death; very serious"
+
+[n] old stories about gods and mortals.
+
+"a human, especially an ordinary person with little power or influence" -human being-
+
+
+
+04.immortal /ɪˈmɔːrtl/
+
+[adj]  The soul is immortal. /He died at 88, mate. There’s no magic blood to make him immortal."that lives or lasts for ever" +mortal+
+
+[n] Shakespeare is one of the immortals.
+
+"a person (such as an author) of enduring fame"
+
+
+
+05.plasma  [ˈplæzmə] "血浆"
+
+[n] Keep some blood plasma back for the serious cases. /Tech Millionaire Bryan Johnson Offers To Give Away His Plasma: "Who Wants It?"
+
+"the clear liquid part of blood, in which the blood cells, etc. float"
+
+
+
+06.regimen /ˈredʒɪmən/
+
+[n] I follow a healthy **regimen** of exercise and good food to stay strong.
+
+"a set of rules about food and exercise or medical treatment that you follow in order to stay healthy or to improve your health"
+
+
+
+07.muscat /ˈmʌskæt/
+
+[n] **Shine Muscat Grapes** are big, green, **seedless** grapes. They’re typically grown in Japan or South Korea, and are incredibly expensive, often selling for 10× the cost of regular green grapes. "a variety of white, red, or black grape with a musky scent, grown in warm climates for wine or raisins or as table grapes."
+
+
+
+#### 03/05.05
+
+01.take up /ˈteɪk ʌp/
+
+[PHRASAL VERB] So, Mamba *can handle more tokens* because it takes up less GPU memory per token, allowing it to process much longer sequences without running out of resources.
+
+"If something **takes up** a particular amount of time, space, or effort, it uses that amount."
+
+
+
+02.beefy /ˈbiːfi/
+
+[adj]If you could run a Transformer on 8193 tokens (say, with a beefy GPU), it might outperform Mamba—until you hit even longer sequences where Mamba’s scalability takes over. 
+
+"big or fat"
+
+
+
+03.In a train, **"car"** and **"carriage"** can mean slightly different things depending on the region and context:
+
+1. **Car** (used mainly in North America)
+   - A general term for any individual vehicle that makes up a train (e.g., *passenger car, dining car, sleeper car, freight car*).
+   - Used in both passenger and freight trains.
+   - Example: *The train has ten cars, including two sleeper cars and a dining car.*
+2. **Carriage** (used mainly in the UK and Commonwealth countries)
+   - Primarily refers to passenger train cars.
+   - Less commonly used for freight.
+   - Example: *Please board the first-class carriage at the front of the train.*
+
+Summary
+
+- In the **US/Canada**, "car" is the standard term.
+- In the **UK/Commonwealth**, "carriage" is more common for passenger trains.
+- Freight train components are usually called "cars" worldwide.
+
+
+
+04.commonwealth  [ˈkɒmənwelθ]  [ˈkɑːmənwelθ] 
+
+[noun] a member of the Commonwealth.
+
+"an organization consisting of the United Kingdom and most of the countries that used to be part of the British Empire"
+
+
+
+05.blistering /ˈblɪstərɪŋ/
+
+[adj] Watch Trudeau speak directly to Trump during blistering speech."very critical"
+
+
+
+#### 03/07.15
+
+01.hood /hʊd/
+
+[n] a jacket with a detachable hood.
+
+"a part of a coat, etc. that you can pull up to cover the back and top of your head"
+
+
+
+02.fume  [fjuːm]
+
+[verb] {~ (at/over/about sb/sth)} She sat in the car, **silently** fuming at the traffic jam. "to be very angry about sth"
+
+[N-PLURAL] ...car exhaust fumes... "**Fumes** are the unpleasant and often unhealthy smoke and gases that are produced by fires or by things such as chemicals, fuel, or cooking."
+
+
+
+03.perfume  [pə(r)ˈfjuːm] 
+
+[noun] a bottle of expensive perfume.
+
+"a liquid, often made from flowers, that you put on your skin to make yourself smell nice"
+
+[noun] the heady perfume of the roses.
+
+"a pleasant, often sweet, smell" -scent-
+
+[verb] {(literary) (especially of flowers)} 
+
+The garden was perfumed with the smell of roses.
+
+"to make the air in a place smell pleasant"
+
+[verb] She perfumed her bath with fragrant oils.
+
+"to put perfume in or on sth"
+
+
+
+04.cooker hood
+
+[phrase] "a device above a cooker that consists of a cover with anextractor fan (= a piece of equipment for removing steam, smoke, or unpleasant smells) inside"
+
+
+
+05.car hood 
+
+[phrase] *The hood (American English*) or bonnet (Commonwealth English) is the hinged cover over the engine of motor vehicles. 
+
+
+
+06.fume hood
+
+[phrase] "A fume hood is a ventilated, enclosed work space intended to capture, contain, and exhaust harmful or dangerous fumes, vapors, and particulate matter generated by procedures conducted within the fume hood."
+
+
+
+07.sojourn  /ˈsoʊdʒɜːrn/
+
+[n] F-4 Overseas Korean visa is a 5-year multiple entry visa with sojourn period of 2 years. 
+
+"a temporary stay in a place away from your home"
+
+
+
+08.ventilate  [ˈventɪleɪt] 
+
+[verb] a well-ventilated room."to allow fresh air to enter and move around a room, building, etc."
+
+[verb] "to express your feelings or opinions publicly" -air-
+
+D[noun] Make sure that there is adequate ventilation in the room before using the paint.
+
+
+
+09.ventilation /ˌvɛntəˈleɪʃən/
+
+[n] Make sure that there is adequate ventilation in the room before using the paint.
+
+"the act of supplying fresh air and getting rid of foul air"
+
+
+
+10.jam /dʒæm/
+
+[v] Ri told Yu there were six drone-jamming guns in his company, and that the drones were "taken down easily at first, but it seemed like the Ukrainian troops changed the frequency because they didn't go down as well as they did."
+
+"to send out radio signals to prevent another radio broadcast from being heard"
+
+[n] strawberry jam. 
+
+"a thick sweet substance made by boiling fruit with sugar, often sold in jars and spread on bread"
+
+[n] traffic jam.
+
+"a situation in which it is difficult or impossible to move because there are so many people or vehicles in one particular place"
+
+
+
+11.neutralize /ˈnuːtrəlaɪz/
+
+[v] A North Korean soldier captured by Ukraine has said he used jamming guns to neutralize Ukrainian drones, a South Korean lawmaker who recently met the soldier said Friday, in a rare glimpse into the North's battlefield tactic to aid Moscow's war against Kyiv."to stop sth from having any effect" 
+
+
+
+12.battlefield /ˈbætlfiːld/
+
+[n] North Korean troops were initially believed to lack understanding of drones, according to an assessment by South Korea's spy agency in January. Ri's comments reveal for the first time that North Korean soldiers have been using drone jamming guns supplied by the Russian military on the battlefield.
+
+"a place where a battle is being fought or has been fought"
+
+
+
+13.tactic /ˈtæktɪk/
+
+[n] What sort of tactics will the President use to rally the people behind him?
+
+"**Tactics** are the methods that you choose to use in order to achieve what you want in a particular situation."
+
+
+
+14.miss 
+
+[v] China’s exports miss forecasts as U.S. tariffs hit, imports record sharpest decline since July 2023.
+
+"to fail to hit, catch, reach, etc. sth"
+
+
+
+15.reagent /riˈeɪdʒənt/
+
+[n] 500ml of formic acid, which was bought 8 years ago,was stored in the reagent cabinet, and the accident happened while the students were moving it.
+
+"a substance used to cause a chemical reaction, especially in order to find out if another substance is present"
+
+
+
+#### 03/09
+
+01.dismissive /dɪsˈmɪsɪv/
+
+[adj] I'm referring to [this](https://www.youtube.com/watch?v=85e4THVEb_o) clip from an episode of Curb Your Enthusiasm in which the main character is told that a smaller bow is dismissive and refers to it as a "shit bow."
+
+"showing that you do not believe a person or thing to be important or worth considering"
+
+
+
+02.take over vs takeover
+
+Yes, there is a difference between **"takeover"** and **"take over"** in terms of usage and meaning:
+
+1. **Takeover (noun)** – A single word used as a noun to describe the act of gaining control over something, especially in a business or political context.
+   - *Example:* "The company faced a hostile **takeover** by its competitor."
+2. **Take over (phrasal verb)** – A two-word verb phrase that means to assume control or responsibility for something.
+   - *Example:* "She will **take over** the project next week."
+
+Key Difference:
+
+- *"Takeover"* is a **thing** (a noun).
+- *"Take over"* is an **action** (a verb phrase).
+
+
+
+03.alien  [ˈeɪliən] 
+
+[adj] {~ (to sb/sth)} an alien environment. "strange and frightening; different from what you are used to"
+
+-hostile-
+
+[adj] an alien culture."from another country or society; foreign"
+
+[adj]{~ to sb/sth}The idea is alien to our religion. "not usual or acceptable"
+
+[noun] an illegal alien."a person who is not a citizen of the country in which they live or work"
+
+[noun] aliens from outer space. "a creature from another world"
+
+
+
+04.hostile /ˈhɒstaɪl/ /ˈhɑːstl/
+
+[adj] China and the United States: From Hostility to Engagement. /NK leader calls for defining S. Korea as 'No. 1 hostile country' in Constitution
+
+"very unfriendly or aggressive and ready to argue or fight"
+
+[adj] a hostile takeover bid. 
+
+"not wanted by the company that is to be bought"
+
+
+
+05.bureau [ˈbjʊroʊ]
+
+[noun] Shin Jin-chang, the financial industry **bureau** head of the Financial Services Commission, also expressed confidence in the bank’s liquidity and soundness during the **panel** discussion, stating that there was no reason to worry.
+
+/After learning that our memory chips were used in Huawei’s new product, we immediately reported it to the industry security bureau under the U.S. Department of Commerce and initiated an investigation to clarify the circumstances
+
+//  The country’s **National Bureau of Statistics** announced on Wednesday that retail sales in China hit 4.33 trillion yuan ($597.5 billion) in October 2023, up 7.6 percent from a year earlier and exceeding market expectations of 7 percent.
+
+"A **bureau** is an office, organization, or government department that collects and distributes information."
+
+
+
+06.stagnant /ˈstæɡnənt/
+
+[adj] South Korean travel industry is welcoming the resumption of Chinese group tours to Korea as it indicates a boost in business, which has been stagnant for years due to the Covid-19 pandemic and Beijing’s retaliatory measure against Seoul that led to more than six years of ban on group tours.
+
+/Why the offense can be so stagnant.
+
+"not developing, growing or changing" -static-
+
+
+
+07.retaliatory /rɪˈtæliətɔːri/
+
+[adj] China to impose retaliatory tariffs on some Canadian products as trade war heats up.
+
+"If you take **retaliatory** action, you try to harm or annoy someone who has harmed or annoyed you."
+
+
+
+08.unilateral /ˌjuːnɪˈlætrəl/
+
+[adj] “Canada’s unilateral imposition of tariffs disregards objective facts and World Trade Organization rules, is a typical trade protectionist practice, constitutes a discriminatory measure against China, seriously infringes on China’s legitimate rights and interests, and undermines China-Canada economic and trade relations,” China’s customs authorities [said](http://gss.mof.gov.cn/gzdt/zhengcejiedu/202503/t20250307_3959529.htm) in a statement on a Saturday, according to a Google translation.
+
+"done by one member of a group or an organization without the agreement of the other members"
+
+
+
+09.rape plants 
+
+
+
+10.rapeseed /ˈreɪpˌsid/
+
+[n] China on Saturday announced plans to impose a 100% tariff on Canadian rapeseed oil, oil cakes and peas, adding that a 25% levy would be placed on aquatic products and pork originating in Canada.
+
+"seed of rape plants"
+
+
+
+11.levy/ˈlevi/
+
+[n] to put/impose a levy on oil imports.
+
+"an extra amount of money that has to be paid, especially as a tax to the government"
+
+[v] Tensions with the U.S. have meanwhile escalated as the White House has restricted Chinese access to advanced technology and levied tariffs on Chinese goods.
+
+"to use official authority to demand and collect a payment, tax, etc."
