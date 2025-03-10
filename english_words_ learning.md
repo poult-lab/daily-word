@@ -1,151 +1,26 @@
 #### Previously on:0~50
 
-01.adapt  [əˈdæpt] 
-[verb] { ~ sth (for sth)} Most of these tools have been specially adapted for use by  disabled people.
 
-"to change sth in order to make it suitable for a new use or situation [ˌsɪtʃuˈeɪʃn]"
 
-[verb] {~ (yourself) (to sth)} We have had to adapt quickly to the new system.
 
-"to change your behaviour in order to deal more successfully with a new situation" -modify- 
 
-[verb] { ~ sth (for sth) (from sth)} Three of her novels have been adapted for television. 
 
-"to change a book or play so that it can be made into a play, film/movie, television programme, etc." -adjust- "小说改编的电视剧"
 
 
 
-02.adaptive /əˈdæptɪv/
 
-[adj] The chameleon /kəˈmiːliən/ is highly adaptive, allowing it to change its color to blend in with different environments.
 
-"concerned with changing; able to change when necessary in order to deal with different situations"
 
 
 
-03.adoption  [əˈdɒpʃn]
 
-[noun] She put the baby up for adoption. "the act of adopting a child"
 
-[noun] the act of adopting a child. "the decision to start using sth such as an idea, a plan or a name"
 
-[noun] his adoption as the Labour candidate. "the act of choosing sb as a candidate for an election"
 
-chicken
 
-04.adopt  [əˈdɒpt] [əˈdɑːpt]
 
-[v] a **campaign** to encourage childless couples to adopt. "to take sb else's child into your family and become its legal parent(s)"
 
-[v] All three teams adopted different approaches to the problem. "to start to use a particular method or to show a particular attitude towards sb/sth"
 
-[v] to adopt a **resolution**. "to formally accept a suggestion or policy by voting"
-
-
-
-05.campaign /kæmˈpeɪn/
-
-[n] {~ (against/for sth)} a campaign against **ageism** in the workplace.
-
-"a series of planned activities that are intended to achieve a particular social, commercial or political aim" '运动'
-
-
-
-campaign vs activity
-
-运动vs活动
-
-
-
-06.intuition  [ˌɪntjuˈɪʃn]
-
-[noun] { ~ (that…)} I had an intuition that something awful was about to happen.
-
-"an idea or a strong feeling that sth is true although you cannot explain why"
-
-
-
-07.intuitive /ɪnˈtjuːɪtɪv/ /ɪnˈtuːɪtɪv/
-
-[adj] He had an intuitive sense of what the reader wanted. 
-
-"obtained by using your feelings rather than by considering the facts"
-
-
-
-08.counter-intuitive  [ˌkaʊntər ɪnˈtjuːɪtɪv] 
-
-[adj] These results seem counter-intuitive. In Python, NaN is considered not equal to itself, which might seem counterintuitive
-
-"the opposite of what you would expect or what seems to be obvious"
-
-
-
-09.principle  [ˈprɪnsəpl] 
-
-[noun] He has high **moral principles**.
-
-"a moral rule or a strong belief that influences your actions"
-
-[n] Before applying specific techniques, **grasp** the underlying principles and translate them into code.
-
-"a law, a rule or a theory that sth is based on"
-
-
-
-10.grasp [ɡrɑːsp]   [ɡræsp]
-
-[verb]  He grasped my hand and shook it warmly."to take a firm hold of sb/sths" -grip-
-
-[verb] They failed to grasp the importance of his words. "to understand **sth completely**"
-
-[verb] I grasped the opportunity to work abroad.  "to take an opportunity without hesitating and use it"
-
-[noun] I grabbed him, but he slipped from my grasp."a firm hold of sb/sth or control over sb/sth"
-
-[noun] He has a good grasp of German grammar. "a person's understanding of a subject or of difficult facts"
-
-[noun] Success was within her grasp. "the ability to get or achieve sth"
-
-
-
-> grasp vs grab
->
-> **"grasp" is more about holding something and emphasizes the hand.** **"grab" is more about taking it or moving it**, though the first step might involve grasping with one's hand. The words also have distinct mental definitions. "grab" can mean cause interest in or gain one's attention.
-
-
-
-11.grip  [ɡrɪp]
-
-[noun] {~ (on sb/sth)} Keep a tight grip on the rope.
-
-"an act of holding sb/sth tightly; a particular way of doing this" -grasp-
-
-
-
-> grasp vs grip
->
-> They both mean "hold firmly", but grasp can also be used for abstract objects like 'ideas' or 'thoughts'. 
->
-> ex. 
->
-> O I've **grasped** the idea of grammar.        
->
-> X I've **gripped** the idea of grammar. (except for poetic purposes) 
->
-> Also, I believe the slight difference between grasp and grip is that grasp has a more recent, light, uncertain or unconcerned feeling, but the action is finished. Grip has a very strong affirmation in the action, and it's continuous. Therefore: 
->
-> Grasp - a firm hold that just happened, and unsure whether how long the hold will last, or will need to last, but it's done. 
->
-> Grip - a firm hold that's doing all it can to never let go.
-
-
-
-12.gripping /ˈɡrɪpɪŋ/
-
-[adj] Perhaps more gripping events close at hand.  
-
-"exciting or interesting in a way that keeps your attention"
 
 
 
@@ -5039,6 +4914,62 @@ D[adj]
 
 
 
+14.grasp [ɡrɑːsp]   [ɡræsp]
+
+[verb]  He grasped my hand and shook it warmly."to take a firm hold of sb/sths" -grip-
+
+[verb] They failed to grasp the importance of his words. "to understand **sth completely**"
+
+[verb] I grasped the opportunity to work abroad.  "to take an opportunity without hesitating and use it"
+
+[noun] I grabbed him, but he slipped from my grasp."a firm hold of sb/sth or control over sb/sth"
+
+[noun] He has a good grasp of German grammar. "a person's understanding of a subject or of difficult facts"
+
+[noun] Success was within her grasp. "the ability to get or achieve sth"
+
+
+
+> grasp vs grab
+>
+> **"grasp" is more about holding something and emphasizes the hand.** **"grab" is more about taking it or moving it**, though the first step might involve grasping with one's hand. The words also have distinct mental definitions. "grab" can mean cause interest in or gain one's attention.
+
+
+
+15.grip  [ɡrɪp]
+
+[noun] {~ (on sb/sth)} Keep a tight grip on the rope.
+
+"an act of holding sb/sth tightly; a particular way of doing this" -grasp-
+
+
+
+> grasp vs grip
+>
+> They both mean "hold firmly", but grasp can also be used for abstract objects like 'ideas' or 'thoughts'. 
+>
+> ex. 
+>
+> O I've **grasped** the idea of grammar.        
+>
+> X I've **gripped** the idea of grammar. (except for poetic purposes) 
+>
+> Also, I believe the slight difference between grasp and grip is that grasp has a more recent, light, uncertain or unconcerned feeling, but the action is finished. Grip has a very strong affirmation in the action, and it's continuous. Therefore: 
+>
+> Grasp - a firm hold that just happened, and unsure whether how long the hold will last, or will need to last, but it's done. 
+>
+> Grip - a firm hold that's doing all it can to never let go.
+
+
+
+16.gripping /ˈɡrɪpɪŋ/
+
+[adj] Perhaps more gripping events close at hand.  
+
+"exciting or interesting in a way that keeps your attention"
+
+
+
 #### 2020/01/18.07
 
 01.novel  [ˈnɒvl] [ˈnɑːvl] 
@@ -6425,7 +6356,15 @@ D[adv] {continually} They argue continually about money.
 
 
 
+11.principle  [ˈprɪnsəpl] 
 
+[noun] He has high **moral principles**.
+
+"a moral rule or a strong belief that influences your actions"
+
+[n] Before applying specific techniques, **grasp** the underlying principles and translate them into code.
+
+"a law, a rule or a theory that sth is based on"
 
 
 
@@ -7484,7 +7423,7 @@ We're open till 6 o'clock.
 
 
 
-#### 2020/04/26.06
+#### 2020/04/26.10
 
 01.grapefruit [ˈɡreɪpfruːt] 
 
@@ -7537,6 +7476,51 @@ He was tackled just outside the penalty area. 抢球"
 [adj] an explosive device "易爆炸的;可能引起爆炸的"
 
 [noun] plastic explosives "炸药;爆炸物"
+
+
+
+07.adapt  [əˈdæpt] 
+[verb] { ~ sth (for sth)} Most of these tools have been specially adapted for use by  disabled people.
+
+"to change sth in order to make it suitable for a new use or situation [ˌsɪtʃuˈeɪʃn]"
+
+[verb] {~ (yourself) (to sth)} We have had to adapt quickly to the new system.
+
+"to change your behaviour in order to deal more successfully with a new situation" -modify- 
+
+[verb] { ~ sth (for sth) (from sth)} Three of her novels have been adapted for television. 
+
+"to change a book or play so that it can be made into a play, film/movie, television programme, etc." -adjust- "小说改编的电视剧"
+
+
+
+08.adaptive /əˈdæptɪv/
+
+[adj] The chameleon /kəˈmiːliən/ is highly adaptive, allowing it to change its color to blend in with different environments.
+
+"concerned with changing; able to change when necessary in order to deal with different situations"
+
+
+
+09.adoption  [əˈdɒpʃn]
+
+[noun] She put the baby up for adoption. "the act of adopting a child"
+
+[noun] the act of adopting a child. "the decision to start using sth such as an idea, a plan or a name"
+
+[noun] his adoption as the Labour candidate. "the act of choosing sb as a candidate for an election"
+
+
+
+10.adopt  [əˈdɒpt] [əˈdɑːpt]
+
+[v] a **campaign** to encourage childless couples to adopt. "to take sb else's child into your family and become its legal parent(s)"
+
+[v] All three teams adopted different approaches to the problem. "to start to use a particular method or to show a particular attitude towards sb/sth"
+
+[v] to adopt a **resolution**. "to formally accept a suggestion or policy by voting"
+
+
 
 
 
@@ -8075,7 +8059,7 @@ The size of your pores is determined by the amount of oil they produce.
 
 
 
-#### 2020/05/25.08
+#### 2020/05/25.11
 
 01.abbreviation  [əˌbriːviˈeɪʃn] 
 
@@ -8152,6 +8136,30 @@ The size of your pores is determined by the amount of oil they produce.
 Angela's $7,000 tuition at University this year will be paid for with scholarships. 
 
 "the money that you pay to be taught, especially in a college or university"
+
+
+
+09.intuition  [ˌɪntjuˈɪʃn]
+
+[noun] { ~ (that…)} I had an intuition that something awful was about to happen.
+
+"an idea or a strong feeling that sth is true although you cannot explain why"
+
+
+
+10.intuitive /ɪnˈtjuːɪtɪv/ /ɪnˈtuːɪtɪv/
+
+[adj] He had an intuitive sense of what the reader wanted. 
+
+"obtained by using your feelings rather than by considering the facts"
+
+
+
+11.counter-intuitive  [ˌkaʊntər ɪnˈtjuːɪtɪv] 
+
+[adj] These results seem counter-intuitive. In Python, NaN is considered not equal to itself, which might seem counterintuitive
+
+"the opposite of what you would expect or what seems to be obvious"
 
 
 
@@ -8700,7 +8708,7 @@ e.g: state-owned enterprises
 
 
 
-#### 2020/06/09.06
+#### 2020/06/09.07
 
 01.hike [haɪk] [noun/verb] "远足"
 
@@ -8747,6 +8755,18 @@ e.g: state-owned enterprises
 [verb] { ~ (to sth)} The path started to ascend more steeply. 
 
 "to rise; to go up; to climb up"
+
+
+
+07.campaign /kæmˈpeɪn/
+
+[n] {~ (against/for sth)} a campaign against **ageism** in the workplace.
+
+"a series of planned activities that are intended to achieve a particular social, commercial or political aim" '运动'
+
+campaign vs activity
+
+运动vs活动
 
 
 
