@@ -1,4 +1,4 @@
-#### 
+Previously on: 151~200
 
 
 
@@ -16,7 +16,6 @@
 
 
 
-#### Previously on: 100~150
 
 
 
@@ -24,393 +23,6 @@
 
 
 
-
-
-
-
-
-
-20.ligament /ˈlɪɡəmənt/
-
-[n] He suffered **torn** ligaments in his knee.
-
-"a strong band of tissue in the body that connects bones and supports organs and keeps them in position"
-
-
-
-21.yank /jæŋk/
-
-[v] I yanked the door open.
-
-"to pull sth/sb hard, quickly and suddenly"
-
-
-
-22.gradual /ˈɡrædʒuəl/
-
-[adj] a gradual change in the climate.
-
-"happening slowly over a long period; not sudden"
-
-
-
-23.tear /ter , tɪr/
-
-[v] a torn ligament.
-
-"to injure a muscle, etc. by stretching it too much"
-
-
-
-24.enlarge  [ɪnˈlɑː(r)dʒ]
-
-[verb]  There are plans to enlarge the recreation area. "to make sth bigger; to become bigger"
-
-[verb]  We're going to have this picture enlarged. "to make a bigger copy of a photograph or document"
-
-
-
-25.audible /ˈɔːdəbl/
-
-[adj] Her voice was barely audible above the noise.
-
-"that can be heard clearly"
-
-
-
-
-
-
-
-28.seldom /ˈseldəm/
-
-[adv] He had seldom seen a child with so much talent. "not often" -rarely-
-
-> very little difference in meaning, however rarely is used much more.. seldom can perhaps be interpreted as 'very rarely', but essentially the difference is negligible.
->
-> It can be used more formally than rarely
-
-
-
-
-
-31.cube  [kjuːb]
-
-[noun] "a solid or hollow figure with six equal square sides"
-
-[verb] 10 cubed is 1 000. "to multiply a number by itself twice"
-
-
-
-32.circle  [ˈsɜː(r)kl] 
-
-[noun] Cut out two circles of paper. "a completely round flat shape" 
-
-[verb] {~ (around) (above/over sb/sth)} Seagulls circled around above his head.
-
-"to move in a circle, especially in the air"
-
- 
-
-33.triangle [ˈtraɪæŋɡl] 
-
-[noun] a right-angled triangle/a right triangle.
-
-"a flat shape with three straight sides and three angles; a thing in the shape of a triangle"
-
-
-
-34.square  [skweə(r)] 
-
-[adj] a square room. "having four straight equal sides and four angles of 90˚"
-
-[noun] First break the chocolate into squares. "a shape with four straight sides of equal length and four angles of 90˚; a piece of sth that has this shape"
-
-[verb] It was like trying to square a circle . That is, it was impossible. "to make sth have straight edges and corners"
-
-[adv] {only used after the verb} I looked her square in the face. "directly; not at an angle"
-
-
-
-35.rectangle  [ˈrektæŋɡl] 
-
-[noun] "a flat shape with four straight sides, two of which are longer than the other two, and four angles of 90˚"
-
-
-
-36.trapezium /trəˈpiːziəm/
-
-[n] **A trapezoid** (also known as a trapezium) is a flat 2D shape with four straight sides. It has one pair of parallel sides which are usually the top and bottom sides. The parallel sides are called the bases, while the non-parallel sides are called the legs.
-
-"a flat shape with four straight sides, one pair of opposite sides being parallel and the other pair not parallel"
-
-
-
-37.oval [ˈoʊvl] 
-
-[adj] an oval face. 
-
-"shaped like an egg"
-
-[noun] an oval shape.
-
-
-
-38.essentially  [ɪˈsenʃəli]
-
-[adv]  There are three essentially different ways of tackling the problem./Exposed to high levels of carbon monoxide, the room erupted in chaos as explosions ensued, leaving vomit strewn everywhere, **rendering the occupants** essentially dead.
-
-"when you think about the true, important or basic nature of sb/sth"
-
-
-
-39.strew /struː/
-
-[v] Clothes were strewn across the floor. "to cover a surface with things" -scatter-
-
-
-
-40.occupant /ˈɒkjəpənt/ /ˈɑːkjəpənt/
-
-[n] All outstanding bills will be paid by the previous occupants.
-
-"a person who lives or works in a particular house, room, building, etc."
-
-
-
-41.severity  [sɪ'verəti]
-
-[noun] Most of their equipment **was inadequate(难以应付的)** for the severe weather.
-
-"used of the degree of something undesirable e.g. pain or weather"
-
-
-
-42.inadequate /ɪnˈædɪkwət/
-
-[adj] {~ (for sth) | ~ (to do sth)} The system is inadequate for the tasks it has to perform.
-
-"not enough; not good enough"
-
-[adj] {of people} I felt totally inadequate as a parent.
-
-"not able, or not confident enough, to deal with a situation"
-
-
-
-43.determine [dɪˈtɜː(r)mɪn] 
-
-[verb] An inquiry was set up to determine the cause of the accident. 
-
-"to discover the facts about sth; to calculate sth exactly" 
-
--establish-
-
-[verb] Age and experience will be determining factors in our choice of candidate. "to make sth happen in a particular way or be of a particular type"
-
-[verb] A date for the meeting has yet to be determined. "to officially decide and/or arrange sth"
-
-[verb] They determined to start early."to decide definitely to do sth"
-
-
-
-44.determination  [dɪˌtɜː(r)mɪˈneɪʃn]
-
-[noun] fierce/grim/dogged determination. 
-
-"the quality that makes you continue trying to do sth even when this is difficult"
-
-[noun] factors influencing the determination of future policy. 
-
-"the process of deciding sth officially"
-
-[noun] Both methods rely on the accurate determination of the pressure of the gas. 
-
-"the act of finding out or calculating sth"
-
-
-
-45.determined /dɪˈtɜːrmɪnd/
-
-[adj] I'm determined to succeed.
-
-"if you are determined to do sth, you have made a firm decision to do it and you will not let anyone prevent you" 
-
-[adj] A determined person is **someone highly motivated about their goals**. They maintain a resilient mindset despite challenges and stick through until the end.
-
-"showing a person's determination to do sth"
-
-
-
-46.predetermined /ˌpriːdɪˈtɜːrmɪnd/
-
-[adj] Employees may have a stake in their company through stock options, allowing them to buy shares at a predetermined price in the future. 
-
-"set in advance"
-
-
-
-47.ace /eɪs/
-
-[n] the ace of spades/hearts/diamonds/clubs. 黑桃 / 红心 / 方块 / 梅花A
-
-"a playing card with a large single symbol on it, which has either the highest or the lowest value in a particular card game"
-
-
-
-48.prerequisite  [ˌpriːˈrekwəzɪt] 
-
-[noun] { ~ (for/of/to sth)} A degree is an essential prerequisite for employment at this level. 
-
-"something that must exist or happen before sth else can happen or be done" -precondition-
-
-D[adj] prerequisite knowledge.
-
-
-
-49.requisite /ˈrekwɪzɪt/
-
-[adj] She lacks the requisite experience for the job.
-
-"necessary for a particular purpose"
-
-[noun] toilet requisites (= soap, toothpaste , etc.). /A university degree has become a requisite for entry into most professions.
-
-"something that you need for a particular purpose" 
-
-
-
-50.post [pəʊst] 
-
-[noun] I'll send the original to you by post. 
-
-"the official system used for sending and delivering letters, packages, etc."
-
-[n] She had earlier resigned her post as President Menem's assistant... 
-
-"A **post** in a company or organization is a job or official position in it, usually one that involves responsibility."
-
-[verb] {~ sth (off) (to sb) | ~ sb sth}  Have you posted off your order yet? 
-
-"to send a letter, etc. to sb by post/mail"
-
-
-
-
-
-
-
-#### Previously on: 151~200
-
-51.post off /poʊst ɔːf/
-
-[v] "To send away through the postal service; to mail."
-
-
-
-52.manner  [ˈmænə(r)] 
-
-[noun] She answered in a businesslike manner.  
-
-"the way that sth is done or happens"
-
-[noun] to have an aggressive/a friendly/a relaxed manner. 
-
-"the way that sb behaves and speaks towards other people" 
-
-[noun] to have good/bad manners.  
-
-"behaviour that is considered to be polite in a particular society or culture"
-
-[noun] the social morals and manners of the seventeenth century. 
-
-"the habits and customs of a particular group of people"
-
-
-
-> way vs manner 
->
-> way is more to "how" answer. manner is about attitude. 
->
-> in the manner of speaking, he is quite gentle. 
->
-> the way you spell the word is wrong.
-
-
-
-53.welfare [ˈwelfer]
-
-[noun] We are concerned about the child's welfare.
-
-"the general health, happiness and safety of a person, an animal or a group" -well-being-
-
-[noun]  The state is still the main provider of welfare.
-
- "**practical** or financial help that is provided, often by the government, for people or animals that need it"
-
-
-
-
-
-
-
-55.auction  [ˈɔːkʃn] 
-
-[noun] an auction of paintings. 
-
-"a public event at which things are sold to the person who offers the most money for them"
-
-[verb] The costumes from the movie are to be auctioned for charity. "to sell sth at an auction"
-
-{**auction sth↔off**} The Army is auctioning off a lot of **surplus** equipment.
-
-"to sell sth at an auction , especially sth that is no longer needed or wanted"
-
-
-
-56.surplus  [ˈsɜːpləs] [ˈsɜːrplʌs]
-
-[noun] Germany suffers from a surplus of teachers. 
-
-"an amount that is extra or more than you need"
-
-[noun] a trade surplus of £400 million. /With its solid growth, the internet-only bank succeeded in posting its first monthly surplus in July. The bank CEO attributes the surplus to its quantitative growth./South Korean people's personal finances show a surplus from the age of 27 before transitioning to a 'life in deficit' at the age of 61, where income is less than consumption, data showed on Tuesday.
-
-"the amount by which the amount of money received is greater than the amount of money spent"
-
-[adj] {~ (to sth)} surplus cash. "more than is needed or used"
-
-[adj]  {~ (to sth)} These items are surplus to requirements (= not needed) .
-
-
-
-57.visual [ˈvɪʒuəl]
-
-[adj] I have a very good visual memory. "of or connected with seeing or sight"
-
-D[adv]  visually exciting.
-
-[noun] He used striking visuals to get his point across. "a picture, map, piece of film, etc. used to make an article or a talk easier to understand or more interesting"
-
-
-
-58.underlying /ˌʌndərˈlaɪɪŋ/
-
-[adj] To stop a problem you have to understand its underlying causes...
-
-"important in a situation but not always easily noticed or stated clearly"
-
-[adj] If the cell dies, it leaves the underlying tissue exposed. 
-
-"existing under the surface of sth else"
-
-
-
-59.outlying /ˈaʊtlaɪɪŋ/
-
-[adj] Tourists can visit outlying areas like the *Napa Valley Wine Country*...
-
-"far away from the cities of a country or from the main part of a place"
 
 
 
@@ -424,9 +36,7 @@ D[adv]  visually exciting.
 
 
 
-61.messy/clean [ˈmesi]
 
-[adj]The house was always messy. "dirty and/or untidy"
 
 
 
@@ -462,13 +72,7 @@ D[adv] riskiness
 
 
 
-66.skew [skjuː] 
 
-[verb] So these three skewed sources of information were really hard to get away from. . 
-
-"to change or influence sth with the result that it is not accurate, fair, normal, etc."
-
-[verb] The ball skewed off at a right angle. "to move or lie at an angle, especially in a position that is not normal"
 
 
 
@@ -740,29 +344,11 @@ reversible kidney failure.
 
 
 
-98.mule [mjuːl]
-
-[noun] "an animal that has a horse and a donkey as parents, used especially for carrying loads"
-
-[noun] "a person who is paid to take drugs illegally from one country to another"
-
-[noun] "a slipper (= a soft shoe for wearing indoors) that is open around the heel"
 
 
 
-99.drug mule [drʌɡ mjuːl]
-
-We are not set up for you to go undercover as a drug mule. 
 
 
-
-00.marine  [məˈriːn]
-
-[adj] marine life.  "connected with the **sea and the creatures** and plants that live there"
-
-[adj] "connected with ships or trade at sea"
-
-[noun] "a soldier who is trained to serve on land or at sea, especially one in the US Marine Corps or the British Royal Marines"
 
 
 
@@ -3033,7 +2619,11 @@ Ship owner: I understand. I hope that you can arrange onboard maintenance as muc
 
 
 
+05.ligament /ˈlɪɡəmənt/
 
+[n] He suffered **torn** ligaments in his knee.
+
+"a strong band of tissue in the body that connects bones and supports organs and keeps them in position"
 
 
 
@@ -3234,11 +2824,11 @@ Why don't you shove up so that Brian can sit next to you? "to move in order to m
 
 
 
-21.eyelid /ˈaɪlɪd/ 
+21.yank /jæŋk/
 
-[n] She was so tired, her eyelids were beginning to droop. 
+[v] I yanked the door open.
 
-"either of the pieces of skin above and below the eye that cover it when you blink or close the eye"
+"to pull sth/sb hard, quickly and suddenly"
 
 
 
@@ -3250,7 +2840,11 @@ The knee-jerk reflex is also called the patellar reflex. Its main biological pur
 
 
 
+23.tear /ter , tɪr/
 
+[v] a torn ligament.
+
+"to injure a muscle, etc. by stretching it too much"
 
 
 
@@ -3835,9 +3429,19 @@ D[adj]
 
 
 
-04.extendible  [ekˈstendəbl]
+04.mule [mjuːl]
 
-[adj] "capable of being lengthened"
+[noun] "an animal that has a horse and a donkey as parents, used especially for carrying loads"
+
+[noun] "a person who is paid to take drugs illegally from one country to another"
+
+[noun] "a slipper (= a soft shoe for wearing indoors) that is open around the heel"
+
+
+
+041.drug mule [drʌɡ mjuːl]
+
+We are not set up for you to go undercover as a drug mule. 
 
 
 
@@ -3994,6 +3598,12 @@ D[adj]
 [adj] Perhaps more gripping events close at hand.  
 
 "exciting or interesting in a way that keeps your attention"
+
+
+
+17.extendible  [ekˈstendəbl]
+
+[adj] "capable of being lengthened"
 
 
 
@@ -4399,7 +4009,41 @@ a dispute between the two countries about the border.
 
 
 
-05.all the people in this world haven't had the advantages that you've had.
+
+
+
+
+05.manner  [ˈmænə(r)] 
+
+[noun] She answered in a businesslike manner.  
+
+"the way that sth is done or happens"
+
+[noun] to have an aggressive/a friendly/a relaxed manner. 
+
+"the way that sb behaves and speaks towards other people" 
+
+[noun] to have good/bad manners.  
+
+"behaviour that is considered to be polite in a particular society or culture"
+
+[noun] the social morals and manners of the seventeenth century. 
+
+"the habits and customs of a particular group of people"
+
+
+
+> way vs manner 
+>
+> way is more to "how" answer. manner is about attitude. 
+>
+> in the manner of speaking, he is quite gentle. 
+>
+> the way you spell the word is wrong.
+
+
+
+
 
 
 
@@ -4498,6 +4142,10 @@ In summary, politeness is more about adhering to social norms and formalities, w
 [v] policies inherited from the previous administration.
 
 "if you inherit a particular situation from sb, you are now responsible for dealing with it, especially because you have replaced that person in their job"
+
+
+
+12.all the people in this world haven't had the advantages that you've had.
 
 
 
@@ -5699,7 +5347,7 @@ D[adv] theoretically sound conclusions.
 
 
 
-#### 2020/04/06.04
+#### 2020/04/06.06
 
 01.curriculum vitae [kəˌrɪkjələm ˈviːtaɪ] 
 
@@ -5748,6 +5396,16 @@ Have you checked his curriculum vitae? "履历"
 [n] (in Britain) I teach English at the local comprehensive..
 
  "(in Britain) a secondary school for young people of all levels of ability"
+
+
+
+06.gradual /ˈɡrædʒuəl/
+
+[adj] a gradual change in the climate.
+
+"happening slowly over a long period; not sudden"
+
+
 
 
 
@@ -7319,7 +6977,7 @@ D[adj] a gossipy letter/neighbour.
 
 
 
-#### 2020/05/22.03
+#### 2020/05/22.06
 
 01.massive   [ˈmæsɪv] 
 
@@ -7356,6 +7014,14 @@ The size of your pores is determined by the amount of oil they produce.
 [adj] They should learn to “eat bitterness,” Mr. Xi instructed, using a colloquial expression that means to endure hardships.
 
 "used in conversation but not in formal speech or writing" -informal-
+
+
+
+06.predetermined /ˌpriːdɪˈtɜːrmɪnd/
+
+[adj] Employees may have a stake in their company through stock options, allowing them to buy shares at a predetermined price in the future./The Prince's destiny was predetermined from the moment of his birth...
+
+"set in advance"
 
 
 
@@ -10160,7 +9826,7 @@ Everything has been fixed in advance. "ahead of time"
 
 
 
-#### 2020/08/24.09
+#### 2020/08/24.11
 
 01.recently [ˈriːsntli]
 
@@ -10194,29 +9860,25 @@ Within weeks, his confidence had spread throughout the team. "to affect or make 
 
 
 
-
-
-
-
-06.cope [kəʊp]
+05.cope [kəʊp]
 
 [verb] {[V]~ (with sth)} I got to the stage where I wasn't coping any more. "to deal successfully with sth difficult"
 
 
 
-07.resolution  [ˌrezəˈluːʃn]
+06.resolution  [ˌrezəˈluːʃn]
 
 [noun] to pass/adopt/carry a resolution. "a formal statement of an opinion agreed on by a committee or a council, especially by means of a vote"
 
 
 
-08.occlusion  [əˈkluːʒn] 
+07.occlusion  [əˈkluːʒn] 
 
 [noun] "the act of blocking"
 
 
 
-09.aesthetic  [iːsˈθetɪk]  [esˈθetɪk] 
+08.aesthetic  [iːsˈθetɪk]  [esˈθetɪk] 
 
 [noun] The students debated the aesthetic of the poems.
 
@@ -10227,6 +9889,48 @@ Within weeks, his confidence had spread throughout the team. "to affect or make 
 "concerned with beauty and art and the understanding of beautiful things"
 
 
+
+09.determine [dɪˈtɜː(r)mɪn] 
+
+[verb] An inquiry was set up to determine the cause of the accident. 
+
+"to discover the facts about sth; to calculate sth exactly" 
+
+-establish-
+
+[verb] Age and experience will be determining factors in our choice of candidate. "to make sth happen in a particular way or be of a particular type"
+
+[verb] A date for the meeting has yet to be determined. "to officially decide and/or arrange sth"
+
+[verb] They determined to start early."to decide definitely to do sth"
+
+
+
+10.determination  [dɪˌtɜː(r)mɪˈneɪʃn]
+
+[noun] fierce/grim/dogged determination. 
+
+"the quality that makes you continue trying to do sth even when this is difficult"
+
+[noun] factors influencing the determination of future policy. 
+
+"the process of deciding sth officially"
+
+[noun] Both methods rely on the accurate determination of the pressure of the gas. 
+
+"the act of finding out or calculating sth"
+
+
+
+11.determined /dɪˈtɜːrmɪnd/
+
+[adj] I'm determined to succeed.
+
+"if you are determined to do sth, you have made a firm decision to do it and you will not let anyone prevent you" 
+
+[adj] A determined person is **someone highly motivated about their goals**. They maintain a resilient mindset despite challenges and stick through until the end.
+
+"showing a person's determination to do sth"
 
 
 
@@ -10728,7 +10432,7 @@ mutually.
 
 
 
-#### 2020/09/03.10
+#### 2020/09/03.12
 
 01.alienate [ˈeɪliəneɪt]
 
@@ -10851,6 +10555,26 @@ If we budget carefully we'll be able to afford the trip.
 [noun] an air offensive.
 
 "a military operation in which large numbers of soldiers, etc. attack another country"
+
+
+
+11.underlying /ˌʌndərˈlaɪɪŋ/
+
+[adj] To stop a problem you have to understand its underlying causes...
+
+"important in a situation but not always easily noticed or stated clearly"
+
+[adj] If the cell dies, it leaves the underlying tissue exposed. 
+
+"existing under the surface of sth else"
+
+
+
+12.outlying /ˈaʊtlaɪɪŋ/
+
+[adj] Tourists can visit outlying areas like the *Napa Valley Wine Country*...
+
+"far away from the cities of a country or from the main part of a place"
 
 
 
@@ -11730,6 +11454,10 @@ We would have a lazy lunch and then lie on the beach in the sun.
 [n] A Muslim is someone who believes in Islam and lives according to its rules.
 
 "a person whose religion is Islam"
+
+
+
+12.
 
 
 
@@ -12705,7 +12433,15 @@ Sever means to completely cut off, like a severed head for example would mean th
 
 
 
+03.pronounce /prəˈnaʊns/
 
+[v] to make the sound of a word or letter in a particular way. 
+
+"to make the sound of a word or letter in a particular way"
+
+[v] According to the company and industry sources, Han suffered a heart attack while resting after his daughter’s wedding over the weekend. He was taken to Samsung Medical Center in southern Seoul but was pronounced dead. 
+
+"to say or give sth formally, officially or publicly"
 
 
 
@@ -14555,37 +14291,7 @@ After the operation you may find it difficult to chew and swallow.
 
 
 
-12.molecular /məˈlekjələr/
 
-[adj] "**Molecular** means relating to or involving molecules."
-
-
-
-13.molecule /ˈmɒlɪkjuːl/ /ˈmɑːlɪkjuːl/
-
-[n] A molecule of water consists of two atoms of hydrogen and one atom of oxygen.
-
-"the smallest unit, consisting of a group of atoms, into which a substance can be divided without a change in its chemical nature"
-
-
-
-14.atom /ˈætəm/
-
-[n] Two atoms of hydrogen combine with one atom of oxygen to form a molecule of water.
-
-"the smallest part of a chemical element that can take part in a chemical reaction"
-
-
-
-15.atomic /əˈtɒmɪk/ /əˈtɑːmɪk/
-
-[adj] atomic structure.
-
-"connected with atoms or an atom"
-
-[adj] atomic energy/power. 
-
-"related to the energy that is produced when atoms are split; related to weapons that use this energy"
 
 
 
@@ -15856,6 +15562,12 @@ A special bond unites our two countries.
 > Traditionally begging is in regards to money. Homeless people beg for things. Pleading is more like making your case for something. You plead to God or the courts sort of thing.
 
 
+
+13.cube  [kjuːb]
+
+[noun] "a solid or hollow figure with six equal square sides"
+
+[verb] 10 cubed is 1 000. "to multiply a number by itself twice"
 
 #### 2020/10/21.05
 
@@ -19383,6 +19095,68 @@ His teachers are full of praise for the progress he's making.
 [noun] latex gloves [glʌvz] . "a thick white liquid that is produced by some plants and trees, especially rubber trees. Latex becomes solid when exposed to air, and is used to make medical products."
 
 [noun] "an artificial substance similar to this that is used to make paints, glues, etc."
+
+
+
+#### 20210106.07
+
+01.geometry /dʒiˈɑːmətri/ 
+
+[n] "the branch of mathematics that deals with the measurements and relationships of lines, angles, surfaces and solids"
+
+
+
+02.circle  [ˈsɜː(r)kl] 
+
+[noun] Cut out two circles of paper. "a completely round flat shape" 
+
+[verb] {~ (around) (above/over sb/sth)} Seagulls circled around above his head.
+
+"to move in a circle, especially in the air"
+
+ 
+
+03.triangle [ˈtraɪæŋɡl] 
+
+[noun] a right-angled triangle/a right triangle.
+
+"a flat shape with three straight sides and three angles; a thing in the shape of a triangle"
+
+
+
+04.square  [skweə(r)] 
+
+[adj] a square room. "having four straight equal sides and four angles of 90˚"
+
+[noun] First break the chocolate into squares. "a shape with four straight sides of equal length and four angles of 90˚; a piece of sth that has this shape"
+
+[verb] It was like trying to square a circle . That is, it was impossible. "to make sth have straight edges and corners"
+
+[adv] {only used after the verb} I looked her square in the face. "directly; not at an angle"
+
+
+
+05.rectangle  [ˈrektæŋɡl] 
+
+[noun] "a flat shape with four straight sides, two of which are longer than the other two, and four angles of 90˚"
+
+
+
+06.trapezium /trəˈpiːziəm/
+
+[n] **A trapezoid** (also known as a trapezium) is a flat 2D shape with four straight sides. It has one pair of parallel sides which are usually the top and bottom sides. The parallel sides are called the bases, while the non-parallel sides are called the legs.
+
+"a flat shape with four straight sides, one pair of opposite sides being parallel and the other pair not parallel"
+
+
+
+07.oval [ˈoʊvl] 
+
+[adj] an oval face. 
+
+"shaped like an egg"
+
+[noun] an oval shape.
 
 
 
@@ -24516,11 +24290,19 @@ the growing polarity between the left and right wings of the party.
 
 
 
+04.messy/clean [ˈmesi]
+
+[adj]The house was always messy. "dirty and/or untidy"
 
 
 
+05.skew [skjuː] 
 
+[verb] So these three skewed sources of information were really hard to get away from. . 
 
+"to change or influence sth with the result that it is not accurate, fair, normal, etc."
+
+[verb] The ball skewed off at a right angle. "to move or lie at an angle, especially in a position that is not normal"
 
 
 
@@ -26289,6 +26071,8 @@ The interview prompted a backlash in China, which considers self-ruling Taiwan t
 
 [adj] {~ (with sb) | ~ (at sth/sb) | ~ (that…)} She was absolutely furious at having been deceived. "very angry"
 
+
+
 #### 20210527.18
 
 01.fossil [ˈfɒsl]   [ˈfɑːsl] 
@@ -26303,9 +26087,15 @@ The interview prompted a backlash in China, which considers self-ruling Taiwan t
 
 
 
-02.hilarious  [hɪˈleriəs] 
+02.welfare [ˈwelfer]
 
-[adj] extremely funny. "a hilarious joke/story"
+[noun] We are concerned about the child's welfare.
+
+"the general health, happiness and safety of a person, an animal or a group" -well-being-
+
+[noun]  The state is still the main provider of welfare.
+
+ "**practical** or financial help that is provided, often by the government, for people or animals that need it"
 
 
 
@@ -26491,6 +26281,12 @@ She understood the importance of establishing a close rapport with clients.
 [noun] The offices will be ready for occupation in June.
 
 "the act of living in or using a building, room, piece of land, etc."
+
+
+
+19.hilarious  [hɪˈleriəs] 
+
+[adj] extremely funny. "a hilarious joke/story"
 
 
 
@@ -30124,7 +29920,7 @@ Servants are now almost extinct in modern society."no longer in existence in soc
 
 
 
-#### 2021/11/07.04
+#### 2021/11/07.05
 
 01.leash  [liːʃ] 
 
@@ -30175,6 +29971,14 @@ Servants are now almost extinct in modern society."no longer in existence in soc
 [verb] {(technical 术语) (of the wind 风)} The wind veered to the west.
 
 "to change direction"
+
+
+
+05.enlarge  [ɪnˈlɑː(r)dʒ]
+
+[verb]  There are plans to enlarge the recreation area. "to make sth bigger; to become bigger"
+
+[verb]  We're going to have this picture enlarged. "to make a bigger copy of a photograph or document"
 
 
 
@@ -30894,7 +30698,7 @@ The government will begin expanding efforts to crack down on unauthorized accomm
 
 
 
-#### 2021/11/24.14
+#### 2021/11/24.21
 
 01.owe  [əʊ]   [oʊ]
 
@@ -31002,27 +30806,64 @@ The government will begin expanding efforts to crack down on unauthorized accomm
 
 
 
-10.carvings  [ˈkɑː(r)vɪŋ]
+10.severity  [sɪ'verəti]
 
-[noun] ...a wood carving of a human hand. 
+[n] The chances of a full recovery will depend on the severity of her injuries.
 
-"an object or a pattern made by cutting away material from wood or stone"
-
-
-
-11.carve  [kɑː(r)v] 
-
-[verb] Who's going to carve the turkey?
-
-"to cut a large piece of cooked meat into smaller pieces for eating"
+"excessive sternness"
 
 
 
-12.excessively  [ɪkˈsɛsɪvli] 
+11.severe /sɪˈvɪr/
 
-[adv] But the Korean government has been excessively regulating innovative car-sharing services from entering the industry.
+[adj] Most of their equipment **was inadequate(难以应付的)** for the severe weather.
 
-"If you describe the amount or level of something as **excessive**, you disapprove of it because it is more or higher than is necessary or reasonable."
+"used of the degree of something undesirable e.g. pain or weather"
+
+
+
+- Means **precise, rigidly enforcing rules or standards, allowing no flexibility**.
+- Often used to describe people, rules, or environments that **demand exact obedience**.
+- Examples:
+  - *The school has strict rules about attendance.*
+  - *My parents were very strict about bedtime.*
+  - *A strict diet means no cheating.*
+
+👉 **Strict = unwavering about rules, discipline, and correctness.**
+
+------
+
+### 
+
+| Word        | Meaning                                             | Feel                                              | Example sentence                                          |
+| ----------- | --------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------------- |
+| **Severe**  | Very harsh, intense, extreme                        | Punishing, harsh, sometimes unforgiving           | *Severe punishment was given for the violation.*          |
+| **Stern**   | Firm, serious, and unyielding (in tone or behavior) | Serious but not necessarily harsh — authoritative | *The teacher gave him a stern look.*                      |
+| **Serious** | Grave, important, not playful                       | Sincere, weighty, or demanding focus              | *This is a serious decision; think carefully.*            |
+| **Strict**  | Uncompromising about rules and standards            | Demanding, rigid, no exceptions allowed           | *She is a strict teacher who enforces deadlines exactly.* |
+
+- **Strict** = "Follow the rules, no exceptions."
+- **Stern** = "I will tell you seriously and firmly."
+- **Severe** = "If you break the rules, the consequences will be harsh."
+- **Serious** = "This really matters. No jokes."
+
+------
+
+
+
+
+
+12.inadequate /ɪnˈædɪkwət/
+
+[adj] {~ (for sth) | ~ (to do sth)} The system is inadequate for the tasks it has to perform.
+
+"not enough; not good enough"
+
+[adj] {of people} I felt totally inadequate as a parent.
+
+"not able, or not confident enough, to deal with a situation"
+
+
 
 
 
@@ -31103,6 +30944,32 @@ She was bursting with impatience to tell me the news.
 [noun] {BrE} a luggage van.
 
 "a closed coach/car on a train for carrying bags, cases, etc. or mail"
+
+
+
+19.carvings  [ˈkɑː(r)vɪŋ]
+
+[noun] ...a wood carving of a human hand. 
+
+"an object or a pattern made by cutting away material from wood or stone"
+
+
+
+20.carve  [kɑː(r)v] 
+
+[verb] Who's going to carve the turkey?
+
+"to cut a large piece of cooked meat into smaller pieces for eating"
+
+
+
+21.excessively  [ɪkˈsɛsɪvli] 
+
+[adv] But the Korean government has been excessively regulating innovative car-sharing services from entering the industry.
+
+"If you describe the amount or level of something as **excessive**, you disapprove of it because it is more or higher than is necessary or reasonable."
+
+
 
 
 
@@ -32850,17 +32717,17 @@ D[adv] to treat sb leniently.
 
 #### 03/04.05
 
-01.tenant  [ˈtenənt]
+01.essentially  [ɪˈsenʃəli]
 
-[noun] The tenant wanted to extend the lease by a year. / The West faces a decisive challenge: To not become a society divided into two classes, the rich landlords and poor tenants.
+[adv]  There are three essentially different ways of tackling the problem./Exposed to high levels of carbon monoxide, the room erupted in chaos as explosions ensued, leaving vomit strewn everywhere, **rendering the occupants** essentially dead.
 
-"a person who pays rent for the use of a room, building, land, etc. to the person who owns it"
+"when you think about the true, important or basic nature of sb/sth"
 
 
 
-02.landlord  [ˈlændlɔːrd] 
+02.strew /struː/
 
-[noun] "a person or company from whom you rent a room, a house, an office, etc."
+[v] Clothes were strewn across the floor. "to cover a surface with things" -scatter-
 
 
 
@@ -35436,13 +35303,7 @@ D[noun]  Bullying is a problem in many schools.
 
 
 
-#### 12/05.01
 
-01.outpace  [ˌaʊtˈpeɪs] 
-
-[verb]  He easily outpaced the other runners.
-
-"to go, rise, improve, etc. faster than sb/sth" -outstrip-
 
 
 
@@ -35676,7 +35537,7 @@ D[noun]  Bullying is a problem in many schools.
 
 
 
-#### 12/19.03
+#### 12/19.05
 
 01.The Last Straw  [ðə lɑːst strɔː] 
 
@@ -35697,6 +35558,28 @@ D[noun]  Bullying is a problem in many schools.
 [verb] (informal) (of a person) He is foaming with rage over some decisions. 
 
 "to have or produce a mass of small bubbles;to be very angry"
+
+
+
+04.post [pəʊst] 
+
+[noun] I'll send the original to you by post. 
+
+"the official system used for sending and delivering letters, packages, etc."
+
+[n] She had earlier resigned her post as President Menem's assistant... 
+
+"A **post** in a company or organization is a job or official position in it, usually one that involves responsibility."
+
+[verb] {~ sth (off) (to sb) | ~ sb sth}  Have you posted off your order yet? 
+
+"to send a letter, etc. to sb by post/mail"
+
+
+
+05.post off /poʊst ɔːf/
+
+[v] "To send away through the postal service; to mail."
 
 
 
@@ -35801,6 +35684,8 @@ dizzy [ˈdɪzi]
 [noun] I speak to him the day after the result of his paternity test has come back.
 
 "a test based on blood groups to determine whether a particular man could be the biological father of a particular child"
+
+
 
 #### 12/21.13
 
@@ -36359,6 +36244,28 @@ dizzy [ˈdɪzi]
 [verb] {formal} He wanted to get enough time to exhume the body. 
 
 "to remove a dead body from the ground especially in order to examine how the person died" -dig up-
+
+
+
+09.ace /eɪs/
+
+[n] the ace of spades/hearts/diamonds/clubs. 黑桃 / 红心 / 方块 / 梅花A
+
+"a playing card with a large single symbol on it, which has either the highest or the lowest value in a particular card game"
+
+
+
+10.jack /dʒæk/
+
+[n] the jack of clubs.
+
+"a card with a picture of a young man on it, worth more than a ten and less than a queen"
+
+
+
+11.club
+
+[n] "one of the four set of cards (called suits ) in a pack/deck of cards. The clubs have a black design shaped like three black leaves on a short stem"
 
 
 
@@ -37220,7 +37127,7 @@ A hazard is usually used to refer to risky situations that are very serious or l
 
 
 
-#### 03/02.08
+#### 03/02.09
 
 01.ticking sound  [ˈtɪkɪŋ]
 
@@ -37258,15 +37165,29 @@ A hazard is usually used to refer to risky situations that are very serious or l
 
 
 
+05.prerequisite  [ˌpriːˈrekwəzɪt] 
+
+[noun] { ~ (for/of/to sth)} A degree is an essential prerequisite for employment at this level. 
+
+"something that must exist or happen before sth else can happen or be done" -precondition-
+
+D[adj] prerequisite knowledge.
+
+
+
+06.requisite /ˈrekwɪzɪt/
+
+[adj] She lacks the requisite experience for the job.
+
+"necessary for a particular purpose"
+
+[noun] toilet requisites (= soap, toothpaste , etc.). /A university degree has become a requisite for entry into most professions.
+
+"something that you need for a particular purpose" 
 
 
 
 
-06.tsunami [tsuːˈnɑːmi]
-
-[noun] That country made an urgent request for international aid after the tsunami happened. 
-
-"an extremely large wave in the sea caused, for example, by an earthquake"
 
 
 
@@ -37290,6 +37211,14 @@ Clear is known for his ability to **distill complex topics into simple behaviors
 
 
 
+09.tsunami [tsuːˈnɑːmi]
+
+[noun] That country made an urgent request for international aid after the tsunami happened. 
+
+"an extremely large wave in the sea caused, for example, by an earthquake"
+
+
+
 #### 03/03.01
 
 01.realignment [ˌriːəˈlaɪnmənt]
@@ -37298,7 +37227,7 @@ Clear is known for his ability to **distill complex topics into simple behaviors
 
 
 
-#### 03/06.04
+#### 03/06.05
 
 01.fiance [ˌfiən'seɪ]
 
@@ -37341,6 +37270,14 @@ Clear is known for his ability to **distill complex topics into simple behaviors
 "not brave; afraid to do sth"
 
 
+
+05.visual [ˈvɪʒuəl]
+
+[adj] I have a very good visual memory. "of or connected with seeing or sight"
+
+D[adv]  visually exciting.
+
+[noun] He used striking visuals to get his point across. "a picture, map, piece of film, etc. used to make an article or a talk easier to understand or more interesting"
 
 
 
@@ -37403,6 +37340,14 @@ Clear is known for his ability to **distill complex topics into simple behaviors
 [n] She stood in the doorway for a moment before going in. 
 
 "an opening into a building or a room, where the door is"
+
+
+
+09.audible /ˈɔːdəbl/
+
+[adj] Her voice was barely audible above the noise.
+
+"that can be heard clearly"
 
 
 
@@ -38221,6 +38166,24 @@ In summary, "young" simply describes someone who is not old, while "youthful" sp
 [noun] {~ (to do sth) | ~ (against sb/sth)}  a conspiracy to **overthrow** the government.
 
 "a **secret plan** by a group of people to do sth harmful or illegal"
+
+
+
+08.surplus  [ˈsɜːpləs] [ˈsɜːrplʌs]
+
+[noun] Germany suffers from a surplus of teachers. 
+
+"an amount that is extra or more than you need"
+
+[noun] a trade surplus of £400 million. /With its solid growth, the internet-only bank succeeded in posting its first monthly surplus in July. The bank CEO attributes the surplus to its quantitative growth./South Korean people's personal finances show a surplus from the age of 27 before transitioning to a 'life in deficit' at the age of 61, where income is less than consumption, data showed on Tuesday.
+
+"the amount by which the amount of money received is greater than the amount of money spent"
+
+[adj] {~ (to sth)} surplus cash. "more than is needed or used"
+
+[adj]  {~ (to sth)} These items are surplus to requirements (= not needed) .
+
+
 
 
 
@@ -42471,7 +42434,7 @@ On the afternoon of November 26, Representative **Jeong Hye Kyung** of the Progr
 
 
 
-#### 10/16.02
+#### 10/16.03
 
 01.solely /ˈsəʊlli/ /ˈsoʊlli/
 
@@ -42488,6 +42451,14 @@ On the afternoon of November 26, Representative **Jeong Hye Kyung** of the Progr
 [adj] a disobedient child.
 
 "failing or refusing to obey"
+
+
+
+03.sole /soʊl/
+
+[adj] The company said Jun Young-hyun— who was appointed as co-CEO in November last year— will become the sole CEO. 
+
+"only; single"
 
 
 
@@ -48620,6 +48591,44 @@ D[noun] They object to the movie's depiction of gay people.
 
 
 
+05.occupant /ˈɒkjəpənt/ /ˈɑːkjəpənt/
+
+[n] All outstanding bills will be paid by the previous occupants.
+
+"a person who lives or works in a particular house, room, building, etc."
+
+
+
+| Term         | Meaning                                                      | Legal Relationship | Example                                                      |
+| ------------ | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
+| **Tenant**   | A person who has signed a lease or rental agreement and pays rent. | Yes (contractual)  | You rent an apartment, sign a lease, pay rent — you're a tenant. |
+| **Occupant** | A person who lives in the property but may not have signed the lease. | Not necessarily    | Your roommate or family member who lives with you but isn't on the lease — they’re an occupant. |
+
+In short:
+
+- **Tenant** = has legal responsibility (pays rent, signs lease)
+- **Occupant** = simply resides in the space (may or may not have legal rights)
+
+
+
+06.tenant  [ˈtenənt]
+
+[noun] The tenant wanted to extend the lease by a year. / The West faces a decisive challenge: To not become a society divided into two classes, the rich landlords and poor tenants.
+
+"a person who pays rent for the use of a room, building, land, etc. to the person who owns it"
+
+
+
+07.landlord  [ˈlændlɔːrd] 
+
+[noun] "a person or company from whom you rent a room, a house, an office, etc."
+
+
+
+
+
+
+
 #### 02/11.04
 
 01.dividend /ˈdɪvɪdend/
@@ -48692,7 +48701,7 @@ Halt is also extremely formal and outdated English. It typically means to stop m
 
 
 
-#### 02/13.15
+#### 02/13.16
 
 01.millennium  /mɪˈleniəm/
 
@@ -48852,6 +48861,18 @@ I was thrilled to be invited. /We’re thrilled to bring forward the Apple Healt
 
 
 
+16.seldom /ˈseldəm/
+
+[adv] He had seldom seen a child with so much talent. "not often" -rarely-
+
+> very little difference in meaning, however rarely is used much more.. seldom can perhaps be interpreted as 'very rarely', but essentially the difference is negligible.
+>
+> It can be used more formally than rarely
+
+
+
+
+
 #### 02/14.11
 
 01.looming /ˈluːmɪŋ/
@@ -48924,19 +48945,15 @@ I was thrilled to be invited. /We’re thrilled to bring forward the Apple Healt
 
 
 
-10.resolution  [ˌrezəˈluːʃn] 
+10.marine  [məˈriːn]
 
-[noun] to pass/adopt/carry a resolution. "a formal statement of an opinion agreed on by a committee or a council, especially by means of a vote"
+[adj] marine life. **A maritime climate is influenced by a nearby ocean.** **A continental climate is influenced by nearby land**.  
 
-[noun] The government is pressing for an early resolution of the dispute."the act of solving or settling a problem, disagreement, etc." -settlement-
+"connected with the **sea and the creatures** and plants that live there"
 
-[noun] The reforms owe a great deal to the resolution of one man."the quality of being resolute or determined" -resolve-
+[adj] "connected with ships or trade at sea"
 
-[noun] {~ (to do sth)}She made a resolution to visit her relatives more often. 
-
-"a **firm decision** to do or not to do sth"
-
-[noun]high-resolution graphics. "the power of a computer screen, printer, etc. to give a clear image, depending on the size of the dots that make up the image"
+[noun] "a soldier who is trained to serve on land or at sea, especially one in the US Marine Corps or the British Royal Marines"
 
 
 
@@ -48949,6 +48966,22 @@ I was thrilled to be invited. /We’re thrilled to bring forward the Apple Healt
 
 
 > there's not really a difference. Historically maybe there once was, or they have different origins, but today they are exactly the same word. Use whichever sounds better to you.  Resolute is a little less common and sounds more like prose than determined.
+
+
+
+12.resolution  [ˌrezəˈluːʃn] 
+
+[noun] to pass/adopt/carry a resolution. "a formal statement of an opinion agreed on by a committee or a council, especially by means of a vote"
+
+[noun] The government is pressing for an early resolution of the dispute."the act of solving or settling a problem, disagreement, etc." -settlement-
+
+[noun] The reforms owe a great deal to the resolution of one man."the quality of being resolute or determined" -resolve-
+
+[noun] {~ (to do sth)}She made a resolution to visit her relatives more often. 
+
+"a **firm decision** to do or not to do sth"
+
+[noun]high-resolution graphics. "the power of a computer screen, printer, etc. to give a clear image, depending on the size of the dots that make up the image"
 
 
 
@@ -50304,6 +50337,20 @@ The apple tree has born fruits.
 
 
 
+04.allegedly 
+
+[adv] *The Wall Street Journal* reported that some businesses, including allegedly Pizza Hut, [laid off employees in advance of the wage increase](https://www.wsj.com/business/hospitality/california-restaurants-cut-jobs-as-fast-food-wages-set-to-rise-eb5ddaaa?mod=business_lead_story). "An **alleged** (20210319) fact has been stated but has not been proved to be true."
+
+
+
+05.allege [əˈledʒ] 
+
+[verb] Or maybe I should say "alleged" irrationality./He is alleged to have mistreated the prisoners.
+
+to state sth as a fact but without giving proof"
+
+
+
 #### 03/17.11
 
 01.vandalism /ˈvændəlɪzəm/
@@ -50314,17 +50361,17 @@ The apple tree has born fruits.
 
 
 
-02.allegedly 
+02.auction  [ˈɔːkʃn] 
 
-[adv] *The Wall Street Journal* reported that some businesses, including allegedly Pizza Hut, [laid off employees in advance of the wage increase](https://www.wsj.com/business/hospitality/california-restaurants-cut-jobs-as-fast-food-wages-set-to-rise-eb5ddaaa?mod=business_lead_story). "An **alleged** (20210319) fact has been stated but has not been proved to be true."
+[noun] an auction of paintings. 
 
+"a public event at which things are sold to the person who offers the most money for them"
 
+[verb] The costumes from the movie are to be auctioned for charity. "to sell sth at an auction"
 
-03.allege [əˈledʒ] 
+{**auction sth↔off**} The Army is auctioning off a lot of **surplus** equipment.
 
-[verb] Or maybe I should say "alleged" irrationality./He is alleged to have mistreated the prisoners.
-
-to state sth as a fact but without giving proof"
+"to sell sth at an auction , especially sth that is no longer needed or wanted"
 
 
 
@@ -50592,7 +50639,7 @@ The difference between "wiggle" and "jiggle" is **the control had in the movemen
 
 
 
-#### 03/21
+#### 03/21.04
 
 01.throughput /ˈθruːpʊt/
 
@@ -50619,3 +50666,115 @@ The difference between "wiggle" and "jiggle" is **the control had in the movemen
 [noun] moral philosophy.
 
 "the study of the nature and meaning of the universe and of human life"
+
+
+
+#### 03/25.04
+
+01.Stye (sty) /staɪ/
+
+[n] In most cases, a stye will begin to disappear on its own in a couple days. In the meantime, you may be able to relieve the pain or discomfort of a stye by applying a warm washcloth to your eyelid.
+
+"A stye (sty) is a red, painful lump near the edge of your eyelid that may look like a boil or a pimple. "
+
+
+
+02.washcloth vs towel
+
+"A wash cloth is a square terry material about 8 inches on all 4 sides,that you wash yourself with soap on it. A towel is a large terry cloth material about 30 by 48 inches you dry yourself with after bathing."
+
+
+
+03.eyelid /ˈaɪlɪd/ 
+
+[n] She was so tired, her eyelids were beginning to droop. 
+
+"either of the pieces of skin above and below the eye that cover it when you blink or close the eye"
+
+
+
+04.demystify /ˌdiːˈmɪstɪfaɪ/
+
+[v] This book aims to demystify medical treatments.
+
+"to make sth easier to understand and less complicated by explaining it in a clear and simple way"
+
+
+
+#### 03/26
+
+01.leapfrog /ˈliːpfrɔːɡ/
+
+[v] China’s BYD reported annual revenue of 777 billion yuan ($107 billion) for 2024, leapfrogging Tesla as competition between the two EV rivals heats up. "Means to **skip ahead** or **suddenly surpass** someone or something — often after being behind or not expected to.
+
+/to get to a higher position or rank by going past sb else or by missing out some stages"
+
+
+
+
+
+02.outpace  [ˌaʊtˈpeɪs] 
+
+[verb]  He easily outpaced the other runners./Chinese EV giant BYD outpaces Tesla with annual sales of more than $100 billion.
+
+"to go, rise, improve, etc. faster than sb/sth" -outstrip-
+
+
+
+| Term           | Focus                         | Example                                                      |
+| -------------- | ----------------------------- | ------------------------------------------------------------ |
+| **Outpace**    | Speed / progress rate         | "They outpaced competitors in bringing products to market."  |
+| **Outperform** | Quality / results superiority | "Their solution outperformed others in efficiency and accuracy." |
+
+
+
+03.hyperthyroidism /ˌhaɪpərˈθaɪrɔɪdɪzəm/
+
+[medical] chinese call the speed as hyperthyroidism.
+
+
+
+#### 03/27
+
+01.gastronomy  /ɡæˈstrɑːnəmi/
+
+[n] Molecular gastronomy is **a branch of food science that focuses on the physical and chemical processes that arise when cooking**. These processes and interactions are explored and manipulated to yield flavorful, functional, and artistic results.
+
+"the art and practice of cooking and eating good food"
+
+
+
+02.molecular /məˈlekjələr/
+
+[adj] "**Molecular** means relating to or involving molecules."
+
+
+
+03.molecule /ˈmɒlɪkjuːl/ /ˈmɑːlɪkjuːl/
+
+[n] A molecule of water consists of two atoms of hydrogen and one atom of oxygen.
+
+"the smallest unit, consisting of a group of atoms, into which a substance can be divided without a change in its chemical nature"
+
+
+
+04.atom /ˈætəm/
+
+[n] Two atoms of hydrogen combine with one atom of oxygen to form a molecule of water.
+
+"the smallest part of a chemical element that can take part in a chemical reaction"
+
+
+
+05.atomic /əˈtɒmɪk/ /əˈtɑːmɪk/
+
+[adj] atomic structure.
+
+"connected with atoms or an atom"
+
+[adj] atomic energy/power. 
+
+"related to the energy that is produced when atoms are split; related to weapons that use this energy"
+
+
+
