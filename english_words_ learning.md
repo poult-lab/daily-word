@@ -24,104 +24,6 @@ Previously on: 151~200
 
 
 
-
-
-60.act  [ækt]
-
-[noun] an act of kindness. "a particular thing that sb does"
-
-[verb] It is **vital** that we act to stop the destruction of the rainforests. 
-
-"to do sth for a particular purpose or in order to deal with a situation"
-
-
-
-
-
-
-
-62.generalization   [ˌdʒenrəlaɪˈzeɪʃn] 
-
-[noun] a speech full of broad/sweeping generalizations. "a general statement that is based on only a few facts or examples; the act of making such statements"
-
-
-
-63.indeed  [ɪnˈdiːd] 
-
-[adv] ‘Was he very angry?’ ‘Indeed he was. "used to emphasize a positive statement or answer"
-
-[adv] Thank you very much indeed! "used after very and an adjective or adverb to emphasize a statement, description, etc."
-
-
-
-64.risky  [ˈrɪski]
-
-[adj] Life as an aid worker can be a risky business (= dangerous). "involving the possibility of sth bad happening"
-
-D[noun] riskily
-
-D[adv] riskiness
-
-
-
-65.assign  [əˈsaɪn]
-
-[verb] {~ sth (to sb) | ~ (sb) sth}  The two large classrooms have been assigned to us. "to give sb sth that they can use, or some work or responsibility"
-
-[verb] {~ sb (to sth/as sth)} They've assigned their best man to the job. "to provide a person for a particular task or position"
-
-
-
-
-
-
-
-67.previous  [ˈpriːviəs] 
-
-[adj] No previous experience is necessary for this job. "happening or existing before the event or object that you are talking about"-ptior-
-
-
-
-68.no man’s land "无人区"
-
-
-
-69.creep into [kriːp ˈɪntə]
-
-The shadow of doubt began to creep into her mind. 
-
-
-
-70.room  [ruːm] 
-
-[verb] She and Nancy roomed together at college.
-
-"to rent a room somewhere; to share a rented room or flat/apartment with sb"
-
-
-
-71.precisely   [prɪˈsaɪsli] 
-
-[adv] They look precisely the same to me. "exactly"
-
-D[adj] precise [prɪˈsaɪs]
-
-precise details/instructions/measurements. "clear and accurate" -exact-
-
-We were just talking about her when, at that precise moment , she walked in. "used to emphasize that sth happens at a particular time or in a particular way"
-
-a skilled and precise worker."taking care to be exact and accurate, especially about small details" 
-
--meticulous-
-
-
-
-72.region  [ˈriːdʒən]
-
-[noun] the Arctic/tropical/desert, etc. regions. "a large area of land, usually without exact limits or borders"
-
-
-
 73.appreciate /əˈpriːʃieɪt/
 
 [verb] {not used in the progressive tenses } His talents are not fully appreciated in that company. "赏识"
@@ -146,55 +48,13 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-75.wrapper [ˈræpə(r)]
-
-[noun] sweet wrappers. "a piece of paper, plastic, etc. that is wrapped around sth, especially food, when you buy it in order to protect it and keep it clean"
 
 
 
-76.crescent  [ˈkresnt] 
-
-[noun] a crescent moon. 
-
-"a curved shape that is wide in the middle and pointed at each end"'月牙'
 
 
 
-77.ellipse [ɪˈlɪps]
 
-[noun] "a regular **oval** shape, like a circle that has been squeezed on two sides"
-
-
-
-> **Every ellipse is an oval but not every oval is an ellipse**. The ellipse has a balanced and uniform look. Ovals do not have foci defined, whereas ellipses have two focal points, which are important in defining the shape. An ellipse is a well-defined geometric figure.
-
-
-
-78.cuboid  [ˈkjuːbɔɪd] 
-
-[noun] "a solid object which has six rectangular [rekˈtæŋɡjələ(r)] [adj]  sides at right angles to each other"
-
-[adj] "shaped approximately like a cube"
-
-
-
-79.plot [plɒt] [plɑːt]
-
-[noun] a **conventional** plot about love and marriage. 
-
-"the series of events which form the story of a novel, play, film/movie, etc."
-
-[noun] { ~ (to do sth)} Security forces have uncovered a plot to overthrow the government..."a secret plan made by a group of people to do sth wrong or illegal"
-
-[noun] Although the Ruska Roma tore up John's ticket, Winston tells him to get  it mended or to "pick a plot" in the graveyard. John asks what Winston  gets out of this and Winston tells him that he is good at getting  revenge.
-
-"a small piece of land that is used or intended for a special purpose"
-
--conspiracy-
-
-[verb] {~ (with sb) (against sb)} Military officers were suspected of plotting a coup.
-
-"to make a secret plan to harm sb, especially a government or its leader"
 
 
 
@@ -223,126 +83,6 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 [noun] {~ (from sth) (to/into sth)} The way in which we work has undergone a complete transformation in the past decade. "a complete change in sb/sth"
 
 [noun] a lack of transformation in the private sector. "used in South Africa to describe the process of making institutions and organizations more democratic"
-
-
-
-83.cheque  [tʃek]
-
-[noun] a cheque for £50."a printed form that you can write on and sign as a way of paying for sth instead of using money"
-
-
-
-84.tidal [ˈtaɪdl]
-
-[adj] tidal forces.
-
-"connected with tides (= the regular rise and fall of the sea)"
-
-
-
-85.venture capitals "风险投资"
-
-
-
-86.tidal energy [ˈtaɪdl ˈenədʒi] 
-
-[phrase] ontinuous energy flows include geothermal, solar[ˈsoʊlər] , and tidal energy. 
-
-The tidal energy is not stable.
-
-"Tidal energy is **a form of hydropower [ˈhaɪdrəʊ] that converts energy obtained from tides into useful forms of power**"
-
-
-
-87.demand  [dɪˈmɑːnd] 
-
-[noun] {~ (for sth/that…)} a very firm request for sth; sth that sb needs. "a demand for higher pay"
-
-[noun] {~ (of sth) | ~ (on sb)} the demands of children/work. "things that sb/sth makes you do, especially things that are difficult, make you tired, worried, etc."
-
-[noun] {~ (for sth/sb)} to meet the demand for a product. "the desire or need of customers for goods or services which they want to buy or use"
-
-[verb] She demanded an immediate explanation. "to **ask** for sth very **firmly**"
-
-
-
-88.command/kəˈmɑːnd/
-
-[noun] Begin when I give the command.
-
-"an order given to a person or an animal"
-
-[noun] He has 1 200 men under his command.
-
-"control and authority over a situation or a group of people"
-
-[v] He commanded his men to retreat.
-
-"to tell sb to do sth" -order-
-
-[v]  The troops were commanded by General Haig.
-
-"to be in charge of a group of people in the army, navy, etc."
-
-
-
-
-
-
-
-91.venture capitals "风险投资"
-
-
-
-92.standardization  [ˌstændədaɪ'zeɪʃ(ə)n] 
-
-[noun] There is a drive both to standardise components and to reduce the number of models on offer... "To **standardize** things means to change them so that they all have the same features."
-
-
-
-93.interoperable  [ˌɪntərˈɒpərəbl]  [ˌɪntərˈɑːpərəbl]
-
-[adj] "互相操作的" "able to exchange information" 
-
-
-
-94.timestamps
-
-[n] "A timestamp is **the current time of an event that a computer records**."
-
-
-
-95.transaction/trænˈzækʃn/
-
-[n] financial transactions between companies.
-
-"a piece of business that is done between people, especially an act of buying or selling" -deal-
-
-[n] {~ of sth}  the transaction of government business. "the process of doing sth"
-
-
-
-96.reversible /rɪˈvɜːrsəbl/
-
-[adj] {of clothes, materials} a reversible jacket.
-
-"that can be turned inside out and worn or used with either side showing"
-
-[adj] {(of a process, an action or a disease 步骤、行动或疾病)} 
-
-reversible kidney failure. 
-
-"that can be changed so that sth returns to its original state or situation"
-
-
-
-97.balaclava [ˌbæləˈklɑːvə] 
-
-[n] balaclava helmet. 
-
-"a type of hat made of wool that covers most of the head, neck and face"
-
-
 
 
 
@@ -710,33 +450,7 @@ Samsung to focus on car chips growth to withstand a slump in demand.
 
 
 
-34.tide  [taɪd] 
 
-[noun] the **ebb** and flow of the tide. 
-
-"a regular rise and fall in the level of the sea, caused by the pull of the moon and sun; the flow of water that happens as the sea rises and falls"
-
-[noun] It takes courage to speak out against the tide of opinion. 
-
-"the direction in which the opinion of a large number of people seems to be moving"
-
-
-
-35.tidal [ˈtaɪdl]
-
-[adj] tidal forces.
-
-"connected with tides (= the regular rise and fall of the sea)"
-
-
-
-36.tidal energy [ˈtaɪdl ˈenədʒi] 
-
-[phrase] ontinuous energy flows include geothermal, solar[ˈsoʊlər] , and tidal energy. 
-
-The tidal energy is not stable.
-
-"Tidal energy is **a form of hydropower [ˈhaɪdrəʊ] that converts energy obtained from tides into useful forms of power**"
 
 
 
@@ -1465,9 +1179,15 @@ He informed on his own brother.
 
 
 
-19.sweep<wash 
+19.sweep /swiːp/ wash 
 
-扫;洗
+[v]  to sweep the floor.
+
+"to clean a room, surface, etc. using a broom (= a type of brush on a long handle)"
+
+[n] Give the room a good sweep.
+
+"an act of cleaning a room, surface, etc. using a broom"
 
 
 
@@ -1527,9 +1247,9 @@ He informed on his own brother.
 
 
 
+27.generalization   [ˌdʒenrəlaɪˈzeɪʃn] 
 
-
-
+[noun] a speech full of broad/sweeping generalizations. "a general statement that is based on only a few facts or examples; the act of making such statements"
 
 
 
@@ -3187,7 +2907,7 @@ A family of four perished in the fire."to die, especially in a sudden violent wa
 
 "a small room that is made **by separating off part of a larger room**"
 
-<img src="/home/huawei/桌面/english learning/images/cubicles.webp" style="zoom:25%;" />
+<img src="./images/cubicles.webp" style="zoom:25%;" />
 
 
 
@@ -3767,6 +3487,8 @@ a more flexible approach.
 
 
 
+02.no man’s land "无人区"
+
 
 
 03.shell  [ʃel]
@@ -4149,11 +3871,13 @@ In summary, politeness is more about adhering to social norms and formalities, w
 
 
 
-#### 2020/02/14.08
+#### 2020/02/14.09
 
 01.timestamp [ˈtaɪmstæmp]
 
-[noun] "After each server update is processed successfully, the client records the timestamp of the update"
+[noun] After each server update is processed successfully, the client records the timestamp of the update.
+
+"A timestamp is **the current time of an event that a computer records**."
 
 
 
@@ -4223,6 +3947,12 @@ In summary, politeness is more about adhering to social norms and formalities, w
 
 
 
+
+
+
+
+
+
 #### 2020/03/06.07
 
 01.at will  [æt wɪl] 
@@ -4260,7 +3990,21 @@ parliament [ˈpɑːrləmənt]
 
 
 
-05.observe  [əbˈzɜː(r)v] 
+05.act  [ækt]
+
+[noun] an act of kindness. "a particular thing that sb does"
+
+[n] President Trump's [invocation of the Alien Enemies Act of 1798](https://www.cbsnews.com/news/trump-invokes-1798-alien-enemies-act/) to deport [Venezuelan migrants](https://www.cbsnews.com/news/venezuelans-deported-el-salvador-names/) suspected of being members of the Tren de Aragua gang quickly kicked off a legal battle.
+
+"a law that has been passed by a parliament"
+
+[verb] It is **vital** that we act to stop the destruction of the rainforests. 
+
+"to do sth for a particular purpose or in order to deal with a situation"
+
+
+
+06.observe  [əbˈzɜː(r)v] 
 
 [verb] Have you observed any changes lately. "to see or notice sb/sth"
 
@@ -4271,10 +4015,6 @@ parliament [ˈpɑːrləmənt]
 [verb] Will the rebels observe the ceasefire? "to obey rules, laws, etc."
 
 [verb] Do they observe Christmas? "to celebrate festivals, birthdays, etc."
-
-
-
-
 
 
 
@@ -7077,15 +6817,7 @@ The size of your pores is determined by the amount of oil they produce.
 
 
 
-06.capital[ˈkæpɪtl]{3}/captain[ˈkæptn] 
 
-[noun] Cairo is the capital of Egypt."the most important town or city of a country, usually where the central government operates from"
-
-[noun] venture capital." a large amount of money that is invested or is used to start a business"
-
-[adj] a capital offence. "involving punishment by death"
-
-[adj] English is written with a capital ‘E’. "having the form and size used at the beginning of a sentence or a name" +lower case+
 
 
 
@@ -8396,7 +8128,11 @@ bachelorette [ˌbætʃələˈret] "没有结婚的女孩子"
 
 
 
+04.indeed  [ɪnˈdiːd] 
 
+[adv] ‘Was he very angry?’ ‘Indeed he was. "used to emphasize a positive statement or answer"
+
+[adv] Thank you very much indeed! "used after very and an adjective or adverb to emphasize a statement, description, etc."
 
 
 
@@ -11623,7 +11359,7 @@ alarm clock.
 
 
 
-#### 2020/09/16.12
+#### 2020/09/16.14
 
 01.mayhem  [ˈmeɪhem]
 
@@ -11691,7 +11427,9 @@ These are freshly dug mass graves.
 
 
 
+09.oxygen  [ˈɒksɪdʒən]  [ˈɑːksɪdʒən]
 
+[noun] "a chemical[ˈkemɪkl]  element. Oxygen is a gas that is present in air and water and is necessary for people, animals and plants to live."
 
 
 
@@ -11711,19 +11449,29 @@ These are freshly dug mass graves.
 
 
 
-12.oxygen  [ˈɒksɪdʒən]  [ˈɑːksɪdʒən]
-
-[noun] "a chemical[ˈkemɪkl]  element. Oxygen is a gas that is present in air and water and is necessary for people, animals and plants to live."
-
-
-
-13.Stats "统计"
+12.Stats "统计"
 
 =statistics  [stəˈtɪstɪks] 
 
 [noun] Official statistics show real wages declining by 24%. 
 
 "**Statistics** are facts which are obtained from analysing information expressed in numbers, for example information about the number of times that something happens."
+
+
+
+13.prior /ˈpraɪər/
+
+[adj] Although not essential, some prior knowledge of statistics is desirable.
+
+"happening or existing before sth else or before a particular time" 
+
+
+
+14.previous  [ˈpriːviəs] 
+
+[adj] No previous experience is necessary for this job. 
+
+"happening or existing before the event or object that you are talking about"-ptior-
 
 
 
@@ -11939,7 +11687,7 @@ These are freshly dug mass graves.
 
 
 
-#### 2020/09/19.25
+#### 2020/09/19.27
 
 01.cricket  [ˈkrɪkɪt]
 
@@ -12222,6 +11970,40 @@ When we use “borrow” in a sentence, we use the preposition “from.” Andy 
 [noun] Some were serving life sentences for murder.
 
 "the punishment by which sb spends the rest of their life in prison"
+
+
+
+26.command/kəˈmɑːnd/
+
+[noun] Begin when I give the command.
+
+"an order given to a person or an animal"
+
+[noun] He has 1 200 men under his command.
+
+"control and authority over a situation or a group of people"
+
+[v] He commanded his men to retreat.
+
+"to tell sb to do sth" -order-
+
+[v]  The troops were commanded by General Haig.
+
+"to be in charge of a group of people in the army, navy, etc."
+
+
+
+27.demand  [dɪˈmɑːnd] 
+
+[noun] {~ (for sth/that…)} a very firm request for sth; sth that sb needs. "a demand for higher pay"
+
+[noun] {~ (of sth) | ~ (on sb)} the demands of children/work. "things that sb/sth makes you do, especially things that are difficult, make you tired, worried, etc."
+
+[noun] {~ (for sth/sb)} to meet the demand for a product. "the desire or need of customers for goods or services which they want to buy or use"
+
+[verb] She demanded an immediate explanation. "to **ask** for sth very **firmly**"
+
+
 
 #### 2020/09/21.20
 
@@ -13107,6 +12889,14 @@ D[adv] I distinctly heard someone calling me.
 [verb] to thread cotton through a needle. "to pass sth long and thin, especially thread, through a narrow opening or hole"
 
 [verb] The waiters threaded between the crowded tables. "to move or make sth move through a narrow space, avoiding things that are in the way" -pick your way-
+
+
+
+10.balaclava [ˌbæləˈklɑːvə] 
+
+[n] balaclava helmet. 
+
+"a type of hat made of **wool** that covers most of the head, neck and face"
 
 
 
@@ -15443,7 +15233,7 @@ A special bond unites our two countries.
 
 
 
-#### 2020/10/19.12
+#### 2020/10/19.16
 
 01.tease  [tiːz] 
 
@@ -15569,6 +15359,58 @@ A special bond unites our two countries.
 
 [verb] 10 cubed is 1 000. "to multiply a number by itself twice"
 
+
+
+14.cuboid  [ˈkjuːbɔɪd] 
+
+[noun] "a solid object which has six rectangular [rekˈtæŋɡjələ(r)] [adj]  sides at right angles to each other"
+
+[adj] "shaped approximately like a cube"
+
+
+
+15.plot [plɒt] [plɑːt]
+
+[noun] a **conventional** plot about love and marriage. 
+
+"the series of events which form the story of a novel, play, film/movie, etc."
+
+[noun] { ~ (to do sth)} Security forces have uncovered a plot to overthrow the government..."a secret plan made by a group of people to do sth wrong or illegal"
+
+[noun] Although the Ruska Roma tore up John's ticket, Winston tells him to get  it mended or to "pick a plot" in the graveyard. John asks what Winston  gets out of this and Winston tells him that he is good at getting  revenge.
+
+"a small piece of land that is used or intended for a special purpose"
+
+-conspiracy-
+
+[verb] {~ (with sb) (against sb)} Military officers were suspected of plotting a coup.
+
+"to make a secret plan to harm sb, especially a government or its leader"
+
+
+
+16.ellipse [ɪˈlɪps]
+
+[noun] "a regular **oval** shape, like a circle that has been squeezed on two sides"
+
+
+
+> **Every ellipse is an oval but not every oval is an ellipse**. The ellipse has a balanced and uniform look. Ovals do not have foci defined, whereas ellipses have two focal points, which are important in defining the shape. An ellipse is a well-defined geometric figure.
+
+
+
+17.crescent  [ˈkresnt] 
+
+[noun] a crescent moon. 
+
+"a curved shape that is wide in the middle and pointed at each end"'月牙'
+
+
+
+
+
+
+
 #### 2020/10/21.05
 
 01.compel [kəmˈpel] 
@@ -15648,6 +15490,10 @@ D[adv] We reluctantly agreed to go with her.
 06.phobia [ˈfəʊbiə] 
 
 [noun] He has a phobia about flying. "a strong unreasonable fear of sth"
+
+
+
+07.
 
 
 
@@ -23089,6 +22935,12 @@ In summary, a resort provides a luxurious and comfortable vacation experience wi
 
 
 
+23.creep into [kriːp ˈɪntə]
+
+The shadow of doubt began to creep into her mind. 
+
+
+
 #### 20210315.03
 
 01.stationary  [ˈsteɪʃəneri]
@@ -28279,7 +28131,7 @@ The terms **shortage** and **scarcity** are related but distinct, particularly i
 
 
 
-#### 20210903.02
+#### 20210903.04
 
 01.competent [ˈkɒmpɪtənt]  [ˈkɑːmpɪtənt] 
 
@@ -28301,7 +28153,7 @@ D[adv] to perform competently.
 
 
 
-02.formulation  [ˌfɔːmjuˈleɪʃn]
+03.formulation  [ˌfɔːmjuˈleɪʃn]
 
 [noun] There have been problems with the formulation of the vaccine...
 
@@ -28314,6 +28166,16 @@ D[adv] to perform competently.
 [noun] This is a far weaker formulation than is in the draft resolution which is being proposed.
 
 "A **formulation** is the way in which you express your thoughts and ideas."
+
+
+
+04.standardization  [ˌstændədaɪ'zeɪʃ(ə)n] 
+
+[noun] There is a drive both to standardise components and to reduce the number of models on offer... 
+
+"To **standardize** things means to change them so that they all have the same features."
+
+
 
 
 
@@ -29459,11 +29321,15 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-
-
 02.dropout  [ˈdrɒpaʊt]  [ˈdrɑːpaʊt]
 
 [noun]college dropouts. "a person who leaves school or college before they have finished their studies"
+
+
+
+03.wrapper [ˈræpə(r)]
+
+[noun] sweet wrappers. "a piece of paper, plastic, etc. that is wrapped around sth, especially food, when you buy it in order to protect it and keep it clean"
 
 
 
@@ -30022,7 +29888,7 @@ Servants are now almost extinct in modern society."no longer in existence in soc
 
 
 
-#### 2021/11/09.08
+#### 2021/11/09.11
 
 01.buy out  [baɪ aʊt] 
 
@@ -30109,6 +29975,24 @@ Servants are now almost extinct in modern society."no longer in existence in soc
 [adj] a belief that is specific to this part of Africa.
 
 "existing only in one place or limited to one thing" -peculiar-
+
+
+
+11.precisely   [prɪˈsaɪsli] 
+
+[adv] They look precisely the same to me. "exactly"
+
+D[adj] precise [prɪˈsaɪs]
+
+precise details/instructions/measurements. "clear and accurate" -exact-
+
+We were just talking about her when, at that precise moment , she walked in. "used to emphasize that sth happens at a particular time or in a particular way"
+
+a skilled and precise worker."taking care to be exact and accurate, especially about small details" 
+
+-meticulous-
+
+
 
 
 
@@ -31118,6 +31002,10 @@ interface/interaction/international.
 "[reciprocal](https://www.google.com/search?newwindow=1&sca_esv=588279375&sxsrf=AM9HkKmGIYm6qDW5J97kmy893nv-6K2Ohw:1701842480922&q=reciprocal&si=ALGXSlbnOEZPfHsS2MaPJwdaOxE_AfdSuXBe_2NNf9qwgp4VMdqPIinFtSNtwA7iNi6dTNXrntK4HX3q13wOMBubvJDmDLFwFx-fxGGJXgaviDEj5ieSrY8%3D&expnd=1) action or influence."
 
 
+
+07.interoperable  [ˌɪntərˈɒpərəbl]  [ˌɪntərˈɑːpərəbl]
+
+[adj] "互相操作的" "able to exchange information" 
 
 
 
@@ -32321,7 +32209,7 @@ D[adv] to treat sb leniently.
 
 
 
-#### 02/10.07
+#### 02/10.09
 
 01.venture [ˈventʃə(r)] 
 
@@ -32341,33 +32229,33 @@ D[adv] to treat sb leniently.
 
 "to risk losing sth valuable or important if you are not successful at sth" -gamble-
 
-
-
-02.vulture [ˈvʌltʃə(r)] 
-
-[noun] vultures circling/wheeling overhead.
-
-"a large bird, usually without feathers on its head or neck, that eats the flesh of animals that are already dead"
-
-[noun] With no buyer in sight for the company as a whole, the vultures started to circle.
-
-"If you describe a person as a **vulture**, you disapprove of them because you think they are trying to gain from another person's troubles."
+[vp] venture capitals "风险投资"
 
 
 
-03.intense  [ɪnˈtens]
+02.risky  [ˈrɪski]
 
-[adj] intense heat/cold/pain. 
+[adj] Life as an aid worker can be a risky business (= dangerous). "involving the possibility of sth bad happening"
 
-"very great; very strong" -extreme-
+D[noun] riskily
 
-[adj] intense competition. 
+D[adv] riskiness
 
-"serious and often involving a lot of action in a short period of time"
 
-[adj] an intense look.
 
-"having or showing very strong feelings, opinions or thoughts about sb/sth"
+03.capital[ˈkæpɪtl]{3}/captain[ˈkæptn] 
+
+[noun] Cairo is the capital of Egypt."the most important town or city of a country, usually where the central government operates from"
+
+[noun] venture capital." a large amount of money that is invested or is used to start a business"
+
+[adj] a capital offence. "involving punishment by death"
+
+[adj] English is written with a capital ‘E’. "having the form and size used at the beginning of a sentence or a name" +lower case+
+
+
+
+
 
 
 
@@ -32404,6 +32292,34 @@ D[adv] to treat sb leniently.
 [adj] a concise dictionary.
 
 "shorter than the original book, on which it was based"
+
+
+
+08.vulture [ˈvʌltʃə(r)] 
+
+[noun] vultures circling/wheeling overhead.
+
+"a large bird, usually without feathers on its head or neck, that eats the flesh of animals that are already dead"
+
+[noun] With no buyer in sight for the company as a whole, the vultures started to circle.
+
+"If you describe a person as a **vulture**, you disapprove of them because you think they are trying to gain from another person's troubles."
+
+
+
+09.intense  [ɪnˈtens]
+
+[adj] intense heat/cold/pain. 
+
+"very great; very strong" -extreme-
+
+[adj] intense competition. 
+
+"serious and often involving a lot of action in a short period of time"
+
+[adj] an intense look.
+
+"having or showing very strong feelings, opinions or thoughts about sb/sth"
 
 
 
@@ -33353,7 +33269,7 @@ D[noun] proneness to depression.
 
 
 
-#### 05/13.04
+#### 05/13.08
 
 01.expired food  [ɪkˈspaɪəd fuːd]
 
@@ -33372,6 +33288,42 @@ D[noun] proneness to depression.
 [verb] {~ sth (in/from/out of sth)} Resistance-based ab training, a well-balanced diet, and patience are the three key factors to nail if you want to sculpt a six-pack. 
 
 "to make figures or objects by carving or shaping wood, stone, clay , metal, etc."
+
+
+
+05.resistance /rɪˈzɪstəns/
+
+[n] ...materials that lose all their electrical resistance.
+
+"the opposition of a piece of electrical equipment, etc. to the flow of a direct current"
+
+
+
+06.resistible /rɪˈzɪstəbl/
+
+[adj] "that can be resisted"
+
+
+
+07.irresistible /ˌɪrɪˈzɪstəbl/
+
+[adj] how to make good habits irresistible and bad habits impossible.
+
+"so strong that it cannot be stopped or resisted"
+
+
+
+08.reversible /rɪˈvɜːrsəbl/
+
+[adj] {of clothes, materials} a reversible jacket.
+
+"that can be turned inside out and worn or used with either side showing"
+
+[adj] {(of a process, an action or a disease 步骤、行动或疾病)} 
+
+reversible kidney failure. 
+
+"that can be changed so that sth returns to its original state or situation"
 
 
 
@@ -33735,6 +33687,12 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 [noun] It's a jungle out there─you've got to be strong to succeed.
 
 "an unfriendly or dangerous place or situation, especially one where it is very difficult to be successful or to trust anyone"
+
+
+
+03.region  [ˈriːdʒən]
+
+[noun] the Arctic/tropical/desert, etc. regions. "a large area of land, usually without exact limits or borders"
 
 
 
@@ -40452,9 +40410,7 @@ Growing levels of pollution represent a serious health hazard to the local popul
 
 
 
-06.stigma /ˈstɪɡmə/
 
-[n] Is applying shame and stigma to something the best way to be dealing with something that is everywhere. " feelings of disapproval that people have about particular illnesses or ways of behaving  "
 
 
 
@@ -44151,7 +44107,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-#### 01/15.03
+#### 01/15.04
 
 01.slip in 
 
@@ -44180,6 +44136,14 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 [adj] a candid statement/interview. 
 
 "saying what you think openly and honestly; not hiding your thoughts"
+
+
+
+04.assign  [əˈsaɪn]
+
+[verb] {~ sth (to sb) | ~ (sb) sth}  The two large classrooms have been assigned to us. "to give sb sth that they can use, or some work or responsibility"
+
+[verb] {~ sb (to sth/as sth)} They've assigned their best man to the job. "to provide a person for a particular task or position"
 
 
 
@@ -44426,7 +44390,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-#### 01/30.08
+#### 01/30.09
 
 01.expenditure /ɪkˈspendɪtʃər/
 
@@ -44491,6 +44455,14 @@ The definition of FIT goes like this: “FIT is **a person who travels completel
 [verb] Our proposal tries to accommodate the special needs of minority groups. 
 
 "to **consider** sth, such as sb's opinion or a fact, and be influenced by it when you are deciding what to do or explaining sth"
+
+
+
+09.room  [ruːm] 
+
+[verb] She and Nancy roomed together at college.
+
+"to rent a room somewhere; to share a rented room or flat/apartment with sb"
 
 
 
@@ -47206,7 +47178,7 @@ The pleasant and consistent weather makes regions with Mediterranean climates po
 
 
 
-#### 11/20.06
+#### 11/20.07
 
 01.glamorize /ˈɡlæməraɪz/
 
@@ -47255,6 +47227,16 @@ to make sb lose respect for himself or herself"
 [n] automatic teller machines.
 
 "a machine that pays out money automatically"
+
+
+
+07.transaction/trænˈzækʃn/
+
+[n] financial transactions between companies.
+
+"a piece of business that is done between people, especially an act of buying or selling" -deal-
+
+[n] {~ of sth}  the transaction of government business. "the process of doing sth"
 
 
 
@@ -49178,7 +49160,7 @@ post-fermented tea
 
 
 
-#### 02/25.02
+#### 02/25.01
 
 01.carry over /ˈkæri oʊvər/
 
@@ -49188,11 +49170,7 @@ post-fermented tea
 
 
 
-02.truce /truːs/
 
-[n] Macron Says Ukraine Truce Could Be Weeks Away | WSJ News.
-
-"an agreement between enemies or opponents to stop fighting for an agreed period of time; the period of time that this lasts"
 
 
 
@@ -50701,7 +50679,7 @@ The difference between "wiggle" and "jiggle" is **the control had in the movemen
 
 
 
-#### 03/26
+#### 03/26.03
 
 01.leapfrog /ˈliːpfrɔːɡ/
 
@@ -50734,7 +50712,7 @@ The difference between "wiggle" and "jiggle" is **the control had in the movemen
 
 
 
-#### 03/27
+#### 03/27.05
 
 01.gastronomy  /ɡæˈstrɑːnəmi/
 
@@ -50775,6 +50753,124 @@ The difference between "wiggle" and "jiggle" is **the control had in the movemen
 [adj] atomic energy/power. 
 
 "related to the energy that is produced when atoms are split; related to weapons that use this energy"
+
+
+
+#### 03/28.02
+
+01.truce /truːs/
+
+[n] Macron Says Ukraine Truce Could Be Weeks Away | WSJ News./If the two countries reach a complete truce or peace agreement, sanctions on Russia will likely be lifted, allowing Korean firms to resume business there.
+
+"an agreement between enemies or opponents to stop fighting for an agreed period of time; the period of time that this lasts"
+
+
+
+02.renewable/rɪˈnuːəbl/
+
+[adj] renewable sources of energy such as wind and solar power.
+
+"that is replaced naturally or controlled carefully and can therefore be used without the risk of finishing it all"
+
+[adj]  a renewable lease. "that can be made valid for a further period of time after it has finished"
+
+
+
+#### 03/30.03
+
+01.nostalgic /nəˈstældʒɪk/
+
+[n] A bodybuilder returned to an old restaurant where he had started, saying, 'This is very nostalgic.'
+
+""**Nostalgic** things cause you to think affectionately about the past."
+
+
+
+02.bond /bɑːnd/
+
+[n] Is it possible for a regular person to invest in bonds?
+
+"an agreement by a government or a company to pay you interest on the money you have lent; a document containing this agreement"
+
+
+
+03.cheque  [tʃek]
+
+[noun] a cheque for £50."a printed form that you can write on and sign as a way of paying for sth instead of using money"
+
+
+
+#### 03/31
+
+01.stigma /ˈstɪɡmə/
+
+[n] Is applying shame and stigma to something the best way to be dealing with something that is everywhere. 
+
+/Driving change to conquer stigma.
+
+" feelings of disapproval that people have about particular illnesses or ways of behaving  "
+
+
+
+02.flow  /floʊ/
+
+[n]She tried to stop the flow of blood from the wound.
+
+ "the steady and continuous movement of sth/sb in one direction"
+
+[v] It's here that the river flows down into the ocean. 
+
+"She tried to stop the flow of blood from the wound."
+
+[v] "of the tide in the sea/ocean to come in towards the land"
+
+
+
+03.ebb /eb/
+
+[n] "the period of time when the sea flows away from the land"
+
+[v] {of the tide in the sea } "to move away from the land"
+
+
+
+04.the ebb and flow (of sth/sb)
+
+[n] She had learned to navigate the ebb and flow of her mentor, knowing when to seek advice and when to give him space.
+
+"the repeated, often regular, movement from one state to another; the repeated change in level, numbers or amount"
+
+
+
+05.tide  [taɪd] 
+
+[noun] the **ebb** and flow of the tide. 
+
+"a regular rise and fall in the level of the sea, caused by the pull of the moon and sun; the flow of water that happens as the sea rises and falls"
+
+[noun] It takes courage to speak out against the tide of opinion. 
+
+"the direction in which the opinion of a large number of people seems to be moving"
+
+
+
+06.tidal [ˈtaɪdl]
+
+[adj] tidal forces.
+
+"connected with tides (= the regular rise and fall of the sea)"
+
+
+
+07.tidal energy [ˈtaɪdl ˈenədʒi] 
+
+[phrase] ontinuous energy flows include geothermal, solar[ˈsoʊlər] , and tidal energy. 
+
+The tidal energy is not stable.
+
+"Tidal energy is **a form of hydropower [ˈhaɪdrəʊ] that converts energy obtained from tides into useful forms of power**"
+
+
 
 
 
