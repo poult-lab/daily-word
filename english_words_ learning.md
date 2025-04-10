@@ -1,574 +1,4 @@
-Previously on: 151~200
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-73.appreciate /əˈpriːʃieɪt/
-
-[verb] {not used in the progressive tenses } His talents are not fully appreciated in that company. "赏识"
-
-"to recognize the good qualities of sb/sth"
-
-
-
-74.dictate  [dɪkˈteɪt , ˈdɪkteɪt]
-
-[verb] {~ (sth) (to sb)} He dictated a letter to his **secretary**. "to say words for sb else to write down"
-
-[verb] {~ (sth) (to sb)}  They are in no position to dictate terms (= tell other people what to do).
-
-"to tell sb what to do, especially in an annoying way"
-
-[verb] When we take our vacations is very much dictated by Greg's work schedule."to control or influence how sth happens"-determine-
-
-[noun] to follow the dictates of fashion. "an order or a rule that you must obey"
-
-{**dictate to sb**} She refused to be dictated to by anyone."to give orders to sb, often in a rude or aggressive way"
-
-
-
-
-
-
-
-
-
-
-
-
-
-80.margin[ˈmɑː(r)dʒɪn]
-
-[noun] the left-hand/right-hand margin. "the empty space at the side of a written or printed page"
-
-[noun] He won by a narrow margin. "the amount of time, or number of votes, etc. by which sb wins sth"
-
-
-
-81.documentation  [ˌdɒkjumenˈteɪʃn]   [ˌdɑːkjumenˈteɪʃn] 
-
-[noun] I couldn't enter the country because I didn't have all the necessary documentation.
-
-"the documents that are required for sth, or that give evidence or proof of sth"
-
-[noun] the documentation of an agreement.
-
-"the act of recording sth in a document; the state of being recorded in a document"
-
-
-
-82.transformation [ˌtrænsfəˈmeɪʃn] 
-
-[noun] {~ (from sth) (to/into sth)} The way in which we work has undergone a complete transformation in the past decade. "a complete change in sb/sth"
-
-[noun] a lack of transformation in the private sector. "used in South Africa to describe the process of making institutions and organizations more democratic"
-
-
-
-
-
-
-
-
-
-#### Previously on: 201~300
-
-01.domain   [dəˈmeɪn] 
-
-[noun] The care of older people is being placed firmly within the domain of the family. "an area of knowledge or activity; especially one that sb is responsible for"
-
-[noun] The Spice Islands were within the Spanish domains. "lands owned or ruled by a particular person, government, etc., especially in the past"
-
-
-
-02.external  [ɪkˈstɜːnl]
-
-[adj]  the external walls of the building. "connected with or located on the outside of sth/sb"
-
-D[adv] The building has been restored externally and internally.
-
-internal  [ɪnˈtɜː(r)nl] 
-
-[adj] the internal structure of a building. "connected with the inside of sth"
-
-D[adv] internally connected rooms.
-
-
-
-03.internally /ɪnˈtɜrnəli/
-
-[adv] The new posts were only advertised internally.
-
-"on or from the inside"
-
-
-
-04.advertise  [ˈædvə(r)taɪz] 
-
-[verb]  If you want to attract more customers, try advertising in the local paper. 
-
-"to tell the public about a product or a service in order to encourage people to buy or to use it"
-
-[noun] We are currently advertising for a new sales manager. 
-
-"to let people know that sth is going to happen, or that a job is available by giving details about it in a newspaper, on a notice in a public place, on the Internet, etc."
-
- [noun]  I wouldn't advertise the fact that you don't have a work permit. 
-
-"to show or tell sth about yourself to other people"
-
-
-
-
-
-05.arctic  [ˈɑː(r)ktɪk] 
-
-[adj] Arctic explorers. "related to or happening in the regions around the North Pole"
-
-[adj] TV pictures showed the arctic conditions. "extremely cold"
-
-[noun] "the regions of the world around the North Pole"
-
-
-
-06.tropical [ˈtrɒpɪkl] 
-
-[adj] tropical fish. although unfortunately the collection of tropical palm trees has proved too expensive to replace up to now.
-
-"coming from, found in or typical of the tropics" 
-
-
-
-07.silly /ˈsɪli/
-
-[adj] a silly idea.
-
-"showing a lack of thought, understanding or judgement" foolish
-
-
-
-In informal expressions "stupid" doesn't have to mean always lacking intelligence or unable to think clearly ,it could also express being bored of something or someone " your stupid stuff!!" 
-
-When you say something " silly" or ask a silly question sometimes it is not really out of foolishness, but with an intention of being funny or making people laugh. When you tell someone "Don't act so silly" you rather sympathize with their attitude!. 
-
-If I told you that the difference between them both is "lly and tupd" then I am being silly ,but if I told you that there is no difference at all then I am rather stupid !
-
-
-
-08.sympathize /ˈsɪmpəθaɪz/
-
-[v]  I find it very hard to sympathize with him.
-
-"to feel sorry for sb; to show that you understand and feel sorry about sb's problems"
-
-
-
-09.critical [ˈkrɪtɪkl] 
-
-[adj] a critical comment/report.
-
-"expressing **disapproval** of sb/sth and saying what you think is bad about them"
-
-[adj] a critical factor in the election campaign. 
-
-"extremely important because a future situation will be affected by it" -crucial-
-
-
-
-10.filthy [ˈfɪlθi] 
-
-[adj] filthy rags/streets. "**very dirty** and unpleasant"
-
-[adj] filthy language/words.  "very rude and offensive and usually connected with sex"
-
-[adj] {informal} He was in a filthy mood. "showing anger"
-
-[adj] {(BrE, informal) (of the weather 天气) } Isn't it a filthy day? "cold and wet"
-
-
-
-11.tick  [tɪk] 
-
-[v] In the silence we could hear the clock ticking.
-
-"to make short, light, regular repeated sounds to mark time passing"
-
-[v] Please tick the appropriate box. 
-
-"to put a mark (✓) next to an item on a list, an answer, etc."
-
-"标记号;打上钩"
-
-[n] Put a tick in the appropriate box if you would like further information about any of our products. 
-
-"a mark (✓) put beside a sum or an item on a list, usually to show that it has been checked or done or is correct"
-
-
-
-12.disturb [dɪˈstɜːrb]
-
-[noun] I'm sorry to disturb you, but can I talk to you for a moment? "to interrupt sb when they are trying to work, sleep, etc."
-
-[noun] Don't disturb the papers on my desk. "to move sth or change its position"
-
-[noun]  The letter shocked and disturbed me. "to make sb worry"
-
-D[noun]disturbance [dɪˈstɜːrbəns] 
-
-[noun] "actions that make you stop what you are doing, or that upset the normal state that sth is in; the act of disturbing sb/sth or the fact of being disturbed"
-
-
-
-13.interrupt  [ˌɪntəˈrʌpt] 
-
-[verb] {~ (sb/sth) (with sth)} Sorry to interrupt, but there's someone to see you. 
-
-"to say or do sth that makes sb stop what they are saying or doing"
-
-[verb] The game was interrupted several times by rain. "to stop sth for a short time"
-
-
-
-> Disturb and interrupt are two words that are often used interchangeably, but they do have slightly different meanings.
->
-> - Disturb refers to an action that causes a disturbance or interruption in something that is already in progress. For example, if someone bursts into a quiet room and starts shouting, they are disturbing the peace and interrupting whatever was happening before they arrived.
-> - Interrupt, on the other hand, refers to an action that causes an abrupt stop or pause in something that is currently in progress. For example, if someone receives a phone call while they are in the middle of a conversation, the call interrupts their conversation and causes them to pause.
->
-> In general, disturb implies a more gradual or ongoing disruption, while interrupt implies a **sudden** or **immediate disruption**. However, the two words are often used interchangeably in everyday language.
->
-
-
-
-14.interfere [ˌɪntəˈfɪə(r)]
-
-[v] {~ (in sth)} I wish my mother would stop interfering and let me make my own decisions. 
-
-"to get involved in and try to influence a situation that does not concern you, in a way that annoys other people"
-
-[verb phrase] **interfere with sb**. "to illegally try to influence sb who is going to give evidence in court, for example by threatening them or offering them money"
-
-[verb phrase]  **interfere with sth**. She never allows her personal feelings to interfere with her work.
-
-"to prevent sth from succeeding or from being done or happening as planned"
-
-[verb phrase]  I'd get fired if he found out I'd been interfering with his records. "to touch, use or change sth, especially a piece of equipment, so that it is damaged or no longer works correctly"
-
-
-
-15.confuse  [kənˈfjuːz]
-
-[verb] They confused me with conflicting accounts of what happened. "to make sb unable to think clearly or understand sth"
-
-
-
-16.regression [rɪˈɡreʃn] 
-
-[noun] {~ (to sth)} "the process of going back to an earlier or less advanced form or state"
-
-
-
-17.awful   [ˈɔːfl]
-
-[adj] {informal} That's an awful colour.  "very bad or unpleasant"
-
-[adj] {informal} It's going to cost **an awful lot** of money.
-
-"used to emphasize sth, especially that there is a large amount or too much of sth"
-
-[adv] Clint is awful smart.  "very; extremely"
-
-
-
-18.playfully [ˈpleɪfəli]
-
-[adv] "开玩笑地;游戏地;调皮地"she loosened the half-hoop of diamonds on her left hand third finger and held it out to him playfully."in a playful manner"
-
-
-
-19.insufficient  [ˌɪnsəˈfɪʃnt] 
-
-[adj] insufficient time. "not large, strong or important enough for a particular purpose"
-
-D[adv]  insufficiently.
-
-D[noun]  insufficiency.
-
-
-
-20.store  [stɔːr] 
-
-[noun] a big department store. "a large shop that sells many different types of goods"
-
-[noun] a health food store. "a shop, large or small"
-
-[noun] a vast store of knowledge. "a quantity or supply of sth that you have and use"
-
-[verb] animals storing up food for the winter. {~ sth (away/up)} "to put sth somewhere and keep it there to use later"
-
-
-
-21.prominent /ˈprɑːmɪnənt/
-
-[adj] He played a prominent part in the campaign. /AuM not only achieves comparable performance to the Audio Spectrogram Transformer (AST), the most prominent approach in audio classification, but also retains several advantages of transformer-based models."important or well known"
-
-[adj] The story was given a prominent position on the front page. "easily seen"
-
-
-
-22.prime /praɪm/
-
-[adj] My prime concern is to protect my property.
-
-"main; most important; basic"
-
-[n] a young woman in her prime.
-
-mystique"the time in your life when you are strongest or most successful"
-
-[v] They had been primed with good advice.
-
-"to prepare sb for a situation so that they know what to do, especially by giving them special information" -brief-
-
-
-
-23.squeeze [skwiːz] 
-
-[verb]  to squeeze a tube of toothpaste. 
-
-"to press sth firmly, especially with your fingers"
-
-
-
-24.stats [stæts]
-
-[noun] Statistics is the study of numbers and the law between numbers. 
-
-"statistics"
-
-
-
-25.axis [ˈæksɪs]
-
-[noun] Mars takes longer to revolve on its axis than the earth. "an imaginary line through the centre of an object, around which the object turns"
-
-[noun] the vertical/horizontal axis. "a fixed line against which the positions of points are measured, especially points on a graph"
-
-
-
-26.in addition to /ɪn əˈdɪʃn tu/
-
-[] "除了"
-
-
-
-27.mystique [mɪˈstiːk] 
-
-[noun] The mystique surrounding the **monarchy** has gone for ever. 
-
-"the quality of being **mysterious** or secret that makes sb/sth seem interesting or attractive"
-
-
-
-28.mysterious /mɪˈstɪriəs/
-
-[adj] He died in mysterious circumstances.
-
-"difficult to understand or explain; strange"
-
-[adj] {especially of people} A mysterious young woman is living **next door**.
-
-"strange and interesting because you do not know much about them"
-
-[adj] He was being very mysterious about where he was going.
-
-"not saying much about sth, especially when other people want to know more"
-
-
-
-29.monarchy /ˈmɑːnərki/
-
-[noun] plans to abolish the monarchy.
-
-"a system of government by a king or a queen"
-
-
-
-30.next door /ˌnekst ˈdɔːr/
-
-[adv]The cat is from the house next door. "in the next room, house or building"
-
-[noun] Is that next door's dog? "the people who live in the house or flat/apartment next to yours"
-
-
-
-31.determinant [dɪˈtɜː(r)mɪnənt] 
-
-[noun] "a thing that decides whether or how sth happens"
-
-
-
-32.withstand  [wɪðˈstænd]
-
-[verb] The materials **used to** be able to withstand high temperatures. 
-
-Samsung to focus on car chips growth to withstand a slump in demand.
-
-"to be strong enough not to be hurt or damaged by extreme conditions, the use of force, etc."
-
--resist/stand up to-
-
-
-
-33.caretaker  [ˈkeəteɪkə(r)]
-
-[noun] "a person whose job is to take care of a building such as a school or a block of flats or an apartment building"
-
-[noun] "a person who takes care of a house or land while the owner is away"
-
-[adj] a caretaker manager/government . "in charge for a short time, until a new leader or government is chosen"
-
-
-
-
-
-
-
-37.diversity  [daɪˈvɜː(r)səti]
-
-[noun] the biological diversity of the rainforests. 
-
-"a range of many people or things that are very different from each other"
-
-
-
-38.consumption [kənˈsʌmpʃn] 
-
-[noun] Gas and oil consumption always increases in cold weather.  
-
-"the act of using energy, food or materials"
-
-[noun] Consumption rather than saving has become the central feature of contemporary societies.
-
-"the act of buying and using products"
-
-[noun] "a serious infectious disease of the lungs" -tuberculosis  [tjuːˌbɜːkjuˈləʊsɪs] -
-
-
-
-39.integrate /ˈɪntɪɡreɪt/
-
-[v]  These programs will integrate with your existing software.
-
-"to **combine two or more things** so that they work together; to combine with sth else in this way"
-
-
-
-40.abundant [əˈbʌndənt] 
-
-[adj] Fish are abundant in the lake. 
-
-"existing in large quantities; more than enough" -plentiful-
-
-
-
-41.wig /wɪɡ/
-
-[noun] I **couldn't help**  <ins>`noticing`</ins>  she was wearing a wig.
-
-"a piece of artificial hair that is worn on the head, for example to hide the fact that a person is **bald** , to cover sb's own hair, or by a judge and some other lawyers in some courts of law"
-
-
-
-42.hairpiece /ˈherpiːs/
-
-[n] "a piece of false hair worn to make your own hair look longer or thicker"
-
-
-
-> Wigs are larger and cover the entire head, providing a complete change in hairstyle. They are often used to create a dramatic transformation or to cover complete hair loss. Hairpieces, on the other hand, are smaller and designed to cover specific areas of the head, such as the top, sides, or back.
-
-
-
-43.cryptographic [,krɪptə'ɡræfɪk]
-
-[adj] "of or relating to cryptanalysis"
-
-
-
-44.cryptanalysis
-
-[n] "the science of analyzing and deciphering codes and ciphers and cryptograms"
-
-
-
-45.revisit  [ˌriːˈvɪzɪt] 
-
-[verb] "to visit a place again, especially after a long period of time"
-
-[verb] It's an idea that may be worth revisiting at a later date. "to return to an idea or a subject and discuss it again"
-
-
-
-46.linchpin /ˈlɪntʃpɪn/
-
-[n]  In a recent interview with Maeil Business Newspaper, Miller, also the author of best-seller “Chip War,” noted that Korea is a “linchpin” in the global techno big bang and chip supply chain and that the country will be able to play a leading role moving forward.
-
-"a person or thing that is the most important part of an organization, a plan, etc., because everything else depends on them or it"
-
-
-
-47.barb [bɑːrb]
-
-[noun] "the point of an arrow or a hook that is curved backwards to make it difficult to pull out"
-
-[noun] "a remark that is meant to hurt sb's feelings"
-
-
-
-48.ranking [ˈræŋkɪŋ] 
-
-[noun] He has improved his ranking this season from 67th to 30th.
-
-"the position of sb/sth on a scale that shows how good or important they are in relation to other similar people or things, especially in sport"
-
- [**adj**]  He was the ranking officer(= the most senior officer present at a particular time) 
-
-"having a high or the highest rank in an organization, etc."
-
-
-
-
-
-
-
-51.survival /sərˈvaɪvl/ 
-
-[n] His only chance of survival was a heart transplant.
-
-'the state of continuing to live or exist, often despite difficulty or danger' 'the noun of survive'
-
-
+### 2019
 
 #### 2019/12/31.20
 
@@ -783,7 +213,9 @@ Four men are being quizzed by police about the murder. "to ask sb a lot of quest
 
 
 
-#### 2020/01/01.03
+### 2020
+
+#### 2020/01/01.06
 
 01.arsenal  [ˈɑː(r)sənl] 
 
@@ -830,6 +262,12 @@ Four men are being quizzed by police about the murder. "to ask sb a lot of quest
 [noun]"a lesson or an exam in science or technology in which students have to do or make things, not just read or write about them"
 
 
+
+06.revisit  [ˌriːˈvɪzɪt] 
+
+[verb] "to visit a place again, especially after a long period of time"
+
+[verb] It's an idea that may be worth revisiting at a later date. "to return to an idea or a subject and discuss it again"
 
 #### 2020/01/02.17
 
@@ -1723,7 +1161,13 @@ D[adv] She kept them plentifully supplied with gossip [ˈɡɒsɪp]  [ˈɡɑːsɪ
 
 
 
-21.machine-understandable [understand.able]
+21.abundant [əˈbʌndənt] 
+
+[adj] Fish are abundant in the lake. 
+
+"existing in large quantities; more than enough" -plentiful-
+
+
 
 
 
@@ -2708,13 +2152,15 @@ The tennis star made the allegations on Chinese social media site Weibo./Seo Soo
 
 
 
-05.overinflated /ˌoʊvərɪnˈfleɪtɪd/
+05.filthy [ˈfɪlθi] 
 
-[adj] overinflated house prices."of a price or value"
+[adj] filthy rags/streets. "**very dirty** and unpleasant"
 
-[adj] In recent weeks, public anger has been intensifying over Han's acceptance into MIT as there have been allegations that the high school senior has plagiarized and overinflated other credentials. 
+[adj] filthy language/words.  "very rude and offensive and usually connected with sex"
 
-"made to seem better, worse, more important, etc. than it really is" - exaggerated- "言过其实的"
+[adj] {informal} He was in a filthy mood. "showing anger"
+
+[adj] {(BrE, informal) (of the weather 天气) } Isn't it a filthy day? "cold and wet"
 
 
 
@@ -2781,6 +2227,16 @@ The airport operator said the total weekly flights between Gimpo and the Chinese
 [verb] The prisoners were guarded by soldiers. "to prevent prisoners from escaping"
 
 [verb phrase] **guard against sth**" to guard against accidents/disease.to take care to prevent sth or to protect yourself from sth"
+
+
+
+12.overinflated /ˌoʊvərɪnˈfleɪtɪd/
+
+[adj] overinflated house prices."of a price or value"
+
+[adj] In recent weeks, public anger has been intensifying over Han's acceptance into MIT as there have been allegations that the high school senior has plagiarized and overinflated other credentials. 
+
+"made to seem better, worse, more important, etc. than it really is" - exaggerated- "言过其实的"
 
 
 
@@ -4819,7 +4275,25 @@ D[adv] {continually} They argue continually about money.
 
 
 
-04.detach  [dɪˈtætʃ] 
+04.prime /praɪm/
+
+[adj] My prime concern is to protect my property.
+
+"main; most important; basic"
+
+[n] a young woman in her prime.
+
+mystique"the time in your life when you are strongest or most successful"
+
+[v] They had been primed with good advice.
+
+"to prepare sb for a situation so that they know what to do, especially by giving them special information" -brief-
+
+
+
+
+
+05.detach  [dɪˈtætʃ] 
 
 [verb] {~ (sth) (from sth)} Detach the coupon and return it as soon as possible. 
 
@@ -4828,20 +4302,6 @@ D[adv] {continually} They argue continually about money.
 [verb] {~ yourself (from sb/sth)} She detached herself from his embrace. 
 
 "to leave or separate yourself from sb/sth"
-
-
-
-05.moral  [ˈmɒrəl] [ˈmɔːrəl]
-
-[adj] a moral issue/dilemma/question. 
-
-"concerned with principles of right and wrong behaviour"
-
-[adj] moral responsibility/duty. "based on your own sense of what is right and fair, not on legal rights or duties" -ethical  [ˈeθɪkl] -
-
-[adj] He led a very moral life. "following the standards of behaviour considered acceptable and right by most people" -good/honourable-
-
-[noun] Young people these days have no morals."standards or principles of good behaviour, especially in matters of sexual relationships"
 
 
 
@@ -6176,19 +5636,11 @@ He winced at the thought of dining with Camilla.
 
 
 
-03.inflation [ɪnˈfleɪʃn] 
+03.squeeze [skwiːz] 
 
-[noun] the fight against rising inflation. 
+[verb]  to squeeze a tube of toothpaste. 
 
-"a general rise in the prices of services and goods in a particular country, resulting in a fall in the value of money; the rate at which this happens"
-
-
-
-04.deflation  [ˌdiːˈfleɪʃn]  
-
-[noun] Deflation is beginning to take hold in the clothing industry.
-
-"a reduction in the amount of money in a country's economy so that prices fall or remain the same"
+"to press sth firmly, especially with your fingers"
 
 
 
@@ -6454,7 +5906,7 @@ D[noun] to be sentenced to life imprisonment for murder.
 
 
 
-#### 2020/05/18.08
+#### 2020/05/18.09
 
 01.synonym /ˈsɪnənɪm/
 
@@ -6552,7 +6004,9 @@ twisted ankle vs sprained ankle
 
 
 
+09.playfully [ˈpleɪfəli]
 
+[adv] "开玩笑地;游戏地;调皮地"she loosened the half-hoop of diamonds on her left hand third finger and held it out to him playfully."in a playful manner"
 
 
 
@@ -7794,9 +7248,7 @@ strike a balance /straɪk ə ˈbæləns/
 
 
 
-10.enthusiasm  [ɪnˈθjuːziæzəm] "热忱"
 
-I can't say I share your enthusiasm for the idea."a strong feeling of excitement and interest in sth and a desire to become involved in it"
 
 
 
@@ -8441,7 +7893,7 @@ sliced meat.
 
 
 
-#### 2020/07/14.15
+#### 2020/07/14.16
 
 01.cumin /ˈkjuːmɪn/
 
@@ -8589,6 +8041,16 @@ So, while all four words describe something that is important, crucial implies t
 "to a crucial degree"
 
 
+
+16.critical [ˈkrɪtɪkl] 
+
+[adj] a critical comment/report.
+
+"expressing **disapproval** of sb/sth and saying what you think is bad about them"
+
+[adj] a critical factor in the election campaign. 
+
+"extremely important because a future situation will be affected by it" -crucial-
 
 
 
@@ -9158,6 +8620,22 @@ Don't despair! We'll think of a way out of this."to stop having any hope that a 
 
 
 
+03.dictate  [dɪkˈteɪt , ˈdɪkteɪt]
+
+[verb] {~ (sth) (to sb)} He dictated a letter to his **secretary**. "to say words for sb else to write down"
+
+[verb] {~ (sth) (to sb)}  They are in no position to dictate terms (= tell other people what to do).
+
+"to tell sb what to do, especially in an annoying way"
+
+[verb] When we take our vacations is very much dictated by Greg's work schedule."to control or influence how sth happens"-determine-
+
+[noun] to follow the dictates of fashion. "an order or a rule that you must obey"
+
+{**dictate to sb**} She refused to be dictated to by anyone."to give orders to sb, often in a rude or aggressive way"
+
+
+
 #### 2020/08/09.05
 
 01.drain [dreɪn]
@@ -9670,6 +9148,14 @@ Within weeks, his confidence had spread throughout the team. "to affect or make 
 
 
 
+12.determinant [dɪˈtɜː(r)mɪnənt] 
+
+[noun] Education has long been an important determinant of countries' wealth. 
+
+"a thing that decides whether or how sth happens"
+
+
+
 #### 2020/08/26.12
 
 01.pop up  [ˈpɒp ʌp]
@@ -10060,6 +9546,16 @@ D[noun] a skin irritation.
 
 #### 2020/09/02.12
 
+01.documentation  [ˌdɒkjumenˈteɪʃn]   [ˌdɑːkjumenˈteɪʃn] 
+
+[noun] I couldn't enter the country because I didn't have all the necessary documentation.
+
+"the documents that are required for sth, or that give evidence or proof of sth"
+
+[noun] the documentation of an agreement.
+
+"the act of recording sth in a document; the state of being recorded in a document"
+
 
 
 
@@ -10165,6 +9661,10 @@ mutually.
 [n] The comparison shows considerable disagreement between theory and practice. 
 
 "a difference between two things that should be the same"
+
+
+
+
 
 
 
@@ -11545,19 +11045,7 @@ These are freshly dug mass graves.
 
 
 
-10.tear  [ter , tɪr] tore torn
 
-[verb]  I tore my jeans on the fence. 
-
-"to damage sth by pulling it apart or into pieces or by cutting it on sth sharp; to become damaged in this way"
-
-[noun]  This sheet has a tear in it.
-
-"a hole that has been made in sth by tearing"
-
-[noun] A tear rolled down his face. 
-
-"a drop of liquid that comes out of your eye when you cry"
 
 
 
@@ -13056,7 +12544,7 @@ I've read all the available literature on keeping rabbits. "pieces of writing or
 
 
 
-#### 2020/10/05.04
+#### 2020/10/05.07
 
 01.ribbon  [ˈrɪbən] 
 
@@ -13109,6 +12597,30 @@ In summary, while both straps and ribbons are long, narrow strips, the key diffe
 [verb] {~ yourself (sth)} "to refuse to let yourself have sth that you would like to have, especially for moral or religious reasons"
 
 deny,denial [dɪˈnaɪəl],undeniable [ˌʌndɪˈnaɪəbl]
+
+
+
+06.external  [ɪkˈstɜːnl]
+
+[adj]  the external walls of the building. "connected with or located on the outside of sth/sb"
+
+D[adv] The building has been restored externally and internally.
+
+internal  [ɪnˈtɜː(r)nl] 
+
+[adj] the internal structure of a building. "connected with the inside of sth"
+
+D[adv] internally connected rooms.
+
+
+
+07.internally /ɪnˈtɜrnəli/
+
+[adv] The new posts were only advertised internally.
+
+"on or from the inside"
+
+
 
 
 
@@ -14855,7 +14367,13 @@ rest assured.
 
 
 
+13.caretaker  [ˈkeəteɪkə(r)]
 
+[noun] "a person whose job is to take care of a building such as a school or a block of flats or an apartment building"
+
+[noun] "a person who takes care of a house or land while the owner is away"
+
+[adj] a caretaker manager/government . "in charge for a short time, until a new leader or government is chosen"
 
 
 
@@ -15898,7 +15416,7 @@ D[noun] "elimination"
 
 
 
-#### 2020/10/26.05
+#### 2020/10/26.07
 
 01.numerator  [ˈnjuːməreɪtə(r)] 
 
@@ -15935,6 +15453,22 @@ D[noun] "elimination"
 [noun] a pair of dice. "a small cube of wood, plastic, etc., with a different number of spots on each of its sides, used in games of chance"
 
 [verb] diced carrots. "to cut meat, vegetables, etc. into small square pieces" "切丁"
+
+
+
+06.stats [stæts]
+
+[noun] Statistics is the study of numbers and the law between numbers. 
+
+"statistics"
+
+
+
+07.axis [ˈæksɪs]
+
+[noun] Mars takes longer to revolve on its axis than the earth. "an imaginary line through the centre of an object, around which the object turns"
+
+[noun] the vertical/horizontal axis. "a fixed line against which the positions of points are measured, especially points on a graph"
 
 
 
@@ -17640,7 +17174,7 @@ D[noun]  Rioting broke out in the capital.
 
 
 
-#### 2020/11/27.05
+#### 2020/11/27.06
 
 01.disseminate  [dɪˈsemɪneɪt]
 
@@ -17674,7 +17208,15 @@ It took years to disseminate information about Aids in Africa...
 
 
 
-05.premium  [ˈpriːmiəm] 
+05.in addition to /ɪn əˈdɪʃn tu/
+
+[] In addition to my weekly wage, I got a lot of tips. 
+
+"as an **extra** person, thing, or circumstance."
+
+
+
+06.premium  [ˈpriːmiəm] 
 
 [noun] a monthly premium of £6.25."an amount of money that you pay once or regularly for an insurance policy"
 
@@ -19050,6 +18592,14 @@ The banks are set to merge next year.
 
 
 
+05.integrate /ˈɪntɪɡreɪt/
+
+[v]  These programs will integrate with your existing software.
+
+"to **combine two or more things** so that they work together; to combine with sth else in this way"
+
+
+
 #### 20210107.04
 
 01.plain [pleɪn]
@@ -19875,13 +19425,7 @@ D[noun] pharmacological research.
 
 
 
-05.refute  [rɪˈfjuːt] 
 
-[verb] to refute an argument/a theory, etc. "to prove that sth is wrong" -rebut-
-
-[verb] She refutes any suggestion that she behaved unprofessionally. "to say that sth is not true or fair"
-
-D[noun] a refutation of previously held views.
 
 
 
@@ -20142,7 +19686,15 @@ D[noun] a refutation of previously held views.
 
 
 
+02.cryptographic [,krɪptə'ɡræfɪk]
 
+[adj] "of or relating to cryptanalysis"
+
+
+
+03.cryptanalysis
+
+[n] "the science of analyzing and deciphering codes and ciphers and cryptograms"
 
 
 
@@ -21667,7 +21219,7 @@ D[adj] a cowardly attack on a defenceless man.
 
 
 
-#### 20210223.16
+#### 20210223.18
 
 01.colloquial  [kəˈləʊkwiəl] 
 
@@ -21697,7 +21249,9 @@ D[adj] a cowardly attack on a defenceless man.
 
 
 
+05.regression [rɪˈɡreʃn] 
 
+[noun] {~ (to sth)} "the process of going back to an earlier or less advanced form or state"
 
 
 
@@ -21796,6 +21350,26 @@ D[adj] a cowardly attack on a defenceless man.
 17.semicolon [ˌsemiˈkəʊlən] 
 
 [noun] " ; "
+
+
+
+18.tick  [tɪk] 
+
+[v] In the silence we could hear the clock ticking.
+
+"to make short, light, regular repeated sounds to mark time passing"
+
+[v] Please tick the appropriate box. 
+
+"to put a mark (✓) next to an item on a list, an answer, etc."
+
+"标记号;打上钩"
+
+[n] Put a tick in the appropriate box if you would like further information about any of our products. 
+
+"a mark (✓) put beside a sum or an item on a list, usually to show that it has been checked or done or is correct"
+
+
 
 
 
@@ -22371,11 +21945,7 @@ immigrant (移民者) immigration (移民的过程; 移民局检查站, 移民�
 
 
 
-
-
-
-
-05.polish [ˈpɒlɪʃ]   [ˈpɑːlɪʃ] 
+04.polish [ˈpɒlɪʃ]   [ˈpɑːlɪʃ] 
 
 [noun] furniture/floor/shoe/silver polish. "a substance used when rubbing a surface to make it smooth and shiny"
 
@@ -22389,7 +21959,7 @@ immigrant (移民者) immigration (移民的过程; 移民局检查站, 移民�
 
 
 
-06.lounge  [laʊndʒ] 
+05.lounge  [laʊndʒ] 
 
 [noun] the departure lounge. "a room for waiting in at an airport, etc."
 
@@ -22397,13 +21967,21 @@ immigrant (移民者) immigration (移民的过程; 移民局检查站, 移民�
 
 
 
-07.board [bɔː(r)d]
+06.board [bɔː(r)d]
 
 [noun] "a long thin piece of strong hard material, especially wood, used, for example, for making floors, building walls and roofs and making boats"
 
 [verb] The ship was boarded by customs officials. "to get on a ship, train, plane, bus, etc."
 
 [verb]Flight BA193 for Paris is now boarding at Gate 37. "when a plane or ship is boarding , it is ready for passengers to get on"
+
+
+
+07.next door /ˌnekst ˈdɔːr/
+
+[adv]The cat is from the house next door. "in the next room, house or building"
+
+[noun] Is that next door's dog? "the people who live in the house or flat/apartment next to yours"
 
 
 
@@ -23093,7 +22671,7 @@ The shadow of doubt began to creep into her mind.
 
 
 
-#### 20210321.12
+#### 20210321.14
 
 01.giggle  [ˈɡɪɡl] 
 
@@ -23105,17 +22683,27 @@ The shadow of doubt began to creep into her mind.
 
 
 
-02.imitation [ˌɪmɪˈteɪʃn]
+02.silly /ˈsɪli/
 
-[n] a poor/cheap imitation of the real thing."a copy of sth, especially sth expensive"
+[adj] a silly idea.
 
-[n] A child learns to talk by imitation."the act of copying sb/sth"
+"showing a lack of thought, understanding or judgement" foolish
 
 
 
-03.spokesperson  [ˈspoʊkspɜːrsn] 
+> In informal expressions "stupid" doesn't have to mean always lacking intelligence or unable to think clearly ,it could also express being bored of something or someone " your stupid stuff!!" 
+>
+> When you say something " silly" or ask a silly question sometimes it is not really out of foolishness, but with an intention of being funny or making people laugh. When you tell someone "Don't act so silly" you rather sympathize with their attitude!. 
+>
+> If I told you that the difference between them both is "lly and tupd" then I am being silly ,but if I told you that there is no difference at all then I am rather stupid !
 
-[n] "a person who speaks on behalf of a group or an organization"
+
+
+03.sympathize /ˈsɪmpəθaɪz/
+
+[v]  I find it very hard to sympathize with him.
+
+"to feel sorry for sb; to show that you understand and feel sorry about sb's problems"
 
 
 
@@ -23192,6 +22780,22 @@ The shadow of doubt began to creep into her mind.
 [adj] I feel absolutely terrific today!"excellent; wonderful"
 
 [adj] I've got a terrific amount of work to do."very large; very great"
+
+
+
+13.imitation [ˌɪmɪˈteɪʃn]
+
+[n] a poor/cheap imitation of the real thing."a copy of sth, especially sth expensive"
+
+[n] A child learns to talk by imitation."the act of copying sb/sth"
+
+
+
+14.spokesperson  [ˈspoʊkspɜːrsn] 
+
+[n] "a person who speaks on behalf of a group or an organization"
+
+
 
 
 
@@ -25105,20 +24709,6 @@ D[adj] a monogamous marriage.
 
 
 
-03.causality  [kɔːˈzæləti] 
-
-[noun] It may be possible to receive the" reply "before sending the" message", in this case causality would be violated.  
-
-"the relationship between sth that happens and the reason for it happening; the principle that nothing can happen without a cause"
-
-
-
-04.causal /ˈkɔːzl/
-
-[adj] the causal relationship between poverty and disease./ causal CNN.
-
-"connected with the relationship between two things, where one causes the other to happen"
-
 
 
 05.omnipotent  [ɒmˈnɪpətənt]
@@ -25717,7 +25307,19 @@ empathy for other people's situations.
 
 
 
+04.advertise  [ˈædvə(r)taɪz] 
 
+[verb]  If you want to attract more customers, try advertising in the local paper. 
+
+"to tell the public about a product or a service in order to encourage people to buy or to use it"
+
+[noun] We are currently advertising for a new sales manager. 
+
+"to let people know that sth is going to happen, or that a job is available by giving details about it in a newspaper, on a notice in a public place, on the Internet, etc."
+
+ [noun]  I wouldn't advertise the fact that you don't have a work permit. 
+
+"to show or tell sth about yourself to other people"
 
 
 
@@ -26576,7 +26178,7 @@ Kim Jong-un's slimmer frame has prompted more speculation about his health./Ther
 
 
 
-#### 20210623.03
+#### 20210623.02
 
 01.crackdown [ˈkrækdaʊn] 
 
@@ -26593,20 +26195,6 @@ Kim Jong-un's slimmer frame has prompted more speculation about his health./Ther
 "to shock and upset sb very much, often making them unable to think or work normally"
 
 
-
-03.bankrupt [ˈbæŋkrʌpt]
-
-[adj] They went bankrupt in 1993.
-
-"without enough money to pay what you owe" -insolvent[ɪnˈsɒlvənt]  [ɪnˈsɑːlvənt]-
-
-[adj] {~ (of sth)} a government bankrupt of new ideas. "completely lacking in anything that has value"
-
-[verb] The company was almost bankrupted by legal costs."to make sb bankrupt"
-
-[noun] The bankrupt must assign all of his patents to the receiver.
-
-"a person who has been judged by a court to be unable to pay his or her debts"
 
 
 
@@ -26768,7 +26356,7 @@ Kim Jong-un's slimmer frame has prompted more speculation about his health./Ther
 
 
 
-#### 20210630.06
+#### 20210630.09
 
 01.travel bubble
 
@@ -26852,9 +26440,7 @@ Kim Jong-un's slimmer frame has prompted more speculation about his health./Ther
 
 
 
-10.horn 
 
-[n] horn{antler, ram's horn, ox horn}
 
 
 
@@ -26892,13 +26478,7 @@ The cabinet rallied behind the Prime Minister."to come together or bring people 
 
 
 
-04.toxic [ˈtɒksɪk] [ˈtɑːksɪk] 
 
-[adj] toxic chemicals/fumes/gases/substances. 
-
-Hun Pheap lost her husband after he drank a toxic alcoholic homebrew
-
-"containing poison; poisonous"
 
 
 
@@ -28309,7 +27889,7 @@ The wind veered to the west.
 
 
 
-#### 20210908.02
+#### 20210908.04
 
 01.supplement  [ˈsʌplɪmənt , ˈsʌplɪment] 
 
@@ -28338,6 +27918,18 @@ The wind veered to the west.
 03.dietary sources /ˈdaɪətəri/
 
 [phrase] Although creatine occurs naturally in some foods, dietary sources are not normally sufficient to provide for the body’s needs, so creatine is synthesised in the body from the amino acid arginine and another precursor molecule called guanidinoacetate. 
+
+
+
+04.insufficient  [ˌɪnsəˈfɪʃnt] 
+
+[adj] insufficient time. "not large, strong or important enough for a particular purpose"
+
+D[adv]  insufficiently.
+
+D[noun]  insufficiency.
+
+
 
 #### 20210909.02
 
@@ -28717,7 +28309,7 @@ in a fixed or stable manner"
 
 
 
-#### 20210926.10
+#### 20210926.11
 
 01.tractor [ˈtræktə(r)] 
 
@@ -28792,6 +28384,18 @@ in a fixed or stable manner"
 [noun] in a frenzy of activity/excitement/violence./Cosmetics stocks gain on K-beauty frenzy.
 
 "a state of great activity and strong emotion that is often violent or frightening and not under control"
+
+
+
+11.ranking [ˈræŋkɪŋ] 
+
+[noun] He has improved his ranking this season from 67th to 30th.
+
+"the position of sb/sth on a scale that shows how good or important they are in relation to other similar people or things, especially in sport"
+
+ [**adj**]  He was the ranking officer(= the most senior officer present at a particular time) 
+
+"having a high or the highest rank in an organization, etc."
 
 
 
@@ -30036,7 +29640,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-#### 2021/11/14.07
+#### 2021/11/14.11
 
 01.account for  [əˈkaʊnt fɔː(r)]
 
@@ -30117,6 +29721,18 @@ The government will begin expanding efforts to crack down on unauthorized accomm
 [v] He was accused of appropriating club funds.
 
 "to take sth, sb's ideas, etc. for your own use, especially illegally or without permission"
+
+
+
+11.store  [stɔːr] 
+
+[noun] a big department store. "a large shop that sells many different types of goods"
+
+[noun] a health food store. "a shop, large or small"
+
+[noun] a vast store of knowledge. "a quantity or supply of sth that you have and use"
+
+[verb] animals storing up food for the winter. {~ sth (away/up)} "to put sth somewhere and keep it there to use later"
 
 
 
@@ -31189,7 +30805,7 @@ The store sells women's and children's apparel."clothing, when it is being sold 
 
 
 
-#### 12/09.04
+#### 12/09.09
 
 01.boycott [ˈbɔɪkɒt]  [ˈbɔɪkɑːt] 
 
@@ -31249,11 +30865,12 @@ The store sells women's and children's apparel."clothing, when it is being sold 
 
 
 
-"Pronounced" typically describes something that is very noticeable or prominent, often because it is emphasized or exaggerated. For example, you might say that someone has a pronounced accent, meaning that their way of speaking stands out and is very distinct. Similarly, a pronounced feature of a building might refer to a particular element that is especially prominent or noticeable.
-
-"Obvious," on the other hand, simply means that something is easily perceived or understood, without necessarily implying that it is particularly prominent or emphasized. For instance, you might say that it's obvious that it's raining outside because you can hear the sound of the raindrops on the **roof**, even if the rain is not particularly heavy or noticeable.
-
-In summary, "pronounced" suggests that something is very noticeable or **prominent**, often because it is emphasized, while "obvious" simply means that something is easily perceived or understood, without necessarily implying that it is particularly prominent or emphasized.
+> "Pronounced" typically describes something that is very noticeable or prominent, often because it is emphasized or exaggerated. For example, you might say that someone has a pronounced accent, meaning that their way of speaking stands out and is very distinct. Similarly, a pronounced feature of a building might refer to a particular element that is especially prominent or noticeable.
+>
+> "Obvious," on the other hand, simply means that something is easily perceived or understood, without necessarily implying that it is particularly prominent or emphasized. For instance, you might say that it's obvious that it's raining outside because you can hear the sound of the raindrops on the **roof**, even if the rain is not particularly heavy or noticeable.
+>
+> In summary, "pronounced" suggests that something is very noticeable or **prominent**, often because it is emphasized, while "obvious" simply means that something is easily perceived or understood, without necessarily implying that it is particularly prominent or emphasized.
+>
 
 
 
@@ -31270,6 +30887,22 @@ In summary, "pronounced" suggests that something is very noticeable or **promine
 [adj]  His hand went limp and the knife **clattered** to the ground.
 
 "lacking strength or energy"
+
+
+
+08.transformation [ˌtrænsfəˈmeɪʃn] 
+
+[noun] {~ (from sth) (to/into sth)} The way in which we work has undergone a complete transformation in the past decade. "a complete change in sb/sth"
+
+[noun] a lack of transformation in the private sector. "used in South Africa to describe the process of making institutions and organizations more democratic"
+
+
+
+09.prominent /ˈprɑːmɪnənt/
+
+[adj] He played a prominent part in the campaign. /AuM not only achieves comparable performance to the Audio Spectrogram Transformer (AST), the most prominent approach in audio classification, but also retains several advantages of transformer-based models."important or well known"
+
+[adj] The story was given a prominent position on the front page. "easily seen"
 
 
 
@@ -32999,16 +32632,6 @@ D[adv] riskiness
 
 #### 04/16.05
 
-01.blackmail [ˈblækmeɪl] 
-
-[noun] emotional/moral blackmail. 
-
-"the act of putting pressure on a person or a group to do sth they do not want to do, for example by making threats or by making them feel guilty"
-
-[verb] {~ sb (into doing sth)} Blackmailing from China.
-
-"to force sb to give you money or do sth for you by threatening them, for example by saying you will tell people a secret about them"
-
 
 
 02.defector [dɪˈfektə(r)]
@@ -33401,7 +33024,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-#### 05/16.04
+#### 05/16.05
 
 01.vet  [vet] 
 
@@ -33432,6 +33055,16 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 [n] Non-compliance with the manuscript format, including manipulation of margins or vertical spacing, will lead to automatic desk rejection.
 
 "the fact of failing or refusing to obey a rule"
+
+
+
+05.margin[ˈmɑː(r)dʒɪn]
+
+[noun] the left-hand/right-hand margin. "the empty space at the side of a written or printed page"
+
+[noun] He won by a narrow margin. "the amount of time, or number of votes, etc. by which sb wins sth"
+
+[business] a gross margin of 45%. "= profit margin"
 
 
 
@@ -33494,6 +33127,12 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 "action that a person takes against sb who has harmed them in some way"
 
 
+
+07.barb [bɑːrb]
+
+[noun] "the point of an arrow or a hook that is curved backwards to make it difficult to pull out"
+
+[noun] "a remark that is meant to hurt sb's feelings"
 
 
 
@@ -33668,7 +33307,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-#### 06/22.02
+#### 06/22.05
 
 01.demote [ˌdiːˈməʊt]  [ˌdiːˈmoʊt] 
 
@@ -33693,6 +33332,24 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 03.region  [ˈriːdʒən]
 
 [noun] the Arctic/tropical/desert, etc. regions. "a large area of land, usually without exact limits or borders"
+
+
+
+04.arctic  [ˈɑː(r)ktɪk] 
+
+[adj] Arctic explorers. "related to or happening in the regions around the North Pole"
+
+[adj] TV pictures showed the arctic conditions. "extremely cold"
+
+[noun] "the regions of the world around the North Pole"
+
+
+
+05.tropical [ˈtrɒpɪkl] 
+
+[adj] tropical fish. although unfortunately the collection of tropical palm trees has proved too expensive to replace up to now.
+
+"coming from, found in or typical of the tropics" 
 
 
 
@@ -34008,7 +33665,7 @@ The students left the classroom right after the class was over.
 
 
 
-#### 08/30.04
+#### 08/30.05
 
 01.pliers  [ˈplaɪərz]
 
@@ -34039,6 +33696,14 @@ The students left the classroom right after the class was over.
 04.persistent, vigorous and varied efforts [pəˈsɪstənt] [ˈvɪɡərəs]
 
 [adj] Despite persistent, vigorous and varied efforts to increase student body racial and ethnic diversity by race-neutral means
+
+
+
+05.diversity  [daɪˈvɜː(r)səti]
+
+[noun] the biological diversity of the rainforests. 
+
+"a range of many people or things that are very different from each other"
 
 
 
@@ -34358,7 +34023,7 @@ ICPR 2024 is the 27th event of the series and it provides a great opportunity to
 
 
 
-#### 10/31.09
+#### 10/31.10
 
 01.tragic  [ˈtrædʒɪk]
 
@@ -34443,6 +34108,18 @@ ICPR 2024 is the 27th event of the series and it provides a great opportunity to
 [phrase] *I* *know* *it's* *silly,* *but* *I* *can't* *help* *feeling* *like* *I* *failed* *you* *somehow.*
 
 "To have no control over or be unable to avoid some action."
+
+
+
+10.withstand  [wɪðˈstænd]
+
+[verb] The materials **used to** be able to withstand high temperatures. 
+
+Samsung to focus on car chips growth to withstand a slump in demand.
+
+"to be strong enough not to be hurt or damaged by extreme conditions, the use of force, etc."
+
+-resist/stand up to-
 
 
 
@@ -34804,7 +34481,11 @@ ICPR 2024 is the 27th event of the series and it provides a great opportunity to
 
 
 
+05.survival /sərˈvaɪvl/ 
 
+[n] His only chance of survival was a heart transplant.
+
+'the state of continuing to live or exist, often despite difficulty or danger' 'the noun of survive'
 
 
 
@@ -36135,7 +35816,7 @@ dizzy [ˈdɪzi]
 
 
 
-#### 01/08.05
+#### 01/08.12
 
 01.heritage [ˈherɪtɪdʒ] 
 
@@ -36224,6 +35905,14 @@ dizzy [ˈdɪzi]
 11.club
 
 [n] "one of the four set of cards (called suits ) in a pack/deck of cards. The clubs have a black design shaped like three black leaves on a short stem"
+
+
+
+12.linchpin /ˈlɪntʃpɪn/
+
+[n]  In a recent interview with Maeil Business Newspaper, Miller, also the author of best-seller “Chip War,” noted that Korea is a “linchpin” in the global techno big bang and chip supply chain and that the country will be able to play a leading role moving forward.
+
+"a person or thing that is the most important part of an organization, a plan, etc., because everything else depends on them or it"
 
 
 
@@ -37441,11 +37130,7 @@ Job hopping is **a trend that is growing exponentially in the labour market and 
 
 
 
-03.chemo/chemotherapy [ˌkiːmoʊˈθerəpi]
 
-[noun] Well, I ran 101 fever for three days, did a bunch of vomiting, and was too sick to really get out of bed for 5 or 6 days. Needless to say, that chemo isn't our winning combination.
-
-"the treatment of disease, especially cancer, with the use of chemical substances"
 
 
 
@@ -38041,7 +37726,7 @@ The problem is that for your coworkers to **replicate** your analysis, they must
 
 
 
-#### 04/06.07
+#### 04/06.11
 
 01.dethrone [ˌdiːˈθroʊn]
 
@@ -38140,6 +37825,40 @@ In summary, "young" simply describes someone who is not old, while "youthful" sp
 [adj] {~ (to sth)} surplus cash. "more than is needed or used"
 
 [adj]  {~ (to sth)} These items are surplus to requirements (= not needed) .
+
+
+
+09.mystique [mɪˈstiːk] 
+
+[noun] The mystique surrounding the **monarchy** has gone for ever. 
+
+"the quality of being **mysterious** or secret that makes sb/sth seem interesting or attractive"
+
+
+
+10.mysterious /mɪˈstɪriəs/
+
+[adj] He died in mysterious circumstances.
+
+"difficult to understand or explain; strange"
+
+[adj] {especially of people} A mysterious young woman is living **next door**.
+
+"strange and interesting because you do not know much about them"
+
+[adj] He was being very mysterious about where he was going.
+
+"not saying much about sth, especially when other people want to know more"
+
+
+
+11.monarchy /ˈmɑːnərki/
+
+[noun] plans to abolish the monarchy.
+
+"a system of government by a king or a queen"
+
+
 
 
 
@@ -38259,7 +37978,7 @@ D[noun]  the attractiveness of travelling abroad.
 
 
 
-#### 04/13.07
+#### 04/13.09
 
 01.resemblance /rɪˈzembləns/
 
@@ -38354,6 +38073,22 @@ D[noun]  the attractiveness of travelling abroad.
  "very interesting **because of being unusual** or not having an **obvious** answer"
 
 
+
+08.wig /wɪɡ/
+
+[noun] I **couldn't help**  <ins>`noticing`</ins>  she was wearing a wig.
+
+"a piece of artificial hair that is worn on the head, for example to hide the fact that a person is **bald** , to cover sb's own hair, or by a judge and some other lawyers in some courts of law"
+
+
+
+09.hairpiece /ˈherpiːs/
+
+[n] "a piece of false hair worn to make your own hair look longer or thicker"
+
+
+
+> Wigs are larger and cover the entire head, providing a complete change in hairstyle. They are often used to create a dramatic transformation or to cover complete hair loss. Hairpieces, on the other hand, are smaller and designed to cover specific areas of the head, such as the top, sides, or back.
 
 
 
@@ -42040,7 +41775,7 @@ bureau[v]  People were trampled underfoot in the rush for the exit.
 
 
 
-#### 09/13.04
+#### 09/13.07
 
 01.harness /ˈhɑːrnɪs/
 
@@ -42071,6 +41806,32 @@ bureau[v]  People were trampled underfoot in the rush for the exit.
 [adj] Altman said that the emergence of powerful tools such as ChatGPT will lead to an era within a few years where one-person startups can become unicorns, or unlisted companies with a valuation of over 1 trillion won ($754 million).
 
 "not on a published list, especially of stock exchange prices"
+
+
+
+05.era /ˈɪrə/
+
+[n] We play in different eras. He’s an unbelievable player. He’s one of the best players in the world, if not the best player in the world. I know its a natural tendency to compare eras to eras and it’s going to continue to happen. I’m a fan of his, I love watching him play. As you can see, our league is starting to expand on very talented players. I think he’s made his mark, he will continue to do so. But when you start the comparisons, I think it is what it is. It’s just a stand-up measurement. I take it with a grain of salt. He’s a heck of a basketball player without a doubt.
+
+"a period of time, usually in history, that is different from other periods because of particular characteristics or events"
+
+
+
+06.with a grain of salt 
+
+[phrase] It’s just a stand-up measurement. I take it with a grain of salt. He’s a heck of a basketball player without a doubt.
+
+"believe only part of something."
+
+
+
+07.domain   [dəˈmeɪn] 
+
+[noun] The care of older people is being placed firmly within the domain of the family. "an area of knowledge or activity; especially one that sb is responsible for"
+
+[noun] The Spice Islands were within the Spanish domains. "lands owned or ruled by a particular person, government, etc., especially in the past"
+
+
 
 
 
@@ -42232,27 +41993,7 @@ D[adv] The applicant has experience in teaching and, more relevantly, in industr
 
 
 
-02.vow /vaʊ/
-
-[n] to make/take a vow. 
-
-"a formal and serious promise, especially a religious one, to do sth"
-
-[v]  Meanwhile, Kakao Pay, which has already been available for making payments at Alipay merchants in China since March, vowed to strengthen its global services to 50 countries from the current 18 countries.
-
-"to make a formal and serious promise to do sth or a formal statement that is true"
-
-
-
-> "Promise" usually refers to something dad-to-day that you have told someone you will do. There is an expectation that once you promise to do it, you will do it. Example: "I promise I will take out the trash before you get home."  
->
-> "Swear" is like promise, but used for more important things. (It is a less formal word, so if you are in a work situation, use "promise" instead, as they can be interchangeable.) Example: "I swear I will never hurt you." 
->
->  "Vow" is reserved for formal ceremonies of commitment, like weddings. It is an official promise, often with religious connotations.
-
-
-
-03.ramp up 
+02.ramp up 
 
 [vp] As South Korean platform giant Naver Corp. has been ramping up efforts to expand its market presence in the business-to-business (B2B) sector with its in-house large language model (LLM) HyperClova X at its core, a recent report found that nearly 700 startups and research organizations have adopted HyperClova X.
 
@@ -42260,7 +42001,7 @@ D[adv] The applicant has experience in teaching and, more relevantly, in industr
 
 
 
-04.breach /briːtʃ/
+03.breach /briːtʃ/
 
 [n] The upcoming service is a hybrid cloud solution designed for enterprises, allowing them to develop their own AI models without any concern of security breaches or data leaks.
 
@@ -42496,7 +42237,7 @@ neglect vs ignore
 
 
 
-#### 10/18.06
+#### 10/18.09
 
 01.interpreter /ɪnˈtɜː(r)prətər/
 
@@ -42565,6 +42306,55 @@ counterfeit vs fake
 [n] Fear of **fakery** has not stopped the boom.
 
 "the act of faking (or the product of faking)"
+
+
+
+07.disturb [dɪˈstɜːrb]
+
+[noun] I'm sorry to disturb you, but can I talk to you for a moment? "to interrupt sb when they are trying to work, sleep, etc."
+
+[noun] Don't disturb the papers on my desk. "to move sth or change its position"
+
+[noun]  The letter shocked and disturbed me. "to make sb worry"
+
+D[noun]disturbance [dɪˈstɜːrbəns] 
+
+[noun] "actions that make you stop what you are doing, or that upset the normal state that sth is in; the act of disturbing sb/sth or the fact of being disturbed"
+
+
+
+08.interrupt  [ˌɪntəˈrʌpt] 
+
+[verb] {~ (sb/sth) (with sth)} Sorry to interrupt, but there's someone to see you. 
+
+"to say or do sth that makes sb stop what they are saying or doing"
+
+[verb] The game was interrupted several times by rain. "to stop sth for a short time"
+
+
+
+> Disturb and interrupt are two words that are often used interchangeably, but they do have slightly different meanings.
+>
+> - Disturb refers to an action that causes a disturbance or interruption in something that is already in progress. For example, if someone bursts into a quiet room and starts shouting, they are disturbing the peace and interrupting whatever was happening before they arrived.
+> - Interrupt, on the other hand, refers to an action that causes an abrupt stop or pause in something that is currently in progress. For example, if someone receives a phone call while they are in the middle of a conversation, the call interrupts their conversation and causes them to pause.
+>
+> In general, disturb implies a more gradual or ongoing disruption, while interrupt implies a **sudden** or **immediate disruption**. However, the two words are often used interchangeably in everyday language.
+
+
+
+09.interfere [ˌɪntəˈfɪə(r)]
+
+[v] {~ (in sth)} I wish my mother would stop interfering and let me make my own decisions. 
+
+"to get involved in and try to influence a situation that does not concern you, in a way that annoys other people"
+
+[verb phrase] **interfere with sb**. "to illegally try to influence sb who is going to give evidence in court, for example by threatening them or offering them money"
+
+[verb phrase]  **interfere with sth**. She never allows her personal feelings to interfere with her work.
+
+"to prevent sth from succeeding or from being done or happening as planned"
+
+[verb phrase]  I'd get fired if he found out I'd been interfering with his records. "to touch, use or change sth, especially a piece of equipment, so that it is damaged or no longer works correctly"
 
 
 
@@ -42761,35 +42551,13 @@ The officer briefed her on what to expect  [verb] "给(某人)指示;向(某人)
 
 
 
-#### 10/30.04
-
-01.pharmacy /ˈfɑː(r)məsi/
-
-[n] "a shop/store, or part of one, that sells medicines and drugs"
-
-[n] "the study of how to prepare medicines and drugs"
+#### 10/30.01
 
 
 
-02.pharmaceutical /ˌfɑːrməˈsuːtɪkl/
-
-[adj] the pharmaceutical industry.
-
-"connected with making and selling drugs and medicines"
-
-[n] the development of new pharmaceuticals.
-
-"a drug or medicine"
 
 
-
-03.pharmaceutist 
-
-[n] "**a person qualified to prepare and dispense drugs**."
-
-
-
-04.fine-grained classification
+01.fine-grained classification
 
 [adj] **Fine-Grained Image Classification** is a task in computer vision where the goal is to classify images into subcategories within a larger category. For example, classifying different species of **birds** or different types of **flowers**. This task is considered to be fine-grained because it requires the model to distinguish between subtle differences in visual appearance and patterns, making it more challenging than regular image classification tasks.
 
@@ -44874,6 +44642,12 @@ d[adv]shabbily dressed
 
 
 
+> both mean the same thing more or less. I went home to relax. I went home to unwind. means exactly the same thing.
+>
+> relax is probably used more in all honesty. Unwind is a little more informal and probably more used amongst friends. nobody would misunderstand you if you used unwind instead of relax.
+
+
+
 #### 03/04.05
 
 01.hazel /ˈheɪzl/
@@ -45467,7 +45241,7 @@ The series touches on different social issues, **dopamine-driven** media addicti
 
 
 
-#### 05/05.04
+#### 05/05.05
 
 01.oblique /əˈbliːk/
 
@@ -45498,6 +45272,22 @@ The series touches on different social issues, **dopamine-driven** media addicti
 [vp] Keep your shirt on, Bob, they'll be here in time for the wedding.
 
 "**Stay calm, be patient; not give way to temper or excitement**."
+
+
+
+05.consumption [kənˈsʌmpʃn] 
+
+[noun] Gas and oil consumption always increases in cold weather.  
+
+"the act of using energy, food or materials"
+
+[noun] Consumption rather than saving has become the central feature of contemporary societies.
+
+"the act of buying and using products"
+
+[noun] "a serious infectious disease of the lungs" -tuberculosis  [tjuːˌbɜːkjuˈləʊsɪs] -
+
+
 
 
 
@@ -45899,7 +45689,7 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 
 
-#### 06/09.03
+#### 06/09.04
 
 01.avid /ˈævɪd/
 
@@ -45910,6 +45700,21 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 [adj] He was avid for more information.
 
 "wanting to get sth very much"
+
+
+
+> Both *avid* and *keen* express strong enthusiasm, but they differ slightly in usage and nuance:
+>
+> 1. **Avid** → Intense passion, sometimes to the point of obsession.
+>    - Typically used before nouns (e.g., *avid reader*, *avid supporter*).
+>    - Can imply eagerness that might be excessive.
+>    - Example: *She’s an avid researcher in deep learning.*
+> 2. **Keen** → Strong interest or enthusiasm, but more balanced.
+>    - More versatile in placement (*keen on something* or *keen interest*).
+>    - Can describe intelligence or perception (*keen mind*, *keen sense*).
+>    - Example: *He’s keen on learning about Mamba optimizers.*
+>
+> So, if you’re talking about yourself, saying *I’m an avid researcher* sounds more intense, while *I’m keen on researching* sounds more natural and conversational.
 
 
 
@@ -45924,6 +45729,12 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 03.encampment /ɪnˈkæmpmənt/
 
 [n] a military encampment "a group of tents, huts , etc. where people live together, usually for only a short period of time"
+
+
+
+04.enthusiasm  [ɪnˈθjuːziæzəm] "热忱"
+
+I can't say I share your enthusiasm for the idea."a strong feeling of excitement and interest in sth and a desire to become involved in it"
 
 
 
@@ -46857,11 +46668,7 @@ However, your trip must be temporary and you cannot remain outside the United St
 
 
 
-02.casualty  /ˈkæʒuəlti/
 
-[n] Both sides had suffered heavy casualties (= many people had been killed) .
-
-"a person who is killed or injured in war or in an accident"
 
 
 
@@ -47125,7 +46932,7 @@ What is behind NewJeans's 2-week ultimatum to HYBE?
 
 
 
-#### 11/13.02
+#### 11/13.01
 
 01.cohabit /koʊˈhæbɪt/
 
@@ -47135,11 +46942,7 @@ What is behind NewJeans's 2-week ultimatum to HYBE?
 
 
 
-02.detoxify /ˌdiːˈtɑːksɪfaɪ/
 
-[v] There is not much harm in taking tea after banana, but I would suggest to take a break of 30 mins in between consuming both. Personal suggestion: **You can take Green Tea and banana in the early morning**. It will give you energy and also helps to detoxify your body.
-
-"to remove harmful substances or poisons from sth"
 
 
 
@@ -47954,7 +47757,7 @@ Key Differences:
 
 
 
-#### 01/29.06
+#### 01/29.07
 
 01.freak out /friːk aʊt/
 
@@ -48004,7 +47807,15 @@ Key Differences:
 
 
 
-#### 01/30.08
+07.confuse  [kənˈfjuːz]
+
+[verb] They confused me with conflicting accounts of what happened. "to make sb unable to think clearly or understand sth"
+
+
+
+
+
+#### 01/30.09
 
 01.gastroscopy /ɡæsˈtrɑːskəpi/
 
@@ -48090,7 +47901,15 @@ Key Differences:
 
 
 
+09.appreciate /əˈpriːʃieɪt/
 
+[verb] {not used in the progressive tenses } His talents are not fully appreciated in that company. "赏识"
+
+"to recognize the good qualities of sb/sth"
+
+[v] You can't really appreciate foreign literature in translation.
+
+"to recognize the good qualities of sb/sth"
 
 
 
@@ -48889,11 +48708,7 @@ I was thrilled to be invited. /We’re thrilled to bring forward the Apple Healt
 
 
 
-05.reciprocal /rɪˈsɪprəkl/
 
-[adj] “We are, right now, a reciprocal nation... We’re going to have whatever India charges, we’re charging them. Whatever another country charges, we’re charging them. So it’s called reciprocal, which I think is a very fair way,” the U.S. president said at the press briefing. 
-
-"involving two people or groups who agree to help each other or behave in the same way to each other"
 
 
 
@@ -50289,6 +50104,18 @@ The apple tree has born fruits.
 
 
 
+06.awful   [ˈɔːfl]
+
+[adj] {informal} That's an awful colour.  "very bad or unpleasant"
+
+[adj] {informal} It's going to cost **an awful lot** of money.
+
+"used to emphasize sth, especially that there is a large amount or too much of sth"
+
+[adv] Clint is awful smart.  "very; extremely"
+
+
+
 #### 03/14.03
 
 01.foster /ˈfɑːstər/
@@ -50800,7 +50627,7 @@ The difference between "wiggle" and "jiggle" is **the control had in the movemen
 
 
 
-#### 03/31
+#### 03/31.12
 
 01.stigma /ˈstɪɡmə/
 
@@ -50871,6 +50698,414 @@ The tidal energy is not stable.
 "Tidal energy is **a form of hydropower [ˈhaɪdrəʊ] that converts energy obtained from tides into useful forms of power**"
 
 
+
+08.causality  [kɔːˈzæləti] 
+
+[noun] It may be possible to receive the" reply "before sending the" message", in this case causality would be violated.  
+
+"the relationship between sth that happens and the reason for it happening; the principle that nothing can happen without a cause"
+
+
+
+09.causal /ˈkɔːzl/
+
+[adj] the causal relationship between poverty and disease./ causal CNN.
+
+"connected with the relationship between two things, where one causes the other to happen"
+
+
+
+10.casualty  /ˈkæʒuəlti/
+
+[n] Both sides had suffered heavy casualties (= many people had been killed) .
+
+"a person who is killed or injured in war or in an accident"
+
+
+
+11.casual /ˈkæʒuəl/
+
+[adj] He tried to sound casual, but I knew he was worried.
+
+"not showing much care or thought; seeming not to be worried; not wanting to show that sth is important to you"
+
+
+
+12.refute  [rɪˈfjuːt] 
+
+[verb] to refute an argument/a theory, etc. "to prove that sth is wrong" -rebut-
+
+[verb] She refutes any suggestion that she behaved unprofessionally./ Actor Kim Soo-hyun on Monday refuted allegations that he had dated the late actor Kim Sae-ron when she was underage, reiterating his previous statement that their relationship began after she became an adult.
+
+"to say that sth is not true or fair"
+
+D[noun] a refutation of previously held views.
+
+
+
+#### 04/01.02
+
+01.remuneration /rɪˌmjuːnəˈreɪʃn/
+
+[n] This Remuneration Report provides detailed reporting on the remuneration of our registered executives. 
+
+"an amount of money that is paid to sb for the work they have done"
+
+
+
+02.executive /ɪɡˈzekjətɪv/
+
+[n] advertising/business/sales, etc. executives.
+
+"a person who has an important job as a manager of a company or an organization"
+
+
+
+#### 04/02.05
+
+01.hooter /ˈhuːtər/
+
+[n] Hooters is going bust. The U.S. restaurant chain, known for chicken wings and its skimpy “Hooters Girls” wait-staff outfits, **has filed for bankruptcy protection**. 
+
+"a woman's breast"
+
+[n] "A **hooter** is a device such as a horn that makes a hooting noise."
+
+
+
+02.bankrupt [ˈbæŋkrʌpt]
+
+[adj] They went bankrupt in 1993.
+
+"without enough money to pay what you owe" -insolvent[ɪnˈsɒlvənt]  [ɪnˈsɑːlvənt]-
+
+[adj] {~ (of sth)} a government bankrupt of new ideas. "completely lacking in anything that has value"
+
+[verb] The company was almost bankrupted by legal costs."to make sb bankrupt"
+
+[noun] The bankrupt must assign all of his patents to the receiver.
+
+"a person who has been judged by a court to be unable to pay his or her debts"
+
+
+
+03.horn /hɔːrn/
+
+[n]  to honk your car horn.
+
+"a device in a vehicle for making a loud sound as a warning or signal"
+
+[n] A mature cow has horns.
+
+"The **horns** of an animal such as a cow or deer are the hard pointed things that grow from its head."
+
+
+
+04.radiation /ˌreɪdiˈeɪʃn/
+
+[n] a radiation leak from a nuclear power station./A research team at KAIST, led by Dr. Cho Kwang-hyun, has found a way to reprogram cancer cells into normal, healthy ones by manipulating key genetic networks. This breakthrough discovery could lead to cancer treatments that eliminate tumors without chemotherapy or radiation.
+
+"powerful and very dangerous rays that are sent out from radioactive substances"
+
+[n] "the treatment of cancer and other diseases using radiation"
+
+
+
+05.chemo/chemotherapy [ˌkiːmoʊˈθerəpi]
+
+[noun] Well, I ran 101 fever for three days, did a bunch of vomiting, and was too sick to really get out of bed for 5 or 6 days. Needless to say, that chemo isn't our winning combination.
+
+"the treatment of disease, especially cancer, with the use of chemical substances"
+
+
+
+#### 04/03.05
+
+01.moral  [ˈmɒrəl] [ˈmɔːrəl]
+
+[adj] a moral issue/dilemma/question. 
+
+"concerned with principles of right and wrong behaviour"
+
+[adj] moral responsibility/duty. "based on your own sense of what is right and fair, not on legal rights or duties" -ethical  [ˈeθɪkl] -
+
+[adj] He led a very moral life. "following the standards of behaviour considered acceptable and right by most people" -good/honourable-
+
+[noun] Young people these days have no morals."standards or principles of good behaviour, especially in matters of sexual relationships"
+
+
+
+02.blackmail [ˈblækmeɪl] 
+
+[noun] emotional/**moral blackmail**. 
+
+"the act of putting pressure on a person or a group to do sth they do not want to do, for example by making threats or by making them feel guilty"
+
+[verb] {~ sb (into doing sth)} Blackmailing from China.
+
+"to force sb to give you money or do sth for you by threatening them, for example by saying you will tell people a secret about them"
+
+
+
+03.coercion /koʊˈɜːrʒn/
+
+[n] He claimed he had only acted under coercion.
+
+"the action of making sb do sth that they do not want to do, using force or threatening to use force"
+
+
+
+04.out of the woods /aʊt əv ðə wʊdz/
+
+[n] Still not out of the woods.
+
+"out of danger or difficulty."
+
+
+
+05.lifeline /ˈlaɪflaɪn/
+
+[n] we are not out of the woods but we have been thrown a lifeline.
+
+ "A **lifeline** is something that enables an organization or group to survive or to continue with an activity."
+
+
+
+#### 04/04.03
+
+01.turmoil /ˈtɜːrmɔɪl/
+
+[n] Federal Reserve is unlikely to rescue markets and economy from tariff turmoil anytime soon.
+
+"a state of great anxiety and confusion"
+
+
+
+02.anytime soon
+
+[n] "In near future"
+
+
+
+03.nonchalant /ˌnɑːnʃəˈlɑːnt/
+
+[adj] At the Chinese export hub of Yiwu on Thursday, businesses seemed nonchalant about the impact of the new U.S. tariffs, 
+
+"behaving in a calm and relaxed way; giving the impression that you are not feeling any anxiety"
+
+
+
+#### 04/07.02
+
+01.toxic [ˈtɒksɪk] [ˈtɑːksɪk] 
+
+[adj] toxic chemicals/fumes/gases/substances. 
+
+Hun Pheap lost her husband after he drank a toxic alcoholic homebrew
+
+"containing poison; poisonous" 
+
+
+
+02.detoxify /ˌdiːˈtɑːksɪfaɪ/
+
+[v] There is not much harm in taking tea after banana, but I would suggest to take a break of 30 mins in between consuming both. Personal suggestion: **You can take Green Tea and banana in the early morning**. It will give you energy and also helps to detoxify your body.
+
+"to remove harmful substances or poisons from sth"
+
+
+
+#### 04/08.04
+
+01.break even /ˈbreɪk iːvn/
+
+[vp] the firm will break even at the operating level this year.
+
+"reach a point in a business venture when the profits are equal to the costs."
+
+
+
+02.tear  [ter , tɪr] tore torn
+
+[verb]  I tore my jeans on the fence. 
+
+"to damage sth by pulling it apart or into pieces or by cutting it on sth sharp; to become damaged in this way"
+
+[noun]  This sheet has a tear in it.
+
+"a hole that has been made in sth by tearing"
+
+[noun] A tear rolled down his face. 
+
+"a drop of liquid that comes out of your eye when you cry"
+
+
+
+03.tear down /ter daʊn/
+
+[vp] CNBC Daily Open: Trump rejects offers to tear down tariffs, threatens more on China.
+
+"If you **tear** something **down**, you destroy it or remove it completely."
+
+
+
+04.vow /vaʊ/
+
+[n] to make/take a vow. 
+
+"a formal and serious promise, especially a religious one, to do sth"
+
+[v]  Meanwhile, Kakao Pay, which has already been available for making payments at Alipay merchants in China since March, vowed to strengthen its global services to 50 countries from the current 18 countries./China vows to fight 'till the end' after Trump's latest tariffs threat.
+
+"to make a formal and serious promise to do sth or a formal statement that is true"
+
+
+
+> "Promise" usually refers to something dad-to-day that you have told someone you will do. There is an expectation that once you promise to do it, you will do it. Example: "I promise I will take out the trash before you get home."  
+>
+> "Swear" is like promise, but used for more important things. (It is a less formal word, so if you are in a work situation, use "promise" instead, as they can be interchangeable.) Example: "I swear I will never hurt you." 
+>
+> "Vow" is reserved for formal ceremonies of commitment, like weddings. It is an official promise, often with religious connotations.
+
+
+
+#### 04/09.05
+
+01.pharmacy /ˈfɑː(r)məsi/
+
+[n] "a shop/store, or part of one, that sells medicines and drugs"
+
+[n] "the study of how to prepare medicines and drugs"
+
+
+
+02.pharmaceutical /ˌfɑːrməˈsuːtɪkl/
+
+[adj] the pharmaceutical industry.
+
+"connected with making and selling drugs and medicines"
+
+[n] the development of new pharmaceuticals./Trump says the US will announce a 'major tariff' on pharmaceuticals
+
+"a drug or medicine"
+
+
+
+03.pharmaceutist 
+
+[n] "**a person qualified to prepare and dispense drugs**."
+
+
+
+04.sack /sæk/
+
+[n] Tesla CEO Elon Musk has repeatedly slammed President Donald Trump’s top trade advisor, Peter Navarro, calling him “dumber than a sack of bricks,” before later sarcastically apologizing to bricks.
+
+"the contents of a sack"
+
+
+
+05.sarcasm /ˈsɑːrkæzəm/
+
+[n] I speak fluent sarcasm—unfortunately, it's not yet recognized as a second language on my résumé.
+
+"a way of using words that are the opposite of what you mean in order to be unpleasant to sb or to make fun of them"
+
+
+
+#### 04/10
+
+01.subject /ˈsʌbdʒɪkt , səbˈdʒekt/
+
+[n] an unpleasant subject of conversation./to negotiate a solution to the subjects being discussed relative to Trade
+
+"a thing or person that is being discussed, described or dealt with"
+
+[n] Biology is my favourite subject.
+
+"an area of knowledge studied in a school, college, etc."
+
+[n] "In grammar, the **subject** of a clause is the noun group that refers to the person or thing that is doing the action expressed by the verb. For example, in 'My cat keeps catching birds', 'my cat' is the subject."
+
+[adj] A subset of 90 countries’ imports would be subject to reciprocal tariffs that took effect Wednesday. Those enhanced levies ranged from a low of 11% to a high of 50%. 
+
+"likely to be affected by sth, especially sth bad"
+
+[v] {formal; ~ sth (to sth)}The Roman Empire subjected most of Europe to its rule.
+
+"to bring a country or group of people under your control, especially by using force"
+
+
+
+02.bar /bɑːr/
+
+[prep] Trump announced a 90-day pause on higher tariffs on all nations bar China.
+
+"except for sb/sth"
+
+
+
+03.retaliate /rɪˈtælieɪt/
+
+[v] Trump tariffs: ‘Do not retaliate and you will be rewarded,’ White House says.
+
+"to do sth harmful to sb because they have harmed you first" -take revenge-
+
+
+
+04.retaliatory  /rɪˈtæliətri/ /rɪˈtæliətɔːri/
+
+[adj] European Union approves first set of retaliatory tariffs on U.S. imports.
+
+"If you take **retaliatory** action, you try to harm or annoy someone who has harmed or annoyed you."
+
+
+
+05.reciprocal /rɪˈsɪprəkl/
+
+[adj] “We are, right now, a reciprocal nation... We’re going to have whatever India charges, we’re charging them. Whatever another country charges, we’re charging them. So it’s called reciprocal, which I think is a very fair way,” the U.S. president said at the press briefing. /[Trump’s new ‘reciprocal’ tariffs take effect on imports from around the world.
+
+"involving two people or groups who agree to help each other or behave in the same way to each other"
+
+
+
+06.small-cap
+
+[adj] South Korea’s [Kospi](https://www.cnbc.com/quotes/.KS11/) index surged 4.8%, while the small-cap Kosdaq gained 4.2%.
+
+"denoting or relating to the stock of a company with a small capitalization."
+
+
+
+07.burst /bɜːrst/
+
+[n]  Asia-Pacific markets rose Thursday, following Wall Street’s biggest burst of buying since 2008 after U.S. President Donald Trump announced a 90-day pause on higher tariffs on all nations bar China.
+
+"a short period of a particular activity or strong emotion that often starts suddenly"
+
+
+
+08.deflationary /ˌdiːˈfleɪʃəneri/
+
+[adj] China consumer prices drop 0.1% in March signaling rising deflationary pressures.
+
+"A **deflationary** economic policy or measure is one that is intended to or likely to cause deflation."
+
+
+
+09.inflation [ɪnˈfleɪʃn] 
+
+[noun] the fight against rising inflation. 
+
+"a general rise in the prices of services and goods in a particular country, resulting in a fall in the value of money; the rate at which this happens"
+
+
+
+10.deflation  [ˌdiːˈfleɪʃn]  
+
+[noun] Deflation is beginning to take hold in the clothing industry.
+
+"a reduction in the amount of money in a country's economy so that prices fall or remain the same"
 
 
 
