@@ -46,7 +46,7 @@ Four men are being quizzed by police about the murder. "to ask sb a lot of quest
 
  [verb] "to arrange sth in a particular way, especially computer equipment; to make equipment or software work in the way that the user prefers"
 
-
+ 
 
 06.removal  [rɪˈmuːvl]
 
@@ -83,8 +83,6 @@ Four men are being quizzed by police about the murder. "to ask sb a lot of quest
 08.stainless steel /'steɪnləs/
 
 [phrase] "Stainless steel, also known as inox, corrosion-resistant steel (CRES) and rustless steel, is *an alloy of iron that is resistant to rusting and corrosion*."
-
-
 
 
 
@@ -13076,11 +13074,7 @@ D[adv] sexually abused children.
 
 
 
-04.jargon [ˈdʒɑːɡən]
 
-[noun] medical/legal/computer, etc. jargon. 
-
-"words or expressions that are used by a particular profession or group of people, and are difficult for others to understand"
 
 
 
@@ -13537,13 +13531,7 @@ She expended all her efforts on the care of home and children. "to use or spend 
 
 
 
-05.contract  [ˈkɒntrækt , kənˈtrækt] 
 
-[noun] {~ (with sb) | ~ (between A and B) | ~ (for sth/to do sth)} to enter into/make/sign a contract with the supplier
-
-"an official written agreement"
-
-[verb] Glass contracts as it cools."to become less or smaller; to make sth become less or smaller" +expand+
 
 
 
@@ -14495,9 +14483,7 @@ stuck in "陷入"
 
 
 
-25.irrational [ɪˈræʃənl]
 
-[adj]  an irrational fear."not based on, or not using, clear logical thought" -unreasonable-
 
 
 
@@ -14724,20 +14710,6 @@ A special bond unites our two countries.
 "having sharp points like needles"
 
 
-
-12.rational [ˈræʃnəl]
-
-[adj] a rational argument/choice/decision. "based on reason rather than emotions"
-
-[adj] "able to think clearly and make decisions based on reason rather than emotions"
-
-[adj] No rational person would ever behave like that.
-
-"able to think clearly and make decisions based on reason rather than emotions"
-
--reasonable-
-
-> Rational individuals displayed more abstract characteristics like logic, emotional suppression, methodical behavior, and analytical thinking. Whereas, reasonable individuals displayed socially conscious characteristics like kindness, honesty, fairness, and interpersonal sensitivity.
 
 
 
@@ -17798,12 +17770,6 @@ Let's assume for the sake of argument (= in order to discuss the problem) that w
 [verb]  When the ambulance [ˈæmbjələns] had gone, the crowd dissolved. "to disappear; to make sth disappear"
 
 
-
-03.harassment  [ˈhærəsmənt]  [həˈræsmənt]
-
-[noun] Another survey found that 51 percent of women had experienced some form of sexual [ˈsekʃuəl] harassment in their working lives. 
-
-"**Harassment** is behaviour which is intended to trouble or annoy someone, for example repeated attacks on them or attempts to cause them problems."
 
 
 
@@ -22409,26 +22375,6 @@ In summary, a resort provides a luxurious and comfortable vacation experience wi
 
 
 
-09.stand  [stænd] 
-
-[noun]a hamburger/newspaper stand. "a table or a vertical structure that goods are sold from, especially in the street or at a market" -stall [stɔːl]-
-
-
-
-10.stall  [stɔːl]
-
-[noun] a market stall.
-
-"a table or small shop with an open front that people sell things from, especially at a market"
-
-[verb] (of a vehicle or an engine 车辆或发动机)   I stalled the car three times during my driving test.
-
-"to stop suddenly because of a lack of power or speed; to make a vehicle or engine do this"
-
-[verb] {~ (on/over sth)} They are still stalling on the deal.
-
-"to try to avoid doing sth or answering a question so that you have more time"
-
 
 
 11.flirt  [flɜː(r)t] 
@@ -23327,14 +23273,6 @@ We were informed that our CEO Richard Qiangdong Liu was **taken into custody(202
 [adv] roughly plastered walls. "in a way that does not leave a smooth surface"
 
 
-
-06.reluctant  [rɪˈlʌktənt]
-
-[adj] {~ (to do sth)}She was reluctant to admit she was wrong. "hesitating before doing sth because you do not want to do it or because you are not sure that it is the right thing to do"
-
-D[noun] There is still some reluctance on the part of employers to become involved in this project.
-
-D[adv] We reluctantly agreed to go with her.
 
 
 
@@ -28469,11 +28407,7 @@ Samsung has good policies and their employees are generally very well remunerate
 
 
 
-05.blatant  [ˈbleɪtnt] 
 
-[adj] Those three companies have a well-known reputation in the valley for blatant age discrimination.
-
-"done in an obvious and open way without caring if people are shocked" -flagrant-
 
 
 
@@ -29021,12 +28955,6 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 #### 2021/10/18.07
-
-01.etiquette [ˈetɪkət]
-
-[noun] Expensive etiquette classes in China are gaining popularity amongst the elite [eɪˈliːt]. 
-
-"the formal rules of correct or polite behaviour in society or among members of a particular profession"
 
 
 
@@ -33147,7 +33075,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-#### 05/25.02
+#### 05/25.01
 
 01.divisible [dɪˈvɪzəbl]
 
@@ -33157,11 +33085,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-02.reciprocity [ˌresɪˈprɒsəti]  [ˌresɪˈprɑːsəti]
 
-[noun] reciprocity, "you scratch my back, I'll scratch yours; 
-
-"a situation in which two people, countries, etc. provide the same help or advantages to each other"
 
 
 
@@ -33793,11 +33717,7 @@ The students left the classroom right after the class was over.
 
 #### 10/18.08
 
-01.revive[rɪˈvaɪv] 
 
-[verb] Samsung could revive 'control tower' to become more agile[ˈædʒaɪl].
-
-"to become, or to make sb/sth become, conscious or healthy and strong again"
 
 
 
@@ -38464,11 +38384,7 @@ In basketball, a splash is **a shot that goes through the basket, only touching 
 
 
 
-02.heed /hiːd/
 
-[v] But few at the conference in London last week **heeded his warning**.
-
-"to pay careful attention to sb's advice or warning" -take notice of-
 
 
 
@@ -38986,23 +38902,7 @@ Adding some liquor to the equation could spice things up even more."any alcoholi
 
 
 
-06.trilateral /ˌtraɪˈlætərəl/
 
-[adj] Leaders of Korea, U.S., Japan agree to upgrade trilateral cooperation. 
-
-"involving three groups of people or three countries"
-
-
-
-07.bilateral  [ˌbaɪˈlætərəl] 
-
-[adj] bilateral relations/agreements/trade/talks. 
-
-Kishida's visit comes as bilateral relations have warmed significantly following Seoul's decision in March to compensate Korean victims of Japanese wartime forced labor without contributions from Japanese firms.
-
-The minister is on a visit this week to Poland to meet with Ukraine's government officials to expedite talks on bilateral cooperation on post-war rebuilding, encompassing roads, buildings, railways and military facilities.
-
-"involving two groups of people or two countries"
 
 
 
@@ -51013,7 +50913,7 @@ Hun Pheap lost her husband after he drank a toxic alcoholic homebrew
 
 
 
-#### 04/10
+#### 04/10.10
 
 01.subject /ˈsʌbdʒɪkt , səbˈdʒekt/
 
@@ -51108,4 +51008,333 @@ Hun Pheap lost her husband after he drank a toxic alcoholic homebrew
 "a reduction in the amount of money in a country's economy so that prices fall or remain the same"
 
 
+
+#### 04/11.06
+
+01.sell-off /ˈsel ɔːf/
+
+[n] Japan stocks plunge over 5% as Asia-Pacific markets resume sell-off on U.S.-China trade war worries. 
+
+"the sale of a large number of stocks and shares , after which their value usually falls" 
+
+
+
+02.stand  [stænd] 
+
+[noun]a hamburger/newspaper stand. "a table or a vertical structure that goods are sold from, especially in the street or at a market" -stall [stɔːl]-
+
+
+
+03.stall  [stɔːl]
+
+[noun] a market stall.
+
+"a table or small shop with an open front that people sell things from, especially at a market"
+
+[verb] (of a vehicle or an engine 车辆或发动机)   I stalled the car three times during my driving test.
+
+"to stop suddenly because of a lack of power or speed; to make a vehicle or engine do this"
+
+[verb] {~ (on/over sth)} They are still stalling on the deal.
+
+"to try to avoid doing sth or answering a question so that you have more time"
+
+[v] We must revive our stalled economy.
+
+"to stop sth from happening until a later date; to stop making progress"
+
+
+
+04.revive[rɪˈvaɪv] 
+
+[verb] Samsung could revive 'control tower' to become more agile[ˈædʒaɪl].
+
+"to become, or to make sb/sth become, conscious or healthy and strong again"
+
+
+
+05.vivid /'vɪvɪd/
+
+[adj] vivid memories.
+
+"producing very clear pictures in your mind"
+
+
+
+06.oscillation /ˌɑːsɪˈleɪʃn/
+
+[n] the oscillation of the compass needle.
+
+"a regular movement between one position and another or between one amount and another"
+
+[n] the oscillations of the pound against foreign currency.
+
+"a single movement from one position to another of sth that is oscillating"
+
+[n] his oscillation, as a teenager, between science and art.
+
+"a repeated change between different feelings, types of behaviour or ideas"
+
+
+
+#### 04/12.14
+
+01.etiquette [ˈetɪkət]
+
+[noun] Expensive etiquette classes in China are gaining popularity amongst the elite [eɪˈliːt]. /elevator etiquette
+
+"the formal rules of correct or polite behaviour in society or among members of a particular profession"
+
+
+
+> In a nutshell:
+>
+> - **Manners** = general kindness and respect (universal)
+> - **Etiquette** = socially accepted rules (context-specific)
+>
+> You can think of **manners as the spirit** and **etiquette as the form**.
+
+
+
+02.blatant  [ˈbleɪtnt] 
+
+[adj] Those three companies have a well-known reputation in the valley for blatant age discrimination.
+
+"done in an obvious and open way without caring if people are shocked" -flagrant-
+
+
+
+03.flagrant /ˈfleɪɡrənt/
+
+[adj] Definitely, less physical. Right now, you get a flagrant foul, you get fines and suspended, guys aren’t even fouling hard no more. 
+
+"shocking because it is done in a very obvious way and shows no respect for people, laws, etc."
+
+
+
+Great question — **"flagrant"** and **"blatant"** are similar but carry slightly different nuances.
+
+🔥 **Flagrant**
+
+- **Meaning**: Shockingly noticeable or **outrageously bad**, often involving **a violation of rules, ethics, or decency**.
+
+- **Connotation**: More emotional or moral outrage.
+
+- **Example**:
+
+  > *The player committed a **flagrant** foul right in front of the referee.*
+  >  *It was a **flagrant** abuse of power.*
+
+👀 **Blatant**
+
+- **Meaning**: Very obvious and **unsubtle**, usually in a **negative or shameless** way.
+
+- **Connotation**: Emphasizes **how obvious** something is, often with an air of audacity.
+
+- **Example**:
+
+  > *His **blatant** lie fooled no one.*
+  >  *A **blatant** disregard for the rules.*
+
+------
+
+🧠 Quick Tip to Remember:
+
+- Think **"flagrant = flaming wrong"** (morally outrageous).
+- Think **"blatant = boldly obvious"** (no attempt to hide it).
+
+
+
+04.reciprocity [ˌresɪˈprɒsəti]  [ˌresɪˈprɑːsəti]
+
+[noun] reciprocity, "you scratch my back, I'll scratch yours; 
+
+**Effective April 10, 2025, citizens of the United States, Canada, and Australia will be required to obtain a visa to enter Brazil**. This change, implemented by presidential decree, restores the principle of diplomatic reciprocity and ends the unilateral visa exemption that had been in place since 2019.
+
+"a situation in which two people, countries, etc. provide the same help or advantages to each other"
+
+
+
+05.decree /dɪˈkriː/
+
+[n] to issue/sign a decree.
+
+"an official order from a ruler or a government that becomes the law"
+
+[v] The government decreed a state of emergency.
+
+"to decide, judge or order sth officially"
+
+
+
+Summary Table:
+
+| Term                            | Issued By                       | Binding Force     | Purpose                          | Notes                          |
+| ------------------------------- | ------------------------------- | ----------------- | -------------------------------- | ------------------------------ |
+| **Law**                         | Legislature / Exec authority    | Yes               | General term for all legal norms | Umbrella term                  |
+| **Bill**                        | Legislature (proposed)          | No                | Proposal for a new law           | Becomes an Act/Law when passed |
+| **Act**                         | Legislature                     | Yes               | Enacted Bill                     | Includes Republic Acts         |
+| **Republic Act**                | Philippine Congress + President | Yes               | National law                     | Used post-independence         |
+| **Commonwealth Act**            | Philippine Commonwealth         | Yes               | Law during 1935–1946             | Precursor to RA                |
+| **Presidential Decree**         | President (during Martial Law)  | Yes               | Laws without Congress approval   | Marcos-era                     |
+| **Letter of Instruction (LOI)** | President                       | Yes (Exec orders) | Executive direction              | Not legislative                |
+| **Resolution**                  | Congress / Senate / House       | Usually No        | Express sentiment or intent      | May influence policy           |
+
+
+
+06.unilateral /ˌjuːnɪˈlætrəl/
+
+[adj] a unilateral declaration of independence.
+
+"done by one member of a group or an organization without the agreement of the other members"
+
+
+
+07.trilateral /ˌtraɪˈlætərəl/
+
+[adj] Leaders of Korea, U.S., Japan agree to upgrade trilateral cooperation. 
+
+"involving three groups of people or three countries"
+
+
+
+08.bilateral  [ˌbaɪˈlætərəl] 
+
+[adj] bilateral relations/agreements/trade/talks. 
+
+Kishida's visit comes as bilateral relations have warmed significantly following Seoul's decision in March to compensate Korean victims of Japanese wartime forced labor without contributions from Japanese firms.
+
+The minister is on a visit this week to Poland to meet with Ukraine's government officials to expedite talks on bilateral cooperation on post-war rebuilding, encompassing roads, buildings, railways and military facilities.
+
+"involving two groups of people or two countries"
+
+
+
+09.multilateral /ˌmʌltiˈlætərəl/
+
+[adj] With entry to WTO, China can enjoy the multilateral, unconditional and permanent most-favoured-nation clause among more 140 countries. 
+
+"in which three or more groups, nations, etc. take part"
+
+
+
+10.whiplash /ˈwɪplæʃ/
+
+[n] "a hit with a whip"
+
+
+
+11.whip /wɪp/
+
+[n] At his belt he carried a rawhide whip. 
+
+"a long thin piece of rope or leather, attached to a handle, used for making animals move or punishing people"
+
+[n] The benchmark 10-year Treasury yield soared more than 50 basis points during the week, one of its largest jumps on record, as the whiplash from Trump’s trade policy led investors to sell off U.S. assets. 
+
+"**Whiplash** is a neck injury caused by the head suddenly moving forwards and then back again, for example in a car accident."
+
+
+
+12.Armageddon /ˌɑːrməˈɡedn/
+
+[n] “I think ultimately big tech CEOs spoke loudly, and the White House had to understand and listen to the situation that this would have been Armageddon for big tech if were implemented,” Ives said. 
+
+"a battle between good and evil at the end of the world"
+
+
+
+13.merry-go-round /ˈmeri ɡəʊ raʊnd/
+
+[n] The **magnitude** is how tall the merry-go-round is (how big the ups and downs are).
+
+"a round platform with model horses, cars, etc. that turns around and around and that children ride on at a fairground"
+
+
+
+14.jargon [ˈdʒɑːɡən]
+
+[noun] medical/legal/computer, etc. jargon. 
+
+"words or expressions that are used by a particular profession or group of people, and are difficult for others to understand"
+
+
+
+#### 04/13.05
+
+01.heed /hiːd/
+
+[v] But few at the conference in London last week **heeded his warning**./China urges Trump to correct mistakes and heed ‘rational voices’ on reciprocal tariffs.
+
+"to pay careful attention to sb's advice or warning" -take notice of-
+
+
+
+02.irrational [ɪˈræʃənl]
+
+[adj]  an irrational fear."not based on, or not using, clear logical thought" -unreasonable-
+
+
+
+03.rational [ˈræʃnəl]
+
+[adj] a rational argument/choice/decision. "based on reason rather than emotions"
+
+[adj] "able to think clearly and make decisions based on reason rather than emotions"
+
+[adj] No rational person would ever behave like that.
+
+"able to think clearly and make decisions based on reason rather than emotions"
+
+-reasonable-
+
+> Rational individuals displayed more abstract characteristics like logic, emotional suppression, methodical behavior, and analytical thinking. Whereas, reasonable individuals displayed socially conscious characteristics like kindness, honesty, fairness, and interpersonal sensitivity.
+
+
+
+04.reluctant  [rɪˈlʌktənt]
+
+[adj] {~ (to do sth)}She was reluctant to admit she was wrong./Data released last week showed Chinese consumers have remained reluctant to spend, with consumer prices **contracting** for a second straight month while producer prices falling for the 29th straight month. 
+
+"hesitating before doing sth because you do not want to do it or because you are not sure that it is the right thing to do"
+
+D[noun] There is still some reluctance on the part of employers to become involved in this project.
+
+D[adv] We reluctantly agreed to go with her.
+
+
+
+05.contract  [ˈkɒntrækt , kənˈtrækt] 
+
+[noun] {~ (with sb) | ~ (between A and B) | ~ (for sth/to do sth)} to enter into/make/sign a contract with the supplier
+
+"an official written agreement"
+
+[verb] Glass contracts as it cools."to become less or smaller; to make sth become less or smaller" +expand+
+
+
+
+#### 04/15
+
+01.farewell /ˌferˈwel/
+
+[n] "the act of saying goodbye to sb"
+
+
+
+03.harassment  [ˈhærəsmənt]  [həˈræsmənt]
+
+[noun] Another survey found that 51 percent of women had experienced some form of sexual [ˈsekʃuəl] harassment in their working lives./ "The harassment of Jewish students is intolerable. It is time for elite universities to take the problem seriously and commit to meaningful change if they wish to continue receiving taxpayer support," the statement added. 
+
+"**Harassment** is behaviour which is intended to trouble or annoy someone, for example repeated attacks on them or attempts to cause them problems."
+
+
+
+#### 04/18
+
+01.subvert /səbˈvɜːrt/
+
+[v] To **subvert** something means to destroy its power and influence.
+
+"To **subvert** something means to destroy its power and influence."
 
