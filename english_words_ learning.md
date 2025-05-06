@@ -1,216 +1,3 @@
-### 2019
-
-#### 2019/12/31.20
-
-01.quiz [kwɪz] 
-
-[nonu] a general knowledge quiz.
-
-"a competition or game in which people try to answer questions to test their knowledge"
-
-[noun] a reading comprehension quiz. "an informal test given to students"
-
-[verb] {~ sb (about sb/sth) | ~ sb (on/over sth)}
-
-Four men are being quizzed by police about the murder. "to ask sb a lot of questions about sth in order to get information from them" -question-
-
-[verb] You will be quizzed on chapter 6 tomorrow. "to give students an informal test"
-
-
-
-02.trivia  [ˈtrɪviə] 
-
-[noun] We spent the whole evening discussing **domestic trivia**. 
-
-"unimportant matters, details or information"
-
-[noun] a trivia quiz "facts about many subjects that are used in a game to test people's knowledge"
-
-
-
-03.infeasible  [ɪnˈfizəbəl] 
-
-[adj] "not capable of being carried out or put into practice"
-
-
-
-04.arbitrary [ˈɑːbɪtrəri] 
-
-[adj] The choice of players for the team seemed completely arbitrary. "not seeming to be based on a reason, system or plan and sometimes seeming unfair" "随心所欲的"
-
-[adj] the arbitrary powers of officials. "using power **without restriction** and without considering other people"
-
-
-
-05.configure  [kənˈfɪɡə(r)] 
-
- [verb] "to arrange sth in a particular way, especially computer equipment; to make equipment or software work in the way that the user prefers"
-
- 
-
-06.removal  [rɪˈmuːvl]
-
-[noun]  {~ (of sb/sth)} the removal of a tumour. "the act of taking sb/sth away from a particular place"
-
-[noun] {~ (of sth)} **stain** removal. 
-
-"the act of getting rid of sth"
-
-[noun] {~ (of sb)}  events leading to the removal of the president from office. 
-
-"the act of dismissing sb from their job"
-
-[noun] house removals. "an act of taking furniture, etc. from one house to another"
-
-
-
-07.stain  [steɪn] 
-
-[noun] a blood/a coffee/an ink, etc. stain. 
-
-"a dirty mark on sth, that is difficult to remove"
-
-[v] {~ (sth) (with sth)}I hope it doesn't stain the **carpet**.
-
-"to leave a mark that is difficult to remove on sth; to be marked in this way"
-
-[v] {formal} And it's safe to say the event was overall a colossal embarrassment that will stain Korea's global reputation.
-
-" to damage the opinion that people have of sth  "
-
-
-
-08.stainless steel /'steɪnləs/
-
-[phrase] "Stainless steel, also known as inox, corrosion-resistant steel (CRES) and rustless steel, is *an alloy of iron that is resistant to rusting and corrosion*."
-
-
-
-09.blanket /ˈblæŋkɪt/
-
-[n] In the recording, people can be heard laughing and talking about a passenger who made a mistake in requesting a "carpet" instead of a “blanket”, saying, “carpet is on the floor”, and “if you cannot speak blanket, you cannot have it”.
-
-"a large cover, often made of wool, used especially on beds to keep people warm"
-
-
-
-10.carpet/ˈkɑːrpɪt/
-
-[noun] a roll of carpet.
-
-"a thick woven material made of wool, etc. for covering **floors** or stairs"
-
-[verb] The hall was carpeted in blue.
-
-"to cover the floor of a room with a carpet"
-
-
-
-11.notion  [ˈnəʊʃn]
-
- [noun] {~ (that…) | ~ (of sth)} I have to reject the notion that **greed** can be a good thing."an idea, a belief or an understanding of sth"
-
-
-
-12.alternative  [ɔːlˈtɜː(r)nətɪv] 
-
-[n] You can be paid in cash weekly or by cheque monthly; those are the two alternatives.
-
-"a thing that you can choose to do or have out of two or more possibilities"
-
-[adj] an alternative method of doing sth."that can be used instead of sth else"
-
-[adj] alternative comedy/lifestyles/values. "different from the usual or traditional way in which sth is done"
-
-
-
-13.substitute /ˈsʌbstɪtuːt/
-
-[noun] {~ (for sb/sth)}  Paul's father only saw him as a substitute for his dead brother.
-
-"a person or thing that you use or have instead of the one you normally use or have"
-
-[verb] {~ A (for B) | ~ B (with/by A) | ~ for sb/sth} Butter can be substituted with margarine in this recipe. "to take the place of sb/sth else; to use sb/sth instead of sb/sth else"
-
-
-
-> 可供选择vs直接替代
->
-> The terms "alternative" and "substitute" both refer to options that can be used in place of something else, but they have slightly different **connotation**s.
->
-> An alternative is an option that can be used instead of the original choice, but it may not necessarily be a direct replacement. For example, if someone is considering different ways to **commute** to work, taking the train might be an alternative to driving a car. The two options are different, but they both achieve the same goal of getting the person to work.
->
-> A substitute, on the other hand, **is a direct replacement for the original choice**. For example, if someone is baking a cake and they run out of butter, they might use margarine as a substitute. Margarine is a direct replacement for butter in this case, as it serves the same purpose in the recipe.
->
-> In general, "alternative" suggests a broader range of options, while "substitute" suggests a more specific replacement.
->
-
-
-
-14.subsequence  ['sʌbsɪkwəns]
-
-[noun] "following in time"
-
-[noun] "something that follows something else"
-
-
-
-15.margarine /ˈmɑːrdʒərən/
-
-[n] "a yellow substance like butter made from animal or vegetable fats, used in cooking or spread on bread, etc."
-
-
-
-16.hanging /ˈhæŋɪŋ/
-
-[n] to sentence sb to death by hanging.
-
-"the practice of killing sb as a punishment by putting a rope around their neck and hanging them from a high place; an occasion when this happens"
-
-[n] wall hangings.
-
-"a large piece of material that is hung on a wall for decoration"
-
-
-
-17.abbreviate  [əˈbriːvieɪt]
-
-[verb] the Jet Propulsion Laboratory (usually abbreviated to JPL). 
-
-"to make a word, phrase or name shorter by leaving out letters or using only the first letter of each word"
-
-[noun] abbreviation [əˌbriːviˈeɪʃn]
-
-
-
-18.respectively    [rɪˈspektɪvli]   
-
-[adv] Their sons, Ben and Jonathan, were three and six respectively.
-
-"in the same order as the people or things already mentioned"
-
-
-
-19.execution  [ˌeksɪˈkjuːʃn] 
-
-[**noun**]  He faced execution by hanging for murder."the act of killing sb, especially as a legal punishment"
-
-[noun] He had failed in the execution of his duty. "the act of doing a piece of work, performing a duty, or putting a plan into action"
-
-[noun] Her execution of the piano piece was perfect. "skill in performing or making sth, such as a piece of music or work of art"
-
-
-
-20.omit [əˈmɪt]
-
-[verb]  {~ sth/sb (from sth)} If you are a student, you can omit questions 16–18. 
-
-"to **not include** sth/sb, either deliberately or because you have forgotten it/them"
-
-[verb] She omitted to mention that they were staying the night. "to not do or fail to do sth"
-
-
-
 ### 2020
 
 #### 2020/01/01.06
@@ -239,7 +26,7 @@ Four men are being quizzed by police about the murder. "to ask sb a lot of quest
 
 [noun] a missile's trajectory. "the curved path of sth that has been fired, hit or thrown into the air" "轨道，弹道"
 
-
+ 
 
 04.colossal /kəˈlɒsl/ /kəˈlɑːsl/
 
@@ -266,6 +53,24 @@ Four men are being quizzed by police about the murder. "to ask sb a lot of quest
 [verb] "to visit a place again, especially after a long period of time"
 
 [verb] It's an idea that may be worth revisiting at a later date. "to return to an idea or a subject and discuss it again"
+
+
+
+07.nestle /ˈnesl/
+
+[v] He hugged her and she nestled against his chest.
+
+"to sit or lie down in a warm or soft place"
+
+[v] He nestled the baby in his arms.
+
+"to put or hold sb/sth in a comfortable position in a warm or soft place"
+
+[v] In a quiet town nestled between green hills, a *colossal* discovery was made—an old *arsenal* buried beneath the local movie theater. 
+
+"to be located in a position that is protected, sheltered or partly hidden"
+
+
 
 #### 2020/01/02.17
 
@@ -637,11 +442,7 @@ He informed on his own brother.
 
 
 
-21.decoration  [ˌdekəˈreɪʃn] 
 
-[noun]  Christmas decorations. "a thing that makes sth look more attractive on special occasions"
-
-[noun]  a Chinese theme in the interior decoration. "the style in which sth is decorated"
 
 
 
@@ -1434,31 +1235,7 @@ The court sustained his claim that the contract was illegal. "to decide that a c
 
 
 
-23.obstacle  [ˈɒbstəkl] [ˈɑːbstəkl]
 
-[noun] A lack of qualifications can be a major obstacle to finding a job. "a situation, an event, etc. that makes it difficult for you to do or achieve sth"
-
-
-
-24.hurdle /ˈhɜː(r)dl/
-
-[n] His horse fell at the final hurdle.
-
-"each of a series of vertical frames that a person or horse jumps over in a race"
-
-[n] The next hurdle will be getting her parents' agreement.
-
-"a problem or difficulty that must be solved or dealt with before you can achieve sth" -obstacle-
-
-[v] He hurdled two barriers to avoid reporters."to jump over sth while you are running"
-
-
-
-25.hurdler /ˈhɜːrdlər/
-
-[n] Liu Xiang is a Chinese former 110 meter hurdler.
-
-"a person or horse that runs in races over hurdles"
 
 
 
@@ -1621,28 +1398,6 @@ You can measure economic volatility in a variety of ways.
 01.emerging markets [iˈmɜːdʒɪŋ ˈmɑːkɪts]
 
 The Five Major Emerging Markets. **Brazil, Russia, India, China, and South Africa** are the biggest emerging markets in the world.
-
-
-
-02.wary [ˈweəri] [ˈweri] 
-
-[adj] Be wary of strangers who offer you a ride.
-
-"**careful** when dealing with sb/sth because you think that there may be a danger or problem" -cautious-
-
-
-
-> They are synonyms of each other! They can be used in the same context although, cautious is stronger than wary.  
->
-> If you have to be cautious it would mean you must be really be careful of something dangerous. Being wary is mostly used lightly of something, like a warning.  
->
-> How would you use them? 
->
-> “You must be cautious around the loose railing” and “Be wary of the loose railing”  
->
-> Cautious can even support wary 
->
-> “Be wary of the loose railing. You must be cautious!” 
 
 
 
@@ -9396,9 +9151,7 @@ the search for a cure for cancer.
 
 
 
-04.curve [kɜːv] 
 
-[noun]  the **delicate** curve of her ear. "a line or surface that bends gradually; a smooth bend"
 
 
 
@@ -11840,29 +11593,7 @@ D[adv] We regret this service is temporarily unavailable.
 
 
 
-06.spiritual  [ˈspɪrɪtʃuəl] 
 
-[adj] a spiritual experience.
-
-"connected with the human spirit, rather than the body or physical things"
-
-
-
-07.temporal  [ˈtempərəl]
-
-[adj] Although spiritual leader of millions of people, the Pope has no temporal power.
-
-"connected with the real physical world, not spiritual matters"
-
-[adj] a universe which has spatial and temporal dimensions."connected with or limited by time"
-
-
-
-08.spatial /ˈspeɪʃl/
-
-[adj] changes taking place in the spatial distribution of the population.
-
-" relating to space and the position, size, shape, etc. of things in it  "
 
 
 
@@ -13046,15 +12777,7 @@ Chest is that part of our body which contains muscles, fat and along with **bone
 
 #### 2020/10/10.19
 
-01.sexual  [ˈsekʃuəl] 
 
-[adj] sexual behaviour. "connected with the physical activity of sex"
-
-[adj] the sexual organs (= the penis , vagina , etc.). "connected with the process of producing young"
-
-[adj] sexual characteristics."connected with the state of being male or female"
-
-D[adv] sexually abused children.
 
 
 
@@ -13130,10 +12853,6 @@ D[adv] sexually abused children.
 
 
 
-
-
-
-
 09.tilt  [tɪlt]
 
 [verb]  Suddenly the boat tilted to one side. /should the high pull down be **tilt**ed back
@@ -13145,18 +12864,6 @@ D[adv] sexually abused children.
 "a position in which one end or side of sth is higher than the other; an act of tilting sth to one side"
 
 
-
-10.slope  [sləʊp] [sloʊp]
-
-[noun] a **grassy** slope. 
-
-"a surface or piece of land that slopes (= is higher at one end than the other)" -incline-
-
-[noun] the eastern slopes of the Andes. "an area of land that is part of a mountain or hill"
-
-[noun] a gentle/steep slope. "the amount by which sth slopes"
-
-[verb] The garden slopes away towards the river. "to be at an angle so that it is higher at one end than the other"
 
 
 
@@ -14463,26 +14170,6 @@ stuck in "陷入"
 
 
 
-23.impudent /ˈɪmpjədənt/
-
-[adj] an impudent young fellow.
-
-"rude; not showing respect for other people" -impertinent-
-
-
-
-24.impertinent /ɪmˈpɜːtɪnənt/
-
-[adj] an impertinent question/child.
-
-"rude and not showing respect for sb who is older or more important"
-
-
-
-> In summary, while all of these words refer to behavior that is disrespectful or lacks proper manners, they differ in their degree and focus. "Impolite" is a general term for behavior that is not polite. "Impudent" suggests bold disrespect or defiance. "Impertinent" emphasizes inappropriateness in a specific context. "Rude" is a broad term for behavior that is discourteous or offensive.
-
-
-
 
 
 
@@ -15325,26 +15012,6 @@ D[noun] "elimination"
 
 
 #### 2020/10/25.06
-
-01.companion [kəmˈpæniən] 
-
-[noun] travelling companions."a person or an animal that travels with you or spends a lot of time with you"
-
-[noun] She was a charming dinner companion. "a person who has similar tastes, interests, etc. to your own and whose company you enjoy"
-
-
-
-> Company is plural, companion is singular  
->
-> Company: "Please clean your room, I'm expecting company (=friends)" 
->
-> Also, it is used to talk about a business (=会社) 
->
-> "The company I work for is great! They (=the company) pay really well."  
->
-> Companion (=仲間) 
->
-> At school I practice English with a companion.
 
 
 
@@ -16555,16 +16222,6 @@ So, there are no hygiene issues related to finger vein scanning.
 [adj]  an authentic model of the ancient town."made to be exactly the same as the original"
 
 
-
-06.genuine  [ˈdʒenjuɪn] 
-
-[adj] Is the painting a genuine Picasso? 
-
-"real; exactly what it appears to be; not artificial" -authentic-
-
-[adj] He made a genuine attempt to improve conditions.
-
-"sincere and honest; that can be trusted"
 
 
 
@@ -18260,7 +17917,7 @@ He greeted all the guests warmly as they arrived.
 
 [noun] "the central point, pin [pɪn] or column [ˈkɑːləm] on which sth turns or balances"
 
-[verb] Windows that pivot from a central [ˈsentrəl]  point are easy to clean. 
+[verb] Windows that pivot from a central [ˈsentrəl]  point are easy to clean. /I frequently get asked how I **pivoted into** AI prompt engineering, particularly when it was so new.
 
 "the central or most important person or thing"
 
@@ -23112,7 +22769,7 @@ She refused to be intimidated by their threats.
 
 
 
-09.under the weather [ˈʌndə(r) ðə ˈweðə(r)]
+
 
 
 
@@ -24811,39 +24468,7 @@ Park Min Young addresses dating rumor controversy: 'Regretted it everyday...'
 
 #### 20210512.10
 
-01.custom  [ˈkʌstəm]
 
-[noun] {~ (of doing sth)} the custom of giving presents at Christmas. 
-
-"an accepted way of behaving or of doing things in a society or a community"
-
-[noun] It was her custom to rise early."the way a person always behaves"
-
-[adj] a custom motorcycle. 
-
-"If you use **custom** to describe something such as a vehicle or a piece of clothing, you mean that it has been designed for one particular customer."
-
-
-
-> 风俗vs习惯
->
-> In summary, customs are collective practices or behaviors that are culturally or socially significant, while habits are individual routines or actions that result from personal repetition. Customs are consciously followed to adhere to cultural norms, whereas habits are often performed automatically or without much thought.
-
-
-
-02.customs /ˈkʌstəmz/
-
-[n] The Customs have seized large quantities of smuggled heroin.
-
-"the government department that collects taxes on goods bought and sold and on goods brought into the country, and that checks what is brought in"
-
-[n] We are required to remove our laptops when passing through customs inspection at Beijing Daxing Airport.
-
-"the place at a port or an airport where your bags are checked as you come into a country"
-
-[n] to pay customs on sth.
-
-"the taxes that must be paid to the government when goods are brought in from other countries"
 
 
 
@@ -25864,11 +25489,7 @@ Members of K-pop group NewJeans say they are leaving agency after dispute.
 
 
 
-02.controversial  [ˌkɒntrəˈvɜːʃl]   [ˌkɑːntrəˈvɜːrʃl] 
 
-[adj] a highly controversial topic.
-
-"causing a lot of angry public discussion and disagreement"
 
 
 
@@ -28177,9 +27798,7 @@ D[noun]  insufficiency.
 
 
 
-04.volatility [ˌvɒləˈtɪləti]
 
-[noun] stock price volatility."being easily excited"
 
 
 
@@ -30553,9 +30172,7 @@ interface/interaction/international.
 
 
 
-08.diplomat  [ˈdɪpləmæt] 
 
-[noun] "a person whose job is to represent his or her country in a foreign country, for example, in an embassy"
 
 
 
@@ -30882,11 +30499,7 @@ The store sells women's and children's apparel."clothing, when it is being sold 
 
 
 
-05.teaser  [ˈtiːzə(r)]
 
-[noun] {(informal)}
-
-"a difficult problem or question"
 
 
 
@@ -31269,6 +30882,220 @@ D[adj] (BrE) a theological college . (NAmE) a theological seminary.
 [noun] a hint/touch/trace of sarcasm in his voice.
 
 "a way of using words that are the opposite of what you mean in order to be unpleasant to sb or to make fun of them"
+
+
+
+#### 2021/12/31.20
+
+01.quiz [kwɪz] 
+
+[nonu] a general knowledge quiz.
+
+"a competition or game in which people try to answer questions to test their knowledge"
+
+[noun] a reading comprehension quiz. "an informal test given to students"
+
+[verb] {~ sb (about sb/sth) | ~ sb (on/over sth)}
+
+Four men are being quizzed by police about the murder. "to ask sb a lot of questions about sth in order to get information from them" -question-
+
+[verb] You will be quizzed on chapter 6 tomorrow. "to give students an informal test"
+
+
+
+02.trivia  [ˈtrɪviə] 
+
+[noun] We spent the whole evening discussing **domestic trivia**. 
+
+"unimportant matters, details or information"
+
+[noun] a trivia quiz "facts about many subjects that are used in a game to test people's knowledge"
+
+
+
+03.infeasible  [ɪnˈfizəbəl] 
+
+[adj] "not capable of being carried out or put into practice"
+
+
+
+04.arbitrary [ˈɑːbɪtrəri] 
+
+[adj] The choice of players for the team seemed completely arbitrary. "not seeming to be based on a reason, system or plan and sometimes seeming unfair" "随心所欲的"
+
+[adj] the arbitrary powers of officials. "using power **without restriction** and without considering other people"
+
+
+
+05.configure  [kənˈfɪɡə(r)] 
+
+ [verb] "to arrange sth in a particular way, especially computer equipment; to make equipment or software work in the way that the user prefers"
+
+ 
+
+06.removal  [rɪˈmuːvl]
+
+[noun]  {~ (of sb/sth)} the removal of a tumour. "the act of taking sb/sth away from a particular place"
+
+[noun] {~ (of sth)} **stain** removal. 
+
+"the act of getting rid of sth"
+
+[noun] {~ (of sb)}  events leading to the removal of the president from office. 
+
+"the act of dismissing sb from their job"
+
+[noun] house removals. "an act of taking furniture, etc. from one house to another"
+
+
+
+07.stain  [steɪn] 
+
+[noun] a blood/a coffee/an ink, etc. stain. 
+
+"a dirty mark on sth, that is difficult to remove"
+
+[v] {~ (sth) (with sth)}I hope it doesn't stain the **carpet**.
+
+"to leave a mark that is difficult to remove on sth; to be marked in this way"
+
+[v] {formal} And it's safe to say the event was overall a colossal embarrassment that will stain Korea's global reputation.
+
+" to damage the opinion that people have of sth  "
+
+
+
+08.stainless steel /'steɪnləs/
+
+[phrase] "Stainless steel, also known as inox, corrosion-resistant steel (CRES) and rustless steel, is *an alloy of iron that is resistant to rusting and corrosion*."
+
+
+
+09.blanket /ˈblæŋkɪt/
+
+[n] In the recording, people can be heard laughing and talking about a passenger who made a mistake in requesting a "carpet" instead of a “blanket”, saying, “carpet is on the floor”, and “if you cannot speak blanket, you cannot have it”.
+
+"a large cover, often made of wool, used especially on beds to keep people warm"
+
+
+
+10.carpet/ˈkɑːrpɪt/
+
+[noun] a roll of carpet.
+
+"a thick woven material made of wool, etc. for covering **floors** or stairs"
+
+[verb] The hall was carpeted in blue.
+
+"to cover the floor of a room with a carpet"
+
+
+
+11.notion  [ˈnəʊʃn]
+
+ [noun] {~ (that…) | ~ (of sth)} I have to reject the notion that **greed** can be a good thing."an idea, a belief or an understanding of sth"
+
+
+
+12.alternative  [ɔːlˈtɜː(r)nətɪv] 
+
+[n] You can be paid in cash weekly or by cheque monthly; those are the two alternatives.
+
+"a thing that you can choose to do or have out of two or more possibilities"
+
+[adj] an alternative method of doing sth."that can be used instead of sth else"
+
+[adj] alternative comedy/lifestyles/values. "different from the usual or traditional way in which sth is done"
+
+
+
+13.substitute /ˈsʌbstɪtuːt/
+
+[noun] {~ (for sb/sth)}  Paul's father only saw him as a substitute for his dead brother.
+
+"a person or thing that you use or have instead of the one you normally use or have"
+
+[verb] {~ A (for B) | ~ B (with/by A) | ~ for sb/sth} Butter can be substituted with margarine in this recipe. "to take the place of sb/sth else; to use sb/sth instead of sb/sth else"
+
+
+
+> 可供选择vs直接替代
+>
+> The terms "alternative" and "substitute" both refer to options that can be used in place of something else, but they have slightly different **connotation**s.
+>
+> An alternative is an option that can be used instead of the original choice, but it may not necessarily be a direct replacement. For example, if someone is considering different ways to **commute** to work, taking the train might be an alternative to driving a car. The two options are different, but they both achieve the same goal of getting the person to work.
+>
+> A substitute, on the other hand, **is a direct replacement for the original choice**. For example, if someone is baking a cake and they run out of butter, they might use margarine as a substitute. Margarine is a direct replacement for butter in this case, as it serves the same purpose in the recipe.
+>
+> In general, "alternative" suggests a broader range of options, while "substitute" suggests a more specific replacement.
+
+
+
+14.subsequence  ['sʌbsɪkwəns]
+
+[noun] "following in time"
+
+[noun] "something that follows something else"
+
+
+
+15.margarine /ˈmɑːrdʒərən/
+
+[n] "a yellow substance like butter made from animal or vegetable fats, used in cooking or spread on bread, etc."
+
+
+
+16.hanging /ˈhæŋɪŋ/
+
+[n] to sentence sb to death by hanging.
+
+"the practice of killing sb as a punishment by putting a rope around their neck and hanging them from a high place; an occasion when this happens"
+
+[n] wall hangings.
+
+"a large piece of material that is hung on a wall for decoration"
+
+
+
+17.abbreviate  [əˈbriːvieɪt]
+
+[verb] the Jet Propulsion Laboratory (usually abbreviated to JPL). 
+
+"to make a word, phrase or name shorter by leaving out letters or using only the first letter of each word"
+
+[noun] abbreviation [əˌbriːviˈeɪʃn]
+
+
+
+18.respectively    [rɪˈspektɪvli]   
+
+[adv] Their sons, Ben and Jonathan, were three and six respectively.
+
+"in the same order as the people or things already mentioned"
+
+
+
+19.execution  [ˌeksɪˈkjuːʃn] 
+
+[**noun**]  He faced execution by hanging for murder."the act of killing sb, especially as a legal punishment"
+
+[noun] He had failed in the execution of his duty. "the act of doing a piece of work, performing a duty, or putting a plan into action"
+
+[noun] Her execution of the piano piece was perfect. "skill in performing or making sth, such as a piece of music or work of art"
+
+
+
+20.omit [əˈmɪt]
+
+[verb]  {~ sth/sb (from sth)} If you are a student, you can omit questions 16–18. 
+
+"to **not include** sth/sb, either deliberately or because you have forgotten it/them"
+
+[verb] She omitted to mention that they were staying the night. "to not do or fail to do sth"
+
+
+
+### 
 
 
 
@@ -35034,11 +34861,15 @@ D[noun]  Bullying is a problem in many schools.
 
 
 
-02.long-awaited [ˌlɒŋ əˈweɪtɪt]
 
-[adj] Hong Kong's long-awaited '0+0' COVID policy, but how soon can city bounce back?
 
-"that people have been waiting for for a long time"
+
+
+02.breakdown /ˈbreɪkdaʊn/
+
+[n] Here’s a breakdown of the code:
+
+"the breaking of a substance into the parts of which it is made"
 
 
 
@@ -35066,11 +34897,7 @@ D[noun]  Bullying is a problem in many schools.
 
 
 
-06.breakdown /ˈbreɪkdaʊn/
 
-[n] Here’s a breakdown of the code:
-
-"the breaking of a substance into the parts of which it is made"
 
 
 
@@ -36530,15 +36357,7 @@ to change a written record or information so that it is no longer true"
 
 #### 02/22.03
 
-01.orientation [ˌɔːriənˈteɪʃn]
-
-[noun]  They give their new employees a day or two of perfunctory orientation.
-
-"training or information that you are given before starting a new job, course, etc."
-
-
-
-02.is pegged[peɡd] on 
+01.is pegged[peɡd] on 
 
 [phrase] The understanding of Cross-Entropy is pegged on understanding of Softmax activation function.
 
@@ -36546,7 +36365,7 @@ to change a written record or information so that it is no longer true"
 
 
 
-03.raised [reɪzd] 
+02.raised [reɪzd] 
 
 [verb] And I **raised** by a single mom who had to  work and who struggled at times to pay the bills and wasn't always able to give us the things that other kids had.
 
@@ -37445,7 +37264,7 @@ prescriptive powers.
 
 
 
-#### 03/28.14
+#### 03/28.11
 
 01.eradicate /ɪˈrædɪkeɪt/
 
@@ -37491,11 +37310,33 @@ In summary, "recover" is about regaining something that was lost or stolen, "res
 
 
 
-06.rigorous  [ˈrɪɡərəs] 
+05.maturity [məˈtʃʊrəti]
 
-[adj] a rigorous analysis./After the rigorous review process, 99% papers have received at least 3 reviews, and the conference has accepted 196 regular papers and 205 short papers."done carefully and with a lot of attention to detail"
+[noun] Such financial products are common in the financial industry and that there was no significant difference in financial terms between offering interest **upfront or at maturity**. 
 
-[adj] The work failed to meet their rigorous standards. "demanding that particular rules, processes, etc. are strictly followed" -strict-
+"the time when money you have invested is ready to be paid"
+
+
+
+06.drill /drɪl/
+
+[n] an electric drill.
+
+"a tool or machine with a pointed end for making holes"
+
+<img src="./images/drills.jpg" alt="drills" style="zoom: 25%;" />
+
+[n] a fire drill.
+
+"a practice of what to do in an emergency, for example if there is a fire"
+
+[v] Drill a series of holes in the frame.
+
+"to make a hole in sth, using a drill"
+
+[v] The children were drilled to leave the classroom quickly when the fire bell rang. 
+
+"to teach sb to do sth by making them repeat it a lot of times"
 
 
 
@@ -37516,7 +37357,15 @@ So, while both words describe a careful approach, the main difference lies in th
 
 
 
+08.panel /ˈpænl/
 
+[noun] One of the glass panels in the front door was cracked.
+
+"a square or rectangular piece of wood, glass or metal that forms part of a larger surface such as a door or wall"
+
+[noun] an advisory panel.
+
+"a group of specialists who give their advice or opinion about sth; a group of people who discuss topics of interest on television or radio"
 
 
 
@@ -37555,46 +37404,6 @@ So, while both words describe a careful approach, the main difference lies in th
 "a practice of what people must do in order to escape safely from a fire in a building"
 
 
-
-12.panel /ˈpænl/
-
-[noun] One of the glass panels in the front door was cracked.
-
-"a square or rectangular piece of wood, glass or metal that forms part of a larger surface such as a door or wall"
-
-[noun] an advisory panel.
-
-"a group of specialists who give their advice or opinion about sth; a group of people who discuss topics of interest on television or radio"
-
-
-
-13.drill /drɪl/
-
-[n] an electric drill.
-
-"a tool or machine with a pointed end for making holes"
-
-<img src="./images/drills.jpg" alt="drills" style="zoom: 25%;" />
-
-[n] a fire drill.
-
-"a practice of what to do in an emergency, for example if there is a fire"
-
-[v] Drill a series of holes in the frame.
-
-"to make a hole in sth, using a drill"
-
-[v] The children were drilled to leave the classroom quickly when the fire bell rang. 
-
-"to teach sb to do sth by making them repeat it a lot of times"
-
-
-
-14.maturity [məˈtʃʊrəti]
-
-[noun] Such financial products are common in the financial industry and that there was no significant difference in financial terms between offering interest **upfront or at maturity**. 
-
-"the time when money you have invested is ready to be paid"
 
 
 
@@ -37646,7 +37455,7 @@ The problem is that for your coworkers to **replicate** your analysis, they must
 
 
 
-#### 04/06.11
+#### 04/06.12
 
 01.dethrone [ˌdiːˈθroʊn]
 
@@ -37687,6 +37496,13 @@ The words "overthrown" and "dethroned" both refer to the removal of a person or 
 "Dethroned," on the other hand, often implies a more peaceful or non-violent removal from power, typically through legal or political means. For example, a monarch might be dethroned through a parliamentary vote or by abdicating the throne voluntarily.
 
 So, the main difference between the two terms is that "overthrown" typically suggests a more forceful or violent removal from power, while "dethroned" suggests a more peaceful or non-violent removal.
+
+| Term           | Used For                      | Tone                   | Scope                    |
+| -------------- | ----------------------------- | ---------------------- | ------------------------ |
+| **Overthrown** | Governments, systems, leaders | Political, serious     | Broad, structural change |
+| **Dethroned**  | Monarchs, symbolic leaders    | Formal or metaphorical | Specific role lost       |
+
+
 
 
 
@@ -37780,7 +37596,11 @@ In summary, "young" simply describes someone who is not old, while "youthful" sp
 
 
 
+12.insurrection /ˌɪnsəˈrekʃn/
 
+[n] Yoon attends 2nd insurrection trial hearing under flash of press cameras.
+
+"a situation in which a large group of people try to take political control of their own country with violence"
 
 
 
@@ -37818,7 +37638,7 @@ D[noun]  the attractiveness of travelling abroad.
 
 
 
-#### 04/11.05
+#### 04/11.04
 
 01.-induced /ɪnˈdjuːst/ /ɪnˈduːst/
 
@@ -37848,35 +37668,7 @@ D[noun]  the attractiveness of travelling abroad.
 
 
 
-
-
-
-
-05.toe /təʊ/ /toʊ/
-
-[noun] I stubbed my toe on the step.
-
-"one of the five small parts that stick out from the foot"
-
-
-
-06.stub /stʌb/
-
-[noun] He **pulled** the stub of a pencil from **behind his ear**.
-
-"The **stub** of a cigarette or a pencil is the last short piece of it which remains when the rest has been used."
-
-[noun] Fans who still have their original ticket stubs should contact Sheffield Arena by July 3.
-
-"A ticket **stub** is the part that you keep when you go in to watch a performance."
-
-[verb] {~ your toe (against/on sth)} I **stubbed my toes against** a table leg.
-
-"to hurt your toe by accident by hitting it against sth hard"
-
-
-
-07.pull /pʊl/
+04.pull /pʊl/
 
 [verb] You push and I'll pull.
 
@@ -40215,15 +40007,7 @@ It's important to note that in some contexts, people might use the term "identic
 
 
 
-07.turf /tɜː(r)f/
 
-[n] newly laid turf.
-
-"short grass and the surface layer of soil that is held together by its roots; a piece of this that has been cut from the ground and is used especially for making lawns (= the area of grass in a garden/yard)"
-
-[n] He feels more confident on home turf .
-
-"the place where sb lives and/or works, especially when they think of it as their own"
 
 
 
@@ -40412,7 +40196,7 @@ In summary, "scouting" emphasizes the act of observing and gathering information
 
 
 
-#### 08/10.08
+#### 08/10.06
 
 01.resort /rɪˈzɔːrt/
 
@@ -40460,11 +40244,7 @@ In summary, "scouting" emphasizes the act of observing and gathering information
 
 
 
-
-
-
-
-06.moderation 
+05.moderation 
 
 [n] *You can* [eat](https://dictionary.cambridge.org/dictionary/english/eat) *whatever you* [want](https://dictionary.cambridge.org/dictionary/english/want) *as* [long](https://dictionary.cambridge.org/dictionary/english/long) *as it's* **in *moderation.*** 
 
@@ -40472,17 +40252,7 @@ In summary, "scouting" emphasizes the act of observing and gathering information
 
 
 
-07.await /əˈweɪt/
-
-[v] Your comment is awaiting moderation."to wait for sb/sth"
-
-[v] A warm welcome awaits all our guests."to be going to happen to sb"
-
-<img src="/home/huawei/桌面/english learning/images/Difference-between-Wait-and-Await-1030x1030.png" alt="Difference-between-Wait-and-Await-1030x1030" style="zoom:50%;" />
-
-
-
-08.eject /iˈdʒekt/
+06.eject /iˈdʒekt/
 
 [v]{~ sb (from sth)} Police ejected a number of violent protesters from the hall. 
 
@@ -41879,7 +41649,7 @@ D[adv] The applicant has experience in teaching and, more relevantly, in industr
 
 
 
-#### 09/20.04
+#### 09/20.02
 
 01.merchant /ˈmɜː(r)tʃənt/
 
@@ -41893,15 +41663,7 @@ D[adv] The applicant has experience in teaching and, more relevantly, in industr
 
 
 
-02.ramp up 
-
-[vp] As South Korean platform giant Naver Corp. has been ramping up efforts to expand its market presence in the business-to-business (B2B) sector with its in-house large language model (LLM) HyperClova X at its core, a recent report found that nearly 700 startups and research organizations have adopted HyperClova X.
-
-"bolster or strengthen"
-
-
-
-03.breach /briːtʃ/
+02.breach /briːtʃ/
 
 [n] The upcoming service is a hybrid cloud solution designed for enterprises, allowing them to develop their own AI models without any concern of security breaches or data leaks.
 
@@ -42353,7 +42115,7 @@ conversely
 
 
 
-#### 10/26.04
+#### 10/26.03
 
 01.at large /æt lɑːrdʒ/
 
@@ -42384,20 +42146,6 @@ fleeting"lasting only for a very short time"
 [adj] a fleeting glimpse/smile. 
 
 "lasting only a short time" -brief-
-
-
-
-04.brief   [briːf] 
-
-[adj] a brief visit/meeting/conversation. "lasting only a short time; short"
-
-[noun] It wasn't part of his brief to speak to the press.  "using few words"
-
-The officer briefed her on what to expect  [verb] "给(某人)指示;向(某人)介绍情况"
-
-
-
-> Applied to speech and writing, **brief suggests concise and effective**: a brief introduction, a brief summary. Fleeting is used of things that pass quickly, with the suggestion that they escape our grasp or are over too soon: the fleeting pleasures of youth, fleeting fame, a fleeting thought, a fleeting glimpse.
 
 
 
@@ -43747,9 +43495,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-06.presumably /prɪˈzuːməbli/
 
-[adv] "used to say that you think that sth is probably true"
 
 
 
@@ -46028,9 +45774,7 @@ I can't say I share your enthusiasm for the idea."a strong feeling of excitement
 
 
 
-13.the course of ten years
 
-[phrase] The video, posted on WeChat — a Chinese "app for everything" — a few weeks ago, has already garnered over 210,000 views, 2,500 likes and 1,500 shares, introducing viewers to the largest cross-border courier business from Korea to China started by Liang from humble beginnings over the course of ten years.'十年的历程'
 
 
 
@@ -46448,7 +46192,7 @@ D[noun]  copyright infringement.
 
 
 
-#### 07/26.03
+#### 07/26.02
 
 01.vendor  [ˈvendər]
 
@@ -46464,21 +46208,9 @@ D[noun]  copyright infringement.
 
 
 
-02.wholesale /ˈhoʊlseɪl/
-
-[adj] wholesale prices.
-
-"connected with goods that are bought and sold in large quantities, especially so they can be sold again to make a profit"
-
-[adj] the wholesale slaughter of innocent people.
-
-"happening or done to a very large number of people or things"
-
-[adv] We buy the building materials wholesale./These young people die wholesale from heroin overdoses.
 
 
-
-03.slaughter /ˈslɔːtər/
+02.slaughter /ˈslɔːtər/
 
 [n] cows taken for slaughter.
 
@@ -47159,11 +46891,7 @@ to make sb lose respect for himself or herself"
 
 #### 01/10.02
 
-01.contrastive /kənˈtræstɪv/
 
-[adj] The study highlighted the contrastive differences between the cultural practices of the two regions, emphasizing their unique traditions and customs.
-
-"showing the differences between languages"
 
 
 
@@ -47375,15 +47103,7 @@ In short, flour is a specific type of powder used for cooking and baking, while 
 
 #### 01/22.09
 
-01.concrete  [ˈkɒŋkriːt]  "混凝土制的"
 
-[adj] a concrete floor. "made of concrete"
-
-[adj] concrete evidence/proposals/proof.  "based on facts, not on ideas or guesses"
-
-[noun] a slab of concrete. "building material that is made by mixing together cement , sand, small stones and water"
-
-[verb] The garden had been concreted over. "to cover sth with concrete".
 
 
 
@@ -48378,19 +48098,28 @@ Halt is also extremely formal and outdated English. It typically means to stop m
 
 
 
+05.truce /truːs/
 
+[n] Macron Says Ukraine Truce Could Be Weeks Away | WSJ News./If the two countries reach a complete truce or peace agreement, sanctions on Russia will likely be lifted, allowing Korean firms to resume business there.
 
-#### 02/12.02
-
-01.detrimental /ˌdetrɪˈmentl/
-
-[adj] He accused “certain activists and highly political judges” of attempting to derail his efforts, claiming that losing momentum would be “very detrimental to finding the TRUTH.” He added: “Much left to find. No Excuses!!!”.
-
-"harmful"
+"an agreement between enemies or opponents to stop fighting for an agreed period of time; the period of time that this lasts"
 
 
 
-02.derail /dɪˈreɪl/
+| Aspect     | Ceasefire                             | Truce                             |
+| ---------- | ------------------------------------- | --------------------------------- |
+| Scope      | Can be temporary or permanent         | Usually temporary                 |
+| Formality  | Can be formal or informal             | Usually informal                  |
+| Intent     | May lead to peace talks or end of war | Often just a break in hostilities |
+| Initiation | Can be one-sided                      | Typically mutual                  |
+
+
+
+#### 02/12.01
+
+
+
+01.derail /dɪˈreɪl/
 
 [v] The present wave of political killings is the work of people trying to derail peace talks.
 
@@ -49928,13 +49657,7 @@ The British "Ministry of Justice" is the "Department of Justice" in the US
 
 
 
-09.delegation /ˌdelɪˈɡeɪʃn/
 
-[n] A Korean delegation will make its last case for Busan’s bid to host the World Expo 2030 as representatives of 182 member states of the Bureau International des Expositions (BIE), a governing body for the event, are preparing to vote in Paris on Tuesday (local time) to determine the host city.
-
-/Welcome the delegation from SDAIA to graduate school of AI, SKKU./In a joint statement, the U.S. and Ukrainian delegations said the interim, monthlong ceasefire “can be extended by mutual agreement of the parties. 
-
-"a group of people who represent the views of an organization, a country, etc."
 
 
 
@@ -50483,17 +50206,9 @@ The difference between "wiggle" and "jiggle" is **the control had in the movemen
 
 
 
-#### 03/28.02
+#### 03/28.01
 
-01.truce /truːs/
-
-[n] Macron Says Ukraine Truce Could Be Weeks Away | WSJ News./If the two countries reach a complete truce or peace agreement, sanctions on Russia will likely be lifted, allowing Korean firms to resume business there.
-
-"an agreement between enemies or opponents to stop fighting for an agreed period of time; the period of time that this lasts"
-
-
-
-02.renewable/rɪˈnuːəbl/
+01.renewable/rɪˈnuːəbl/
 
 [adj] renewable sources of energy such as wind and solar power.
 
@@ -51019,29 +50734,7 @@ Hun Pheap lost her husband after he drank a toxic alcoholic homebrew
 
 
 
-02.stand  [stænd] 
 
-[noun]a hamburger/newspaper stand. "a table or a vertical structure that goods are sold from, especially in the street or at a market" -stall [stɔːl]-
-
-
-
-03.stall  [stɔːl]
-
-[noun] a market stall.
-
-"a table or small shop with an open front that people sell things from, especially at a market"
-
-[verb] (of a vehicle or an engine 车辆或发动机)   I stalled the car three times during my driving test.
-
-"to stop suddenly because of a lack of power or speed; to make a vehicle or engine do this"
-
-[verb] {~ (on/over sth)} They are still stalling on the deal.
-
-"to try to avoid doing sth or answering a question so that you have more time"
-
-[v] We must revive our stalled economy.
-
-"to stop sth from happening until a later date; to stop making progress"
 
 
 
@@ -51308,13 +51001,15 @@ D[adv] We reluctantly agreed to go with her.
 
 [noun] {~ (with sb) | ~ (between A and B) | ~ (for sth/to do sth)} to enter into/make/sign a contract with the supplier
 
-"an official written agreement"
+"an official written agreement" /ˈkɒntrækt /
 
-[verb] Glass contracts as it cools."to become less or smaller; to make sth become less or smaller" +expand+
+[verb] Glass contracts as it cools./South Korea’s quarterly GDP contracts for the first time in four years as construction activity plunges. /kənˈtrækt/
+
+"to become less or smaller; to make sth become less or smaller" +expand+
 
 
 
-#### 04/15
+#### 04/15.02
 
 01.farewell /ˌferˈwel/
 
@@ -51322,7 +51017,7 @@ D[adv] We reluctantly agreed to go with her.
 
 
 
-03.harassment  [ˈhærəsmənt]  [həˈræsmənt]
+02.harassment  [ˈhærəsmənt]  [həˈræsmənt]
 
 [noun] Another survey found that 51 percent of women had experienced some form of sexual [ˈsekʃuəl] harassment in their working lives./ "The harassment of Jewish students is intolerable. It is time for elite universities to take the problem seriously and commit to meaningful change if they wish to continue receiving taxpayer support," the statement added. 
 
@@ -51330,11 +51025,986 @@ D[adv] We reluctantly agreed to go with her.
 
 
 
-#### 04/18
+#### 04/18.01
 
 01.subvert /səbˈvɜːrt/
 
 [v] To **subvert** something means to destroy its power and influence.
 
 "To **subvert** something means to destroy its power and influence."
+
+
+
+#### 04/20.06
+
+01.stalker /ˈstɔːkər/
+
+[n] The actress had to increase her security after receiving threatening messages from an online stalker.
+
+"A **stalker** is someone who keeps following or contacting someone else, especially a famous person or a person they used to have a relationship with, in an annoying and frightening way."
+
+
+
+02.court /kɔːrt/
+
+[n] the civil/criminal courts. 
+
+"the place where legal trials take place and where crimes, etc. are judged"
+
+[n] a tennis/squash/badminton court. 
+
+"a place where games such as tennis are played"
+
+[v] Both candidates have spent the last month courting the media.
+
+"to try to please sb in order to get sth you want, especially the support of a person, an organization, etc."
+
+
+
+03.reciprocate /rɪˈsɪprəkeɪt/
+
+[v] Her passion for him was not reciprocated.
+
+"to behave or feel towards sb in the same way as they behave or feel towards you"
+
+
+
+04.Easter/ˈiːstər/
+
+[n] 'Happy Easter,' he yelled.
+
+"a Sunday in March or April when Christians remember the death of Christ and his return to life"
+
+
+
+05.wary [ˈweəri] [ˈweri]  chinese: jing ti de
+
+[adj] Be wary of strangers who offer you a ride./Ukraine wary of Putin’s Easter truce and says it will reciprocate only with a genuine ceasefire.
+
+"**careful** when dealing with sb/sth because you think that there may be a danger or problem" -cautious-
+
+
+
+> They are synonyms of each other! They can be used in the same context although, cautious is stronger than wary.  
+>
+> If you have to be cautious it would mean you must be really be careful of something dangerous. Being wary is mostly used lightly of something, like a warning.  
+>
+> How would you use them? 
+>
+> “You must be cautious around the loose railing” and “Be wary of the loose railing”  
+>
+> Cautious can even support wary 
+>
+> “Be wary of the loose railing. You must be cautious!” 
+
+
+
+| Aspect          | Wary                           | Cautious                       |
+| --------------- | ------------------------------ | ------------------------------ |
+| Emotion         | Implicates suspicion or fear   | Implicates careful thinking    |
+| Intent          | Distrust, self-protection      | Risk avoidance, responsibility |
+| Usage tone      | Slightly negative or defensive | Neutral to positive            |
+| Example feeling | *“I don’t trust this…”*        | *“I should be careful here…”*  |
+
+🔸 Bonus tip:
+
+You can be **cautious** *without* being **wary**, but if you’re **wary**, you’re almost always being **cautious**, too — just with added suspicion.
+
+Want to try using them in your own sentence to see if the nuance fits?
+
+
+
+06.genuine  [ˈdʒenjuɪn] 
+
+[adj] Is the painting a genuine Picasso? 
+
+"real; exactly what it appears to be; not artificial" -authentic-
+
+[adj] He made a genuine attempt to improve conditions.
+
+"sincere and honest; that can be trusted"
+
+
+
+#### 04/21.13
+
+01.decoration  [ˌdekəˈreɪʃn] 
+
+[noun]  Christmas decorations. "a thing that makes sth look more attractive on special occasions"
+
+[noun]  a Chinese theme in the interior decoration. "the style in which sth is decorated"
+
+
+
+02.decor /deɪˈkɔːr/
+
+[n] Founded in Seoul's Anguk neighborhood in 2021, London Bagel Museum quickly became a hot spot for both locals and tourists, attracting crowds with **its unique British-inspired decor and diverse bagel flavors**.
+
+"the style in which the inside of a building is decorated"
+
+| Word       | Focus                     | Example                                  |
+| ---------- | ------------------------- | ---------------------------------------- |
+| Decoration | Specific items or the act | "They hung up **decorations**."          |
+| Decor      | Overall style/aesthetic   | "The **decor** was chic and minimalist." |
+
+
+
+03.arson /ˈɑːrsn/
+
+[n] 1 dead, 11 injured in suspected arson at apartment building in Seoul.
+
+"the crime of deliberately setting fire to sth, especially a building"
+
+
+
+04.appease /əˈpiːz/
+
+[v] China warns nations against 'appeasing' US in trade deals. 
+
+"to give a country what it wants in order to avoid war"
+
+[v] The government tried to appease discontented workers.
+
+"to make sb calmer or less angry by giving them what they want"
+
+
+
+05.appeasement /əˈpiːzmənt/
+
+[n] Appeasement cannot bring peace, and compromise cannot earn one respect," [a Chinese Commerce Ministry spokesperson said](https://www.mofcom.gov.cn/syxwfb/art/2025/art_026871449807427085c6bfcf7f495c32.html).
+
+"**Appeasement** means giving people what they want to prevent them from harming you or being angry with you."
+
+
+
+06.discontented /ˌdɪskənˈtentɪd/
+
+[adj] There is discontent within the farming industry.
+
+"unhappy because you are not satisfied with your situation"
+
+
+
+07.delegation /ˌdelɪˈɡeɪʃn/
+
+[n] A Korean delegation will make its last case for Busan’s bid to host the World Expo 2030 as representatives of 182 member states of the Bureau International des Expositions (BIE), a governing body for the event, are preparing to vote in Paris on Tuesday (local time) to determine the host city.
+
+/Welcome the delegation from SDAIA to graduate school of AI, SKKU./In a joint statement, the U.S. and Ukrainian delegations said the interim, monthlong ceasefire “can be extended by mutual agreement of the parties. /The Trump administration has started talks with trading partners over tariffs, with a Japanese delegation visiting Washington last week and South Korea is set to start negotiations this week.
+
+"a group of people who represent the views of an organization, a country, etc."
+
+
+
+08.hefty /ˈhefti/
+
+[adj] Since returning to the White House in January, Trump has imposed hefty tariffs on Chinese imports, while other countries have also been hit with levies on their goods.
+
+"large; larger than usual or expected"
+
+
+
+09.witty /ˈwɪti/
+
+[adj] there are friendly and wwitty staff who always having fun small talk. 
+
+"able to say or write clever, amusing things"
+
+
+
+10.spiritual  [ˈspɪrɪtʃuəl] 
+
+[adj] a spiritual experience.
+
+"connected with the human spirit, rather than the body or physical things"
+
+
+
+11.temporal  [ˈtempərəl]
+
+[adj] Although spiritual leader of millions of people, the Pope has no temporal power.
+
+"connected with the real physical world, not spiritual matters"
+
+[adj] a universe which has spatial and temporal dimensions."connected with or limited by time"
+
+
+
+12.spatial /ˈspeɪʃl/
+
+[adj] changes taking place in the spatial distribution of the population.
+
+" relating to space and the position, size, shape, etc. of things in it  "
+
+
+
+13.pope /poʊp/
+
+[n] Pope Francis, the first pontiff from the Americas, dies at 88.
+
+"the leader of the Roman Catholic Church, who is also the Bishop of Rome"
+
+
+
+| Term        | Meaning                                                      | Scope                                                        | Usage Style                     |
+| ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------- |
+| **Pope**    | The **specific title** of the **Bishop of Rome** and **leader of the Catholic Church** | **Only one person** (the current Pope)                       | Common, everyday term           |
+| **Pontiff** | A **formal or respectful title** that refers to the Pope (or high-ranking clergy in ancient Rome) | Can refer to **the Pope**, or **other bishops** in some cases | Formal, ceremonial, or literary |
+
+
+
+#### 04/22.02
+
+01.springboard /ˈsprɪŋbɔːrd/
+
+[n] I didn’t know it at the time, but [getting laid off](https://www.cnbc.com/2025/03/16/a-vibe-shift-around-layoffs-is-happening-across-the-workforce.html) from Meta was about to be my [springboard to a new career](https://www.cnbc.com/2025/04/01/how-to-successfully-change-careers-and-be-happier-at-work-.html) — one at the cutting edge of the newest tech obsession.
+
+"If something is a **springboard for** something else, it makes it possible for that thing to happen or start."
+
+
+
+02.weirdo /ˈwɪədəʊ/ /ˈwɪrdoʊ/
+
+[n] "a person who looks strange and/or behaves in a strange way"
+
+
+
+#### 04/23.04
+
+01.orientation [ˌɔːriənˈteɪʃn]
+
+[noun]  They give their new employees a day or two of perfunctory orientation.
+
+"training or information that you are given before starting a new job, course, etc."
+
+[n] Demographics of sexual orientation.
+
+"the type of aims or interests that a person or an organization has; the act of directing your aims towards a particular thing"
+
+
+
+02.sexual  [ˈsekʃuəl] 
+
+[adj] sexual behaviour. "connected with the physical activity of sex"
+
+[adj] the sexual organs (= the penis , vagina , etc.). "connected with the process of producing young"
+
+[adj] sexual characteristics."connected with the state of being male or female"
+
+D[adv] sexually abused children.
+
+
+
+03.mourn /mɔːrn/
+
+[v] World mourns Pope Francis. 
+
+"to feel and show sadness because sb has died; to feel sad because sth no longer exists or is no longer the same" -grieve for /ɡriːv fɔːr/-
+
+
+
+04.volatility [ˌvɒləˈtɪləti]
+
+[noun] stock price volatility./SK Hynix warns of demand volatility after quarterly profit soars 158% as chip demand surges on AI boom.
+
+"being easily excited"
+
+
+
+#### 04/24.02
+
+01.pantry /ˈpæntri/
+
+[n]{AME} The eight Asian sauces to keep in your pantry.
+
+"a cupboard/closet or small room in a house, used for storing food" -larder-
+
+
+
+02.larder /ˈlɑːrdər/
+
+[n] {BrE} Please put the food into the larder.
+
+"a cupboard/closet or small room in a house, used for storing food, especially in the past"
+
+
+
+#### 04/25.05
+
+01.impudent /ˈɪmpjədənt/
+
+[adj] an impudent young fellow./Last night's attack was undoubtedly one of the most difficult and impudent.
+
+"rude; not showing respect for other people" -impertinent-
+
+
+
+02.impertinent /ɪmˈpɜːtɪnənt/
+
+[adj] an impertinent question/child.
+
+"rude and not showing respect for sb who is older or more important"
+
+
+
+> In summary, while all of these words refer to behavior that is disrespectful or lacks proper manners, they differ in their degree and focus. "Impolite" is a general term for behavior that is not polite. "Impudent" suggests bold disrespect or defiance. "Impertinent" emphasizes inappropriateness in a specific context. "Rude" is a broad term for behavior that is discourteous or offensive.
+
+
+
+03.envoy /ˈenvɔɪ/
+
+[n] Russian general killed in car bomb as Trump envoy meets Putin in Moscow for Ukraine peace talks.
+
+"a person who represents a government or an organization and is sent as a representative to talk to other governments and organizations"
+
+
+
+04.emissary/ˈemɪseri/
+
+[n] "a person who is sent to deliver an official message, especially from one country to another, or to perform a special task"
+
+
+
+05.diplomat  [ˈdɪpləmæt] 
+
+[noun] "a person whose job is to represent his or her country in a foreign country, for example, in an embassy"
+
+
+
+| Term     | Formality | Duration   | Context                        | Official Capacity |
+| -------- | --------- | ---------- | ------------------------------ | ----------------- |
+| Diplomat | High      | Long-term  | Government, international law  | Yes               |
+| Envoy    | Medium    | Short-term | Formal missions, special tasks | Yes (often)       |
+| Emissary | Low-Med   | Short-term | Secret/urgent missions         | Not always        |
+
+
+
+#### 04/28.01
+
+01.companion [kəmˈpæniən] 
+
+[noun] travelling companions."a person or an animal that travels with you or spends a lot of time with you"
+
+[noun] She was a charming dinner companion. "a person who has similar tastes, interests, etc. to your own and whose company you enjoy"
+
+
+
+> Company is plural, companion is singular  
+>
+> Company: "Please clean your room, I'm expecting company (=friends)" 
+>
+> Also, it is used to talk about a business (=会社) 
+>
+> "The company I work for is great! They (=the company) pay really well."  
+>
+> Companion (=仲間) 
+>
+> At school I practice English with a companion.
+
+
+
+The words **"companion"** and **"company"** are related but have different nuances:
+
+| Word          | Meaning                                                      | Usage Example                                             | Nuance                                                       |
+| ------------- | ------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------ |
+| **Companion** | A person (or sometimes animal) who *accompanies* someone, often implying friendship, loyalty, or partnership. | "She was his faithful companion on many adventures."      | More personal and emotional — often a close, trusted presence. |
+| **Company**   | The state of being with someone, or an organized group (like a business). | "I enjoy your company." or "He works for a tech company." | Can be either neutral (just "being with others") or formal (an organization). Less about deep relationship unless specified. |
+
+**Key difference:**
+
+- **Companion** = *specific individual who is with you, often emotionally close.*
+
+- **Company** = *the general presence of others* **or** *an organization*.
+
+  
+
+#### 04/29.04
+
+01.repel  /rɪˈpel/
+
+[v] to repel an attack/invasion/invader.  
+
+"to successfully fight sb who is attacking you, your country, etc. and drive them away"
+
+
+
+02.concrete  [ˈkɒŋkriːt]  "混凝土制的"
+
+[adj] a concrete floor. "made of concrete"
+
+[adj] concrete evidence/proposals/proof.  "based on facts, not on ideas or guesses"
+
+[noun] a slab of concrete. "building material that is made by mixing together cement , sand, small stones and water"
+
+[verb] The garden had been concreted over. "to cover sth with concrete".
+
+
+
+03.cement /sɪˈment/
+
+[n] ...a mixture of wet sand and cement.
+
+"**Cement** is a grey powder which is mixed with sand and water in order to make concrete."
+
+[v]  *two countries aim to cement their military alliance beyond the ongoing war*.
+
+"Something that **cements** a relationship or agreement makes it stronger."
+
+
+
+04.erectile /ɪˈrektaɪl/
+
+[adj] erectile dysfunction.
+
+"able to become stiff and stand up"
+
+
+
+#### 04/30.07
+
+01.controversial  [ˌkɒntrəˈvɜːʃl]   [ˌkɑːntrəˈvɜːrʃl] 
+
+[adj] a highly controversial topic.
+
+"causing a lot of angry public discussion and disagreement"
+
+
+
+02.contrastive /kənˈtræstɪv/
+
+[adj] The study highlighted the contrastive differences between the cultural practices of the two regions, emphasizing their unique traditions and customs.
+
+"showing the differences between languages"
+
+
+
+03.tout /taʊt/
+
+[v] Watch: Trump touts second term in speech marking first 100 days.
+
+"to try to persuade people that sb/sth is important or valuable by praising them/it"
+
+
+
+04.blast /blæst/
+
+[v] Trump celebrates 100 days in office by touting record and blasting foes.
+
+"to criticize sb/sth severely"
+
+
+
+05.foe /foʊ/
+
+[n]touting his achievements and targeting political foes. 
+
+"an enemy"
+
+
+
+06.toe /təʊ/ /toʊ/
+
+[noun] I stubbed my toe on the step.
+
+"one of the five small parts that stick out from the foot"
+
+
+
+07.stub /stʌb/
+
+[noun] He **pulled** the stub of a pencil from **behind his ear**.
+
+"The **stub** of a cigarette or a pencil is the last short piece of it which remains when the rest has been used."
+
+[noun] Fans who still have their original ticket stubs should contact Sheffield Arena by July 3.
+
+"A ticket **stub** is the part that you keep when you go in to watch a performance."
+
+[verb] {~ your toe (against/on sth)} I **stubbed my toes against** a table leg.
+
+"to hurt your toe by accident by hitting it against sth hard"
+
+
+
+#### 05/01.16
+
+01.obstacle  [ˈɒbstəkl] [ˈɑːbstəkl]
+
+[noun] A lack of qualifications can be a major obstacle to finding a job. "a situation, an event, etc. that makes it difficult for you to do or achieve sth"
+
+
+
+02.hurdle /ˈhɜː(r)dl/
+
+[n] His horse fell at the final hurdle.
+
+"each of a series of vertical frames that a person or horse jumps over in a race"
+
+[n] The next hurdle will be getting her parents' agreement./The company faces growing hurdles in the U.S., including tariffs and a pending Biden-era regulation that would restrict the shipment of its most advanced AI chips to many countries around the world.
+
+"a problem or difficulty that must be solved or dealt with before you can achieve sth" -obstacle-
+
+[v] He hurdled two barriers to avoid reporters."to jump over sth while you are running"
+
+
+
+03.hurdler /ˈhɜːrdlər/
+
+[n] Liu Xiang is a Chinese former 110 meter hurdler.
+
+"a person or horse that runs in races over hurdles"
+
+
+
+04.defiant /dɪˈfaɪənt/
+
+[adj] We don't care': A defiant China looks beyond Trump's America.
+
+"openly refusing to obey sb/sth, sometimes in an aggressive way"
+
+
+
+05.look beyond 
+
+[phrase] *We must look beyond our current challenges.*
+ → Don’t get stuck in today’s problems; think long-term.
+
+*China looks beyond Trump’s America.*
+ → China is **no longer focused on** Trump’s America and is turning to what comes **after**.
+
+"To **move past**, **disregard**, or **focus further than** something."
+
+
+
+06.Look toward
+
+[phrase] *She looks toward graduation with excitement.*
+ → She is anticipating her graduation.
+
+*The company looks toward a global expansion.*
+ → The company is **planning** or **preparing** to expand globally.
+
+"To **anticipate**, **prepare for**, or **focus on** something that is **coming**."
+
+
+
+07.under the weather [ˈʌndə(r) ðə ˈweðə(r)]
+
+[adj] JJ on Luka: "He was vomiting all afternoon. He's really under the weather". 
+
+"slightly unwell or in low spirits"
+
+
+
+08.throw up /θroʊ ʌp/
+
+[vp] JJ Redick on Luka after Lakers' loss: "He was throwing up all afternoon. He’s really not well". 
+
+"When someone **throws up**, they vomit."
+
+
+
+09.await /əˈweɪt/
+
+[v] Your comment is awaiting moderation."to wait for sb/sth"
+
+[v] A warm welcome awaits all our guests."to be going to happen to sb"
+
+<img src="./images/Difference-between-Wait-and-Await-1030x1030.png" alt="Difference-between-Wait-and-Await-1030x1030" style="zoom:50%;" />
+
+10.long-awaited [ˌlɒŋ əˈweɪtɪt]
+
+[adj] Hong Kong's long-awaited '0+0' COVID policy, but how soon can city bounce back?/US and Ukraine sign long-awaited natural resources deal.
+
+"that people have been waiting for for a long time"
+
+
+
+11.fly past 
+
+[vp] "We don't care about sales to the United States," says Hu Tianqiang as one of his toy fighter jets flies past our heads.
+
+"When an aircraft or bird **flies past** something, it means it **moves through the air close to or over something**, often without stopping."
+
+
+
+12.wholesale /ˈhoʊlseɪl/
+
+[adj] wholesale prices./Zhongxiang Toys, sits inside the world's biggest wholesale market in the small Chinese city of Yiwu.
+
+"connected with goods that are bought and sold in large quantities, especially so they can be sold again to make a profit"
+
+[adj] the wholesale slaughter of innocent people.
+
+"happening or done to a very large number of people or things"
+
+[adv] We buy the building materials wholesale./These young people die wholesale from heroin overdoses.
+
+
+
+13.stand  [stænd] 
+
+[noun]a hamburger/newspaper stand. "a table or a vertical structure that goods are sold from, especially in the street or at a market" -stall [stɔːl]-
+
+
+
+14.stall  [stɔːl]
+
+[noun] a market stall./Hu's stall, Zhongxiang Toys.
+
+"a table or small shop with an open front that people sell things from, especially at a market"
+
+[verb] (of a vehicle or an engine 车辆或发动机)   I stalled the car three times during my driving test.
+
+"to stop suddenly because of a lack of power or speed; to make a vehicle or engine do this"
+
+[verb] {~ (on/over sth)} They are still stalling on the deal.
+
+"to try to avoid doing sth or answering a question so that you have more time"
+
+[v] We must revive our stalled economy.
+
+"to stop sth from happening until a later date; to stop making progress"
+
+
+
+15.corner /ˈkɔːrnər/
+
+[n] the four corners of a square. 
+
+"a part of sth where two or more sides, lines or edges join"
+
+[v] The man was finally cornered by police in a garage.
+
+"to get a person or an animal into a place or situation from which they cannot escape"
+
+[v] And US President Donald Trump has made it clear that he blames Beijing in particular for cornering too much of the global market.
+
+"to get control of the trade in a particular type of goods"
+
+
+
+16.ahead of/ behind
+
+[prepositional phrases] [Nvidia](https://www.cnbc.com/quotes/NVDA/) CEO Jensen Huang said Wednesday that China is “**not behind**” in artificial intelligence, and that Huawei is “one of the most formidable technology companies in the world.”
+
+[prepositional phrases] And in order to stay ahead of that competition, Huang urged the Trump administration to consider policies that not just accelerate the production of chips in the US, but that support the diffusion of those American-made chips around the world.
+
+
+
+#### 05/02.13
+
+01.turf /tɜː(r)f/
+
+[n] newly laid turf.
+
+"short grass and the surface layer of soil that is held together by its roots; a piece of this that has been cut from the ground and is used especially for making lawns (= the area of grass in a garden/yard)"
+
+[n] He feels more confident on home turf .
+
+"the place where sb lives and/or works, especially when they think of it as their own"
+
+
+
+02.lawn /lɔːn/
+
+[n] I had to mow the lawn in order to get the new sneakers I wanted.
+
+"an area of ground covered in short grass in a garden/yard or park, or used for playing a game on"
+
+
+
+03.mow /moʊ/
+
+[v]  I mow the lawn every week in summer.
+
+"to cut grass, etc. using a machine or tool with a special blade or blades"
+
+
+
+04.enclose  /ɪnˈkloʊz/
+
+[v] We would strongly suggest that you enclose with the revised version your response to the criticisms, outlining how you changed the manuscript.
+
+"to put sth in the same envelope, package, etc. as sth else"
+
+
+
+05.critique /krɪˈtiːk/
+
+[n] Note that if major elements of the critiques are not satisfactorily addressed, the paper will not be accepted or be reviewed further.
+
+"a piece of written criticism of a set of ideas, a work of art, etc."
+
+
+
+06.rephrase /ˌriːˈfreɪz/
+
+[v] Authors should consider rephrasing many of the overpositive claims about Non-Uniform-Mix.
+
+"to say or write sth using different words in order to make the meaning clearer"
+
+
+
+07.custom  [ˈkʌstəm]
+
+[noun] {~ (of doing sth)} the custom of giving presents at Christmas. 
+
+"an accepted way of behaving or of doing things in a society or a community"
+
+[noun] It was her custom to rise early."the way a person always behaves"
+
+[adj] a custom motorcycle. 
+
+"If you use **custom** to describe something such as a vehicle or a piece of clothing, you mean that it has been designed for one particular customer."
+
+
+
+> 风俗vs习惯
+>
+> In summary, customs are collective practices or behaviors that are culturally or socially significant, while habits are individual routines or actions that result from personal repetition. Customs are consciously followed to adhere to cultural norms, whereas habits are often performed automatically or without much thought.
+
+
+
+08.customs /ˈkʌstəmz/
+
+[n] The Customs have seized large quantities of smuggled heroin.
+
+"the government department that collects taxes on goods bought and sold and on goods brought into the country, and that checks what is brought in"
+
+[n] We are required to remove our laptops when passing through customs inspection at Beijing Daxing Airport.
+
+"the place at a port or an airport where your bags are checked as you come into a country"
+
+[n] to pay customs on sth.
+
+"the taxes that must be paid to the government when goods are brought in from other countries"
+
+
+
+09.adhere /ədˈhɪr/ to sth 
+
+[v] This study adhered to the rigorous PRISMA guidelines for systematic reviews. 
+
+"to behave according to a particular law, rule, set of instructions, etc.; to follow a particular set of beliefs or a fixed way of doing sth"
+
+
+
+10.rigorous  [ˈrɪɡərəs] 
+
+[adj] a rigorous analysis./After the rigorous review process, 99% papers have received at least 3 reviews, and the conference has accepted 196 regular papers and 205 short papers."done carefully and with a lot of attention to detail"
+
+[adj] The work failed to meet their rigorous standards. "demanding that particular rules, processes, etc. are strictly followed" -strict-
+
+
+
+11.absent-minded /ˌæbsənt ˈmaɪndɪd/
+
+[adj] The absent-minded professor is always losing his books. 
+
+"tending to forget things, perhaps because you are not thinking about what is around you, but about sth else"
+
+
+
+12.scatterbrain /ˈskætərbreɪn/
+
+[n] He's such a scatterbrain, always forgetting to lock the door. 
+
+"a person who is always losing or forgetting things and cannot think in an organized way"
+
+
+
+13.detrimental /ˌdetrɪˈmentl/
+
+[adj] {~ (to sb/sth)}He accused “certain activists and highly political judges” of attempting to derail his efforts, claiming that losing momentum would be “very detrimental to finding the TRUTH.” He added: “Much left to find. No Excuses!!!”./These augmented samples may have detrimental effects on ECG classification.
+
+"harmful"
+
+
+
+#### 05/04.03
+
+01.presumably /prɪˈzuːməbli/  "没准儿"
+
+[adv]  To guarantee performance, the building of a DL model is frequently accompanied by a data augmentation (DA) technique, which provides additional and presumably non-redundant training data by deforming the training set.
+
+"used to say that you think that sth is probably true"
+
+
+
+**"Presumably"** and **"probably"** are similar but differ in nuance and how certain the speaker sounds. Here's a breakdown:
+
+------
+
+🔹 **Probably**
+
+- **Meaning**: Something is likely to happen or be true based on known information.
+- **Certainty level**: Fairly high (more than 50% chance).
+- **Tone**: More confident or straightforward.
+- **Example**:
+  - *It will probably rain tomorrow.*
+  - (*The forecast suggests a high chance of rain.*)
+
+------
+
+🔹 **Presumably**
+
+- **Meaning**: Something is assumed to be true based on what seems reasonable or logical, but there's less direct evidence.
+- **Certainty level**: Moderate; more tentative or inferred.
+- **Tone**: Slightly more cautious or speculative.
+- **Example**:
+  - *Presumably, she missed the meeting because of traffic.*
+  - (*I don’t know for sure, but that would make sense.*)
+
+------
+
+🔁 In short:
+
+- Use **"probably"** when you're **more sure** and have **some evidence**.
+- Use **"presumably"** when you're **inferring** something but **aren’t certain**.
+
+Would you like examples from technical writing or academic papers as well?
+
+
+
+02.course /kɔːrs/
+
+[n] The earthquake that changed the course of history?
+
+"the way sth develops or should develop"
+
+
+
+03.the course of ten years
+
+[phrase] The video, posted on WeChat — a Chinese "app for everything" — a few weeks ago, has already garnered over 210,000 views, 2,500 likes and 1,500 shares, introducing viewers to the largest cross-border courier business from Korea to China started by Liang from humble beginnings over the course of ten years.'十年的历程'
+
+
+
+#### 05/05.08
+
+01.ramp /ræmp/
+
+[n] Ramps should be provided for wheelchair users.
+
+"A ramp is a sloping surface between two places that are at different levels."
+
+
+
+02.ramp up 
+
+[vp] As South Korean platform giant Naver Corp. has been ramping up efforts to expand its market presence in the business-to-business (B2B) sector with its in-house large language model (LLM) HyperClova X at its core, a recent report found that nearly 700 startups and research organizations have adopted HyperClova X./US President Donald Trump says he will hit movies made in foreign countries with 100% tariffs, as he ramps up trade disputes with nations around the world.
+
+"bolster or strengthen"
+
+
+
+03.slope  [sləʊp] [sloʊp]
+
+[noun] a **grassy** slope. 
+
+"a surface or piece of land that slopes (= is higher at one end than the other)" -incline-
+
+[noun] the eastern slopes of the Andes. "an area of land that is part of a mountain or hill"
+
+[noun] a gentle/steep slope. "the amount by which sth slopes"
+
+[verb] The garden slopes away towards the river. "to be at an angle so that it is higher at one end than the other"
+
+
+
+![](https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/1468/2016/02/04064320/image042.gif)
+
+04.curve [kɜːv] 
+
+[noun]  the **delicate** curve of her ear. "a line or surface that bends gradually; a smooth bend"
+
+![](https://files.askiitians.com/cdn1/images/2017327-13365066-2531-1-slope-of-line.gif)
+
+05.quantity /ˈkwɑːntəti/
+
+[n] enormous/vast/huge quantities of food.
+
+"an amount or a number of sth"
+
+
+
+06.quantitative /ˈkwɑːntəteɪtɪv/
+
+[adj] Quantitative Trading.
+
+"connected with the amount or number of sth rather than with how good it is"
+
+
+
+07.teaser  [ˈtiːzə(r)]
+
+[noun] {(informal)}
+
+The problem looks simple enough, but when you come to try and solve it you'll find it's a real teaser.
+
+"a difficult problem or question"
+
+[n] Squid Game Season 3 Teaser Is Coming This Monday, Confirms Netflix.
+
+"an advertisement for a product that does not mention the name of the product or say much about it but is intended to make people interested and likely to pay attention to later advertisements"
+
+
+
+08.chromosome /ˈkroʊməsoʊm/
+
+[n] Each cell of our bodies contains 46 chromosomes.
+
+"A chromosome is a part of a cell in an animal or plant. It contains genes which determine what characteristics the animal or plant will have."
+
+
+
+#### 05/06
+
+01.brief   [briːf] 
+
+[adj] a brief visit/meeting/conversation. "lasting only a short time; short"
+
+[noun] It wasn't part of his brief to speak to the press.  "using few words"
+
+The officer briefed her on what to expect  [verb] "给(某人)指示;向(某人)介绍情况"
+
+
+
+> Applied to speech and writing, **brief suggests concise and effective**: a brief introduction, a brief summary. Fleeting is used of things that pass quickly, with the suggestion that they escape our grasp or are over too soon: the fleeting pleasures of youth, fleeting fame, a fleeting thought, a fleeting glimpse.
+
+
+
+02.briefcase /ˈbriːfkeɪs/
+
+[n] The briefcase flopped onto the desk.
+
+"a flat case used for carrying papers and documents"
+
+
+
+03.inseam vs outseam /ˈɪnsiːm/
+
+[n] what is your inseam."The measurement from the **crotch seam** (where the legs meet) to the **bottom of the leg**." vs "The measurement from the **top of the waistband** all the way down the **side of the leg** to the **bottom hem**."
+
+
+
+04.crotch /krɑːtʃ/
+
+[n] They were too long in the crotch.
+
+"The crotch of something such as a pair of trousers is the part that covers the area between the tops of your legs."
+
+[n] Glover kicked him hard in the crotch.
+
+"Your crotch is the part of your body between the tops of your legs."
+
+
+
+05.barter /ˈbɑːrtər/
+
+[n] The local people bartered wheat for tools. 
+
+"to exchange goods, property, services, etc. for other goods, etc. without using money"
+
+
 
