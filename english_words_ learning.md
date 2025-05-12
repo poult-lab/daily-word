@@ -2818,23 +2818,7 @@ Explain: You fork out for sth more unwillingly than you shell out for sth.
 
 
 
-14.mediate  [ˈmiːdieɪt] 
 
-[verb] {~ (in sth) | ~ (between A and B)} The Secretary-General was asked to mediate in the dispute. 
-
-"to try to end a disagreement between two or more people or groups by talking to them and trying to find things that everyone can agree on"
-
-[verb] They mediated a settlement. "to succeed in finding a solution to a disagreement between people or groups" -negotiate-
-
-
-
-15.mediation   [ˌmiːdiˈeɪʃn]
-
-[n] the parties have sought mediation and it has failed.
-
-"the act of intervening for the purpose of bringing about a **settlement**" 
-
-"仲裁；调停，居中调停"
 
 
 
@@ -7399,15 +7383,7 @@ bachelorette [ˌbætʃələˈret] "没有结婚的女孩子"
 
 
 
-02.commitment [kəˈmɪtmənt] 
 
-[noun] She doesn't want to make a big emotional commitment to Steve at the moment."a promise to do sth or to behave in a particular way"
-
-big emotional commitment:巨大感情承诺
-
-[noun] A career as an actor requires one hundred percent commitment.
-
-"the willingness to work hard and give your energy and time to a job or an activity"
 
 
 
@@ -10061,9 +10037,7 @@ The children quickly got bored with staying indoors.
 
 
 
-04.starve [stɑːrv] 
 
-[verb] The animals were left to starve to death. "to suffer or die because you do not have enough food to eat; to make sb suffer or die in this way"
 
 
 
@@ -13675,7 +13649,7 @@ The examination is near at hand.
 
 
 
-#### 2020/10/16.19
+#### 2020/10/16.17
 
 01.cinnamon [ˈsɪnəmən]
 
@@ -13726,6 +13700,47 @@ The examination is near at hand.
 "a chemical element. Silver is a greyish-white precious metal used for making coins, jewellery, decorative objects, etc."
 
 [adj] a silver car. "shiny greyish-white in colour"
+
+
+
+07.relative  [ˈrelətɪv] 
+
+[adj] the relative merits of the two plans.
+
+"considered and judged by being compared with sth else"
+
+[noun] a close/distant relative. "a person who is in the same family as sb else" -relation [rɪˈleɪʃn]-
+
+D[adv] relatively  [ˈrelətɪvli] 
+
+
+
+> "Relatively," "comparatively," and "correspondingly" are all adverbs that are used to establish a relationship or make a comparison between different elements. While they share some similarities, there are slight differences in their meanings and usage:
+>
+> Relatively: This adverb is used to indicate a comparison between two or more things in relation to each other. It suggests that something is considered or evaluated in relation to something else. It highlights the degree or extent of a quality or characteristic in comparison to others. For example:
+>
+> - "The rent in this city is relatively high compared to neighboring towns."
+> - "She is relatively young compared to her colleagues." "相对de"
+>
+> Comparatively: This adverb is used to draw a comparison between two or more things, highlighting similarities or differences. It indicates that something is being considered in relation to a standard or benchmark. It is often used to express a relative degree or extent. For example:
+>
+> - "The car is comparatively cheaper than other models in its class."
+> - "The company's profits increased comparatively more this year." "相比较de"
+>
+> Correspondingly: This adverb is used to indicate a relationship or connection between two or more things, suggesting that one thing corresponds or matches with another. It emphasizes that there is a parallel or corresponding aspect in relation to something else. For example:
+>
+> - "As the demand for the product increased, the price correspondingly rose."
+> - "The company's sales went up, and correspondingly, its market share increased." "相对应de"
+>
+> In summary, "relatively" emphasizes the comparison in relation to others, "comparatively" emphasizes a comparison to a standard or benchmark, and "correspondingly" highlights a **parallel or matching relationship** between elements.
+>
+> 
+>
+> another explanation:
+>
+> What is the difference between comparatively and relatively?
+>
+> They are very similar. Comparatively is simply good for when you are making a comparison between two or more things. Like "Japan is comparatively safer than other countries."  Relatively can be used for comparison but also as "basically". For example, you can say "This is relatively easy!". A comparison is implied, but it doesn't feel as direct as "comparatively". I use "relatively" often in conversation. I never use comparatively though. It's more academic.
 
 
 
@@ -13852,45 +13867,6 @@ I used to stay up late with my mom and watch movies.
 [verb] He has been charged with assaulting a police officer. "to attack sb violently, especially when this is a crime"
 
 
-
-
-
-19.relative  [ˈrelətɪv] 
-
-[adj] the relative merits of the two plans.
-
-"considered and judged by being compared with sth else"
-
-[noun] a close/distant relative. "a person who is in the same family as sb else" -relation [rɪˈleɪʃn]-
-
-D[adv] relatively  [ˈrelətɪvli] 
-
-
-
-> "Relatively," "comparatively," and "correspondingly" are all adverbs that are used to establish a relationship or make a comparison between different elements. While they share some similarities, there are slight differences in their meanings and usage:
->
-> Relatively: This adverb is used to indicate a comparison between two or more things in relation to each other. It suggests that something is considered or evaluated in relation to something else. It highlights the degree or extent of a quality or characteristic in comparison to others. For example:
-> - "The rent in this city is relatively high compared to neighboring towns."
-> - "She is relatively young compared to her colleagues." "相对de"
->
-> Comparatively: This adverb is used to draw a comparison between two or more things, highlighting similarities or differences. It indicates that something is being considered in relation to a standard or benchmark. It is often used to express a relative degree or extent. For example:
-> - "The car is comparatively cheaper than other models in its class."
-> - "The company's profits increased comparatively more this year." "相比较de"
->
-> Correspondingly: This adverb is used to indicate a relationship or connection between two or more things, suggesting that one thing corresponds or matches with another. It emphasizes that there is a parallel or corresponding aspect in relation to something else. For example:
-> - "As the demand for the product increased, the price correspondingly rose."
-> - "The company's sales went up, and correspondingly, its market share increased." "相对应de"
->
-> In summary, "relatively" emphasizes the comparison in relation to others, "comparatively" emphasizes a comparison to a standard or benchmark, and "correspondingly" highlights a **parallel or matching relationship** between elements.
->
-> 
->
-> another explanation:
->
-> What is the difference between comparatively and relatively?
->
-> They are very similar. Comparatively is simply good for when you are making a comparison between two or more things. Like "Japan is comparatively safer than other countries."  Relatively can be used for comparison but also as "basically". For example, you can say "This is relatively easy!". A comparison is implied, but it doesn't feel as direct as "comparatively". I use "relatively" often in conversation. I never use comparatively though. It's more academic.
->
 
 
 
@@ -17925,11 +17901,7 @@ He greeted all the guests warmly as they arrived.
 
 #### 2020/12/30.02
 
-01.emeritus  [iˈmerɪtəs]
 
-[adj] the Emeritus Professor of Biology. 
-
-"used with a title to show that a person, usually a university teacher, keeps the title as an honour, although he or she has stopped working"
 
 
 
@@ -18763,29 +18735,7 @@ D[adv] a very efficiently organized event.
 
 
 
-10.meaty [ˈmiːti]
 
-[adj] "containing a lot of meat"
-
-[adj] a meaty taste. "smelling, or tasting like meat"
-
-[adj] a meaty discussion. "containing a lot of important or interesting ideas" 
-
--substantial-  [səbˈstænʃl]-
-
-[adj] a meaty hand. "large and fat; with a lot of flesh" -fleshy [ˈfleʃi] -
-
-
-
-11.substantial  [səbˈstænʃl]
-
-[adj] substantial sums of money./Creating sparse neural networks and implementing pruning in Python with real datasets is a complex task that involves several libraries and a substantial amount of code. In this response, I’ll provide you with a simplified example using a small dataset to demonstrate the concept.  
-
-"large in amount, value or importance"
-
--considerable[kənˈsɪdərəbl]-
-
-[adj] a substantial house. "large and solid; strongly built"
 
 
 
@@ -43521,7 +43471,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-#### 01/15.04
+#### 01/15.03
 
 01.slip in 
 
@@ -43543,17 +43493,11 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-03.candid /ˈkændɪd/
-
-[n] "乘人不备时拍下的照片, 快照"
-
-[adj] a candid statement/interview. 
-
-"saying what you think openly and honestly; not hiding your thoughts"
 
 
 
-04.assign  [əˈsaɪn]
+
+03.assign  [əˈsaɪn]
 
 [verb] {~ sth (to sb) | ~ (sb) sth}  The two large classrooms have been assigned to us. "to give sb sth that they can use, or some work or responsibility"
 
@@ -49582,7 +49526,7 @@ The British "Ministry of Justice" is the "Department of Justice" in the US
 
 
 
-#### 03/12.11
+#### 03/12.09
 
 01.mansion [ˈmænʃn] 
 
@@ -49638,10 +49582,11 @@ The British "Ministry of Justice" is the "Department of Justice" in the US
 
 
 
-07.coal  [kəʊl] [koʊl] 
-[noun] China is a country with more coal and less oil 
+07.monthlong 
 
-"a hard black **mineral** that is found below the ground and **burnt** to produce heat"
+[adj] a monthlong stay in the hospital.
+
+"last through a month"
 
 
 
@@ -49657,19 +49602,7 @@ The British "Ministry of Justice" is the "Department of Justice" in the US
 
 
 
-
-
-
-
-10.monthlong 
-
-[adj] a monthlong stay in the hospital.
-
-"last through a month"
-
-
-
-11.interim /ˈɪntərɪm/
+09.interim /ˈɪntərɪm/
 
 [adj] an interim government/measure/report.
 
@@ -51958,7 +51891,7 @@ The problem looks simple enough, but when you come to try and solve it you'll fi
 
 
 
-#### 05/06
+#### 05/06.05
 
 01.brief   [briːf] 
 
@@ -52008,3 +51941,161 @@ The officer briefed her on what to expect  [verb] "给(某人)指示;向(某人)
 
 
 
+#### 05/07.01
+
+01.lay out /leɪ aʊt/
+
+[vp] Hong Kong stocks lead gains in Asia-Pacific as China lays out plans to ease policy.
+
+"To lay out ideas, principles, or plans means to explain or present them clearly, for example in a document or a meeting."
+
+
+
+#### 05/08.01
+
+01.commitment [kəˈmɪtmənt] 
+
+[noun] She doesn't want to make a big emotional commitment to Steve at the moment."a promise to do sth or to behave in a particular way"
+
+big emotional commitment:巨大感情承诺
+
+[noun] A career as an actor requires one hundred percent commitment.
+
+"the willingness to work hard and give your energy and time to a job or an activity"
+
+[n] We have commitments on the weekends in June.
+
+"a thing that you have promised or agreed to do, or that you have to do"
+
+
+
+#### 05/11.08
+
+01.mediate  [ˈmiːdieɪt] 
+
+[verb] {~ (in sth) | ~ (between A and B)} The Secretary-General was asked to mediate in the dispute. 
+
+"to try to end a disagreement between two or more people or groups by talking to them and trying to find things that everyone can agree on"
+
+[verb] They mediated a settlement. "to succeed in finding a solution to a disagreement between people or groups" -negotiate-
+
+
+
+02.mediation   [ˌmiːdiˈeɪʃn]
+
+[n] the parties have sought mediation and it has failed.
+
+"the act of intervening for the purpose of bringing about a **settlement**" 
+
+"仲裁；调停，居中调停"
+
+
+
+03.mediated  /ˈmiːdieɪtɪd/
+
+[adj] President Donald Trump said that the agreement was the result of U.S.-mediated talks.
+
+"acting or brought about through an intervening agency"
+
+
+
+04.coal  [kəʊl] [koʊl] 
+[noun] China is a country with more coal and less oil 
+
+"a hard black **mineral** that is found below the ground and **burnt** to produce heat"
+
+
+
+05.charcoal /ˈtʃɑːrkoʊl/
+
+[n] charcoal grilled steaks.
+
+"a black substance made by burning wood slowly in an oven with little air. Charcoal is used as a fuel or for drawing."
+
+
+
+> Is coal the same thing as charcoal?
+>
+> It turns out these two have nothing to do with each other. Coal is a rock you dig out of the ground (that much I knew). Charcoal is a man-made product, and it's made from wood. You make charcoal by heating wood to high temperatures in the absence of oxygen.
+
+
+
+06.starve [stɑːrv] 
+
+[verb] The animals were left to starve to death. "to suffer or die because you do not have enough food to eat; to make sb suffer or die in this way"
+
+
+
+07.oxygen-starved /ˈɑːksɪdʒən stɑːrvd/
+
+[phrase] Charcoal is made by **heating wood or other organic materials above 400° C (750° F) in an oxygen-starved environment**. 
+
+
+
+08.emeritus  [iˈmerɪtəs]
+
+[adj] the Emeritus Professor of Biology./This title is typically given to a retired professor who has served with distinction. If the professor is female, the term **"Professor Emerita/iˈmerɪtə/"** can also be used, though "Professor Emeritus" is often used generically for any gender.
+
+"used with a title to show that a person, usually a university teacher, keeps the title as an honour, although he or she has stopped working"
+
+
+
+#### 05/12
+
+01.meaty [ˈmiːti]
+
+[adj] "containing a lot of meat"
+
+[adj] a meaty taste. "smelling, or tasting like meat"
+
+[adj] a meaty discussion. "containing a lot of important or interesting ideas" 
+
+-substantial-  [səbˈstænʃl]-
+
+[adj] a meaty hand. "large and fat; with a lot of flesh" -fleshy [ˈfleʃi] -
+
+
+
+02.substantial  [səbˈstænʃl]
+
+[adj] substantial sums of money./Creating sparse neural networks and implementing pruning in Python with real datasets is a complex task that involves several libraries and a substantial amount of code. In this response, I’ll provide you with a simplified example using a small dataset to demonstrate the concept.  /Vice Premier of the People’s Republic of China He Lifeng said the meeting “achieved substantial progress and reached important consensus.”
+
+"large in amount, value or importance"
+
+-considerable[kənˈsɪdərəbl]-
+
+[adj] a substantial house. /So please embrace the clinical translational aspect in your revised version, by including substantial focus of the text specifically on this aspect.
+
+"large and solid; strongly built"
+
+
+
+03.candid /ˈkændɪd/
+
+[n] "乘人不备时拍下的照片, 快照"
+
+[adj] a candid statement/interview. /The US Treasury Secretary Scott Bessent described the discussions as "productive and constructive," while China's Vice Premier He Lifeng said the talks were "in-depth" and "candid".
+
+"saying what you think openly and honestly; not hiding your thoughts"
+
+
+
+04.thaw /θɔː/
+
+[verb] It's so cold the snow doesn't get a chance to thaw...
+
+"When ice, snow, or something else that is frozen thaws, it melts."
+
+[v] The U.S. and China on Monday agreed to temporarily suspend most tariffs on each other’s goods in a move that shows a major thawing of trade tensions between the world’s two largest economies. 
+
+"If something thaws relations between people or if relations thaw, they become friendly again after a period of being unfriendly."
+
+[n] the thaw came yesterday afternoon
+
+"A thaw is a period of warmer weather when snow and ice melt, usually at the end of winter."
+
+
+
+05.in place 
+
+[n] The U.S.′ [20% duties on Chinese imports relating to fentanyl](https://www.cnbc.com/2025/03/12/china-says-its-willing-to-cooperate-with-the-us-on-fentanyl.html) will remain in place, meaning total tariffs on China stand at 30%."not traveling any distance."
