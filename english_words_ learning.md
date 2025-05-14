@@ -5152,11 +5152,7 @@ We're open till 6 o'clock.
 
 #### 2020/04/24.12
 
-01.plummet    [ˈplʌmɪt] [verb] 
 
-[adj] Share prices plummeted to an all-time low. 
-
-"to fall suddenly and quickly from a high level or position" -plunge-
 
 
 
@@ -5216,17 +5212,7 @@ We're open till 6 o'clock.
 
 
 
-09.plunge [plʌndʒ]
 
-[noun] Despite the country`s stellar trade report, the Kospi fell 1.41 percent to 3,025.52 on Friday morning due to a plunge in U.S. peers."a sudden movement downwards or away from sth"
-
-[verb] She lost her balance and plunged 100 feet to her death.
-
-"to move or make sb/sth move suddenly forwards and/or downwards"
-
-[verb] Squid Game crypto plunges to $0 after scammers steal million of dollars from investors. 
-
-"to decrease suddenly and quickly" -plummet-
 
 
 
@@ -12597,7 +12583,7 @@ D[adv] reliably. I am reliably informed (= told by sb who knows the facts) that 
 
 
 
-#### 2020/10/09.16
+#### 2020/10/09.15
 
 01.dense [dens] 
 
@@ -12733,17 +12719,7 @@ Chest is that part of our body which contains muscles, fat and along with **bone
 
 
 
-15.transparent  [trænsˈpærənt] 
-
-[adj] The insect's wings are almost transparent."allowing you to see through it" __opaque__
-
-[adj] a man of transparent honesty.  "allowing you to see the truth easily" -obvious-
-
-[adj] a campaign to make official documents more transparent. "easy to understand"
-
-
-
-16.notation [nəʊˈteɪʃn] 
+15.notation [nəʊˈteɪʃn] 
 
 [noun] "a system of signs or symbols used to represent information, especially in mathematics, science and music"
 
@@ -16843,7 +16819,7 @@ It took years to disseminate information about Aids in Africa...
 
 
 
-#### 2020/11/29.04
+#### 2020/11/29.03
 
 01.rule of thumb 
 
@@ -16867,13 +16843,7 @@ It took years to disseminate information about Aids in Africa...
 
 
 
-04.transparency  [trænsˈpærənsi] 
 
-[noun] "a picture printed on a piece of film, usually in a frame, that can be shown on a screen by shining light through the film"
-
-[n] They were shocked by the transparency of his lies.
-
-"the quality of sth, such as an excuse or a lie, that allows sb to see the truth easily"
 
 
 
@@ -17967,7 +17937,7 @@ is that **specialist** is someone who is an expert in, or devoted to, some speci
 
 ### 2021
 
-#### 20210103.03
+#### 20210103.02
 
 01.off the clock
 
@@ -17986,22 +17956,6 @@ is that **specialist** is someone who is an expert in, or devoted to, some speci
 [adj] a plastic bag/cup/toy. "made of plastic"
 
 [phrase] plastic surgery.
-
-
-
-03.revolution [ˌrevəˈluːʃn] 
-
-[noun] a socialist revolution."an attempt, by a large number of people, to change the government of a country, especially by violent action"
-
-[noun] {~ (in sth)} a cultural/social/scientific, etc. revolution. 
-
-"a great change in conditions, ways of working, beliefs, etc. that affects large numbers of people"
-
-[noun] {~ (around/on sth)} the revolution of the earth around the sun.
-
-"a complete circular movement around a point, especially of one planet around another"
-
-
 
 
 
@@ -25953,25 +25907,13 @@ Kim Jong-un's slimmer frame has prompted more speculation about his health./Ther
 
 
 
-#### 20210701.10
+#### 20210701.07
 
-01.rally [ˈræli] 
+01.overwhelming  [ˌəʊvəˈwelmɪŋ] 
 
-[noun] to attend/hold a rally. 
+[adj] But an artificial intelligence (AI)-driven study which looked at thousands of tweets from Pakistan posted between 21 April and 4 May says an overwhelming number were indeed positive.
 
-"a large public meeting, especially one held to support a particular idea or political party"
-
-[verb] {~ (sb/sth) (around/behind/to sb/sth)}
-
-The cabinet rallied behind the Prime Minister."to come together or bring people together in order to help or support sb/sth"
-
-[verb] He never really rallied after the operation. 
-
-"to become healthier, stronger, etc. after a period of illness, weakness, etc." -recover-
-
-[verb] The company's shares had rallied slightly by the close of trading. 
-
-"to increase in value after falling in value" -recover-
+"very great or very strong; so powerful that you cannot resist it or decide how to react"
 
 
 
@@ -25983,11 +25925,17 @@ The cabinet rallied behind the Prime Minister."to come together or bring people 
 
 
 
+03.solidarity [ˌsɒlɪˈdærəti] 
+
+[noun] Used machine learning tools to identify the tweets that expressed kindness, empathy and solidarity.
+
+"support by one person or group of people for another because they share feelings, opinions, aims, etc."
 
 
 
+04.hashtag [ˈhæʃtæɡ] 
 
-
+A hashtag is a metadata tag that is prefaced by the hash symbol, #
 
 
 
@@ -26017,25 +25965,7 @@ The cabinet rallied behind the Prime Minister."to come together or bring people 
 
 
 
-08.overwhelming  [ˌəʊvəˈwelmɪŋ] 
 
-[adj] But an artificial intelligence (AI)-driven study which looked at thousands of tweets from Pakistan posted between 21 April and 4 May says an overwhelming number were indeed positive.
-
-"very great or very strong; so powerful that you cannot resist it or decide how to react"
-
-
-
-09.solidarity [ˌsɒlɪˈdærəti] 
-
-[noun] Used machine learning tools to identify the tweets that expressed kindness, empathy and solidarity.
-
-"support by one person or group of people for another because they share feelings, opinions, aims, etc."
-
-
-
-10.hashtag [ˈhæʃtæɡ] 
-
-A hashtag is a metadata tag that is prefaced by the hash symbol, #
 
 
 
@@ -27041,18 +26971,6 @@ The terms **shortage** and **scarcity** are related but distinct, particularly i
 [noun] They questioned the veracity of her story./the underlying technology is sound and will likely have a **profound** impact on the perceived veracity of digital data in the years to come.
 
 "the quality of being true; the habit of telling the truth"
-
-
-
-02.profound /prəˈfaʊnd/
-
-[adj] My father's death had a profound effect on us all.
-
-"very great; felt or experienced very strongly" 
-
-[adj] profound insights. 
-
-"showing great knowledge or understanding"
 
 
 
@@ -30551,7 +30469,7 @@ D[adj] (BrE) a theological college . (NAmE) a theological seminary.
 
 
 
-#### 12/15.02
+#### 12/15.01
 
 
 
@@ -30567,11 +30485,7 @@ D[adj] (BrE) a theological college . (NAmE) a theological seminary.
 
 
 
-02.stem  [stem]
 
-[noun] "the main long thin part of a plant above the ground from which the leaves or flowers grow; a smaller part that grows from this and supports flowers or leaves"
-
-[verb] The cut was bandaged to stem the bleeding. "to stop sth that is flowing from spreading or increasing"
 
 
 
@@ -32741,9 +32655,17 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-02.compliance [kəmˈplaɪəns]
+02.margin[ˈmɑː(r)dʒɪn]
 
-[noun] "the practice of obeying rules or requests made by people in authority"
+[noun] the left-hand/right-hand margin. "the empty space at the side of a written or printed page"
+
+[noun] He won by a narrow margin. "the amount of time, or number of votes, etc. by which sb wins sth"
+
+[business] a gross margin of 45%. "= profit margin"
+
+
+
+
 
 
 
@@ -32760,16 +32682,6 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 [n] Non-compliance with the manuscript format, including manipulation of margins or vertical spacing, will lead to automatic desk rejection.
 
 "the fact of failing or refusing to obey a rule"
-
-
-
-05.margin[ˈmɑː(r)dʒɪn]
-
-[noun] the left-hand/right-hand margin. "the empty space at the side of a written or printed page"
-
-[noun] He won by a narrow margin. "the amount of time, or number of votes, etc. by which sb wins sth"
-
-[business] a gross margin of 45%. "= profit margin"
 
 
 
@@ -33934,7 +33846,7 @@ Samsung to focus on car chips growth to withstand a slump in demand.
 
 
 
-#### 11/04.09
+#### 11/04.05
 
 01.swing /swɪŋ/ swung swung
 
@@ -33979,58 +33891,6 @@ Samsung to focus on car chips growth to withstand a slump in demand.
 "to keep changing from one extreme of feeling or behaviour to another, and back again"
 
 [v] "to change in strength or direction at regular intervals"
-
-
-
-06.imply /ɪmˈplaɪ/
-
-[v] Are you implying (that) I am wrong?
-
-"to suggest that sth is true or that you feel or think sth, without saying so directly"
-
-[v] The survey implies (that) more people are moving house than was thought. 
-
-"to make it seem likely that sth is true or exists" -suggest-
-
-[v] The project implies an enormous investment in training. "to make sth necessary in order to be successful" -mean-
-
-
-
-07.implicit /ɪmˈplɪsɪt/
-
-[adj] implicit criticism.
-
-"suggested without being directly expressed"
-
-[adj] The ability to listen is implicit in the teacher's role.
-
-"forming part of sth (although perhaps not directly expressed)"
-
-[adj] She had the implicit trust of her staff.
-
-"complete and not doubted" -absolute-
-
-
-
-08.explicit /ɪkˈsplɪsɪt/
-
-[adj]  {of a statement or piece of writing} He gave me very explicit directions on how to get there. "clear and easy to understand"
-
-[adj] {of a person} She was quite explicit about why she had left./Nginx was written with an explicit goal of outperforming the [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server) web server.
-
-"saying sth clearly, exactly and openly"
-
-[adj] The reasons for the decision should be made explicit.
-
-"said, done or shown in an open or direct way, so that you have no doubt about what is happening"
-
-
-
-09.explicit content 
-
-[phrase] 'Squid Game' actor Park Sung-hoon tearfully apologizes for posting explicit content.
-
-"The phrase "explicit content" is written as **a warning that media (pictures, films or music) contains adult content**. This is often sexual or pornographic. It may be bad language. The explicit content warning is for parents who want to sensor what their children see."
 
 
 
@@ -35461,7 +35321,7 @@ dizzy [ˈdɪzi]
 
 
 
-#### 01/06.05
+#### 01/06.04
 
 01.populate [ˈpɒpjuleɪt] 
 
@@ -35489,15 +35349,7 @@ dizzy [ˈdɪzi]
 
 
 
-03.slash  [slæʃ] 
-
-[verb] The Chinese government has heavily promoted electric vehicle ownership as a solution to urban air pollution, though it has slashed subsidies recently.
-
-"to reduce sth by a large amount"
-
-
-
-04.intensify  [ɪnˈtensɪfaɪ] 
+03.intensify  [ɪnˈtensɪfaɪ] 
 
 [verb] Violence intensified during the night.
 
@@ -35505,7 +35357,7 @@ dizzy [ˈdɪzi]
 
 
 
-05.regress  [rɪˈɡres] 
+04.regress  [rɪˈɡres] 
 
 [verb] {(formal, usually disapproving) } Such countries are not 'developing' at all, but regressing. /As per the **Bank of Korea**'s [findings](https://www.bok.or.kr/portal/bbs/P0002359/view.do?nttId=10080918&menuNo=200066), South Korea's total birth rate could surge if housing prices could regress to their 2015 levels. 
 
@@ -35853,21 +35705,11 @@ dizzy [ˈdɪzi]
 
 
 
-#### 01/20.03
-
-01.implication [ˌɪmplɪˈkeɪʃn]
-
-[noun] In the population data, experts see major implications for China, its economy and the world.
-
-"a possible effect or result of an action or a decision"
-
-[noun] By 2035, 400 million people in China are expected to be over 60, nearly a third of its population. That will have major implications for the global economy; the country has been the engine of world growth for decades. 
-
-"the fact of being involved, or of involving sb, in sth, especially a crime" -involvement-
+#### 01/20.02
 
 
 
-02.fragmented  [fræɡˈmentɪt]
+01.fragmented  [fræɡˈmentɪt]
 
 [adj] How to strengthen cooperation in a fragmented world is a real problem we all face. 
 
@@ -35875,7 +35717,7 @@ dizzy [ˈdɪzi]
 
 
 
-03.anti-monopoly [ˈænti məˈnɒpəli] 
+02.anti-monopoly [ˈænti məˈnɒpəli] 
 
 [adj]  We will deepen SOE reform, support the private sector, and promote fair competition, anti-monopoly and entrepreneurship.
 
@@ -43596,7 +43438,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-#### 01/25.13
+#### 01/25.11
 
 01.weed /wiːd/
 
@@ -43664,13 +43506,13 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-08.is pulling for
+07.is pulling for
 
 [vp] "The expression "I'm pulling for you" is a way of expressing support, encouragement, or rooting for someone. When someone says, "I'm pulling for you," they are conveying that they are on your side, wishing you success, and hoping for positive outcomes in whatever endeavor or situation you are facing. It's a way of showing empathy and encouragement, indicating that the speaker wants the best for you and believes in your abilities or success."
 
 
 
-09.miscarriage /ˈmɪskærɪdʒ/
+08.miscarriage /ˈmɪskærɪdʒ/
 
 [n] The pregnancy ended in miscarriage at 11 weeks.
 
@@ -43678,7 +43520,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-10.quack /kwæk/
+09.quack /kwæk/
 
 [n] I've got a check-up with the quack (= the doctor) next week.
 
@@ -43686,7 +43528,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-11.voucher /ˈvaʊtʃər/
+10.voucher /ˈvaʊtʃər/
 
 [n] For corporate customers, Homeplus will distribute additional vouchers to those purchasing over 5 million won worth of vouchers.
 
@@ -43694,7 +43536,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-12.freelance /ˈfriːlæns/
+11.freelance /ˈfriːlæns/
 
 [adj] In 1988, Chin worked as a freelance composer at the electronic music studio of the Technical University of Berlin, realizing seven works.
 
@@ -43702,11 +43544,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-13.regulatory /ˈreɡjələtɔːri/
 
-[adj] SEOUL, Jan. 25 (Yonhap) -- Hyundai Motor Co on Thursday reported its 2023 net income of 12.27 trillion won (US$9.2 billion), **up 53.7 percent from a year earlier**. Operating income for the year was 15.12 trillion won, up 54 percent from the previous year, the company said in a regulatory filing.
-
-"having the power to control an area of business or industry and make sure that it is operating fairly"
 
 
 
@@ -45518,7 +45356,7 @@ I can't say I share your enthusiasm for the idea."a strong feeling of excitement
 
 
 
-#### 06/23.03
+#### 06/23.02
 
 01.hostess /ˈhoʊstəs/
 
@@ -45544,11 +45382,7 @@ I can't say I share your enthusiasm for the idea."a strong feeling of excitement
 
 
 
-03.imperative /ɪmˈperətɪv/
 
-[adj] It is imperative that the paper ID is mentioned on each page of the manuscript of the review version.
-
-"very important and needing immediate attention or action" 
 
 
 
@@ -51624,7 +51458,7 @@ The words **"companion"** and **"company"** are related but have different nuanc
 
 
 
-#### 05/02.13
+#### 05/02.12
 
 01.turf /tɜː(r)f/
 
@@ -51722,11 +51556,11 @@ The words **"companion"** and **"company"** are related but have different nuanc
 
 
 
-10.rigorous  [ˈrɪɡərəs] 
+10.detrimental /ˌdetrɪˈmentl/
 
-[adj] a rigorous analysis./After the rigorous review process, 99% papers have received at least 3 reviews, and the conference has accepted 196 regular papers and 205 short papers."done carefully and with a lot of attention to detail"
+[adj] {~ (to sb/sth)}He accused “certain activists and highly political judges” of attempting to derail his efforts, claiming that losing momentum would be “very detrimental to finding the TRUTH.” He added: “Much left to find. No Excuses!!!”./These augmented samples may have detrimental effects on ECG classification.
 
-[adj] The work failed to meet their rigorous standards. "demanding that particular rules, processes, etc. are strictly followed" -strict-
+"harmful"
 
 
 
@@ -51746,11 +51580,7 @@ The words **"companion"** and **"company"** are related but have different nuanc
 
 
 
-13.detrimental /ˌdetrɪˈmentl/
 
-[adj] {~ (to sb/sth)}He accused “certain activists and highly political judges” of attempting to derail his efforts, claiming that losing momentum would be “very detrimental to finding the TRUTH.” He added: “Much left to find. No Excuses!!!”./These augmented samples may have detrimental effects on ECG classification.
-
-"harmful"
 
 
 
@@ -52040,7 +51870,7 @@ big emotional commitment:巨大感情承诺
 
 
 
-#### 05/12
+#### 05/12.05
 
 01.meaty [ˈmiːti]
 
@@ -52099,3 +51929,313 @@ big emotional commitment:巨大感情承诺
 05.in place 
 
 [n] The U.S.′ [20% duties on Chinese imports relating to fentanyl](https://www.cnbc.com/2025/03/12/china-says-its-willing-to-cooperate-with-the-us-on-fentanyl.html) will remain in place, meaning total tariffs on China stand at 30%."not traveling any distance."
+
+
+
+#### 05/13.20
+
+01.rally [ˈræli] 
+
+[noun] to attend/hold a rally. 
+
+"a large public meeting, especially one held to support a particular idea or political party"
+
+[verb] {~ (sb/sth) (around/behind/to sb/sth)}
+
+The cabinet rallied behind the Prime Minister."to come together or bring people together in order to help or support sb/sth"
+
+[verb] He never really rallied after the operation. 
+
+"to become healthier, stronger, etc. after a period of illness, weakness, etc." -recover-
+
+[verb] {finance;  of share prices or a country's money} The company's shares had rallied slightly by the close of trading. /Toy stocks rally after Chinese tariffs slashed to 30%.
+
+"to **increase** in value after **falling in value**" -recover-
+
+
+
+02.slash  [slæʃ] 
+
+[verb] The Chinese government has heavily promoted electric vehicle ownership as a solution to urban air pollution, though it has slashed subsidies recently./U.S. and China agree to **slash tariffs** for 90 days in major trade breakthrough.
+
+"to **reduce** sth by a **large amount**"
+
+
+
+03.plunge [plʌndʒ]
+
+[noun] Despite the country`s stellar trade report, the Kospi fell 1.41 percent to 3,025.52 on Friday morning due to a plunge in U.S. peers."a sudden movement downwards or away from sth"
+
+[n] Plunge for distance. "an act of **jumping or diving into water**; a quick swim"
+
+[verb] She lost her balance and plunged 100 feet to her death.
+
+"to move or make sb/sth move suddenly forwards and/or downwards"
+
+[verb] Squid Game crypto plunges to $0 after scammers steal million of dollars from investors./Honda Motor reports 76% plunge in operating profit in huge earnings miss.
+
+"to **decrease suddenly** and quickly" -plummet-
+
+
+
+| Word     | Part of Speech | Common Usage                   | Tone            |
+| -------- | -------------- | ------------------------------ | --------------- |
+| Reduce   | Verb           | Active control or intervention | Intentional     |
+| Decrease | Verb, Noun     | Passive or natural decline     | Neutral/passive |
+
+
+
+04.paramount /ˈpærəmaʊnt/
+
+[adj] As AIsystems become increasingly integrated into healthcare environments, ensuring ethical and responsible use of these technologies becomes paramount.
+
+"more important than anything else"
+
+
+
+05.stem  [stem]
+
+[noun] "the main long thin part of a plant above the ground from which the leaves or flowers grow; a smaller part that grows from this and supports flowers or leaves"
+
+[verb] The cut was bandaged to stem the bleeding. "to stop sth that is flowing from spreading or increasing"
+
+
+
+06.root /ruːt/
+
+[n] I pulled the plant up by (= including) the roots.
+
+"the part of a plant that grows under the ground and absorbs water and minerals that it sends to the rest of the plant"
+
+
+
+06.stem from /stem frəm/
+
+[] Such data is imperative for several critical reasons that stem from the potential impact of these technologies on patients and clinicians, the clinical environment, and the healthcare system.
+
+"The phrase **"stem from"** means **to originate from**, **to be caused by**, or **to come as a result of** something."
+
+
+
+07.far-reaching /ˌfɑːr ˈriːtʃɪŋ/
+
+[adj] "likely to have a lot of influence or many effects"
+
+
+
+08.imperative /ɪmˈperətɪv/
+
+[adj] It is imperative that the paper ID is mentioned on each page of the manuscript of the review version./Such testing data is imperative for several critical reasons that stem from the potential impact of these technologies on patients and clinicians, the clinical environment and the healthcare system. 
+
+"very important and needing immediate attention or action" 
+
+
+
+09.profound /prəˈfaʊnd/
+
+[adj] My father's death had a profound effect on us all./
+
+"very great; felt or experienced very strongly" 
+
+[adj] profound insights. 
+
+"showing great knowledge or understanding"
+
+
+
+10.implication [ˌɪmplɪˈkeɪʃn]
+
+[noun] In the population data, experts see major implications for China, its economy and the world.
+
+"a possible effect or result of an action or a decision"
+
+[noun] By 2035, 400 million people in China are expected to be over 60, nearly a third of its population. That will have major implications for the global economy; the country has been the engine of world growth for decades. 
+
+"the fact of being involved, or of involving sb, in sth, especially a crime" -involvement-
+
+
+
+11.imply /ɪmˈplaɪ/
+
+[v] Are you implying (that) I am wrong?
+
+"to suggest that sth is true or that you feel or think sth, without saying so directly"
+
+[v] The survey implies (that) more people are moving house than was thought. 
+
+"to make it seem likely that sth is true or exists" -suggest-
+
+[v] The project implies an enormous investment in training. "to make sth necessary in order to be successful" -mean-
+
+
+
+12.implicit /ɪmˈplɪsɪt/
+
+[adj] implicit criticism.
+
+"suggested without being directly expressed"
+
+[adj] The ability to listen is implicit in the teacher's role.
+
+"forming part of sth (although perhaps not directly expressed)"
+
+[adj] She had the implicit trust of her staff.
+
+"complete and not doubted" -absolute-
+
+
+
+13.explicit /ɪkˈsplɪsɪt/
+
+[adj]  {of a statement or piece of writing} He gave me very explicit directions on how to get there. "clear and easy to understand"
+
+[adj] {of a person} She was quite explicit about why she had left./Nginx was written with an explicit goal of outperforming the [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server) web server.
+
+"saying sth clearly, exactly and openly"
+
+[adj] The reasons for the decision should be made explicit.
+
+"said, done or shown in an open or direct way, so that you have no doubt about what is happening"
+
+
+
+14.explicit content 
+
+[phrase] 'Squid Game' actor Park Sung-hoon tearfully apologizes for posting explicit content.
+
+"The phrase "explicit content" is written as **a warning that media (pictures, films or music) contains adult content**. This is often sexual or pornographic. It may be bad language. The explicit content warning is for parents who want to sensor what their children see."
+
+
+
+15.rigorous  [ˈrɪɡərəs] 
+
+[adj] a rigorous analysis./After the rigorous review process, 99% papers have received at least 3 reviews, and the conference has accepted 196 regular papers and 205 short papers./Manuscripts repor#ng healthcare AI systems must undergo rigorous clinical valida#on to ensure their safety, effec#veness, and accuracy in real-world clinical sePngs. 
+
+"done carefully and with a lot of attention to detail"
+
+[adj] The work failed to meet their rigorous standards. "demanding that particular rules, processes, etc. are strictly followed" -strict-
+
+
+
+16.transparent  [trænsˈpærənt] 
+
+[adj] The insect's wings are almost transparent."allowing you to see through it" __opaque__
+
+[adj] a man of transparent honesty.  "allowing you to see the truth easily" -obvious-
+
+[adj] a campaign to make official documents more transparent. /Often associated with **transparent models** like linear regression, decision trees, or rule-based systems."easy to understand"
+
+
+
+17.transparency  [trænsˈpærənsi] 
+
+[noun] "a picture printed on a piece of film, usually in a frame, that can be shown on a screen by shining light through the film"
+
+[n] They were shocked by the transparency of his lies.
+
+"the quality of sth, such as an excuse or a lie, that allows sb to see the truth easily"
+
+
+
+18.regulatory /ˈreɡjələtɔːri/
+
+[adj] SEOUL, Jan. 25 (Yonhap) -- Hyundai Motor Co on Thursday reported its 2023 net income of 12.27 trillion won (US$9.2 billion), **up 53.7 percent from a year earlier**. Operating income for the year was 15.12 trillion won, up 54 percent from the previous year, the company said in a regulatory filing.
+
+"having the power to control an area of business or industry and make sure that it is operating fairly"
+
+
+
+19.accountability /əˌkaʊntəˈbɪləti/
+
+[n] Transparency and accountability are essential for building the trust of patients and the clinical community in AI technologies and mitigating potential risks.
+
+"responsibility to someone or for some activity"
+
+
+
+20.compliance [kəmˈplaɪəns]
+
+[noun]  Lastly, the efficacy of healthcare AI systems is evaluated based on ethical considera#ons and regulatory compliance. 
+
+"the practice of obeying rules or requests made by people in authority"
+
+
+
+#### 05/14
+
+01.cessation /seˈseɪʃn/
+
+[n]  “I will be ordering the cessation of sanctions against Syria in order to give them a chance at greatness,” Trump told a packed auditorium at the U.S.-Saudi Investment Forum in Riyadh, Saudi Arabia, during the first appearance of his four-day visit to the Middle East.
+
+"the stopping of sth; a pause in sth"
+
+
+
+02.revolution [ˌrevəˈluːʃn] 
+
+[noun] a socialist revolution."an attempt, by a large number of people, to change the government of a country, especially by violent action"
+
+[noun] {~ (in sth)} a cultural/social/scientific, etc. revolution. 
+
+"a great change in conditions, ways of working, beliefs, etc. that affects large numbers of people"
+
+[noun] {~ (around/on sth)} the **revolution of the earth** around the sun.
+
+"a complete circular movement around a point, especially of one planet around another"
+
+
+
+03.rotation /roʊˈteɪʃn/
+
+[n] the daily rotation of the earth on its axis.
+
+"the action of an object moving in a circle around a central fixed point"
+
+
+
+04.Antarctica /æn'tɑ:rktɪkə/
+
+[n] "a continent around the South Pole"
+
+
+
+05.plummet    [ˈplʌmɪt] [verb] 
+
+[adj] Share prices plummeted to an all-time low. 
+
+"to fall suddenly and quickly from a high level or position" -plunge-
+
+
+
+06.dive/daɪv/
+
+[v] We dived into the river to cool off. 
+
+"to jump into water with your head and arms going in first"
+
+[n] a spectacular high dive (= from high above the water) .
+
+"a jump into deep water with your head first and your arms in front of you"
+
+
+
+> Plunge is associated with an immediate dive or jump into water. Ex. "He plunged into the icy water." This means that he jumped or dove or got into the icy water. It can be used interchangeably with "dive" depending on the sentence and context.  
+>
+> Dive means to jump into water in a certain stance, usually with the arms above the head where the arms touch the water first. However, you can still dive into water going feet first too. Ex. He dove into saltwater pool."  
+>
+> Swim means to actually be in something and use your arms and legs to get where you're going. Usually this term will be associated with someone swimming in water. Although, it can be used to say someone is swimming in something else. 
+>
+> Ex. "He will swim in the pool on Saturday." 
+>
+> Ex. "He was swimming in tears." (English language expression) 
+>
+> Ex. "He was swimming in sweat." (Gross.) 
+>
+> Ex. "He is swimming in cash." (He has lots of money!)
+
+
+
+
+
+
+
