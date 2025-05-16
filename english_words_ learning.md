@@ -386,19 +386,7 @@ fiddle about/around
 
 
 
-16.`inform sb(of/about sth)`
 
-[verb]  Please inform us of any changes of address. "to tell sb about sth, especially in an official way"
-
-`~ yourself (of/about sth)`
-
-[verb] We need time to inform ourselves thoroughly of the problem.  "to tell sb about sth, especially in an official way"
-
-inform on sb
-
-告发；检举
-
-He informed on his own brother.
 
 
 
@@ -2128,51 +2116,7 @@ pull out the package /拿出包裹
 
 
 
-03.gadget  [ˈɡædʒɪt] 
 
-[noun] The gadget is used to artificially inseminate [ɪnˈsemɪneɪt]  cows. 
-
-"a small tool or device that does sth useful" "小装置"
-
-
-
-04.inseminate /ɪnˈsemɪneɪt/
-
-[v] The cows are artificially inseminated. 
-
-"to put **sperm** into a woman or female animal in order to make her pregnant"
-
-
-
-05.sperm /spɜː(r)m/
-
-[n] He has a low sperm count (= very few live male cells) .
-
-"a cell that is produced by the sex organs of a male and that can combine with a female egg to produce young"
-
-
-
-06.egg /eɡ/
-
-[n] The male sperm **fertilizes** the female egg.
-
-"a cell that combines with a sperm to create a baby or young animal"
-
-
-
-07.fertilizer  [ˈfɜː(r)təlaɪzər]
-
-[noun] artificial/chemical fertilizers.  
-
-"a substance added to **soil** to make plants grow more successfully"
-
-
-
-08.fertilize /ˈfɜːrtəlaɪz/
-
-[v] Flowers are often fertilized by bees as they gather nectar.
-
-"to put pollen into a plant so that a seed develops; to join sperm with an egg so that a baby or young animal develops"
 
 
 
@@ -2643,11 +2587,7 @@ a more flexible approach.
 
 
 
-05.inform against 
 
-[phrase] *The* [terrorists](https://dictionary.cambridge.org/dictionary/english/terrorist) *said that anyone* [caught](https://dictionary.cambridge.org/dictionary/english/caught) [informing](https://dictionary.cambridge.org/dictionary/english/inform) *on them would be* [killed](https://dictionary.cambridge.org/dictionary/english/kill)*.*
-
-"you give the police information, usually secretly, about that person, showing that he or she has done something wrong"
 
 
 
@@ -5150,9 +5090,11 @@ We're open till 6 o'clock.
 
 
 
-#### 2020/04/24.12
+#### 2020/04/24.09
 
+01.scammer [ˈskæmə(r)]
 
+[noun] "a person who swindles you by means of deception or fraud"
 
 
 
@@ -5174,7 +5116,11 @@ We're open till 6 o'clock.
 
 
 
+04.devalue  [ˌdiːˈvæljuː]
 
+[noun] That means the crypto's creators cash out of their coins in exchange for real money, quickly devaluing the crypto's value. 
+
+"to give a lower value to sth, making it seem less important than it really is/贬值"
 
 
 
@@ -5212,29 +5158,11 @@ We're open till 6 o'clock.
 
 
 
-
-
-
-
-10.scammer [ˈskæmə(r)]
-
-[noun] "a person who swindles you by means of deception or fraud"
-
-
-
-11.scam  [skæm]
+09.scam  [skæm]
 
 [noun] {informal}The scam, which was reported by Gizmodo, is called a "rug pull." 
 
 "a clever and dishonest plan for making money"
-
-
-
-12.devalue  [ˌdiːˈvæljuː]
-
-[noun] That means the crypto's creators cash out of their coins in exchange for real money, quickly devaluing the crypto's value. 
-
-"to give a lower value to sth, making it seem less important than it really is/贬值"
 
 
 
@@ -22054,19 +21982,11 @@ The shadow of doubt began to creep into her mind.
 
 
 
-#### 20210317.02
-
-01.crack [kræk] 
-
-[verb] The ice cracked as I stepped onto it. "to break without dividing into separate parts; to break sth in this way"
-
-[n] This cup has a crack in it."a line on the surface of sth where it has broken but not split into separate parts"
-
-[a] crack troops. "expert and highly trained; excellent at sth"
+#### 20210317.01
 
 
 
-02.talkative  [ˈtɔːkətɪv] 
+01.talkative  [ˈtɔːkətɪv] 
 
 [a] He's not very talkative, is he? "liking to talk a lot"
 
@@ -29073,15 +28993,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-03.crack down on  [kræk daʊn ɑːn]
 
-[vp] S. Korea moves to crack down on fishy foreign real estate activities./
-
-The government will begin expanding efforts to crack down on unauthorized accommodations and tour guides in September. 
-
-"If people in authority **crack down on** a group of people, they become stricter in making the group obey rules or laws."
-
-"to try harder to prevent an illegal activity and deal more severely with those who are caught doing it"
 
 
 
@@ -29099,11 +29011,7 @@ The government will begin expanding efforts to crack down on unauthorized accomm
 
 
 
-06.aggravate [ˈæɡrəveɪt]
 
-[vt] Pollution can aggravate asthma[ˈæsmə].
-
-"to make an illness or a bad or unpleasant situation worse" -worsen-
 
 
 
@@ -29613,7 +29521,7 @@ The government will begin expanding efforts to crack down on unauthorized accomm
 
 
 
-#### 2021/11/24.21
+#### 2021/11/24.19
 
 01.owe  [əʊ]   [oʊ]
 
@@ -29721,48 +29629,21 @@ The government will begin expanding efforts to crack down on unauthorized accomm
 
 
 
-10.severity  [sɪ'verəti]
+10.carvings  [ˈkɑː(r)vɪŋ]
 
-[n] The chances of a full recovery will depend on the severity of her injuries.
+[noun] ...a wood carving of a human hand. 
 
-"excessive sternness"
-
-
-
-11.severe /sɪˈvɪr/
-
-[adj] Most of their equipment **was inadequate(难以应付的)** for the severe weather.
-
-"used of the degree of something undesirable e.g. pain or weather"
+"an object or a pattern made by cutting away material from wood or stone"
 
 
 
-- Means **precise, rigidly enforcing rules or standards, allowing no flexibility**.
-- Often used to describe people, rules, or environments that **demand exact obedience**.
-- Examples:
-  - *The school has strict rules about attendance.*
-  - *My parents were very strict about bedtime.*
-  - *A strict diet means no cheating.*
+11.carve  [kɑː(r)v] 
 
-👉 **Strict = unwavering about rules, discipline, and correctness.**
+[verb] Who's going to carve the turkey?
 
-------
+"to cut a large piece of cooked meat into smaller pieces for eating"
 
-### 
 
-| Word        | Meaning                                             | Feel                                              | Example sentence                                          |
-| ----------- | --------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------------- |
-| **Severe**  | Very harsh, intense, extreme                        | Punishing, harsh, sometimes unforgiving           | *Severe punishment was given for the violation.*          |
-| **Stern**   | Firm, serious, and unyielding (in tone or behavior) | Serious but not necessarily harsh — authoritative | *The teacher gave him a stern look.*                      |
-| **Serious** | Grave, important, not playful                       | Sincere, weighty, or demanding focus              | *This is a serious decision; think carefully.*            |
-| **Strict**  | Uncompromising about rules and standards            | Demanding, rigid, no exceptions allowed           | *She is a strict teacher who enforces deadlines exactly.* |
-
-- **Strict** = "Follow the rules, no exceptions."
-- **Stern** = "I will tell you seriously and firmly."
-- **Severe** = "If you break the rules, the consequences will be harsh."
-- **Serious** = "This really matters. No jokes."
-
-------
 
 
 
@@ -29862,23 +29743,7 @@ She was bursting with impatience to tell me the news.
 
 
 
-19.carvings  [ˈkɑː(r)vɪŋ]
-
-[noun] ...a wood carving of a human hand. 
-
-"an object or a pattern made by cutting away material from wood or stone"
-
-
-
-20.carve  [kɑː(r)v] 
-
-[verb] Who's going to carve the turkey?
-
-"to cut a large piece of cooked meat into smaller pieces for eating"
-
-
-
-21.excessively  [ɪkˈsɛsɪvli] 
+19.excessively  [ɪkˈsɛsɪvli] 
 
 [adv] But the Korean government has been excessively regulating innovative car-sharing services from entering the industry.
 
@@ -33754,7 +33619,7 @@ Samsung to focus on car chips growth to withstand a slump in demand.
 
 
 
-#### 11/02.10
+#### 11/02.09
 
 1 from ICMR 2023
 
@@ -33838,11 +33703,7 @@ Samsung to focus on car chips growth to withstand a slump in demand.
 
 
 
-10.tangible [ˈtændʒəbl] 
 
-[adj] Sometimes your work has a very tangible application.
-
-"that can be clearly seen to exist"
 
 
 
@@ -35875,17 +35736,7 @@ dizzy [ˈdɪzi]
 
 
 
-05.provision  [prəˈvɪʒn] 
 
-[noun] Under the provisions of the lease, the tenant is responsible for repairs.
-
-"a condition or an arrangement in a legal document"
-
-
-
-06.guardrail provision 
-
-On the other hand, as a result of the “guardrail provision” of the CHIPS Act, companies seeking incentives under the CHIPS Act will be prohibited from making new investments in the semiconductor industry or expanding existing facilities in the “country of concern.”.  As such, Korean companies will need to consider the pros and cons of receiving CHIPS Act funding.
 
 
 
@@ -46879,7 +46730,11 @@ In short, flour is a specific type of powder used for cooking and baking, while 
 
 
 
-#### 01/22.09
+#### 01/22.08
+
+01.right out of the box 
+
+[phrase] The software performed exceptionally well **right out of the box**, requiring no additional configuration or setup.
 
 
 
@@ -46936,10 +46791,6 @@ In short, flour is a specific type of powder used for cooking and baking, while 
 [n] cod's roe. **Roe** is the eggs or sperm of a fish, which is eaten as food."
 
 
-
-09.right out of the box 
-
-[phrase] The software performed exceptionally well **right out of the box**, requiring no additional configuration or setup.
 
 
 
@@ -48081,7 +47932,7 @@ I was thrilled to be invited. /We’re thrilled to bring forward the Apple Healt
 
 
 
-#### 02/14.11
+#### 02/14.10
 
 01.looming /ˈluːmɪŋ/
 
@@ -48115,25 +47966,13 @@ I was thrilled to be invited. /We’re thrilled to bring forward the Apple Healt
 
 
 
-
-
-
-
-06.disparity /dɪˈspærəti/
-
-[n] Trump acknowledged India’s recent move to reduce tariffs on U.S. imports and said he would begin talks on disparities on trade and hoped to reach an agreement.
-
-"a difference, especially one connected with unfair treatment"
-
-
-
-07.preconceived [ˌpriːkənˈsiːvd]
+05.preconceived [ˌpriːkənˈsiːvd]
 
 [adj] Before I started the job, I had no **preconceived notions** of what it would be like. "formed before you have enough information or experience of sth"
 
 
 
-08.detractor /dɪˈtræktər/
+06.detractor /dɪˈtræktər/
 
 [n] Elon Musk seemed surprised to learn he had 'detractors.' He pointed out that the Republican party had won the House and the Senate, with Americans voting for 'government reform.' 'People are going to get what they voted for,' Musk insisted. 
 
@@ -48141,7 +47980,7 @@ I was thrilled to be invited. /We’re thrilled to bring forward the Apple Healt
 
 
 
-09.continental /ˌkɑːntɪˈnentl/
+07.continental /ˌkɑːntɪˈnentl/
 
 [adj] A continental breakfast is **a light morning meal typically consisting of pastries and baked goods, fruits, toast, and coffee**.
 
@@ -48149,7 +47988,7 @@ I was thrilled to be invited. /We’re thrilled to bring forward the Apple Healt
 
 
 
-10.marine  [məˈriːn]
+08.marine  [məˈriːn]
 
 [adj] marine life. **A maritime climate is influenced by a nearby ocean.** **A continental climate is influenced by nearby land**.  
 
@@ -48161,7 +48000,7 @@ I was thrilled to be invited. /We’re thrilled to bring forward the Apple Healt
 
 
 
-11.resolute /ˈrezəluːt/
+09.resolute /ˈrezəluːt/
 
 [adj] He became even more resolute in his opposition to the plan./Time magazine’s latest print cover features Elon Musk behind the Resolute Desk in the Oval Office.
 
@@ -48173,7 +48012,7 @@ I was thrilled to be invited. /We’re thrilled to bring forward the Apple Healt
 
 
 
-12.resolution  [ˌrezəˈluːʃn] 
+10.resolution  [ˌrezəˈluːʃn] 
 
 [noun] to pass/adopt/carry a resolution. "a formal statement of an opinion agreed on by a committee or a council, especially by means of a vote"
 
@@ -52161,7 +52000,7 @@ The cabinet rallied behind the Prime Minister."to come together or bring people 
 
 
 
-#### 05/14
+#### 05/14.25
 
 01.cessation /seˈseɪʃn/
 
@@ -52237,5 +52076,328 @@ The cabinet rallied behind the Prime Minister."to come together or bring people 
 
 
 
+07.honor /ˈɒnə(r)/ /ˈɑːnər/
+
+[n] the guest of honour (= the most important one). 
+
+"great respect and admiration for sb"
+
+[v] He has been honoured with a knighthood for his scientific work.
+
+"to give public praise, an award or a title to sb for sth they have done"
 
 
+
+08.In honor of  /ɪn ˈɑːnər əv/
+
+[phrase] In honor of George’s lifelong contributions to the field, and particularly his seminal work on the Challenges, the Challenges were renamed from the ‘PhysioNet/Computing in Cardiology Challenges’, to the ‘George B. Moody PhysioNet Challenges’ in 2021.
+
+"as a celebration of or expression of respect for"
+
+
+
+09.seminal  /ˈsemɪnl/
+
+[adj] a seminal work/article/study.
+
+"very important and having a strong influence on later developments"
+
+[adj] seminal fluid.
+
+"of or containing semen"
+
+
+
+10.semen vs sperm
+
+Can you have seman without sperm?
+
+**Azoospermia is a condition where you have no measurable sperm in your ejaculate (semen)**
+
+
+
+11.gadget  [ˈɡædʒɪt] 
+
+[noun] The gadget is used to artificially inseminate [ɪnˈsemɪneɪt]  cows. 
+
+"a small tool or device that does sth useful" "小装置"
+
+
+
+12.inseminate /ɪnˈsemɪneɪt/
+
+[v] The cows are artificially inseminated. 
+
+"to put **sperm** into a woman or female animal in order to make her pregnant"
+
+
+
+13.sperm /spɜː(r)m/
+
+[n] He has a low sperm count (= very few live male cells) .
+
+"a cell that is produced by the sex organs of a male and that can combine with a female egg to produce young"
+
+
+
+14.egg /eɡ/
+
+[n] The male sperm **fertilizes** the female egg.
+
+"a cell that combines with a sperm to create a baby or young animal"
+
+
+
+15.fertilizer  [ˈfɜː(r)təlaɪzər]
+
+[noun] artificial/chemical fertilizers.  
+
+"a substance added to **soil** to make plants grow more successfully"
+
+
+
+16.fertilize /ˈfɜːrtəlaɪz/
+
+[v] Flowers are often fertilized by bees as they gather nectar.
+
+"to put pollen into a plant so that a seed develops; to join sperm with an egg so that a baby or young animal develops"
+
+
+
+17.severity  [sɪ'verəti]
+
+[n] The chances of a full recovery will depend on the severity of her injuries./This should involve tes#ng the AI system's performance on diverse patient populations, including different demographic groups, disease severity levels, and comorbidities. 
+
+"excessive sternness"
+
+
+
+18.severe /sɪˈvɪr/
+
+[adj] Most of their equipment **was inadequate(难以应付的)** for the severe weather.
+
+"used of the degree of something undesirable e.g. pain or weather"
+
+
+
+- Means **precise, rigidly enforcing rules or standards, allowing no flexibility**.
+- Often used to describe people, rules, or environments that **demand exact obedience**.
+- Examples:
+  - *The school has strict rules about attendance.*
+  - *My parents were very strict about bedtime.*
+  - *A strict diet means no cheating.*
+
+👉 **Strict = unwavering about rules, discipline, and correctness.**
+
+------
+
+### 
+
+| Word        | Meaning                                             | Feel                                              | Example sentence                                          |
+| ----------- | --------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------------- |
+| **Severe**  | Very harsh, intense, extreme                        | Punishing, harsh, sometimes unforgiving           | *Severe punishment was given for the violation.*          |
+| **Stern**   | Firm, serious, and unyielding (in tone or behavior) | Serious but not necessarily harsh — authoritative | *The teacher gave him a stern look.*                      |
+| **Serious** | Grave, important, not playful                       | Sincere, weighty, or demanding focus              | *This is a serious decision; think carefully.*            |
+| **Strict**  | Uncompromising about rules and standards            | Demanding, rigid, no exceptions allowed           | *She is a strict teacher who enforces deadlines exactly.* |
+
+- **Strict** = "Follow the rules, no exceptions."
+- **Stern** = "I will tell you seriously and firmly."
+- **Severe** = "If you break the rules, the consequences will be harsh."
+- **Serious** = "This really matters. No jokes."
+
+
+
+19.morbidity /mɔrˈbɪdəti/
+
+[n] The result shows that incidence of myopia morbidity is 44.84%.
+
+"the quality of being unhealthful and generally bad for you"
+
+
+
+20.comorbidity
+
+[n] "Comorbidities are **medical conditions that you have in addition to a primary diagnosis**. You may have one or more comorbidities. Morbidity is a medical term that refers to the state of having a specific disease or condition. So, adding “co” in front of this word means two or more conditions occur together."
+
+
+
+21.crack [kræk] 
+
+[verb] The ice cracked as I stepped onto it. "to break without dividing into separate parts; to break sth in this way"
+
+[n] This cup has a crack in it."a line on the surface of sth where it has broken but not split into separate parts"
+
+[a] crack troops. "expert and highly trained; excellent at sth"
+
+
+
+
+
+22.crack down on  [kræk daʊn ɑːn]
+
+[vp] S. Korea moves to crack down on fishy foreign real estate activities./The UK wants to crack down on foreign workers. Businesses worry Brits can’t — or won’t — fill the labor gap.
+
+The government will begin expanding efforts to crack down on unauthorized accommodations and tour guides in September. 
+
+"If people in authority **crack down on** a group of people, they become stricter in making the group obey rules or laws."
+
+"to try harder to prevent an illegal activity and deal more severely with those who are caught doing it"
+
+
+
+23.exacerbate /ɪɡˈzæsərbeɪt/
+
+[v] Sectors that are traditionally reliant on immigrant workers, such as health and social care, warn the rule changes will exacerbate labor shortages already present in the labor market."to make sth worse, especially a disease or problem"
+
+-aggravate-
+
+
+
+24.aggravate [ˈæɡrəveɪt]
+
+[vt] Pollution can aggravate asthma[ˈæsmə].
+
+"to make an illness or a bad or unpleasant situation worse" -worsen-
+
+
+
+25.acute /əˈkjuːt/
+
+[adj] Business industry leaders say the move to boosting training and skills among British workers is welcome, but warned that labor shortages were likely to become more acute.
+
+"very serious or severe"
+
+
+
+#### 05/15
+
+01.`inform sb(of/about sth)`
+
+[verb]  Please inform us of any changes of address. "to tell sb about sth, especially in an official way"
+
+`~ yourself (of/about sth)`
+
+[verb] We need time to inform ourselves thoroughly of the problem./ Translational engineering can provide new insights into the design of medical devices, inform the use of artificial intelligence in healthcare, and enable the development of new therapies.
+
+"to tell sb about sth, especially in an official way"
+
+inform on sb
+
+告发；检举
+
+He informed on his own brother.
+
+
+
+02.inform against 
+
+[phrase] *The* [terrorists](https://dictionary.cambridge.org/dictionary/english/terrorist) *said that anyone* [caught](https://dictionary.cambridge.org/dictionary/english/caught) [informing](https://dictionary.cambridge.org/dictionary/english/inform) *on them would be* [killed](https://dictionary.cambridge.org/dictionary/english/kill)*.*
+
+"you give the police information, usually secretly, about that person, showing that he or she has done something wrong"
+
+
+
+03.disparity /dɪˈspærəti/
+
+[n] Trump acknowledged India’s recent move to reduce tariffs on U.S. imports and said he would begin talks on disparities on trade and hoped to reach an agreement./Additionally, translational engineering can help to address disparities in access to healthcare, provide improved diagnostic tools, and develop innovative solutions for delivering personalised care.
+
+"a difference, especially one connected with unfair treatment"
+
+
+
+04.parity /ˈpærəti/
+
+[n] Women have yet to achieve wage or occupational parity in many fields...
+
+"If there is parity between two things, they are equal."
+
+[n] The government was ready to let the pound sink to parity with the dollar if necessary.
+
+"If there is parity between the units of currency of two countries, the exchange rate is such that the units are equal to each other."
+
+
+
+05.champion /ˈtʃæmpiən/
+[n] the world basketball champions.
+
+"a person, team, etc. that has won a competition, especially in a sport"
+
+[n] She was a champion of the poor all her life.
+
+"a person who fights for, or speaks in support of, a group of people or a belief"
+
+[v] He has always championed the cause of gay rights./The Gold Open Access *IEEE Journal of Translational Engineering in Health and Medicine* champions the translation of engineering methods into clinical practice. 
+
+"to fight for or speak in support of a group of people or a belief"
+
+
+
+06.cause /kɔːz/
+
+[n] Unemployment is a major cause of poverty.
+
+"the person or thing that makes sth happen"
+
+[n] There is no cause for concern. 
+
+"a reason for having particular feelings or behaving in a particular way"
+
+[n] Animal welfare campaigners raised £70 000 for their cause last year.
+
+"an organization or idea that people support or fight for"
+
+[v] The bad weather is causing problems for many farmers.
+
+"to make sth happen, especially sth bad or unpleasant"
+
+
+
+07.disseminate /dɪˈsemɪneɪt/
+
+[v] The journal is keen to disseminate this information in an open-access format to ensure the study results have the maximum impact on healthcare provision and human health.
+
+"to spread information, knowledge, etc. so that it reaches many people"
+
+
+
+| Aspect               | **Disseminate**                                              | **Spread**                                    |
+| -------------------- | ------------------------------------------------------------ | --------------------------------------------- |
+| **Formality**        | More formal                                                  | Neutral / informal                            |
+| **Common Usage**     | Academic, official, or professional contexts (e.g., "disseminate information") | Everyday use (e.g., "spread the news")        |
+| **Connotation**      | Often deliberate and methodical                              | Can be deliberate or accidental               |
+| **Typical Subjects** | Knowledge, research, ideas, propaganda                       | News, rumors, fire, disease, butter, emotions |
+
+summary: Use **"disseminate"** when you want to sound **formal, precise, or academic**. Use **"spread"** for **everyday language** or **broader, more casual contexts**.
+
+
+
+08.provision  [prəˈvɪʒn] 
+
+[noun] Under the provisions of the lease, the tenant is responsible for repairs.
+
+"a condition or an arrangement in a legal document"
+
+[n] The government is responsible for the provision of health care.
+
+"the act of supplying sb with sth that they need or want; sth that is supplied"
+
+
+
+| Word          | Meaning                                                      | Example                                 | Notes                                                        |
+| ------------- | ------------------------------------------------------------ | --------------------------------------- | ------------------------------------------------------------ |
+| **Provision** | An arrangement or preparation to meet a need (can also mean a specific item of need) | *They made provisions for the journey.* | Often refers to a **planned** or **anticipated** supply. More formal and can be abstract. |
+| **Supply**    | The act or quantity of providing something                   | *The medical supply arrived late.*      | More commonly used to refer to **tangible** items or the act of supplying. |
+
+
+
+09.guardrail provision 
+
+On the other hand, as a result of the “guardrail provision” of the CHIPS Act, companies seeking incentives under the CHIPS Act will be prohibited from making new investments in the semiconductor industry or expanding existing facilities in the “country of concern.”.  As such, Korean companies will need to consider the pros and cons of receiving CHIPS Act funding.
+
+
+
+10.tangible [ˈtændʒəbl] 
+
+[adj] Sometimes your work has a very tangible application.
+
+"that can be clearly seen to exist"
