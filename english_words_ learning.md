@@ -5675,42 +5675,21 @@ twisted ankle vs sprained ankle
 
 
 
-#### 2020/05/20.15
+#### 2020/05/20.12
 
-01.endure [ɪnˈdjʊə(r)]
+01.malevolent /məˈlevələnt/
 
-[verb] They had to endure a long wait before the case came to trial.
+[adj] Her stare was malevolent, her mouth a thin line(唇紧抿).
 
-"to experience and deal with sth that is painful or unpleasant, especially without complaining" 
-
--bear-
-
-[verb] This style has endured for centuries."to continue to exist for a long time" -last-
-
-D[adj] I felt that life was no longer endurable. -unendurable-
+"having or showing a desire to harm other people"
 
 
 
-02.tolerate[verb]/tolerance[noun]/tolerant[adj]
+02.spiteful /ˈspaɪtfl/
 
+[adj] He could be spiteful. 
 
-
-> All three words, bear, tolerate, and endure, convey a sense of dealing with something difficult, unpleasant or challenging. However, there are subtle differences in the way they are used and the degree of **hardship** implied by each one.
->
-> Bear: To bear means to carry or support a weight, burden or responsibility. It can also mean to endure or tolerate something difficult or unpleasant, without necessarily implying that it is intolerable or unbearable.
->
-> Example: She could barely bear the weight of her backpack on the long hike.
->
-> Tolerate: To tolerate means to allow or permit something without protesting or resisting it, even if it's disagreeable or unpleasant. It implies that there is some level of discomfort involved but it is not intolerable.
->
-> Example: I can tolerate spicy food, but only up to a certain level.
->
-> Endure: To endure means to suffer or undergo something difficult, painful, or unpleasant without giving up or complaining. It suggests a higher degree of hardship or suffering than tolerate or bear.
->
-> Example: He endured the harsh winter without heat or electricity.
->
-> In summary, bear is more about carrying or supporting something, tolerate is about accepting something unpleasant, and endure is about persisting through something difficult or painful.
->
+"behaving in an unkind way in order to hurt or upset sb"
 
 
 
@@ -5752,7 +5731,13 @@ D[adj] I felt that life was no longer endurable. -unendurable-
 
 
 
+08.malicious /məˈlɪʃəs/
 
+[adj] He took malicious pleasure(幸灾乐祸) in telling me what she had said.
+
+"having or showing hatred and a desire to harm sb or hurt their feelings"
+
+-malevolent,-spiteful-
 
 
 
@@ -5796,29 +5781,9 @@ D[adj] a gossipy letter/neighbour.
 
 
 
-13.malicious /məˈlɪʃəs/
 
-[adj] He took malicious pleasure(幸灾乐祸) in telling me what she had said.
-
-"having or showing hatred and a desire to harm sb or hurt their feelings"
-
--malevolent,-spiteful-
 
  
-
-14.malevolent /məˈlevələnt/
-
-[adj] Her stare was malevolent, her mouth a thin line(唇紧抿).
-
-"having or showing a desire to harm other people"
-
-
-
-15.spiteful /ˈspaɪtfl/
-
-[adj] He could be spiteful. 
-
-"behaving in an unkind way in order to hurt or upset sb"
 
 
 
@@ -28152,7 +28117,7 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-#### 2021/10/10.09
+#### 2021/10/10.07
 
 01.fraud  [frɔːd]
 
@@ -28176,13 +28141,11 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-03.fragile  [ˈfrædʒaɪl]   [ˈfrædʒl] 
+03.**emulate** [ˈemjuleɪt]
 
-[adj] fragile china/glass/bones. "easily broken or damaged"
+[vt] {formal} She hopes to emulate her sister's sporting achievements. 
 
-[adj] Our earth is fragile."weak and uncertain; easily destroyed or spoilt"
-
-[adj] Her father is now 86 and in fragile health. "not strong and likely to become ill/sick"
+"to try to do sth as well as sb else because you admire them"
 
 
 
@@ -28211,18 +28174,6 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 [noun] Britain is intensifying its efforts to secure the release of the hostages... 
 
 "If you **intensify** something or if it **intensifies**, it becomes greater in strength, amount, or degree."
-
-
-
-
-
-
-
-09.**emulate** [ˈemjuleɪt]
-
-[vt] {formal} She hopes to emulate her sister's sporting achievements. 
-
-"to try to do sth as well as sb else because you admire them"
 
 
 
@@ -28361,7 +28312,13 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-#### 2021/10/18.07
+#### 2021/10/18.06
+
+01.dill  [dɪl] 
+
+[noun] dill pickles [ˈpɪklz] .
+
+"a plant with yellow flowers whose leaves and seeds have a strong taste and are used in cooking as a herb . Dill is often added to vegetables kept in vinegar ."
 
 
 
@@ -28395,16 +28352,6 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-07.dill  [dɪl] 
-
-[noun] dill pickles [ˈpɪklz] .
-
-"a plant with yellow flowers whose leaves and seeds have a strong taste and are used in cooking as a herb . Dill is often added to vegetables kept in vinegar ."
-
-
-
-
-
 
 
 #### 2021/10/22.02
@@ -28429,13 +28376,13 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-#### 2021/10/26.02
+#### 2021/10/26.01
 
 
 
 
 
-02.executive  [ɪɡˈzekjətɪv]
+01.executive  [ɪɡˈzekjətɪv]
 
 [noun] advertising/business/sales, etc. executives. 
 
@@ -28975,7 +28922,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-#### 2021/11/14.11
+#### 2021/11/14.09
 
 01.account for  [əˈkaʊnt fɔː(r)]
 
@@ -28993,7 +28940,15 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
+03.store  [stɔːr] 
 
+[noun] a big department store. "a large shop that sells many different types of goods"
+
+[noun] a health food store. "a shop, large or small"
+
+[noun] a vast store of knowledge. "a quantity or supply of sth that you have and use"
+
+[verb] animals storing up food for the winter. {~ sth (away/up)} "to put sth somewhere and keep it there to use later"
 
 
 
@@ -29011,7 +28966,11 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
+06.appropriate /əˈproʊpriət , əˈproʊprieɪt/
 
+[v] He was accused of appropriating club funds.
+
+"to take sth, sb's ideas, etc. for your own use, especially illegally or without permission"
 
 
 
@@ -29036,26 +28995,6 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 [n] The land was simply appropriated by the rulers."a person who rules or governs"
 
 [n] "a straight strip of wood, plastic or metal, marked in centimetres or inches, used for measuring or for drawing straight lines"
-
-
-
-10.appropriate /əˈproʊpriət , əˈproʊprieɪt/
-
-[v] He was accused of appropriating club funds.
-
-"to take sth, sb's ideas, etc. for your own use, especially illegally or without permission"
-
-
-
-11.store  [stɔːr] 
-
-[noun] a big department store. "a large shop that sells many different types of goods"
-
-[noun] a health food store. "a shop, large or small"
-
-[noun] a vast store of knowledge. "a quantity or supply of sth that you have and use"
-
-[verb] animals storing up food for the winter. {~ sth (away/up)} "to put sth somewhere and keep it there to use later"
 
 
 
@@ -46720,13 +46659,9 @@ In short, flour is a specific type of powder used for cooking and baking, while 
 
 
 
-#### 01/21.01
+#### 
 
-01.fatigue /fəˈtiːɡ/
 
-[n] Important micronutrients for the reduction of tiredness and fatigue.
-
-"a feeling of being extremely tired, usually because of hard work or exercise"
 
 
 
@@ -52269,7 +52204,7 @@ The government will begin expanding efforts to crack down on unauthorized accomm
 
 
 
-#### 05/15
+#### 05/15.10
 
 01.`inform sb(of/about sth)`
 
@@ -52401,3 +52336,95 @@ On the other hand, as a result of the “guardrail provision” of the CHIPS Act
 [adj] Sometimes your work has a very tangible application.
 
 "that can be clearly seen to exist"
+
+
+
+#### 05/18
+
+01.endure [ɪnˈdjʊə(r)]
+
+[verb] They had to endure a long wait before the case came to trial.
+
+"to experience and deal with sth that is painful or unpleasant, especially without complaining" 
+
+-bear-
+
+[verb] This style has endured for centuries."to continue to exist for a long time" -last-
+
+D[adj] I felt that life was no longer endurable. -unendurable-
+
+
+
+02.tolerate[verb]/tolerance[noun]/tolerant[adj]
+
+
+
+> All three words, bear, tolerate, and endure, convey a sense of dealing with something difficult, unpleasant or challenging. However, there are subtle differences in the way they are used and the degree of **hardship** implied by each one.
+>
+> Bear: To bear means to carry or support a weight, burden or responsibility. It can also mean to endure or tolerate something difficult or unpleasant, without necessarily implying that it is intolerable or unbearable.
+>
+> Example: She could barely bear the weight of her backpack on the long hike.
+>
+> Tolerate: To tolerate means to allow or permit something without protesting or resisting it, even if it's disagreeable or unpleasant. It implies that there is some level of discomfort involved but it is not intolerable.
+>
+> Example: I can tolerate spicy food, but only up to a certain level.
+>
+> Endure: To endure means to suffer or undergo something difficult, painful, or unpleasant without giving up or complaining. It suggests a higher degree of hardship or suffering than tolerate or bear.
+>
+> Example: He endured the harsh winter without heat or electricity.
+>
+> In summary, bear is more about carrying or supporting something, tolerate is about accepting something unpleasant, and endure is about persisting through something difficult or painful.
+
+
+
+03.durable/ˈdʊrəbl/
+
+[adj] durable plastics.
+
+"likely to last for a long time without breaking or getting weaker"
+
+
+
+04.durability/dərəˈbɪlɪti/
+
+[n] Altra doesn't necessarily have bad durability, but worse durability than most mainstream brands.
+
+"the ability to withstand wear, pressure, or damage."
+
+
+
+04.cushion /ˈkʊʃn/
+
+[n] a floor cushion (= a large cushion that you put on the floor to sit on) .
+
+"a cloth bag filled with soft material or feathers that is used, for example, to make a seat more comfortable"
+
+[v] My fall was cushioned by the deep snow.
+
+"to make the effect of a fall or hit less severe"
+
+
+
+05.cushioning /ˈkʊʃnɪŋ/
+
+[n] hoka cushioning levels.
+
+"Cushioning is something soft that protects an object when it hits something."
+
+
+
+06.fatigue /fəˈtiːɡ/
+
+[n] Important micronutrients for the reduction of tiredness and fatigue.
+
+"a feeling of being extremely tired, usually because of hard work or exercise"
+
+
+
+07.fragile  [ˈfrædʒaɪl]   [ˈfrædʒl] 
+
+[adj] fragile china/glass/bones. "easily broken or damaged"
+
+[adj] Our earth is fragile."weak and uncertain; easily destroyed or spoilt"
+
+[adj] Her father is now 86 and in fragile health. "not strong and likely to become ill/sick"
