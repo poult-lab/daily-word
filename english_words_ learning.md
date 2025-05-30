@@ -254,7 +254,9 @@
 
 01.enquire  [ɪnˈkwaɪə(r)]
 
-[verb]{~ (about sb/sth)}  I called the station to enquire about train times."to ask sb for some information"
+[verb]{~ (about sb/sth)}  I called the station to enquire about train times.
+
+"to ask sb for some information"
 
 
 
@@ -1737,11 +1739,7 @@ Why don't you shove up so that Brian can sit next to you? "to move in order to m
 
 
 
-22.patellar reflex/knee reflex
 
-What is the physiological function of the knee-jerk reflex?
-
-The knee-jerk reflex is also called the patellar reflex. Its main biological purpose is **to prevent the quadriceps muscle from overstretching**. In all of our skeletal muscles, there are stretch receptors.
 
 
 
@@ -1821,7 +1819,7 @@ The knee-jerk reflex is also called the patellar reflex. Its main biological pur
 
 
 
-#### 2020/01/14.11
+#### 2020/01/14.12
 
 01.proximity  [prɒkˈsɪməti]  [prɑːkˈsɪməti]
 
@@ -1885,11 +1883,13 @@ The tennis star made the allegations on Chinese social media site Weibo./Seo Soo
 
 
 
-04.exaggerate  [ɪɡˈzædʒəreɪt] 
+04.overinflated /ˌoʊvərɪnˈfleɪtɪd/
 
-[verb] The hotel was really **filthy** and I'm not exaggerating. 
+[adj] overinflated house prices."of a price or value"
 
-"to make sth seem larger, better, worse or more important than it really is"
+[adj] In recent weeks, public anger has been intensifying over Han's acceptance into MIT as there have been allegations that the high school senior has plagiarized and overinflated other credentials. 
+
+"made to seem better, worse, more important, etc. than it really is" - exaggerated- "言过其实的"
 
 
 
@@ -1971,17 +1971,11 @@ The airport operator said the total weekly flights between Gimpo and the Chinese
 
 
 
-12.overinflated /ˌoʊvərɪnˈfleɪtɪd/
-
-[adj] overinflated house prices."of a price or value"
-
-[adj] In recent weeks, public anger has been intensifying over Han's acceptance into MIT as there have been allegations that the high school senior has plagiarized and overinflated other credentials. 
-
-"made to seem better, worse, more important, etc. than it really is" - exaggerated- "言过其实的"
 
 
 
-#### 2020/01/15.10
+
+#### 2020/01/15.12
 
 01.data mining 
 
@@ -2097,7 +2091,7 @@ A family of four perished in the fire."to die, especially in a sudden violent wa
 
 
 
-#### 2020/01/16.20
+#### 2020/01/16.17
 
 01.cubicle [ˈkjuːbɪkl] 
 [noun] a shower cubicle. 
@@ -2112,25 +2106,63 @@ A family of four perished in the fire."to die, especially in a sudden violent wa
 
 02.pull out  
 
-pull out the package /拿出包裹
+[vp] pull out the package /拿出包裹
+
+"withdraw from an undertaking."
+
+
+
+03.dismemberment  [dɪsˈmembəmənt] 
+
+[n] I don't think we want our kids'culture defined by killing, mayhem[ˈmeɪhem] and dismemberment as entertainment.
+
+"**Dismemberment** is the breaking up into smaller parts of a country or organization."
+
+
+
+04.mayhem/ˈmeɪhem/
+
+[noun] There was absolute mayhem when everyone tried to get out at once.
+
+"confusion and fear, usually caused by violent behaviour or by some sudden shocking event"
+
+
+
+05.suburban [səˈbɜː(r)bən] 
+
+[adj] suburban areas.
+
+"in or connected with a suburb"
+
+[adj] a suburban lifestyle. 
+
+"boring and ordinary"
+
+
+
+06.suburb  [ˈsʌbɜː(r)b]
+
+[noun]  a suburb of London.
+
+"an area where people live that is **outside the centre of a city**"
 
 
 
 
 
+07.abusive [əˈbjuːsɪv] 
+
+[adj] abusive language/remarks. 
+
+"rude and offensive; criticizing rudely and unfairly"
+
+[adj] an abusive relationship.
+
+"involving violence"
 
 
-09.emotional abuse  [ɪˈməʊʃənl əˈbjuːs] 
 
-[adj] emotional problems/needs."connected with people's feelings (= with the emotions)"
-
-[adj] emotional language."causing people to feel strong emotions"
-
-D[adv] They have suffered physically and emotionally.
-
-
-
-abuse  [əˈbjuːs , əˈbjuːz] 
+08.abuse  [əˈbjuːs , əˈbjuːz] 
 
 [noun] He was arrested on charges of corruption [kəˈrʌpʃn] and abuse of power .
 
@@ -2146,15 +2178,13 @@ abuse  [əˈbjuːs , əˈbjuːz]
 
 
 
-abusive [əˈbjuːsɪv] 
+09.emotional abuse  [ɪˈməʊʃənl əˈbjuːs] 
 
-[adj] abusive language/remarks. 
+[adj] emotional problems/needs."connected with people's feelings (= with the emotions)"
 
-"rude and offensive; criticizing rudely and unfairly"
+[adj] emotional language."causing people to feel strong emotions"
 
-[adj] an abusive relationship.
-
-"involving violence"
+D[adv] They have suffered physically and emotionally.
 
 
 
@@ -2194,7 +2224,9 @@ They also hire themselves out as hit men.
 
 
 
+14.imaginative  [ɪˈmædʒɪnətɪv] 
 
+[adj] an imaginative approach/idea/child. "having or showing new and exciting ideas"
 
 
 
@@ -2218,7 +2250,7 @@ There are plenty [ˈplenti]  of ways you can cut costs on your trip without slum
 
 
 
-18.inventive [ɪnˈventɪv] 
+17.inventive [ɪnˈventɪv] 
 
 [adj] She has a highly inventive mind. "able to think of new and interesting ideas"
 
@@ -2226,49 +2258,9 @@ It inspired me to be more inventive with my own cooking.
 
 
 
-imaginative  [ɪˈmædʒɪnətɪv] 
-
-[adj] an imaginative approach/idea/child. "having or showing new and exciting ideas"
 
 
-
-19.dismemberment  [dɪsˈmembəmənt] 
-
-[n] I don't think we want our kids'culture defined by killing, mayhem[ˈmeɪhem] and dismemberment as entertainment.
-
-"**Dismemberment** is the breaking up into smaller parts of a country or organization."
-
-
-
-20.mayhem/ˈmeɪhem/
-
-[noun] There was absolute mayhem when everyone tried to get out at once.
-
-"confusion and fear, usually caused by violent behaviour or by some sudden shocking event"
-
-
-
-21.suburban [səˈbɜː(r)bən] 
-
-[adj] suburban areas.
-
-"in or connected with a suburb"
-
-[adj] a suburban lifestyle. 
-
-"boring and ordinary"
-
-
-
-22.suburb  [ˈsʌbɜː(r)b]
-
-[noun]  a suburb of London.
-
-"an area where people live that is **outside the centre of a city**"
-
-
-
-#### 2020/01/17.13
+#### 2020/01/17.17
 
 01.propose [prəˈpəʊz]
 [verb]  The government proposed changes to the voting system. 
@@ -2554,7 +2546,7 @@ Avoid any kind of metal objects like electric wires, fences, equipment, engine, 
 
 
 
-#### 2020/01/19.08
+#### 2020/01/19.07
 
 01.nursery [ˈnɜː(r)səri]
 
@@ -2587,7 +2579,13 @@ a more flexible approach.
 
 
 
+05.present  [ˈpreznt , prɪˈzent]
 
+[adj] There were 200 people present at the meeting. "existing or happening now"
+
+[noun] What can I get him for a birthday present? "a thing that you give to sb as a gift"
+
+[verb] The local MP will start the race and present the prizes."to give sth to sb, especially formally at a ceremony"
 
 
 
@@ -2616,17 +2614,11 @@ a more flexible approach.
 
 
 
-08.present  [ˈpreznt , prɪˈzent]
-
-[adj] There were 200 people present at the meeting. "existing or happening now"
-
-[noun] What can I get him for a birthday present? "a thing that you give to sb as a gift"
-
-[verb] The local MP will start the race and present the prizes."to give sth to sb, especially formally at a ceremony"
 
 
 
-#### 2020/01/21.21
+
+#### 2020/01/21.19
 
 01.crab  [kræb]
 
@@ -2758,7 +2750,19 @@ Explain: You fork out for sth more unwillingly than you shell out for sth.
 
 
 
+14.radar /ˈreɪdɑːr/
 
+[n] They located the ship by radar.
+
+"a system that uses radio waves to find the position and movement of objects, for example planes and ships, when they cannot be seen"
+
+
+
+15.lick [lɪk] 
+
+[verb]   He licked his fingers. /In their shitty dinner party, your colleagues will ask you to lick the a** of your Korean boss so that you are forgiven for your mistake.
+
+"to move your tongue over the surface of sth in order to eat it, make it wet or clean it"
 
 
 
@@ -2818,23 +2822,9 @@ a dispute between the two countries about the border.
 
 
 
-20.lick [lɪk] 
-
-[verb]   He licked his fingers. /In their shitty dinner party, your colleagues will ask you to lick the a** of your Korean boss so that you are forgiven for your mistake.
-
-"to move your tongue over the surface of sth in order to eat it, make it wet or clean it"
 
 
-
-21.radar /ˈreɪdɑːr/
-
-[n] They located the ship by radar.
-
-"a system that uses radio waves to find the position and movement of objects, for example planes and ships, when they cannot be seen"
-
-
-
-#### 2020/02/13.10
+#### 2020/02/13.12
 
 01.holder [ˈhəʊldə(r)] 
 
@@ -3393,7 +3383,7 @@ parliament [ˈpɑːrləmənt]
 
 
 
-#### 2020/03/27.05
+#### 2020/03/27.06
 
 01.coach
 Do you ask your boss to coach or mentor you?[v]
@@ -6810,11 +6800,17 @@ strike a balance /straɪk ə ˈbæləns/
 
 
 
-#### 2020/06/18.12
+#### 2020/06/18.09
 
 01.dissertation [ˌdɪsəˈteɪʃn] 
 
 [noun] "a long piece of writing on a particular subject, especially one written for a university degree"
+
+
+
+02.bump{拟声词} bumper "保险杠"
+
+The traffic is bumper to bumper.
 
 
 
@@ -6861,32 +6857,6 @@ strike a balance /straɪk ə ˈbæləns/
 
 
 09.airline/flight
-
-
-
-
-
-
-
-11.peel [piːl]
-
-[verb] to peel an orange/a banana."to take the skin off fruit, vegetables, etc."
-
-[noun] orange/lemon peel."the thick skin of some fruits and vegetables"
-
-
-
-12.bump{拟声词} bumper "保险杠"
-
-The traffic is bumper to bumper.
-
-
-
-13.peeler /ˈpiːlər/
-
-[n] a potato peeler.
-
-"a special type of knife for taking the skin off fruit and vegetables"
 
 
 
@@ -8216,19 +8186,11 @@ Don't despair! We'll think of a way out of this."to stop having any hope that a 
 
 #### 2020/08/07.02
 
-01.secretary [ˈsekrətri]
-
-[noun] a legal/medical secretary.
-
-"a person who works in an office, working for another person, dealing with letters and telephone calls, typing, keeping records, arranging meetings with people, etc"
+01.check out
 
 
 
-02.check out
-
-
-
-03.dictate  [dɪkˈteɪt , ˈdɪkteɪt]
+02.dictate  [dɪkˈteɪt , ˈdɪkteɪt]
 
 [verb] {~ (sth) (to sb)} He dictated a letter to his **secretary**. "to say words for sb else to write down"
 
@@ -9890,7 +9852,7 @@ The children quickly got bored with staying indoors.
 
 
 
-#### 2020/09/09.09
+#### 2020/09/09.06
 
 01.feast  [fiːst] 
 
@@ -9916,7 +9878,13 @@ The children quickly got bored with staying indoors.
 
 
 
+04.flock [flɒk]  [flɑːk]
 
+[noun] a flock of children/reporters. "a large group of people, especially of the same type"
+
+[verb] Thousands of people flocked to the beach this weekend. 
+
+"to go or gather together somewhere in large numbers"
 
 
 
@@ -9934,29 +9902,7 @@ The children quickly got bored with staying indoors.
 
 
 
-07.indulgence /ɪnˈdʌldʒəns/
 
-[n] Avoid **excessive** indulgence in sweets and canned drinks.
-
-"the state or act of having or doing whatever you want; the state of allowing sb to have or do whatever they want" 
-
-
-
-08.flock [flɒk]  [flɑːk]
-
-[noun] a flock of children/reporters. "a large group of people, especially of the same type"
-
-[verb] Thousands of people flocked to the beach this weekend. 
-
-"to go or gather together somewhere in large numbers"
-
-
-
-09.excessive /ɪkˈsesɪv/
-
-[adj] They complained about the excessive noise coming from the upstairs flat.
-
-"greater than what seems reasonable or appropriate"
 
 
 
@@ -16566,7 +16512,7 @@ D[dedicated] a dedicated teacher. "working hard at sth because it is very import
 
 
 
-#### 2020/11/24.05
+#### 2020/11/24.04
 
 01.endowment [ɪnˈdaʊmənt]
 
@@ -16603,22 +16549,6 @@ D[adj] a thriving industry.
 "an appearance of a ghost or spirit"
 
 
-
-05.riot /ˈraɪət/
-
-[n] One prison guard was killed when a riot broke out in the jail.
-
-"a situation in which a group of people behave in a violent way in a public place, often as a protest"
-
-[n] {formal} The garden was a riot of colour.
-
-"a collection of a lot of different types of the same thing"
-
-D[noun] Rioters set fire to parked cars.
-
-D[noun]  Rioting broke out in the capital.
-
- 
 
 #### 2020/11/25.03
 
@@ -21031,7 +20961,7 @@ British Airways."a route regularly used by planes"
 
 
 
-#### 20210302.05
+#### 20210302.04
 
 01.pertinent  [ˈpɜː(r)tnənt]
 
@@ -21063,15 +20993,7 @@ British Airways."a route regularly used by planes"
 
 
 
-04.rescind  [rɪˈsɪnd]
-
-[verb] "to officially state that a law, contract, decision, etc. is no longer valid" 
-
--revoke [rɪˈvəʊk]-
-
-
-
-05.migrant  [ˈmaɪɡrənt] 
+04.migrant  [ˈmaɪɡrənt] 
 
 [noun]  which heavily rely on migrant labor.
 
@@ -21421,13 +21343,9 @@ Recognizing outstanding work communicating and refining ideas in Machine Learnin
 
 
 
-10.engagement  [ɪnˈɡeɪdʒmənt] 
+10.layover  [ˈleɪəʊvə(r)] 
 
-[noun] {~ (to sb)} Their engagement was announced in the local paper.
-
-"an agreement to marry sb; the period during which two people are engaged"
-
-[noun] an engagement book/diary."an arrangement to do sth at a particular time, especially sth official or sth connected with your job"
+[noun] =stopover "a brief stay in the course of a journey"
 
 
 
@@ -21581,9 +21499,7 @@ Recognizing outstanding work communicating and refining ideas in Machine Learnin
 
 
 
-28.layover  [ˈleɪəʊvə(r)] 
 
-[noun] =stopover "a brief stay in the course of a journey"
 
 
 
@@ -26849,7 +26765,7 @@ The terms **shortage** and **scarcity** are related but distinct, particularly i
 
 
 
-#### 20210825.10
+#### 20210825.09
 
 01.veracity  [vəˈræsəti] 
 
@@ -26875,9 +26791,11 @@ The terms **shortage** and **scarcity** are related but distinct, particularly i
 
 
 
-04.proactive [ˌprəʊˈæktɪv]
+04.synchronous  [ˈsɪŋkrənəs] 
 
-[adj] "controlling a situation by making things happen rather than waiting for things to happen and then reacting to them"
+[adj] Synchronous class (the class is delivered via Webex in a synchronous manner). 
+
+"happening or existing at the same time"
 
 
 
@@ -26927,11 +26845,7 @@ The terms **shortage** and **scarcity** are related but distinct, particularly i
 
 
 
-10.synchronous  [ˈsɪŋkrənəs] 
 
-[adj] Synchronous class (the class is delivered via Webex in a synchronous manner). 
-
-"happening or existing at the same time"
 
 
 
@@ -27149,13 +27063,9 @@ The odds are very much in our favour (= we are likely to succeed) .
 
 
 
-#### 20210907.05
+#### 20210907.04
 
-01.enduring [ɪnˈdjʊərɪŋ]
-
-[adj] On Labor Day, we honor all those workers - and their enduring movement - ...
-
-"lasting for a long time"
+01.Supreme Court [suːˈpriːm kɔːt] /supreme law  [suːˈpriːm lɔː] 
 
 
 
@@ -27197,7 +27107,7 @@ The wind veered to the west.
 
 
 
-05.Supreme Court [suːˈpriːm kɔːt] /supreme law  [suːˈpriːm lɔː] 
+
 
 
 
@@ -35639,7 +35549,7 @@ dizzy [ˈdɪzi]
 
 
 
-#### 02/06.11
+#### 02/06.09
 
 01.see off  [siː ɒf] 
 
@@ -35675,7 +35585,17 @@ dizzy [ˈdɪzi]
 
 
 
+05.offshore firm 
 
+[pheasal noun] "Offshore refers to **any (business) activity that takes place outside an entity's home base**. The term may be used to describe foreign banks, corporations, investments, and deposits. A company may legitimately move offshore for the purpose of tax avoidance or to enjoy relaxed regulations."
+
+
+
+06.free  [friː]
+
+[verb] Three people were freed from the wreckage[ˈrekɪdʒ] .
+
+"to move sb/sth that is caught or fixed on sth"  -release-
 
 
 
@@ -35700,18 +35620,6 @@ dizzy [ˈdɪzi]
 "12 o'clock in the middle of the day; the period around this time"
 
 
-
-10.offshore firm 
-
-[pheasal noun] "Offshore refers to **any (business) activity that takes place outside an entity's home base**. The term may be used to describe foreign banks, corporations, investments, and deposits. A company may legitimately move offshore for the purpose of tax avoidance or to enjoy relaxed regulations."
-
-
-
-11.free  [friː]
-
-[verb] Three people were freed from the wreckage[ˈrekɪdʒ] .
-
-"to move sb/sth that is caught or fixed on sth"  -release-
 
 
 
@@ -41803,7 +41711,7 @@ fleeting"lasting only for a very short time"
 
 
 
-#### 11/01.14
+#### 11/01.13
 
 01.takeaway /ˈteɪkəweɪ/
 
@@ -41841,15 +41749,19 @@ fleeting"lasting only for a very short time"
 
 
 
-05.massacre /ˈmæsəkər/
+05.decapitate /dɪˈkæpɪteɪt/
 
-[n] the bloody massacre of innocent civilians.
+[v] His decapitated body was found floating in a canal.
 
-'the killing of a large number of people especially in a cruel way'
+"to cut off sb's head" -杀头-
 
-[v] 300 civilians are believed to have been massacred by the rebels...
 
-'If people **are massacred**, a large number of them are attacked and killed in a violent and cruel way.'
+
+> Mostly none, but "behead" sounds like it was done as a formal execution.
+
+
+
+
 
 
 
@@ -41916,18 +41828,6 @@ fleeting"lasting only for a very short time"
 [vt] Charles I was beheaded by the Cromwellians.
 
 'to cut off sb's head, especially as a punishment' -decapitate/dɪˈkæpɪteɪt/s- -斩首-
-
-
-
-14.decapitate /dɪˈkæpɪteɪt/
-
-[v] His decapitated body was found floating in a canal.
-
-"to cut off sb's head" -杀头-
-
-
-
-> Mostly none, but "behead" sounds like it was done as a formal execution.
 
 
 
@@ -44031,13 +43931,15 @@ d[adv]shabbily dressed
 
 
 
-#### 03/20.04
+#### 03/20.02
 
-01.catastrophic /ˌkætəˈstrɒfɪk/ /ˌkætəˈstrɑːfɪk/
 
-[adj]  Forgetting speed in long-range dependency for transformers is catastrophic.
 
-"Something that is **catastrophic** involves or causes a sudden terrible disaster."
+01.turnstile /ˈtɜːrnstaɪl/
+
+[n] And then push the turnstile to get into the platform. 
+
+"a gate at the entrance to a public building, stadium , etc. that turns in a circle when pushed, allowing one person to go through at a time"
 
 
 
@@ -44053,11 +43955,7 @@ d[adv]shabbily dressed
 
 
 
-04.turnstile /ˈtɜːrnstaɪl/
 
-[n] And then push the turnstile to get into the platform. 
-
-"a gate at the entrance to a public building, stadium , etc. that turns in a circle when pushed, allowing one person to go through at a time"
 
 
 
@@ -45760,7 +45658,7 @@ D[noun]  copyright infringement.
 
 
 
-#### 07/26.02
+#### 07/26.01
 
 01.vendor  [ˈvendər]
 
@@ -45775,20 +45673,6 @@ D[noun]  copyright infringement.
 > **A Vendor is the one that supplies the products, usually at wholesale prices.** **The seller is the “reseller” or “retailer” that sells the product at market prices.**
 
 
-
-
-
-02.slaughter /ˈslɔːtər/
-
-[n] cows taken for slaughter.
-
-'the killing of animals for their meat'
-
-[n] the wholesale slaughter of innocent people.
-
-'the cruel killing of large numbers of people at one time, especially in a war'
-
-[v] Men, women and children were slaughtered and villages destroyed. 'to kill a large number of people or animals violently'
 
 
 
@@ -45816,21 +45700,7 @@ D[noun]  copyright infringement.
 
 
 
-#### 08/08.01
-
-01.revoke [rɪˈvoʊk] 
-
-[verb] Yonsei University revokes master's degree of Cho Kuk's son.
-
-The government revoked her husband's license to operate migrant labor crews./
-
-Adidas CEO Bjorn Gulden, who took office in January, is facing growing calls from Korean franchisees of the German sportswear brand to revoke the restructuring plan pursued by Kasper Rorsted, his predecessor, according to industry officials, Tuesday.
-
-However, your trip must be temporary and you cannot remain outside the United States for more than **1 year**. If the Customs and Border Protection (CBP) officer believes you do not intend to continue living permanently in the United States, they could revoke your status as a permanent resident.
-
-"When people in authority **revoke** something such as a licence, a law, or an agreement, they cancel it."
-
-
+#### 
 
 #### 08/23.01
 
@@ -49536,7 +49406,7 @@ The difference between "wiggle" and "jiggle" is **the control had in the movemen
 
 
 
-#### 03/19.06
+#### 03/19.05
 
 01.bottled tea /ˈbɑːtld/
 
@@ -49576,11 +49446,7 @@ The difference between "wiggle" and "jiggle" is **the control had in the movemen
 
 
 
-06.eczema /ˈeksɪmə/
 
-[n] In fact, there are reports that no abnormalities were observed when synthetic vitamin C was administered to adults at 3 grams per day for three months, but when the dose was increased to 6 grams, symptoms such as nausea, vomiting, diarrhea, facial flushing, headache, and insomnia appeared. In addition, there are also reports that skin eczema is often seen in young children.
-
-"a skin condition in which areas of skin become red, rough and sore"
 
 
 
@@ -51066,7 +50932,7 @@ The words **"companion"** and **"company"** are related but have different nuanc
 
 
 
-#### 05/01.16
+#### 05/01.15
 
 01.obstacle  [ˈɒbstəkl] [ˈɑːbstəkl]
 
@@ -51188,27 +51054,7 @@ The words **"companion"** and **"company"** are related but have different nuanc
 
 
 
-14.stall  [stɔːl]
-
-[noun] a market stall./Hu's stall, Zhongxiang Toys.
-
-"a table or small shop with an open front that people sell things from, especially at a market"
-
-[verb] (of a vehicle or an engine 车辆或发动机)   I stalled the car three times during my driving test.
-
-"to stop suddenly because of a lack of power or speed; to make a vehicle or engine do this"
-
-[verb] {~ (on/over sth)} They are still stalling on the deal.
-
-"to try to avoid doing sth or answering a question so that you have more time"
-
-[v] We must revive our stalled economy.
-
-"to stop sth from happening until a later date; to stop making progress"
-
-
-
-15.corner /ˈkɔːrnər/
+14.corner /ˈkɔːrnər/
 
 [n] the four corners of a square. 
 
@@ -51224,7 +51070,7 @@ The words **"companion"** and **"company"** are related but have different nuanc
 
 
 
-16.ahead of/ behind
+15.ahead of/ behind
 
 [prepositional phrases] [Nvidia](https://www.cnbc.com/quotes/NVDA/) CEO Jensen Huang said Wednesday that China is “**not behind**” in artificial intelligence, and that Huawei is “one of the most formidable technology companies in the world.”
 
@@ -51332,7 +51178,7 @@ The words **"companion"** and **"company"** are related but have different nuanc
 
 10.detrimental /ˌdetrɪˈmentl/
 
-[adj] {~ (to sb/sth)}He accused “certain activists and highly political judges” of attempting to derail his efforts, claiming that losing momentum would be “very detrimental to finding the TRUTH.” He added: “Much left to find. No Excuses!!!”./These augmented samples may have detrimental effects on ECG classification.
+[adj] {~ (to sb/sth)}He accused “certain activists and highly political judges” of attempting to derail his efforts, claiming that losing momentum would be “very detrimental to finding the TRUTH.” He added: “Much left to find. No Excuses!!!”./These augmented samples may have detrimental effects on ECG classification./The paper emphasizes that such techniques, while effective in computer vision, can have detrimental effects on ECG classification due to the unique temporal and morphological properties of ECG signals.
 
 "harmful"
 
@@ -52339,7 +52185,7 @@ On the other hand, as a result of the “guardrail provision” of the CHIPS Act
 
 
 
-#### 05/18
+#### 05/18.10
 
 01.endure [ɪnˈdjʊə(r)]
 
@@ -52403,6 +52249,10 @@ D[adj] I felt that life was no longer endurable. -unendurable-
 
 "to make the effect of a fall or hit less severe"
 
+[v] China’s industrial profit growth accelerates in April as Beijing’s **policy measures** cushion tariff impact.
+
+"to protect sb/sth from being hurt or damaged or from the unpleasant effects of sth"
+
 
 
 05.cushioning /ˈkʊʃnɪŋ/
@@ -52428,3 +52278,726 @@ D[adj] I felt that life was no longer endurable. -unendurable-
 [adj] Our earth is fragile."weak and uncertain; easily destroyed or spoilt"
 
 [adj] Her father is now 86 and in fragile health. "not strong and likely to become ill/sick"
+
+
+
+08.eczema /ˈeksɪmə/
+
+[n] In fact, there are reports that no abnormalities were observed when synthetic vitamin C was administered to adults at 3 grams per day for three months, but when the dose was increased to 6 grams, symptoms such as nausea, vomiting, diarrhea, facial flushing, headache, and insomnia appeared. In addition, there are also reports that skin eczema is often seen in young children.
+
+"a skin condition in which areas of skin become red, rough and sore"
+
+
+
+09.moisturizer /ˈmɔɪstʃəraɪzər/
+
+[n] A moisturizer is a cream that you put on your skin to make it feel softer and smoother.
+
+"a cream that is used to make the skin less dry"
+
+
+
+10.policy measures
+
+[vp] "In the context of policy, "policy measures" refers to specific actions or instruments a government, organization, or individual takes to implement and achieve the goals of a policy."
+
+
+
+#### 05/19.07
+
+01.prostate /ˈprɑːsteɪt/
+
+[n] Biden has been diagnosed with aggressive prostate cancer.
+
+"a small organ in men, near the bladder , that produces a liquid in which sperm is carried"
+
+
+
+02.blockade /blɑːˈkeɪd/
+
+[n] Israel says it will allow 'basic amount' of food into Gaza, ending 10-week blockade.
+
+"the action of surrounding or closing a place, especially a port, in order to stop people or goods from coming in or out"
+
+
+
+03.a slew /sluː/ of
+
+[phrase] That prompted a slew of global investment banks to raise their forecasts for China’s economic growth this year while paring back expectations for more proactive stimulus as Beijing strives to reach its growth target of around 5%.
+
+"a large number of them"
+
+
+
+04.pare /per/
+
+[v] First, pare the rind from the lemon.
+
+"to remove the thin outer layer of sth"
+
+[v] The workforce has been pared to the bone (= reduced to the lowest possible level) .
+
+"to gradually reduce the size or amount" 
+
+
+
+05.peel [piːl]
+
+[verb] to peel an orange/a banana."to take the skin off fruit, vegetables, etc."
+
+[noun] orange/lemon peel."the thick skin of some fruits and vegetables"
+
+
+
+06.peeler /ˈpiːlər/
+
+[n] a potato peeler.
+
+"a special type of knife for taking the skin off fruit and vegetables"
+
+
+
+07.proactive [ˌprəʊˈæktɪv]
+
+[adj]In order to survive the competition a company should be proactive not reactive...
+
+ "controlling a situation by making things happen rather than waiting for things to happen and then reacting to them"
+
+
+
+#### 05/20.08
+
+01.catastrophic /ˌkætəˈstrɒfɪk/ /ˌkætəˈstrɑːfɪk/
+
+[adj]  Forgetting speed in long-range dependency for transformers is catastrophic./Russia wants to do largescale TRADE with the United States when this catastrophic “bloodbath” is over, and I agree.
+
+"Something that is **catastrophic** involves or causes a sudden terrible disaster."
+
+
+
+02.bloodbath /ˈblʌdbæθ/
+
+[n] The war degenerated into a bloodbath of tribal killings.
+
+"a situation in which many people are killed violently"
+
+
+
+03.massacre /ˈmæsəkər/
+
+[n] the bloody massacre of innocent civilians.
+
+'the killing of a large number of people especially in a cruel way'
+
+[v] 300 civilians are believed to have been massacred by the rebels...
+
+'If people **are massacred**, a large number of them are attacked and killed in a violent and cruel way.'
+
+
+
+The words **"bloodbath"** and **"massacre"** both describe events involving extreme violence and loss of life, but they differ slightly in tone, connotation, and usage.
+
+------
+
+🔹 **Massacre**
+
+- **Definition**: The **deliberate, brutal killing** of many people, often defenseless civilians.
+- **Implication**: Suggests **intentional**, one-sided violence — often seen as a war crime or atrocity.
+- **Tone**: More formal, used in historical, legal, or journalistic contexts.
+- **Example**:
+   *“The village suffered a massacre at the hands of invading forces.”*
+
+------
+
+🔹 **Bloodbath**
+
+- **Definition**: A situation involving **a large amount of killing and bloodshed**.
+- **Implication**: Can be **chaotic or mutual** violence — not necessarily deliberate targeting of the defenseless.
+- **Tone**: More **graphic or emotional**, sometimes metaphorical (e.g., "stock market bloodbath").
+- **Example**:
+   *“The battle turned into a bloodbath with casualties on both sides.”*
+
+------
+
+✅ Summary:
+
+| Term          | Implies                                    | Victim Side                          | Tone                                  | Usage Example                             |
+| ------------- | ------------------------------------------ | ------------------------------------ | ------------------------------------- | ----------------------------------------- |
+| **Massacre**  | Deliberate killing                         | Often one-sided, defenseless victims | Formal, grave                         | “The school massacre shocked the nation.” |
+| **Bloodbath** | Extreme violence, may be mutual or chaotic | Could affect all parties             | Graphic, emotional, even metaphorical | “The protest turned into a bloodbath.”    |
+
+**Analogy**:
+
+> *A massacre is a one-sided slaughter; a bloodbath is a violent free-for-all.*
+
+
+
+04.degenerate /dɪˈdʒenəreɪt , dɪˈdʒenərət , dɪˈdʒenerət/
+
+[v] The march degenerated into a riot.
+
+"to become worse, for example by becoming lower in quality or weaker"
+
+[adj] a degenerate popular culture.
+
+"having moral standards that have fallen to a level that is very low and unacceptable to most people"
+
+[n] "a person whose behaviour shows moral standards that have fallen to a very low level"
+
+
+
+05.march /mɑːrtʃ/
+
+[n] protest marches.
+
+"an organized walk by many people from one place to another, in order to protest about sth, or to express their opinions"
+
+
+
+The words **"demonstration"** and **"march"** are closely related but differ in nuance and usage:
+
+------
+
+🔹 **Demonstration**
+
+- **Definition**: A public display of opinion, often a protest, gathering, or rally, organized to express support or opposition to an issue.
+- **Broader term**: Includes speeches, signs, sit-ins, vigils, or marches.
+- **Example**:
+   *“The workers held a demonstration outside the company headquarters.”*
+
+------
+
+🔹 **March**
+
+- **Definition**: A type of demonstration where participants walk together along a route to express their stance.
+- **More specific**: A march is a **form of demonstration**, typically mobile.
+- **Example**:
+   *“Thousands joined the climate march through downtown.”*
+
+------
+
+✅ Summary:
+
+| Term              | Scope    | Nature                      | Example                     |
+| ----------------- | -------- | --------------------------- | --------------------------- |
+| **Demonstration** | Broad    | Can be stationary or mobile | Protest outside a building  |
+| **March**         | Specific | Involves walking            | Protesters walking in unity |
+
+**Think of it like this**:
+
+> *Every march is a demonstration, but not every demonstration is a march.*
+
+
+
+06.riot /ˈraɪət/
+
+[n] One prison guard was killed when a riot broke out in the jail.
+
+"a situation in which a group of people behave in a violent way in a public place, often as a protest"
+
+[n] {formal} The garden was a riot of colour.
+
+"a collection of a lot of different types of the same thing"
+
+D[noun] Rioters set fire to parked cars.
+
+D[noun]  Rioting broke out in the capital.
+
+
+
+07.slaughter /ˈslɔːtər/
+
+[n] cows taken for slaughter.
+
+'the killing of animals for their meat'
+
+[n] the wholesale slaughter of innocent people.
+
+'the cruel killing of large numbers of people at one time, especially in a war'
+
+[v] Men, women and children were slaughtered and villages destroyed. 'to kill a large number of people or animals violently'
+
+
+
+08.likewise /ˈlaɪkwaɪz/
+
+[adv] Likewise, Ukraine can be a great beneficiary on Trade, in the process of rebuilding its Country. "the same; in a similar way"
+
+
+
+#### 05/21.05
+
+01.pharmaceutical /ˌfɑːrməˈsuːtɪkl/
+
+[adj] the pharmaceutical industry.
+
+"connected with making and selling drugs and medicines"
+
+[n] the development of new pharmaceuticals.
+
+"a drug or medicine"
+
+
+
+The terms **"pharmaceutical"** and **"medicine"** are related but have different scopes and usage:
+
+------
+
+**1. Medicine**
+
+- **Definition**: A substance or preparation used in treating disease.
+- **Usage**: Common in general language, especially by healthcare professionals and patients.
+- **Includes**:
+  - Prescription drugs
+  - Over-the-counter (OTC) drugs
+  - Natural remedies and traditional treatments (in broader usage)
+
+> **Example**: *"The doctor prescribed a medicine for my high blood pressure."*
+
+------
+
+**2. Pharmaceutical**
+
+- **Definition**: Relates to drugs and drug development, particularly as products of the pharmaceutical industry.
+- **Usage**: More technical and business-oriented; used in contexts such as drug research, manufacturing, regulation, and sales.
+- **Can refer to**:
+  - A drug product (**noun**): “Pharmaceuticals are tested in clinical trials.”
+  - The industry (**adjective/noun**): “She works in the pharmaceutical industry.”
+
+> **Example**: *"This pharmaceutical company is developing a new cancer treatment."*
+
+------
+
+**In Summary**:
+
+| Aspect          | Medicine                                | Pharmaceutical                         |
+| --------------- | --------------------------------------- | -------------------------------------- |
+| Meaning         | Treatment substance                     | Drug product or industry-related term  |
+| Usage Context   | Clinical, patient-focused               | Technical, industry, research          |
+| Formality Level | Less formal                             | More formal/technical                  |
+| Scope           | Includes traditional and clinical drugs | Primarily refers to manufactured drugs |
+
+------
+
+
+
+02.biopharmaceutical 
+
+[n] South Korea vows support for biopharmaceutical, auto sectors over US tariffs.
+
+"a biological macromolecule or cellular component, such as a blood product, used as a pharmaceutical."
+
+
+
+03.engagement  [ɪnˈɡeɪdʒmənt] 
+
+[noun] {~ (to sb)} Their engagement was announced in the local paper.
+
+"an agreement to marry sb; the period during which two people are engaged"
+
+[noun] an engagement book/diary.
+
+South Korea planning more serious engagement with the US, says Korea's Trade and Industry Minister.
+
+"an arrangement to do sth at a particular time, especially sth official or sth connected with your job"
+
+
+
+04.inroad/ˈɪnroʊd/
+
+[n] Korean carmakers making inroads into China is good not just for their earnings, but for future ties with Chinese partners.
+
+"something that is achieved, especially by reducing the power or success of sth else"
+
+
+
+05.fountain /ˈfaʊntn/
+
+[n] Drink fountain for pets. 
+
+"a structure from which water is sent up into the air by a pump , used to decorate parks and gardens/yards"
+
+
+
+#### 05/22.02
+
+01.sprawl /sprɔːl/
+
+[v]  At the time, Nike and several brands like popular shoemaker Birkenstock [cut ties](https://www.cnbc.com/2016/07/20/birkenstock-quits-amazon-in-us-after-counterfeit-surge.html) with Amazon due to rising concerns around counterfeit products on the company’s sprawling third-party marketplace.
+
+"to spread in an untidy way; to cover a large area"
+
+
+
+02.weather /ˈweðər/
+
+[v] Why Etihad Airways thinks it can weather the storm of Boeing delays. 
+
+"to come safely through a difficult period or experience"
+
+
+
+#### 05/23.02
+
+01.patellar/knee reflex
+
+What is the physiological function of the knee-jerk reflex?
+
+The knee-jerk reflex is also called the patellar reflex. Its main biological purpose is **to prevent the quadriceps muscle from overstretching**. In all of our skeletal muscles, there are stretch receptors.
+
+
+
+02.skeletal /ˈskelətl/
+
+[adj] skeletal muscle mass.
+
+"connected with the skeleton of a person or an animal"
+
+
+
+#### 05/26.03
+
+01.indulgence /ɪnˈdʌldʒəns/
+
+[n] Avoid **excessive** indulgence in sweets and canned drinks.
+
+"the state or act of having or doing whatever you want; the state of allowing sb to have or do whatever they want" 
+
+
+
+02.excessive /ɪkˈsesɪv/
+
+[adj] They complained about the excessive noise coming from the upstairs flat./ The traditional Vietnamese diet is known for its healthy balance, with a focus on rice, vegetables, and fish. It's also characterized by minimal oil use and avoids excessive sugar and gluten. 
+
+"greater than what seems reasonable or appropriate"
+
+
+
+The words **"excess"** and **"excessive"** are related but used differently in English. Here's how to distinguish them:
+
+------
+
+🔹 **1. "Excess"** (noun/adjective)
+
+As a **noun**:
+
+- Refers to an amount that is more than necessary or allowed.
+- **Examples**:
+  - "He was fined for driving in **excess** of the speed limit."
+  - "Cut off any **excess** fat before cooking the meat."
+
+As an **adjective** (less common, formal):
+
+- Means extra or surplus.
+- **Example**:
+  - "They donated the **excess** food to charity."
+
+------
+
+🔹 **2. "Excessive"** (adjective)
+
+- Describes something **too much** in amount, degree, or intensity — often with a **negative** connotation.
+- **Examples**:
+  - "The fees are **excessive** for such a simple service."
+  - "He was criticized for **excessive** use of force."
+
+------
+
+✅ In short:
+
+| Word          | Part of Speech    | Meaning                         | Example                                |
+| ------------- | ----------------- | ------------------------------- | -------------------------------------- |
+| **Excess**    | Noun              | Too much of something           | "An **excess** of sugar is unhealthy." |
+| **Excess**    | Adjective(额外的) | Extra, surplus                  | "They had **excess** stock."           |
+| **Excessive** | Adjective(过度的) | Too much (with a negative tone) | "**Excessive** noise kept me awake."   |
+
+
+
+03.exaggerate  [ɪɡˈzædʒəreɪt] 
+
+[verb] The hotel was really **filthy** and I'm not exaggerating. 
+
+"to make sth seem larger, better, worse or more important than it really is"
+
+
+
+#### 05/28.02
+
+01.enduring [ɪnˈdjʊərɪŋ]
+
+[adj] On Labor Day, we honor all those workers - and their enduring movement - ...
+
+"lasting for a long time"
+
+
+
+Both **"fall for someone"** and **"fall in love with someone"** describe the experience of developing romantic feelings, but they differ slightly in tone, intensity, and usage:
+
+1. **Fall for someone**
+
+- **Tone:** More casual, colloquial.
+- **Intensity:** Often suggests the beginning of romantic feelings or an emotional crush.
+- **Usage:** Can be short-term or unrequited.
+- **Example:**
+   *“I think I’m starting to fall for her.”*
+   *(Suggests budding affection or attraction.)*
+
+2. **Fall in love with someone**
+
+- **Tone:** More formal or emotionally intense.
+- **Intensity:** Indicates a deeper, more serious emotional commitment.
+- **Usage:** Typically implies mutual or long-lasting love.
+- **Example:**
+   *“He fell in love with her during their trip to Italy.”*
+   *(Implies strong, enduring romantic love.)*
+
+Summary:
+
+- "Fall for someone" = **Initial feelings** or **a crush**.
+- "Fall in love with someone" = **Deeper emotional connection**.
+
+You could think of "fall for someone" as a **step** that may lead to "falling in love" — but not always.
+
+
+
+02.crippled /ˈkrɪpld/
+
+[adj] Teenaged Sunja, the adored daughter of a crippled fishman, falls for a wealthy yakuza. "disabled in the feet or legs"
+
+
+
+#### 05/29.08
+
+01.revoke [rɪˈvoʊk] 
+
+[verb] Yonsei University revokes master's degree of Cho Kuk's son.
+
+The government revoked her husband's license to operate migrant labor crews./
+
+Adidas CEO Bjorn Gulden, who took office in January, is facing growing calls from Korean franchisees of the German sportswear brand to revoke the restructuring plan pursued by Kasper Rorsted, his predecessor, according to industry officials, Tuesday.
+
+However, your trip must be temporary and you cannot remain outside the United States for more than **1 year**. If the Customs and Border Protection (CBP) officer believes you do not intend to continue living permanently in the United States, they could revoke your status as a permanent resident.
+
+/U.S. says it will start revoking visas for Chinese students.
+
+"When people in authority **revoke** something such as a licence, a law, or an agreement, they cancel it."
+
+
+
+02.rescind  [rɪˈsɪnd]
+
+[verb] "to officially state that a law, contract, decision, etc. is no longer valid" 
+
+-revoke [rɪˈvəʊk]-
+
+
+
+| Word        | Formality   | Retroactive? | Common Context                          | Example                   |
+| ----------- | ----------- | ------------ | --------------------------------------- | ------------------------- |
+| **Revoke**  | Formal      | Sometimes    | Licenses, rights, laws                  | *Revoke a passport*       |
+| **Rescind** | Very formal | Yes          | Contracts, job offers, agreements       | *Rescind an offer*        |
+| **Void**    | Legal       | Yes          | Contracts, marriages, legal obligations | *Declare a contract void* |
+| **Cancel**  | Casual      | No (usually) | Events, plans, subscriptions            | *Cancel a flight*         |
+
+
+
+**Retroactive** means **affecting something in the past** — applying a new decision, rule, or action as if it had been in place **from an earlier date**.
+
+------
+
+✅ In plain terms:
+
+If something is done **retroactively**, it **goes back in time** and **changes the legal or practical effect** of something that already happened.
+
+------
+
+🔍 Examples:
+
+1. **Rescind (retroactive)**:
+
+> *If a contract is **rescinded**, it’s as though the contract **never existed** in the first place.*
+
+So if you rescind a job offer **after it's been accepted**, the law treats it **as if there was never a valid offer or acceptance**.
+
+2. **Void (often retroactive)**:
+
+> *A contract made under fraud is declared **void**, meaning it's **invalid from the start** (retroactively invalid).*
+
+------
+
+⚖️ Non-retroactive vs. Retroactive:
+
+| Action                 | Retroactive? | Meaning                                       |
+| ---------------------- | ------------ | --------------------------------------------- |
+| **Cancel a meeting**   | ❌ No         | You stop it **from happening in the future**. |
+| **Rescind a contract** | ✅ Yes        | You undo it **as if it had never existed**.   |
+
+------
+
+
+
+03.retroactive /ˌretroʊˈæktɪv/
+
+[adj] "If a decision or action is retroactive, it is intended to take effect from a date in the past."
+
+
+
+04.entity /ˈentəti/
+
+[n] **Your previous affiliations** (e.g., if you studied at a Chinese university on the Entity List).
+
+"something that exists separately from other things and has its own identity"
+
+
+
+05.renounce /rɪˈnaʊns/
+
+[v] Yes, if you **legally become a South Korean citizen**, and **renounce Chinese citizenship**, you would apply for a U.S. visa **as a Korean national** — and **you would likely face much less scrutiny.**
+
+"to state officially that you are no longer going to keep a title, position, etc."
+
+
+
+06.scrutiny /ˈskruːtəni/
+
+[n]  Her argument doesn't really stand up to scrutiny.
+
+"careful and thorough examination"
+
+
+
+07.stand up /ˈstænd ʌp/
+
+[vp] He made wild accusations that did not stand up..
+
+"If something such as a claim or a piece of evidence stands up, it is accepted as true or satisfactory after being carefully examined."
+
+[vp] We were to have had dinner together yesterday evening, but he stood me up...
+
+"If a boyfriend or girlfriend stands you up, they fail to keep an arrangement to meet you."
+
+
+
+08."Be + to have + past participle" vs "Should have + past participle"
+
+Other Examples:
+
+1. **Formal plans or instructions (especially in the past):**
+   - *He was to meet the ambassador at noon.*
+      → It was arranged that he would meet the ambassador.
+2. **Unfulfilled expectations (as in your sentence):**
+   - *She was to have given the speech, but she got sick.*
+      → She was expected/planned to give the speech, but it didn’t happen.
+3. **Rules/duties:**
+   - *You are not to leave the room.*
+      → You must not leave the room (formal command).
+4. **Historical/prophetic style:**
+   - *He was to become one of the greatest scientists of his time.*
+      → Looking back, it was his fate or destiny.
+
+
+
+Great question! Yes, **"be + to have + past participle"** and **"should have + past participle"** can **look similar**, but they have **different meanings and uses**. Let's compare them:
+
+------
+
+🔹 1. **Be + to have + past participle**
+
+➤ Used for **unfulfilled plans or expectations in the past**
+
+- It’s more **formal** and often reflects **arranged events** that didn’t happen.
+
+**Example:**
+
+- *We were to have had dinner yesterday.*
+   → A plan existed, but it didn’t happen.
+
+**Implication:**
+
+- The dinner was **planned**, **expected**, or **scheduled**, but it **didn’t occur**.
+
+------
+
+🔹 2. **Should have + past participle**
+
+➤ Used for **criticism, regret, or advice about the past**
+
+- It means **"it would have been the right or better thing to do."**
+
+**Example:**
+
+- *We should have had dinner yesterday.*
+   → It **would have been good/right** to have dinner, but we didn’t.
+
+**Implication:**
+
+- A sense of **regret** or **judgment** — something **ought to have happened**, but didn’t.
+
+------
+
+✅ Comparison Summary
+
+| Expression                         | Meaning                                                   | Tone/Use                  |
+| ---------------------------------- | --------------------------------------------------------- | ------------------------- |
+| **be + to have + past participle** | Something was planned or expected, but didn’t happen      | Formal, neutral           |
+| **should have + past participle**  | It would have been right/good to do, but it didn’t happen | Regret, advice, criticism |
+
+------
+
+✅ Example Side-by-Side:
+
+- **"We were to have had dinner."**
+   → It was planned, but it didn’t happen.
+- **"We should have had dinner."**
+   → It would have been the right thing to do / I'm sorry we didn’t.
+
+
+
+#### 05/30
+
+01.stall  [stɔːl]
+
+[noun] a market stall./Hu's stall, Zhongxiang Toys.
+
+"a table or small shop with an open front that people sell things from, especially at a market"
+
+[verb] (of a vehicle or an engine 车辆或发动机)   I stalled the car three times during my driving test.
+
+"to stop suddenly because of a lack of power or speed; to make a vehicle or engine do this"
+
+[verb] {~ (on/over sth)} They are still stalling on the deal.
+
+"to try to avoid doing sth or answering a question so that you have more time"
+
+[v] We must revive our stalled economy./U.S.-China talks ‘a bit stalled’ and need Trump and Xi to weigh in, Treasury Secretary Bessent says.
+
+"to stop sth from happening until a later date; to stop making progress"
+
+
+
+02.weigh in /ˈweɪ ɪn/
+
+[vp] I think that given the magnitude of the talks, given the complexity, that this is going to require both leaders to weigh in with each other.
+
+"If you weigh in on a plan, decision, or discussion, you add your advice or comments to it."
+
+
+
+03.treasury /ˈtreʒəri/
+
+[n] "(in Britain, the US and some other countries) the government department that controls public money"
+
+
+
+04.secretary [ˈsekrətri]
+
+[noun] a legal/medical secretary.
+
+"a person who works in an office, working for another person, dealing with letters and telephone calls, typing, keeping records, arranging meetings with people, etc"
+
+[n] U.S.-China trade talks “are a bit stalled,” requiring the two countries’ leaders to speak directly, Treasury Secretary Scott Bessent told Fox News.
+
+"the head of a government department, chosen by the President"
+
+
+
