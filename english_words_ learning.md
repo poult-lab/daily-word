@@ -7038,7 +7038,7 @@ Careful consideration should be given to issues of health and safety. "the act o
 
 
 
-#### 2020/06/24.05
+#### 2020/06/24.04
 
 01.Strict [strɪkt]
 
@@ -7062,17 +7062,9 @@ Careful consideration should be given to issues of health and safety. "the act o
 
 
 
-04.abdomen /ˈæbdəmən/
-
-[n] "the part of the body below the chest that contains the stomach, bowels , etc."
-
-> All three words can refer to the part of the body between the chest and the pelvis. Which is used depends on the context and the level of formality desired.
->
-> The word "abdomen" is used in medicine to refer to this part of the body. It is also used in discussions of the training of the abdominal muscles.
 
 
-
-05.jealousy [ˈdʒeləsi]  질투 /envy [ˈenvi]  질투하다
+04.jealousy [ˈdʒeləsi]  질투 /envy [ˈenvi]  질투하다
 
 
 
@@ -21979,7 +21971,7 @@ The shadow of doubt began to creep into her mind.
 
 
 
-#### 20210321.14
+#### 20210321.13
 
 01.giggle  [ˈɡɪɡl] 
 
@@ -22083,15 +22075,7 @@ The shadow of doubt began to creep into her mind.
 
 
 
-12.terrific [təˈrɪfɪk] 
-
-[adj] I feel absolutely terrific today!"excellent; wonderful"
-
-[adj] I've got a terrific amount of work to do."very large; very great"
-
-
-
-13.imitation [ˌɪmɪˈteɪʃn]
+12.imitation [ˌɪmɪˈteɪʃn]
 
 [n] a poor/cheap imitation of the real thing."a copy of sth, especially sth expensive"
 
@@ -22099,7 +22083,7 @@ The shadow of doubt began to creep into her mind.
 
 
 
-14.spokesperson  [ˈspoʊkspɜːrsn] 
+13.spokesperson  [ˈspoʊkspɜːrsn] 
 
 [n] "a person who speaks on behalf of a group or an organization"
 
@@ -37884,7 +37868,7 @@ These **prejudices** are particularly prevalent among people living in the North
 
 
 
-#### 05/11.11
+#### 05/11.10
 
 01.blockbuster /ˈblɑːkbʌstər/
 
@@ -37930,13 +37914,13 @@ For example, if someone says that their drink is laced with alcohol, it means th
 
 
 
-08.courier /ˈkʊriər/
 
-[n] We sent the documents by courier.
 
-"a person or company whose job is to take packages or important papers somewhere"
+08.deliberation /dɪˌlɪbəˈreɪʃn/
 
-[n] {**BrE**}  "a person who is employed by a travel company to give advice and help to a group of tourists on holiday"
+[n] intense deliberation. 
+
+"the process of carefully considering or discussing sth"
 
 
 
@@ -37955,12 +37939,6 @@ For example, if someone says that their drink is laced with alcohol, it means th
 "careful examination and comparison to note points of disagreement"
 
 
-
-11.deliberation /dɪˌlɪbəˈreɪʃn/
-
-[n] intense deliberation. 
-
-"the process of carefully considering or discussing sth"
 
 
 
@@ -45134,7 +45112,7 @@ I can't say I share your enthusiasm for the idea."a strong feeling of excitement
 
 
 
-#### 06/26.15
+#### 06/26.13
 
 01.strabismus/strəˈbɪzməs/
 
@@ -45174,21 +45152,9 @@ I can't say I share your enthusiasm for the idea."a strong feeling of excitement
 
 
 
-06.bruise /bruːz/
+06.abate /əˈbeɪt/
 
-[v] Strawberries bruise easily.
-
-"to develop a bruise , or make a bruise or bruises appear on the skin of sb/sth"
-
-[v] They had been badly bruised by the defeat.
-
-"to affect sb badly and make them feel unhappy and less confident"
-
-[n] The parents of the player reported Son, 62, and the two coaches to police in March after discovering a bruise on their son's thigh, following a training camp in Okinawa, Japan.
-
-"a blue, brown or purple mark that appears on the skin after sb has fallen, been hit, etc."
-
-[n] "a mark on a fruit or vegetable where it is damage"
+[v] "to become less strong; to make sth less strong"
 
 
 
@@ -45240,21 +45206,11 @@ I can't say I share your enthusiasm for the idea."a strong feeling of excitement
 
 
 
-
-
-
-
-14.hindrance /ˈhɪndrəns/
+13.hindrance /ˈhɪndrəns/
 
 [n] However, he turned what could have been a significant hindrance into a strength.
 
 "a person or thing that makes it more difficult for sb to do sth or for sth to happen"
-
-
-
-15.abate /əˈbeɪt/
-
-[v] "to become less strong; to make sth less strong"
 
 
 
@@ -45966,7 +45922,7 @@ What is behind NewJeans's 2-week ultimatum to HYBE?
 
 
 
-#### 11/05.03
+#### 11/05.02
 
 01.cyclic /ˈsaɪklɪk/
 
@@ -45984,11 +45940,7 @@ What is behind NewJeans's 2-week ultimatum to HYBE?
 
 
 
-03.commodity /kəˈmɑːdəti/
 
-[n] a drop in commodity prices.
-
-"a product or a raw material that can be bought and sold"
 
 
 
@@ -52953,7 +52905,7 @@ Great question! Yes, **"be + to have + past participle"** and **"should have + p
 
 
 
-#### 05/30
+#### 05/30.06
 
 01.stall  [stɔːl]
 
@@ -52998,6 +52950,112 @@ Great question! Yes, **"be + to have + past participle"** and **"should have + p
 [n] U.S.-China trade talks “are a bit stalled,” requiring the two countries’ leaders to speak directly, Treasury Secretary Scott Bessent told Fox News.
 
 "the head of a government department, chosen by the President"
+
+
+
+05.commodity /kəˈmɑːdəti/
+
+[n] a drop in commodity prices./Lee Ying Shan is a reporter with CNBC based in Singapore. She writes about a range of asset classes from stocks, currencies, commodities and bonds.
+
+"a product or a raw material that can be bought and sold"
+
+
+
+06.given /ˈɡɪvn/
+
+[PREP] “Core revenue drivers—streaming, concerts, and fan content—are digital and intangible, making them immune to cross-border tariffs,” CGS said, adding that even if fans buy albums and merchandise, tariff exposure is “negligible,” given low unit prices and loyal fan demand./Given that the Epex performance is not a final failure, the possibility of lifting the ban is still expected.
+
+"If you say given something, you mean taking that thing into account."
+
+
+
+#### 06/01.07
+
+01.rehabilitate /ˌriːəˈbɪlɪteɪt/
+
+[v] a unit for rehabilitating drug addicts.
+
+"to help sb to have a normal, useful life again after they have been very ill/sick or in prison for a long time"
+
+
+
+02.abdomen /ˈæbdəmən/
+
+[n] "the part of the body below the chest that contains the stomach, bowels , etc."
+
+> All three words can refer to the part of the body between the chest and the pelvis. Which is used depends on the context and the level of formality desired.
+>
+> The word "abdomen" is used in medicine to refer to this part of the body. It is also used in discussions of the training of the abdominal muscles.
+
+
+
+03.pelvis /ˈpelvɪs/
+
+[n] the leg press sometimes causes the pelvis to rotate away from the back rest when the weight is lowered.
+
+"the wide curved set of bones at the bottom of the body that the legs and spine are connected to"
+
+
+
+04.resultant /rɪˈzʌltənt/
+
+[adj] The resultant lumbar flexion produces herniating conditions for the disc.
+
+"caused by the thing that has just been mentioned"
+
+
+
+05.flexion /ˈflekʃn/
+
+[n] "the action of bending sth"
+
+
+
+06.manhole /ˈmænhoʊl/
+
+[n] A manhole cover has gone missing—it was stolen.
+
+"a hole in the street that is covered with a lid, used when sb needs to go down to examine the pipes or sewers below the street"
+
+
+
+07.terrific [təˈrɪfɪk] 
+
+[adj] I feel absolutely terrific today!"excellent; wonderful"
+
+[adj] "This will be his last day, but not really, because he will, always, be with us, helping all the way," Trump said in a post on Truth Social. "Elon is terrific!"
+
+I've got a terrific amount of work to do."very large; very great"
+
+
+
+#### 06/02
+
+01.bruise /bruːz/
+
+[v] Strawberries bruise easily./*Elon Musk had a noticeably bruised eye* during his last day at the White House.
+
+"to develop a bruise , or make a bruise or bruises appear on the skin of sb/sth"
+
+[v] They had been badly bruised by the defeat.
+
+"to affect sb badly and make them feel unhappy and less confident"
+
+[n] The parents of the player reported Son, 62, and the two coaches to police in March after discovering a bruise on their son's thigh, following a training camp in Okinawa, Japan.
+
+"a blue, brown or purple mark that appears on the skin after sb has fallen, been hit, etc."
+
+[n] "a mark on a fruit or vegetable where it is damage"
+
+
+
+02.courier /ˈkʊriər/
+
+[n] We sent the documents by courier./ Coupang, couriers to halt deliveries on Election Day.
+
+"a person or company whose job is to take packages or important papers somewhere"
+
+[n] {**BrE**}  "a person who is employed by a travel company to give advice and help to a group of tourists on holiday"
 
 
 
