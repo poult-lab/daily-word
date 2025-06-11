@@ -15414,23 +15414,19 @@ an ingenious device
 
 
 
-06.mirage [ˈmɪrɑːʒ]  [məˈrɑːʒ]
+06.knight [naɪt] 
 
-[noun] "an effect caused by hot air in deserts or on roads, that makes you think you can see sth, such as water, which is not there"
+[noun] "(in the Middle Ages) a man of high social rank who had a duty to fight for his king. Knights are often shown in pictures riding horses and wearing **armour**"
 
-[noun] His idea of love was a mirage.
-
-"a hope or wish that you cannot make happen because it is not realistic" -illusion-
+[verb] He was knighted by the Queen for his services to industry. "to give sb the rank and title of a knight"
 
 
 
-07.illusion  [ɪˈluːʒn] 
+07.armour /ˈɑː(r)mər/
 
-[noun] I have no illusions about her feelings for me (= I know the truth is that she does not love me) .
+[n]  a suit of armour.
 
-"a false idea or belief, especially about sb or about a situation"
-
-[noun] Mirrors in a room often give an illusion of space."something that seems to exist but in fact does not, or seems to be sth that it is not"
+"special metal clothing that soldiers wore in the past to protect their bodies while fighting  "
 
 
 
@@ -15462,19 +15458,7 @@ an ingenious device
 
 
 
-11.knight [naɪt] 
 
-[noun] "(in the Middle Ages) a man of high social rank who had a duty to fight for his king. Knights are often shown in pictures riding horses and wearing **armour**"
-
-[verb] He was knighted by the Queen for his services to industry. "to give sb the rank and title of a knight"
-
-
-
-12.armour /ˈɑː(r)mər/
-
-[n]  a suit of armour.
-
-"special metal clothing that soldiers wore in the past to protect their bodies while fighting  "
 
 
 
@@ -16926,15 +16910,7 @@ D[adj] entrepreneurial skills.
 
 
 
-05.enterprise /ˈentərpraɪz/
-
-[n] In general usage, **'company' and 'enterprise' can often be used interchangeably to refer to a business organization**. However, 'enterprise' can sometimes imply a larger, more complex organization, often with multiple operations or businesses under its umbrella./企业.
-
-"a company or business"
-
-
-
-06.tailor  [ˈteɪlə(r)]
+05.tailor  [ˈteɪlə(r)]
 
 [noun] "a person whose job is to make men's clothes, especially sb who makes suits, etc. for individual customers"
 
@@ -16944,7 +16920,7 @@ D[adj] entrepreneurial skills.
 
 
 
-07.customize  [ˈkʌstəmaɪz]
+06.customize  [ˈkʌstəmaɪz]
 
 [verb] You can customize the software in several ways. "to make or change sth to suit the needs of the owner"
 
@@ -27637,7 +27613,7 @@ in a fixed or stable manner"
 
 
 
-#### 2021/09/29.15
+#### 2021/09/29.14
 
 01.remunerate  [rɪˈmjuːnəreɪt]
 
@@ -27673,7 +27649,11 @@ Samsung has good policies and their employees are generally very well remunerate
 
 
 
+05.Canteen [kænˈtiːn] 
 
+[noun] {(especially BrE) } Rennie had eaten his tea in the canteen.
+
+"a place where food and drink are served in a factory, a school, etc."
 
 
 
@@ -27742,12 +27722,6 @@ The Seoul Metropolitan Government will create a dedicated fund of 100 billion wo
 As children grow up, they drift away from their parents'views.  "lose personal contact over time"
 
 
-
-15.Canteen [kænˈtiːn] 
-
-[noun] {(especially BrE) } Rennie had eaten his tea in the canteen.
-
-"a place where food and drink are served in a factory, a school, etc."
 
 
 
@@ -27875,7 +27849,11 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
+04.rioter [ˈraɪətə(r)]
 
+[noun] The policeman grabbed the rioter and twisted his arm behind his back.
+
+"troublemaker who participates in a violent disturbance of the peace"
 
 
 
@@ -27887,11 +27865,7 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-06.rioter [ˈraɪətə(r)]
 
-[noun] The policeman grabbed the rioter and twisted his arm behind his back.
-
-"troublemaker who participates in a violent disturbance of the peace"
 
 
 
@@ -27965,7 +27939,7 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-#### 2021/10/08.05
+#### 2021/10/08.06
 
 01.character  [ˈkærəktə(r)]
 
@@ -28133,7 +28107,7 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-#### 2021/10/15.02
+#### 2021/10/15.03
 
 01.dock  [dɒk]  [dɑːk]
 
@@ -28296,7 +28270,7 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-#### 2021/10/27.07
+#### 2021/10/27.08
 
 01.churn out  [tʃɜː(r)n aʊt] 
 
@@ -28492,7 +28466,7 @@ Servants are now almost extinct in modern society."no longer in existence in soc
 
 
 
-#### 2021/11/04.02
+#### 2021/11/04.03
 
 01.pet phrase  [pet freɪz] 
 
@@ -28628,7 +28602,7 @@ Servants are now almost extinct in modern society."no longer in existence in soc
 
 
 
-#### 2021/11/08.04
+#### 2021/11/08.05
 
 01.life expectancy  [ˈlaɪf ɪkspektənsi] 
 
@@ -28892,7 +28866,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-#### 2021/11/16.08
+#### 2021/11/16.09
 
 01.postpartum ['pəʊst'pɑːtəm] [ˌpoʊstˈpɑːrtəm]
 
@@ -28976,7 +28950,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-#### 2021/11/18.06
+#### 2021/11/18.07
 
 01.afflict  [əˈflɪkt] 
 
@@ -29120,7 +29094,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-#### 2021/11/21.08
+#### 2021/11/21.11
 
 01.expatriate  [ˌeksˈpætriət] 
 
@@ -29137,6 +29111,16 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 "a calm and serious manner that deserves respect"
 
 
+
+03.lamp  [læmp] 
+
+[noun] a table/desk/bicycle, etc. lamp. 
+
+"a device that uses electricity, oil or gas to produce light"
+
+[noun] an infrared/ultraviolet lamp. 
+
+"an electrical device that produces rays of heat and that is used for medical or scientific purposes"
 
 
 
@@ -29215,16 +29199,6 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 [adv] They always pay punctually.
 
 
-
-12.lamp  [læmp] 
-
-[noun] a table/desk/bicycle, etc. lamp. 
-
-"a device that uses electricity, oil or gas to produce light"
-
-[noun] an infrared/ultraviolet lamp. 
-
-"an electrical device that produces rays of heat and that is used for medical or scientific purposes"
 
 
 
@@ -29670,7 +29644,7 @@ sober up;sober sb up
 
 
 
-#### 2021/11/28.15
+#### 2021/11/28.14
 
 01.heck  [hek] 
 
@@ -29738,7 +29712,17 @@ interface/interaction/international.
 
 
 
+08.momentum /moʊˈmentəm/
 
+[n] They began to lose momentum in the second half of the game.
+
+"the ability to keep increasing or developing"
+
+[n] The vehicle gained momentum as the road dipped."a force that is gained by movement"
+
+[n] A falling object gains momentum as it falls. 
+
+"In physics, **momentum** is the mass of a moving object multiplied by its speed in a particular direction."
 
 
 
@@ -29806,17 +29790,7 @@ interface/interaction/international.
 
 
 
-15.momentum /moʊˈmentəm/
 
-[n] They began to lose momentum in the second half of the game.
-
-"the ability to keep increasing or developing"
-
-[n] The vehicle gained momentum as the road dipped."a force that is gained by movement"
-
-[n] A falling object gains momentum as it falls. 
-
-"In physics, **momentum** is the mass of a moving object multiplied by its speed in a particular direction."
 
 
 
@@ -29902,13 +29876,13 @@ interface/interaction/international.
 
 
 
-#### 12/07.02
+#### 12/07.01
 
 
 
 
 
-02.apparel  [əˈpærəl]
+01.apparel  [əˈpærəl]
 
 [noun] {especially NAmE} 
 
@@ -30017,7 +29991,7 @@ The store sells women's and children's apparel."clothing, when it is being sold 
 
 
 
-#### 12/12.05
+#### 12/12.07
 
 01.assumption  [əˈsʌmpʃn]
 
@@ -30065,6 +30039,12 @@ The store sells women's and children's apparel."clothing, when it is being sold 
 
 
 
+05.price hike
+
+[np] Samsung Elec mulls price hike of new Galaxy S22 series due to costly chipsets. 
+
+"A hike is **a sudden or large increase in prices, rates**, taxes, or quantities. [informal]"
+
 
 
 
@@ -30110,12 +30090,6 @@ hike(远足) vs excursion(远行)
 > An excursion is more broad while hiking is more specific. Hiking is walking down trails or up and down a mountain of hill. An excursion can be going on a journey anywhere, walking or driving or biking, while hiking is only waking.
 
 
-
-08.price hike
-
-[np] Samsung Elec mulls price hike of new Galaxy S22 series due to costly chipsets. 
-
-"A hike is **a sudden or large increase in prices, rates**, taxes, or quantities. [informal]"
 
 
 
@@ -30187,7 +30161,7 @@ D[adj] (BrE) a theological college . (NAmE) a theological seminary.
 
 
 
-#### 12/19.14
+#### 12/19.12
 
 01.factual [ˈfæktʃuəl] 
 
@@ -30213,7 +30187,11 @@ D[adj] (BrE) a theological college . (NAmE) a theological seminary.
 
 
 
+03.stove /stoʊv/
 
+[n] a gas/wood-burning stove. 
+
+"a piece of equipment that can burn various fuels and is used for heating rooms"
 
 
 
@@ -30285,7 +30263,11 @@ D[adj] (BrE) a theological college . (NAmE) a theological seminary.
 
 
 
+09.cannabis [ˈkænəbɪs]
 
+[noun] Amsterdam bans cannabis in its red light district.
+
+"a drug made from the dried leaves and flowers or resin of the hemp plant, which is smoked or eaten and which gives the user a feeling of being relaxed. Use of the drug is illegal in many countries."
 
 
 
@@ -30311,19 +30293,11 @@ D[adj] (BrE) a theological college . (NAmE) a theological seminary.
 
 
 
-13.cannabis [ˈkænəbɪs]
-
-[noun] Amsterdam bans cannabis in its red light district.
-
-"a drug made from the dried leaves and flowers or resin of the hemp plant, which is smoked or eaten and which gives the user a feeling of being relaxed. Use of the drug is illegal in many countries."
 
 
 
-14.stove /stoʊv/
 
-[n] a gas/wood-burning stove. 
 
-"a piece of equipment that can burn various fuels and is used for heating rooms"
 
 
 
@@ -30657,10 +30631,6 @@ Four men are being quizzed by police about the murder. "to ask sb a lot of quest
 
 
 
-### 
-
-
-
 ### 2022
 
 #### 01/02.12
@@ -30907,7 +30877,7 @@ My sister and I used to quarrel all the time."to have an angry argument or disag
 
 
 
-#### 01/11.07
+#### 01/11.06
 
 01.dementia  [dɪˈmenʃə]
 
@@ -31205,10 +31175,6 @@ D[adv] riskiness
 
 
 
-
-
-
-
 04.matriarchy  [ˈmeɪtriɑːrki] 
 
 [noun] It points out that: Firstly, matrilineal and matriarchy are two different concepts. 
@@ -31273,7 +31239,7 @@ D[adv] riskiness
 
 
 
-#### 02/13.04
+#### 02/13.05
 
 01.overnight [ˌəʊvəˈnaɪt , ˈəʊvənaɪt] 
 
@@ -31324,6 +31290,8 @@ D[adv] riskiness
 [adj] What is ‘cyber kidnapping’ and what can you do to stay safe online?
 
 "relating to or characteristic of the culture of computers, information technology, and virtual reality."
+
+
 
 #### 02/16.02
 
@@ -31813,7 +31781,7 @@ D[adv] riskiness
 
 
 
-#### 03/28.03
+#### 03/28.04
 
 01.pixelated  [ˈpɪksəleɪtɪd] 
 
@@ -31947,7 +31915,13 @@ D[adv] riskiness
 
 
 
-#### 04/16.05
+#### 04/16.04
+
+01.exploit [ɪkˈsplɔɪt , ˈeksplɔɪt] 
+
+[vt] many North Korean defector women are exploited in China.
+
+"to treat sb unfairly by making them work and not giving them much in return"
 
 
 
@@ -31977,15 +31951,9 @@ D[adv] riskiness
 
 
 
-05.exploit [ɪkˈsplɔɪt , ˈeksplɔɪt] 
-
-[vt] many North Korean defector women are exploited in China.
-
-"to treat sb unfairly by making them work and not giving them much in return"
 
 
-
-#### 04/24.02
+#### 04/24.03
 
 01.obscure  [əbˈskjʊə(r)]
 
@@ -32209,11 +32177,25 @@ D[noun] proneness to depression.
 
 
 
-#### 05/13.08
+#### 05/13.07
 
 01.expired food  [ɪkˈspaɪəd fuːd]
 
 [phrase] Foods past their prime often develop mold, bacteria, and yeast, causing them to give warning signs to your senses. 
+
+
+
+02.reversible /rɪˈvɜːrsəbl/
+
+[adj] {of clothes, materials} a reversible jacket.
+
+"that can be turned inside out and worn or used with either side showing"
+
+[adj] {(of a process, an action or a disease 步骤、行动或疾病)} 
+
+reversible kidney failure. 
+
+"that can be changed so that sth returns to its original state or situation"
 
 
 
@@ -32253,17 +32235,7 @@ D[noun] proneness to depression.
 
 
 
-08.reversible /rɪˈvɜːrsəbl/
 
-[adj] {of clothes, materials} a reversible jacket.
-
-"that can be turned inside out and worn or used with either side showing"
-
-[adj] {(of a process, an action or a disease 步骤、行动或疾病)} 
-
-reversible kidney failure. 
-
-"that can be changed so that sth returns to its original state or situation"
 
 
 
@@ -32690,7 +32662,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-#### 07/11.03
+#### 07/11.04
 
 01.beluga  [bəˈluːɡə]
 
@@ -32710,7 +32682,11 @@ The students left the classroom right after the class was over.
 
 
 
+03.symmetry /ˈsɪmətri/
 
+[n] the perfect symmetry of the garden design.
+
+"the exact match in size and shape between two halves, parts or sides of sth"
 
 
 
@@ -32720,11 +32696,7 @@ The students left the classroom right after the class was over.
 
 
 
-05.symmetry /ˈsɪmətri/
 
-[n] the perfect symmetry of the garden design.
-
-"the exact match in size and shape between two halves, parts or sides of sth"
 
 
 
@@ -40386,7 +40358,7 @@ In essence, the key difference between the two lies in their steadiness and inte
 
 
 
-#### 09/01.08
+#### 09/01.07
 
 01.attrition /əˈtrɪʃn/
 
@@ -40396,7 +40368,11 @@ In essence, the key difference between the two lies in their steadiness and inte
 
 
 
+02.priest /priːst/
 
+[n] The priest's eyes were squeezed shut against the light.
+
+"a person who is qualified to perform religious duties and ceremonies in the Roman Catholic, Anglican and Orthodox Churches"
 
 
 
@@ -40437,14 +40413,6 @@ In essence, the key difference between the two lies in their steadiness and inte
 [n] All the local clergy were asked to attend the ceremony. 
 
 "the priests or ministers of a religion, especially of the Christian Church"
-
-
-
-08.priest /priːst/
-
-[n] The priest's eyes were squeezed shut against the light.
-
-"a person who is qualified to perform religious duties and ceremonies in the Roman Catholic, Anglican and Orthodox Churches"
 
 
 
@@ -40612,25 +40580,7 @@ Valium is usually prescribed to treat anxiety. /After the nurse completed the **
 
 
 
-08.fuel /ˈfjuːəl/
 
-[n] solid fuel. "any material that produces heat or power, usually when it is burnt"
-
-[n] His remarks simply added fuel to the fire/flames of her rage."a thing that is said or done that makes sth, especially an argument, continue or get worse"
-
-[v] Uranium is used to fuel nuclear plants.
-
-"to supply sth with material that can be burnt to produce heat or power"
-
-[v] The helicopter was already fuelled (up) and ready to go.
-
-"to put petrol/gas into a vehicle"
-
-[v] Creatine is not cheap. If you're on a budget, quitting creatine can free up some extra cash that you can put towards other things, like new workout clothes or healthy snacks to fuel your workouts./
-
-KFC, with 29,000 stores and 800,000 employees globally, is one of the world’s most extensive fast-food chains, opening a new location every three and a half hours. While it originated in Salt Lake City in 1952, its rapid expansion is now significantly fueled by **its presence in China**, opening its 10,000th store in comparison to its over 4,300 locations in the United States.
-
-"to increase sth; to make sth stronger" -stoke-
 
 
 
@@ -41291,15 +41241,11 @@ On the afternoon of November 26, Representative **Jeong Hye Kyung** of the Progr
 
 #### 10/17.06
 
-01.order /ˈɔːrdər/
+01.neglected /nɪˈɡlektɪd/
 
-[n] The names are listed in alphabetical order.
+[adj] neglected children./neglected diseases. 
 
-"the way in which people or things are placed or arranged in relation to each other"
-
-[v] South Korean President Yoon Suk Yeol ordered the Ministry of Health and Welfare to significantly expand the number of medical school admissions to address the anticipated shortage of medical professionals, according to an official from the health ministry on Monday.
-
-"to use your position of authority to tell sb to do sth or say that sth must happen"
+"not receiving enough care or attention"
 
 
 
@@ -41359,11 +41305,7 @@ neglect vs ignore
 
 
 
-06.neglected /nɪˈɡlektɪd/
 
-[adj] neglected children./neglected diseases. 
-
-"not receiving enough care or attention"
 
 
 
@@ -42011,7 +41953,7 @@ D[noun] She is a designer of extraordinary **versatility**.
 
 
 
-#### 11/10.07
+#### 11/10.06
 
 01.defame /dɪˈfeɪm/
 
@@ -42021,11 +41963,9 @@ D[noun] She is a designer of extraordinary **versatility**.
 
 
 
-02.defamation /ˌdefəˈmeɪʃn/
+02.one of Russia’s most notorious penal colonies.
 
-[n] Many called it “defamation” towards the idol!
 
-"the act of damaging sb's reputation by saying or writing bad or false things about them" 
 
 
 
@@ -42063,7 +42003,7 @@ D[noun] She is a designer of extraordinary **versatility**.
 
 
 
-07.one of Russia’s most notorious penal colonies.
+
 
 
 
@@ -42905,11 +42845,11 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-#### 01/10.06
+#### 01/10.04
 
 01.refrain /rɪˈfreɪn/
 
-[verb] However, the report refrains from commenting on the energy efficiency of the two chips./Specifically, please refrain from using Times when preparing your paper with \LaTeX{}. Using a different font can be interpreted as purposely circumventing the length limitations and may lead to rejection without review.
+[verb] However, the report refrains from commenting on the energy efficiency of the two chips./Specifically, please refrain from using Times when preparing your paper with \LaTeX{}. Using a different font can be interpreted as purposely circumventing the length limitations and may lead to rejection without review./For safety reasons, there will be no public event to mark their military discharge, the agency said, asking BTS fans to refrain from visiting the locations where they will be released.
 
 "to stop yourself from doing sth, especially sth that you want to do"
 
@@ -42939,23 +42879,11 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-04.headwind /ˈhedwɪnd/
-
-[n] In contrast, companies that rely on consumer spending are likely to run into a very strong headwind.
-
-"a wind that is blowing towards a person or vehicle, so that it is blowing from the direction in which the person or vehicle is moving"
-
-
-
-05.commoner /ˈkɒmənə(r)/ /ˈkɑːmənər/
+04.commoner /ˈkɒmənə(r)/ /ˈkɑːmənər/
 
 [n] Japan’s former princess Mako begins new life as ‘commoner’ in New York.
 
 "a person who does not come from a royal or noble family"
-
-
-
-
 
 
 
@@ -50083,7 +50011,7 @@ Hun Pheap lost her husband after he drank a toxic alcoholic homebrew
 
 
 
-#### 04/11.06
+#### 04/11.03
 
 01.sell-off /ˈsel ɔːf/
 
@@ -50093,27 +50021,7 @@ Hun Pheap lost her husband after he drank a toxic alcoholic homebrew
 
 
 
-
-
-
-
-04.revive[rɪˈvaɪv] 
-
-[verb] Samsung could revive 'control tower' to become more agile[ˈædʒaɪl].
-
-"to become, or to make sb/sth become, conscious or healthy and strong again"
-
-
-
-05.vivid /'vɪvɪd/
-
-[adj] vivid memories.
-
-"producing very clear pictures in your mind"
-
-
-
-06.oscillation /ˌɑːsɪˈleɪʃn/
+02.oscillation /ˌɑːsɪˈleɪʃn/
 
 [n] the oscillation of the compass needle.
 
@@ -50126,6 +50034,18 @@ Hun Pheap lost her husband after he drank a toxic alcoholic homebrew
 [n] his oscillation, as a teenager, between science and art.
 
 "a repeated change between different feelings, types of behaviour or ideas"
+
+
+
+03.vivid /'vɪvɪd/
+
+[adj] vivid memories.
+
+"producing very clear pictures in your mind"
+
+
+
+
 
 
 
@@ -53029,7 +52949,7 @@ I've got a terrific amount of work to do."very large; very great"
 
 
 
-#### 06/02
+#### 06/02.02
 
 01.bruise /bruːz/
 
@@ -53058,4 +52978,182 @@ I've got a terrific amount of work to do."very large; very great"
 [n] {**BrE**}  "a person who is employed by a travel company to give advice and help to a group of tourists on holiday"
 
 
+
+#### 06/04.07
+
+01.snap /snæp/
+
+[adj] South Korea’s opposition party leader Lee Jae-myung was elected the new president in a snap election. 
+
+"made or done quickly and without careful thought or preparation"
+
+
+
+02.tailwind /ˈteɪlwɪnd/
+
+[n] Tailwinds for Europe.
+
+"a wind that blows from behind a moving vehicle, a runner, etc."
+
+
+
+03.headwind /ˈhedwɪnd/
+
+[n] In contrast, companies that rely on consumer spending are likely to run into a very strong headwind.
+
+"a wind that is blowing towards a person or vehicle, so that it is blowing from the direction in which the person or vehicle is moving"
+
+
+
+04.fluctuation /ˌflʌktʃuˈeɪʃn/
+
+[n] Equities are typically best for the long-term - usually defined as a period of 5-10 years - This timeframe allows retail investors to better navigate market fluctuations and potentially benefit from higher rewards over time.
+
+"the quality of being unsteady and subject to changes"
+
+
+
+05.liability /ˌlaɪəˈbɪləti/
+
+[n] The company is reported to have liabilities of nearly $90 000.
+
+"the amount of money that a person or company owes"
+
+
+
+06.repay /rɪˈpeɪ/
+
+[v] to repay a debt/loan/mortgage.  
+
+"to pay back the money that you have borrowed from sb"
+
+
+
+07.equity/ˈekwəti/
+
+[n] When you invest in an equity, you buy a share in a company and become a shareholder.
+
+"shares in a company which do not pay a fixed amount of interest"
+
+
+
+#### 06/05.04
+
+01.defamation /ˌdefəˈmeɪʃn/
+
+[n] Many called it “defamation” towards the idol!/YouTuber ordered to pay $36,000 to IVE agency over Jang Won-young defamation
+
+"the act of damaging sb's reputation by saying or writing bad or false things about them" 
+
+
+
+02.order /ˈɔːrdər/
+
+[n] The names are listed in alphabetical order.
+
+"the way in which people or things are placed or arranged in relation to each other"
+
+[v] South Korean President Yoon Suk Yeol **ordered** the Ministry of Health and Welfare to significantly expand the number of medical school admissions to address the anticipated shortage of medical professionals, according to an official from the health ministry on Monday.
+
+"to use your position of authority to tell sb to do sth or say that sth must happen"
+
+
+
+03.mirage [ˈmɪrɑːʒ]  [məˈrɑːʒ]
+
+[noun] "an effect caused by hot air in deserts or on roads, that makes you think you can see sth, such as water, which is not there"
+
+[noun] His idea of love was a mirage.
+
+"a hope or wish that you cannot make happen because it is not realistic" -illusion-
+
+
+
+04.illusion  [ɪˈluːʒn] 
+
+[noun] I have no illusions about her feelings for me (= I know the truth is that she does not love me) .
+
+"a false idea or belief, especially about sb or about a situation"
+
+[noun] Mirrors in a room often give an illusion of space."something that seems to exist but in fact does not, or seems to be sth that it is not"
+
+
+
+#### 06/06.04
+
+01.drought /draʊt/
+
+[n] London’s IPO drought deepens but could Trump’s tariffs shake things up.
+
+"a long period of time when there is little or no rain"
+
+
+
+02.proportion 
+
+[n] The proportion of kanji in Japanese writing is estimated to be around 41.38%. This means that roughly 41% of the characters used in Japanese are kanji.
+
+"The proportion of one kind of person or thing in a group is the number of people or things of that kind compared to the total number of people or things in the group."
+
+
+
+03.deepen /ˈdiːpən/
+
+[v] China consumer prices slump again, deepening deflation worries as demand stays weak.
+
+"to become worse; to make sth worse"
+
+
+
+04.revive[rɪˈvaɪv] 
+
+[verb] Samsung could revive 'control tower' to become more agile[ˈædʒaɪl].
+
+/Will new president revive Korea’s struggling film industry?
+
+"to become, or to make sb/sth become, conscious or healthy and strong again"
+
+
+
+
+
+#### 06/09
+
+01.enterprise /ˈentərpraɪz/
+
+[n] In general usage, **'company' and 'enterprise' can often be used interchangeably to refer to a business organization**. However, 'enterprise' can sometimes imply a larger, more complex organization, often with multiple operations or businesses under its umbrella./企业.
+
+"a company or business"
+
+
+
+02.entrepreneur /ˌɑːntrəprəˈnɜːr/
+
+[n] The entrepreneur at twenty-five is a different animal from the entrepreneur at fifty.
+
+"a person who makes money by starting or running businesses, especially when this involves taking financial risks"
+
+
+
+03.fuel /ˈfjuːəl/
+
+[n] solid fuel. "any material that produces heat or power, usually when it is burnt"
+
+[n] His remarks simply added fuel to the fire/flames of her rage."a thing that is said or done that makes sth, especially an argument, continue or get worse"
+
+[v] Uranium is used to fuel nuclear plants.
+
+"to supply sth with material that can be burnt to produce heat or power"
+
+[v] The helicopter was already fuelled (up) and ready to go.
+
+"to put petrol/gas into a vehicle"
+
+[v] Creatine is not cheap. If you're on a budget, quitting creatine can free up some extra cash that you can put towards other things, like new workout clothes or healthy snacks to fuel your workouts.
+
+/KFC, with 29,000 stores and 800,000 employees globally, is one of the world’s most extensive fast-food chains, opening a new location every three and a half hours. While it originated in Salt Lake City in 1952, its rapid expansion is now significantly fueled by **its presence in China**, opening its 10,000th store in comparison to its over 4,300 locations in the United States.
+
+/Seoul’s diplomatic shift expected to fuel China tourism surge.
+
+"to increase sth; to make sth stronger" -stoke-
 
