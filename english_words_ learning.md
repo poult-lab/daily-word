@@ -250,7 +250,7 @@
 
 
 
-#### 2020/01/03.33
+#### 2020/01/03.32
 
 01.enquire  [ɪnˈkwaɪə(r)]
 
@@ -388,7 +388,13 @@ fiddle about/around
 
 
 
+16.illustrate  [ˈɪləstreɪt] 
 
+[verb] {~ sth (with sth)} an illustrated textbook. "to use pictures, photographs, diagrams, etc. in a book, etc."
+
+[verb] To illustrate my point , let me tell you a little story. "to make the meaning of sth clearer by using examples, pictures, etc."
+
+[verb] The incident illustrates the need for better security measures. "to show that sth is true or that a situation exists" -demonstrate [ˈdemənstreɪt] -
 
 
 
@@ -431,6 +437,12 @@ fiddle about/around
 [verb] I spent all morning cleaning and tidying. "to make sth look neat by putting things in the place where they belong"
 
 
+
+21.contraceptive /ˌkɑːntrəˈseptɪv/
+
+[n] oral contraceptives.
+
+"a drug, device or practice used to prevent a woman becoming pregnant"
 
 
 
@@ -543,21 +555,9 @@ Pilling grade evaluation of fabric is an important index to assess fabric qualit
 
 
 
-33.contraceptive /ˌkɑːntrəˈseptɪv/
-
-[n] oral contraceptives.
-
-"a drug, device or practice used to prevent a woman becoming pregnant"
 
 
 
-34.illustrate  [ˈɪləstreɪt] 
-
-[verb] {~ sth (with sth)} an illustrated textbook. "to use pictures, photographs, diagrams, etc. in a book, etc."
-
-[verb] To illustrate my point , let me tell you a little story. "to make the meaning of sth clearer by using examples, pictures, etc."
-
-[verb] The incident illustrates the need for better security measures. "to show that sth is true or that a situation exists" -demonstrate [ˈdemənstreɪt] -
 
 
 
@@ -1002,7 +1002,7 @@ D[adv] She kept them plentifully supplied with gossip [ˈɡɒsɪp]  [ˈɡɑːsɪ
 
   
 
-#### 2020/01/08.43
+#### 2020/01/08.40
 
 01.capable   [ˈkeɪpəbl]   
 
@@ -1225,6 +1225,32 @@ The court sustained his claim that the contract was illegal. "to decide that a c
 
 
 
+23.shift [ʃɪft]
+
+[noun]  a dramatic shift in public opinion."a change in position or direction"
+
+[verb] The action of the novel shifts from Paris to London. "to move, or move sth, from one position or place to another"
+
+
+
+24.evolve  [iˈvɒlv]  [iˈvɑːlv]
+
+[verb] {~ (sth) (from sth) (into sth)} The idea evolved from a drawing I discovered in the attic.
+
+"to develop gradually, especially from a simple to a more complicated form; to develop sth in this way"
+
+[v] The three species evolved from a single ancestor.
+
+"to develop over time, often many generations, into forms that are better adapted to survive changes in their environment"
+
+
+
+25.evolutionary /ˌiːvəˈluːʃəneri/
+
+[adj] evolutionary theory.
+
+"connected with evolution ; connected with gradual development and change"
+
 
 
 
@@ -1354,32 +1380,6 @@ You can measure economic volatility in a variety of ways.
 "that can be used for several different purposes"
 
 
-
-41.shift [ʃɪft]
-
-[noun]  a dramatic shift in public opinion."a change in position or direction"
-
-[verb] The action of the novel shifts from Paris to London. "to move, or move sth, from one position or place to another"
-
-
-
-42.evolve  [iˈvɒlv]  [iˈvɑːlv]
-
-[verb] {~ (sth) (from sth) (into sth)} The idea evolved from a drawing I discovered in the attic.
-
-"to develop gradually, especially from a simple to a more complicated form; to develop sth in this way"
-
-[v] The three species evolved from a single ancestor.
-
-"to develop over time, often many generations, into forms that are better adapted to survive changes in their environment"
-
-
-
-43.evolutionary /ˌiːvəˈluːʃəneri/
-
-[adj] evolutionary theory.
-
-"connected with evolution ; connected with gradual development and change"
 
 
 
@@ -7124,7 +7124,7 @@ Careful consideration should be given to issues of health and safety. "the act o
 
 
 
-#### 2020/06/26.03
+#### 2020/06/26.02
 
 01.atomic bomb  [əˈtɒmɪk bɒm]
 
@@ -7136,11 +7136,7 @@ bachelorette [ˌbætʃələˈret] "没有结婚的女孩子"
 
 
 
-03.cruel  [ˈkruːəl] 
 
-[adj] I can't stand people who are cruel to animals.{~ (to sb/sth)}
-
-[adj] a cruel punishment/joke."causing pain or suffering"
 
 
 
@@ -14069,7 +14065,7 @@ In summary, "region" refers to a larger and more general area that is defined by
 
 
 
-#### 2020/10/18.13
+#### 2020/10/18.12
 
 01.pocket money/tip money/table money/cash money
 
@@ -14181,11 +14177,7 @@ A special bond unites our two countries.
 
 
 
-
-
-
-
-13.cactus  [ˈkæktəs]
+12.cactus  [ˈkæktəs]
 
 [noun] Cactus plants are desert plants, meaning they grow in arid conditions. 
 
@@ -30341,9 +30333,15 @@ D[adj] (BrE) a theological college . (NAmE) a theological seminary.
 
 
 
-04.bound for [baʊnd fɔː(r)] 
+04.assault  [əˈsɔːlt] 
 
-[adj/verb] Korean women's curling team bound for Beijing Winter Olympics.
+[verb]  I have never said or written that anyone sexually [ˈsɛksjʊəli]  assaulted me. 
+
+"to attack sb violently, especially when this is a crime"
+
+[noun]  Chinese tennis star Peng Shuai has denied making an accusation of sexual assault, in her first media interview since alleging a top Chinese leader had coerced her to have sex.
+
+"the crime of attacking sb physically"
 
 
 
@@ -30363,15 +30361,7 @@ D[adj] (BrE) a theological college . (NAmE) a theological seminary.
 
 
 
-07.assault  [əˈsɔːlt] 
 
-[verb]  I have never said or written that anyone sexually [ˈsɛksjʊəli]  assaulted me. 
-
-"to attack sb violently, especially when this is a crime"
-
-[noun]  Chinese tennis star Peng Shuai has denied making an accusation of sexual assault, in her first media interview since alleging a top Chinese leader had coerced her to have sex.
-
-"the crime of attacking sb physically"
 
 
 
@@ -31377,7 +31367,7 @@ D[adv] riskiness
 
 
 
-#### 02/20.02
+#### 02/20.01
 
 01.sequential [sɪˈkwenʃl]
 
@@ -31385,15 +31375,7 @@ D[adv] riskiness
 
 
 
-02.tenure  [ˈtenjə(r)]
 
-[noun] his four-year tenure as President.
-
-"the period of time when sb holds an important job, especially a political one; the act of holding an important job"
-
-[noun] It's still extremely difficult to get tenure./tenure track.
-
-"the right to stay permanently in your job, especially as a teacher at a university"
 
 
 
@@ -37136,7 +37118,7 @@ D[noun]  the attractiveness of travelling abroad.
 
 
 
-#### 04/13.09
+#### 04/13.08
 
 01.resemblance /rɪˈzembləns/
 
@@ -37224,15 +37206,11 @@ D[noun]  the attractiveness of travelling abroad.
 
 
 
-07.intriguing /ɪnˈtriːɡɪŋ/
-
-[adj] These discoveries raise intriguing questions.
-
- "very interesting **because of being unusual** or not having an **obvious** answer"
 
 
 
-08.wig /wɪɡ/
+
+07.wig /wɪɡ/
 
 [noun] I **couldn't help**  <ins>`noticing`</ins>  she was wearing a wig.
 
@@ -37240,7 +37218,7 @@ D[noun]  the attractiveness of travelling abroad.
 
 
 
-09.hairpiece /ˈherpiːs/
+08.hairpiece /ˈherpiːs/
 
 [n] "a piece of false hair worn to make your own hair look longer or thicker"
 
@@ -40000,17 +39978,13 @@ It’s been a good start to life for the second season of D.P. on Netflix. Howev
 
 
 
-#### 08/17.07
+#### 08/17.06
 
-01.capsule /ˈkæpsjuːl/ /ˈkæpsl/
+01.safety seal /ˈseɪfti siːl/
 
-[noun] Serving size: 3 Capsules for men, 2 Capsules for women.
+[phrase] Do not use if outer safety seal is broken or missing.
 
-"a small container which has a measured amount of a medicine inside and which dissolves when you swallow it"
-
-[noun] A Russian space capsule is currently orbiting the Earth.
-
-"A space **capsule** is the part of a spacecraft in which people travel, and which often separates from the main rocket."
+<img src="./images/safety_seal.jpg" alt="safety_seal" style="zoom:33%;" />
 
 
 
@@ -40076,11 +40050,7 @@ It’s been a good start to life for the second season of D.P. on Netflix. Howev
 
 
 
-07.safety seal /ˈseɪfti siːl/
 
-[phrase] Do not use if outer safety seal is broken or missing.
-
-<img src="./images/safety_seal.jpg" alt="safety_seal" style="zoom:33%;" />
 
 
 
@@ -44697,7 +44667,7 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 
 
-#### 06/07.02
+#### 06/07.01
 
 01.pragmatism /ˈpræɡmətɪzəm/
 
@@ -44711,7 +44681,7 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 
 
-#### 06/09.04
+#### 06/09.03
 
 01.avid /ˈævɪd/
 
@@ -44740,21 +44710,13 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 
 
-02.brutality /bruːˈtæləti/
-
-[n] He accused the police of using unwarranted brutality. 
-
-"**Brutality** is cruel and violent treatment or behaviour. A **brutality** is an instance of cruel and violent treatment or behaviour."
-
-
-
-03.encampment /ɪnˈkæmpmənt/
+02.encampment /ɪnˈkæmpmənt/
 
 [n] a military encampment "a group of tents, huts , etc. where people live together, usually for only a short period of time"
 
 
 
-04.enthusiasm  [ɪnˈθjuːziæzəm] "热忱"
+03.enthusiasm  [ɪnˈθjuːziæzəm] "热忱"
 
 I can't say I share your enthusiasm for the idea."a strong feeling of excitement and interest in sth and a desire to become involved in it"
 
@@ -52979,7 +52941,7 @@ I've got a terrific amount of work to do."very large; very great"
 
 
 
-#### 06/04.07
+#### 06/04.06
 
 01.snap /snæp/
 
@@ -53005,11 +52967,11 @@ I've got a terrific amount of work to do."very large; very great"
 
 
 
-04.fluctuation /ˌflʌktʃuˈeɪʃn/
+04.equity/ˈekwəti/
 
-[n] Equities are typically best for the long-term - usually defined as a period of 5-10 years - This timeframe allows retail investors to better navigate market fluctuations and potentially benefit from higher rewards over time.
+[n] When you invest in an equity, you buy a share in a company and become a shareholder.
 
-"the quality of being unsteady and subject to changes"
+"shares in a company which do not pay a fixed amount of interest"
 
 
 
@@ -53028,12 +52990,6 @@ I've got a terrific amount of work to do."very large; very great"
 "to pay back the money that you have borrowed from sb"
 
 
-
-07.equity/ˈekwəti/
-
-[n] When you invest in an equity, you buy a share in a company and become a shareholder.
-
-"shares in a company which do not pay a fixed amount of interest"
 
 
 
@@ -53117,7 +53073,7 @@ I've got a terrific amount of work to do."very large; very great"
 
 
 
-#### 06/09
+#### 06/09.03
 
 01.enterprise /ˈentərpraɪz/
 
@@ -53156,4 +53112,272 @@ I've got a terrific amount of work to do."very large; very great"
 /Seoul’s diplomatic shift expected to fuel China tourism surge.
 
 "to increase sth; to make sth stronger" -stoke-
+
+
+
+#### 06/12.09
+
+01.looter /ˈluːtər/
+
+[n]  Several stores in the downtown Los Angeles area were hit by looters, and several people were arrested as the unrest following[ days of anti-ICE protests](https://abc7.com/live-updates/tensions-flare-downtown-la-anti-ice-protesters-clash-agents-live-updates/16692645/) continued overnight, authorities said. "A looter is a person who steals things from shops or houses, for example during a war or riot."
+
+
+
+02.loot /luːt/
+
+[v] Video shows aftermath of stores looted, vandalized during downtown LA protest.
+
+"to steal things from shops/stores or buildings after a riot , fire, etc."
+
+
+
+03.unrest /ʌnˈrest/
+
+[n] Arrests made after stores looted amid continued unrest in downtown Los Angeles. 
+
+"a political situation in which people are angry and likely to protest or fight"
+
+
+
+04.tenure  [ˈtenjə(r)]
+
+[noun] his four-year tenure as President./Apple reached a $3 trillion market cap under the tenure of Tim Cook, who has been the CEO since 2011. Specifically, Apple became the first US company to hit $3 trillion in market value on January 3, 2022. 
+
+"the period of time when sb holds an important job, especially a political one; the act of holding an important job"
+
+[noun] It's still extremely difficult to get tenure./tenure track.
+
+"the right to stay permanently in your job, especially as a teacher at a university"
+
+
+
+05.brutality /bruːˈtæləti/
+
+[n] He accused the police of using unwarranted brutality. 
+
+"**Brutality** is cruel and violent treatment or behaviour. A **brutality** is an instance of cruel and violent treatment or behaviour."
+
+
+
+06.cruel  [ˈkruːəl] 
+
+[adj] I can't stand people who are cruel to animals.{~ (to sb/sth)}
+
+[adj] a cruel punishment/joke."causing pain or suffering"
+
+
+
+> If someone **hurts you without caring**, they might be **brutal**.
+>  If someone **hurts you and enjoys it**, they are **cruel**.
+
+
+
+07.intriguing /ɪnˈtriːɡɪŋ/
+
+[adj] These discoveries raise intriguing questions./bill said musk is intriguing.
+
+ "very interesting **because of being unusual** or not having an **obvious** answer"
+
+
+
+| Word        | Strength | Implies Mystery? | Use When...                      |
+| ----------- | -------- | ---------------- | -------------------------------- |
+| Interesting | Medium   | No               | Something catches your attention |
+| Intriguing  | Stronger | Often Yes        | You're deeply curious or puzzled |
+
+
+
+08.halo  /ˈheɪloʊ/
+
+[n] Amongst Beyoncé's expansive catalog, "Halo" is easily one of her most iconic songs. Today, the **2009 single is her most-streamed song on Spotify; it was her first video to reach one billion views on YouTube**; and it helped her set one of her GRAMMY records in 2010.
+
+"(in paintings, etc.) a circle of light shown around or above the head of a holy person"
+
+
+
+09.catalog /ˈkætəlɔːɡ/
+
+[n] "a complete list of items, typically one in alphabetical or other systematic order."
+
+
+
+#### 06/13.05
+
+01.reconcile /ˈrekənsaɪl/
+
+[v] *Trump says he's open to reconciling with Elon Musk* over 'big, beautiful bill' feud.
+
+"to make people become friends again after an argument or a disagreement"
+
+
+
+02.feud /fjuːd/
+
+[n] a long-running feud between the two artists.
+
+"an angry and bitter argument between two people or groups of people that continues over a long period of time"
+
+
+
+03.reconciliation /ˌrekənsɪliˈeɪʃn/
+
+[n] Trump sees possible reconciliation with Elon Musk.
+
+"an end to a disagreement and the start of a good relationship again"
+
+
+
+04.bound for [baʊnd fɔː(r)] 
+
+[adj/verb] Korean women's curling team bound for Beijing Winter Olympics./The Boeing 787 Dreamliner, carrying 230 passengers and 12 crew members, was *bound* for *London* when it *crashed* shortly after takeoff on Thursday.
+
+"travelling, or ready to travel, in a particular direction or to a particular place"
+
+
+
+05.somewhere-bound
+
+[] One British man, who was a passenger on the *London*-*bound flight*, survived the *crash* in Ahmedabad, western India.
+
+""Somewhere bound" means that something, like a person or object, is traveling to or headed towards a particular place."
+
+
+
+
+
+#### 06/16.03
+
+01.defrost /ˌdiːˈfrɔːst/
+
+[v] Make sure you defrost the chicken completely before cooking.
+
+"to become or make sth warmer, especially food, so that it is no longer frozen"
+
+[v]  Defrost the fridge regularly so that it works at maximum efficiency.
+
+"when you defrost a fridge/refrigerator or freezer , or when it defrosts , you remove the ice from it"
+
+
+
+02.offender /əˈfendər/
+
+[n] Number of drug offenders surpasses 20,000 for 2nd straight year. 
+
+"a person who commits a crime"
+
+
+
+03.mania /ˈmeɪniə/
+
+[n] *Labubu mania has taken over social media*, after Lisa from BLACKPINK first posted her love for the adorable toys. 
+
+"an extremely strong desire or enthusiasm for sth, often shared by a lot of people at the same time"  -craze-
+
+
+
+#### 06/17.02
+
+01.faze /feɪz/
+
+[v] He looked as if nothing could faze him.
+
+"to make you feel confused or shocked, so that you do not know what to do" -disconcert-
+
+
+
+02.unfazed /ʌnˈfeɪzd/
+
+[adj] CNBC Daily Open: The Israel-Iran conflict continues but markets seem unfazed.
+
+"not worried or surprised by sth unexpected that happens"
+
+
+
+#### 06/18.01
+
+01.roaring /ˈrɔːrɪŋ/
+
+[adj] The “Roaring 20s” of visual recognition began with the introduction of Vision Transformers (ViTs), which quickly superseded ConvNets as the state-of-the-art image classification model.
+
+"making a continuous loud deep noise"
+
+
+
+#### 06/20
+
+01.fluctuation /ˌflʌktʃuˈeɪʃn/
+
+[n] Equities are typically best for the long-term - usually defined as a period of 5-10 years - This timeframe allows retail investors to better navigate market fluctuations and potentially benefit from higher rewards over time./(+0.0%, −3 img/s) by adjusting the CUDA implementation of selective scan to accommodate float16 input and float32 output. This remarkably enhances the training efficiency (throughput from 165 to 184), despite slight speed fluctuation at test time.
+
+"the quality of being unsteady and subject to changes"
+
+
+
+02.rake  /reɪk/
+
+[v] A Chinese entrepreneur raked in $7.65 million after streaming using an interactive digital avatar.
+
+"to earn a lot of money, especially when it is done **easily**"
+
+[v] The leaves had been raked into a pile.
+
+"to pull a rake over a surface in order to make it level or to remove sth"
+
+
+
+03.pile /paɪl/
+
+[n] a pile of books/clothes/bricks./"Don’t take from my pile" Tony Stark 
+
+"a number of things that have been placed on top of each other"
+
+[v] She piled the boxes one on top of the other .
+
+"to put things one on top of another; to form a pile"
+
+
+
+04.ate into 
+
+Livestreaming generated so many sales on Douyin last year that the app surpassed traditional e-commerce company [JD.com](https://www.cnbc.com/quotes/JD/) to become China’s second-largest e-commerce platform — and ate into the market share of lead player [Alibaba](https://www.cnbc.com/quotes/BABA/), according to [a report from Worldpanel and Bain & Company last week](https://www.bain.com/insights/china-shopper-report-2025-volume-1/). Both JD.com and Alibaba’s Taobao also offer livestreaming sales portals.
+
+
+
+05.dazed /deɪzd/
+
+[adj] “The digital human effect has scared me ... I’m a bit dazed,” he [told his 1.7 million followers](https://weibo.com/7762107285/PwI3JihXq?pagetype=profilefeed) on social media platform Weibo, according to a CNBC translation.
+
+"unable to think clearly, especially because of a shock or because you have been hit on the head"
+
+
+
+06.skeptical /ˈskeptɪkl/
+
+[adj] “We have always been skeptical about digital people livestreaming,” Wu said, noting the company had tried out various kinds of digital humans over the years.
+
+"having doubts that a claim or statement is true or that sth will happen"
+
+
+
+07.mangle /ˈmæŋɡl/
+
+[v] His hand was mangled in the machine. 
+
+"to crush or twist sth so that it is badly damaged"
+
+
+
+08.capsule /ˈkæpsjuːl/ /ˈkæpsl/
+
+[noun] Serving size: 3 Capsules for men, 2 Capsules for women.
+
+"a small container which has a measured amount of a medicine inside and which dissolves when you swallow it"
+
+[noun] A Russian space capsule is currently orbiting the Earth.
+
+"A space **capsule** is the part of a spacecraft in which people travel, and which often separates from the main rocket."
+
+
+
+
 
