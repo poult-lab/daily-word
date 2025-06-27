@@ -8080,14 +8080,6 @@ D[noun] total/temporary/partial blindness.
 
 
 
-14.metabolism /məˈtæbəlɪzəm/
-
-[n] The body's metabolism is slowed down by extreme cold."新陈代谢"
-
-"the chemical processes in living things that change food, etc. into energy and materials for growth"
-
-
-
 #### 2020/08/04.08
 
 01.counsel [ˈkaʊnsl]
@@ -18168,7 +18160,21 @@ D[noun]  Their age can be determined by extrapolation from their growth rate.
 
 
 
+04.sublease [ˌsʌbˈliːs]
 
+[verb] The lessee may sublease the leased premises with the consent of the lessor in accordance with these Procedures. "a lease from one lessee to another"
+
+
+
+05.lease  [liːs]
+
+[noun] to take out a lease on a house. / I have signed lease.
+
+"a legal agreement that allows you to use a building, a piece of equipment or some land for a period of time, usually in return for rent"
+
+[verb]{~ sth (from sb) | ~ sth (out) (to sb)}  They lease the land from a local farmer. "to use or let sb use sth, especially property or equipment, in exchange for rent or a regular payment"
+
+[phrasl] leasing agents.
 
 
 
@@ -18212,8 +18218,6 @@ D[adv] Please reply as soon as is practicably possible.
 
 
 
-
-
 10.upfront  [ˌʌpˈfrʌnt]
 
 [adj] {~ (about sth)} He's been upfront about his intentions since the beginning. "not trying to hide what you think or do" -honest,frank-
@@ -18239,6 +18243,14 @@ D[adv] Please reply as soon as is practicably possible.
 D[adv] The property was owned communally.
 
 
+
+13.liberal
+
+[adj] liberal attitudes/views/opinions.
+
+"willing to understand and respect other people's behaviour, opinions, etc., especially when they are different from your own; believing people should be able to choose how they behave"
+
+[noun] "a member of the British Liberal Party in the past, or of a Liberal Party in another country"
 
 
 
@@ -18312,32 +18324,6 @@ We got a good bang for our buck. " is an idiom meaning the worth of one's money 
 
 
 
-23.liberal
-
-[adj] liberal attitudes/views/opinions.
-
-"willing to understand and respect other people's behaviour, opinions, etc., especially when they are different from your own; believing people should be able to choose how they behave"
-
-[noun] "a member of the British Liberal Party in the past, or of a Liberal Party in another country"
-
- 
-
-24.lease  [liːs]
-
-[noun] to take out a lease on a house. / I have signed lease.
-
-"a legal agreement that allows you to use a building, a piece of equipment or some land for a period of time, usually in return for rent"
-
-[verb]{~ sth (from sb) | ~ sth (out) (to sb)}  They lease the land from a local farmer. "to use or let sb use sth, especially property or equipment, in exchange for rent or a regular payment"
-
-[phrasl] leasing agents.
-
-
-
-25.sublease [ˌsʌbˈliːs]
-
-[verb] The lessee may sublease the leased premises with the consent of the lessor in accordance with these Procedures. "a lease from one lessee to another"
-
 
 
 #### 20210119.06
@@ -18396,7 +18382,7 @@ D[adv] a very efficiently organized event.
 
 
 
-#### 2021/01/20.17
+#### 2021/01/20.15
 
 01.Bed of Nails  [bed ɒv neɪlz] 
 
@@ -18472,7 +18458,20 @@ D[adv] a very efficiently organized event.
 
 
 
+10.considerable [kənˈsɪdərəbl] 
 
+[adj] The project wasted a considerable amount of time and money. "great in amount, size, importance, etc." -significant-
+
+
+
+11.pest  [pest] 
+
+[noun]  He recommends using other ways to battle an infestation, such as animal services or pest control.⁠
+⁠ "an insect or animal that destroys plants, food, etc."
+
+[noun] {informal} That child is being a real pest.
+
+"an annoying person or thing"
 
 
 
@@ -18512,20 +18511,7 @@ D[noun] a period of economic stagnation.
 
 
 
-16.considerable [kənˈsɪdərəbl] 
 
-[adj] The project wasted a considerable amount of time and money. "great in amount, size, importance, etc." -significant-
-
-
-
-17.pest  [pest] 
-
-[noun]  He recommends using other ways to battle an infestation, such as animal services or pest control.⁠
-⁠ "an insect or animal that destroys plants, food, etc."
-
-[noun] {informal} That child is being a real pest.
-
-"an annoying person or thing"
 
 
 
@@ -18651,10 +18637,6 @@ He had a heart tattooed on his shoulder/His shoulder was tattooed with a heart.
 
 
 
-
-
-
-
 13.balloon  [bəˈluːn]
 
 [noun] to blow up/burst/pop a balloon. 
@@ -18703,7 +18685,7 @@ You think I did it deliberately, but I assure you (that) I did not.
 
 
 
-#### 20210127.16
+#### 20210127.15
 
 01.rebuttal  [rɪˈbʌtl]
 
@@ -18735,7 +18717,15 @@ D[noun] pharmacological research.
 
 
 
+05.rehearse  [rɪˈhɜː(r)s]
 
+[verb] {~ (for sth)} We were given only two weeks to rehearse. 
+
+"to practise or make people practise a play, piece of music, etc. in preparation for a public performance"
+
+[verb] She walked along rehearsing her excuse for being late. 
+
+"to prepare in your mind or practise privately what you are going to do or say to sb"
 
 
 
@@ -18840,16 +18830,6 @@ D[noun] pharmacological research.
 "to succeed in finding the meaning of sth that is difficult to read or understand"
 
 
-
-16.rehearse  [rɪˈhɜː(r)s]
-
-[verb] {~ (for sth)} We were given only two weeks to rehearse. 
-
-"to practise or make people practise a play, piece of music, etc. in preparation for a public performance"
-
-[verb] She walked along rehearsing her excuse for being late. 
-
-"to prepare in your mind or practise privately what you are going to do or say to sb"
 
 
 
@@ -19005,10 +18985,6 @@ D[noun] pharmacological research.
 03.cryptanalysis
 
 [n] "the science of analyzing and deciphering codes and ciphers and cryptograms"
-
-
-
-
 
 
 
@@ -19224,7 +19200,15 @@ D[difference]
 
  
 
+16.vessel /ˈvesl/
 
+[n] ocean-going vessels
+
+"a large ship or boat"
+
+[n] Red wine can help to dilate blood vessels.
+
+"a tube that carries blood through the body of a person or an animal, or liquid through the parts of a plant"
 
 
 
@@ -19234,15 +19218,7 @@ D[difference]
 
 
 
-18.vessel /ˈvesl/
 
-[n] ocean-going vessels
-
-"a large ship or boat"
-
-[n] Red wine can help to dilate blood vessels.
-
-"a tube that carries blood through the body of a person or an animal, or liquid through the parts of a plant"
 
 
 
@@ -19260,7 +19236,11 @@ D[difference]
 
 
 
+02.mannequin [ˈmænɪkɪn]
 
+[noun] {old-fashioned} a person whose job is to wear and display new styles of clothes. -model-
+
+[noun] "a model of a human body, used for displaying clothes in shops/stores"
 
 
 
@@ -19350,11 +19330,7 @@ A lamp was suspended from the ceiling."to hang sth from sth else"
 
 
 
-11.mannequin [ˈmænɪkɪn]
 
-[noun] {old-fashioned} a person whose job is to wear and display new styles of clothes. -model-
-
-[noun] "a model of a human body, used for displaying clothes in shops/stores"
 
 
 
@@ -19726,13 +19702,15 @@ The hunt is on for a suitable candidate.
 
 
 
-02.whisper [ˈwɪspə(r)] 
+02.chase [tʃeɪs]
 
-[verb]  Don't you know it's rude to whisper?
+[verb] My dog likes chasing rabbits. 
 
-"to speak very quietly to sb so that other people cannot hear what you are saying" -murmur-
+"to run, drive, etc. after sb/sth in order to catch them"
 
-[noun] They spoke in whispers . "a low quiet voice or the sound it makes"
+[noun] The thieves were caught by police after a short chase.
+
+"an act of running or driving after sb/sth in order to catch them"
 
 
 
@@ -19744,15 +19722,7 @@ The hunt is on for a suitable candidate.
 
 
 
-04.chase [tʃeɪs]
 
-[verb] My dog likes chasing rabbits. 
-
-"to run, drive, etc. after sb/sth in order to catch them"
-
-[noun] The thieves were caught by police after a short chase.
-
-"an act of running or driving after sb/sth in order to catch them"
 
 
 
@@ -20088,7 +20058,7 @@ I have been fortunate enough to visit many parts of the world as a lecturer.
 
 
 
-#### 20210214.07
+#### 20210214.06
 
 01.assembly  [əˈsembli]
 
@@ -20124,7 +20094,9 @@ I have been fortunate enough to visit many parts of the world as a lecturer.
 
 
 
+05.civilian  [səˈvɪliən]
 
+[noun] "a person who is not a member of the armed forces or the police"
 
 
 
@@ -20134,9 +20106,7 @@ I have been fortunate enough to visit many parts of the world as a lecturer.
 
 
 
-07.civilian  [səˈvɪliən]
 
-[noun] "a person who is not a member of the armed forces or the police"
 
 
 
@@ -20326,10 +20296,6 @@ D[adv] pungently.
 01.lunar [ˈluːnə(r)] 
 
 [adj] a lunar eclipse/landscape. "connected with the moon"
-
-
-
-
 
 
 
@@ -21103,7 +21069,7 @@ With youth unemployment at a record, the Communist Party is trying to reset expe
 
 
 
-#### 20210307.10
+#### 20210307.12
 
 01.panic  [ˈpænɪk]
 
@@ -21641,7 +21607,7 @@ In summary, a resort provides a luxurious and comfortable vacation experience wi
 
 
 
-#### 20210314.22
+#### 20210314.21
 
 01.magnificent  [mæɡˈnɪfɪsnt] 
 
@@ -21704,6 +21670,18 @@ In summary, a resort provides a luxurious and comfortable vacation experience wi
 [adj] "too active and only able to keep quiet and still for short periods"
 
 
+
+09.creep into [kriːp ˈɪntə]
+
+The shadow of doubt began to creep into her mind. 
+
+
+
+10.creepy  [ˈkriːpi] 
+
+[adj] a creepy ghost story. "causing an unpleasant feeling of fear or slight horror" -scary-
+
+[adj] What a creepy coincidence. "strange in a way that makes you feel nervous"
 
 
 
@@ -21781,17 +21759,11 @@ In summary, a resort provides a luxurious and comfortable vacation experience wi
 
 
 
-22.creepy  [ˈkriːpi] 
-
-[adj] a creepy ghost story. "causing an unpleasant feeling of fear or slight horror" -scary-
-
-[adj] What a creepy coincidence. "strange in a way that makes you feel nervous"
 
 
 
-23.creep into [kriːp ˈɪntə]
 
-The shadow of doubt began to creep into her mind. 
+
 
 
 
@@ -21817,7 +21789,7 @@ The shadow of doubt began to creep into her mind.
 
 
 
-#### 20210316.03
+#### 
 
 
 
@@ -21833,7 +21805,7 @@ The shadow of doubt began to creep into her mind.
 
 
 
-#### 20210318.07
+#### 20210318.06
 
 01.stash  [stæʃ] 
 
@@ -21871,7 +21843,15 @@ The shadow of doubt began to creep into her mind.
 
 
 
+05.raid /reɪd/
 
+[noun] {~ (on sth)} They carried out a bombing raid on enemy bases./Gaza's al-Shifa hospital in ruins after two-week Israeli raid.
+
+"a **short surprise** **attack** on an enemy by soldiers, ships or aircraft"
+
+[verb] The Financial Supervisory Service (FSS) raided the office of Kakao founder Kim Beom-su, Thursday, for his alleged involvement in stock manipulation./Incheon police agency raided over death of actor Lee Sun-kyun.
+
+"to visit a person or place without warning to look for criminals, illegal goods, drugs, etc."
 
 
 
@@ -21883,15 +21863,7 @@ The shadow of doubt began to creep into her mind.
 
 
 
-07.raid /reɪd/
 
-[noun] {~ (on sth)} They carried out a bombing raid on enemy bases./Gaza's al-Shifa hospital in ruins after two-week Israeli raid.
-
-"a **short surprise** **attack** on an enemy by soldiers, ships or aircraft"
-
-[verb] The Financial Supervisory Service (FSS) raided the office of Kakao founder Kim Beom-su, Thursday, for his alleged involvement in stock manipulation./Incheon police agency raided over death of actor Lee Sun-kyun.
-
-"to visit a person or place without warning to look for criminals, illegal goods, drugs, etc."
 
 
 
@@ -28616,17 +28588,7 @@ Servants are now almost extinct in modern society."no longer in existence in soc
 
 
 
- 04.severance  [ˈsevərəns] 
-
-[noun] the severance of diplomatic relations. "the act of ending a connection or relationship"
-
-[noun] 500 bankers last month opted for handsome severance pay over keeping their job.
-
-"the act of ending sb's work contract [ˈkɒntrækt , kənˈtrækt] "
-
-
-
-05.opt  [ɒpt] [ɑːpt]
+04.opt  [ɒpt] [ɑːpt]
 
 [vi] {~ (for/against sth)}  After graduating she opted for a career in music.
 
@@ -53303,7 +53265,7 @@ I've got a terrific amount of work to do."very large; very great"
 
 
 
-#### 06/20
+#### 06/20.08
 
 01.fluctuation /ˌflʌktʃuˈeɪʃn/
 
@@ -53378,6 +53340,155 @@ Livestreaming generated so many sales on Douyin last year that the app surpassed
 "A space **capsule** is the part of a spacecraft in which people travel, and which often separates from the main rocket."
 
 
+
+#### 06/22.01
+
+01.migraine /ˈmaɪɡreɪn/
+
+[n] severe migraine.
+
+"a very severe type of headache which often makes a person feel sick and have difficulty in seeing"
+
+
+
+> migraine vs headache
+>
+> A migraine is a neurological condition that often, but not always, involves a **severe headache**, while a headache is a more general term for pain in the head.
+
+
+
+#### 06/23.08
+
+01.obliterate /əˈblɪtəreɪt/
+
+[vt] "Iran's nuclear enrichment facilities have been completely and totally obliterated," Trump said. "Iran, the bully of the Middle East, must now make peace. If they do not, future attacks would be far greater and a lot easier."
+
+"to remove all signs of sth, either by destroying or covering it completely"
+
+
+
+02.severance  [ˈsevərəns] 
+
+[noun] the severance of diplomatic relations. "the act of ending a connection or relationship"
+
+[noun] 500 bankers last month opted for handsome severance pay over keeping their job.
+
+"the act of ending sb's work contract [ˈkɒntrækt , kənˈtrækt] "
+
+
+
+03.spectacular /spekˈtækjələr/
+
+[adj] Trump calls US strikes on Iran's nuclear facilities 'spectacular success'
+
+"very impressive" -breathtaking-
+
+
+
+04.autism /ˈɔːtɪzəm/
+
+[n] *BTS Suga donates 5 billion won* to establish autism treatment center in Korea Severance Hospital. 
+
+"a mental condition in which a person is unable to communicate or form relationships with others"
+
+
+
+05.provoke /prəˈvoʊk/
+
+[v] “I don't know who’s paying you to provoke me, but I’m not the one!” he shouted at the paparazzi pestering him on Father's Day.
+
+ "to say or do sth that you know will annoy sb so that they react in an angry way" -goad-
+
+[v] The announcement provoked a storm of protest.
+
+"to cause a particular reaction or have a particular effect"
+
+
+
+06.paparazzo /ˌpæpəˈrætsoʊ/
+
+[n] Paparazzi are freelance photographers who specialize in taking candid, unposed photos of celebrities, often selling these images to media outlets.
+
+"a photographer who follows famous people around in order to get interesting photographs of them to sell to a newspaper"
+
+
+
+07.pester /ˈpestər/
+
+[v]{~ sb (for/with sth)} He has been pestering her with phone calls for over a week.
+
+ "to annoy sb, especially by asking them sth many times"
+
+
+
+08.badger /ˈbædʒər/
+
+[n] "an animal with grey fur and wide black and white lines on its head. Badgers are nocturnal (= active mostly at night) and live in holes in the ground."
+
+[v] Reporters constantly badger her about her private life. 
+
+"If you badger someone, you repeatedly tell them to do something or repeatedly ask them questions."
+
+
+
+#### 06/26.03
+
+01.intertwine /ˌɪntərˈtwaɪn/
+
+[v] The rustlings this week at the “Summer Davos” conference in Tianjin, China, were about navigating a future less intertwined with Washington.
+
+"if two or more things intertwine or are intertwined , they are twisted together so that they are very difficult to separate"
+
+translate: "The quiet conversations and signals this week at the Summer Davos conference in Tianjin were about how to move forward with less dependence on the U.S."
+
+
+
+02.cattle /ˈkætl/
+
+[n] "cows and bulls that are kept as farm animals for their milk or meat"
+
+
+
+| Term   | Gender | Age         | Castration | Notes                      |
+| ------ | ------ | ----------- | ---------- | -------------------------- |
+| Cattle | Both   | All ages    | N/A        | Plural/group term          |
+| Cow    | Female | Adult       | No         | Has given birth            |
+| Bull   | Male   | Adult       | No         | Used for breeding          |
+| Steer  | Male   | Adult/young | Yes        | Castrated, raised for meat |
+| Heifer | Female | Young       | No         | Has not given birth yet    |
+| Calf   | Both   | Young       | N/A        | Baby cattle                |
+
+
+
+
+
+03.whisper [ˈwɪspə(r)] 
+
+[verb]  Don't you know it's rude to whisper?
+
+"to speak very quietly to sb so that other people cannot hear what you are saying" -murmur-
+
+[noun] They spoke in whispers./ 
+
+"a low quiet voice or the sound it makes"
+
+
+
+#### 06/27
+
+01.metabolism /məˈtæbəlɪzəm/
+
+[n] The body's metabolism is slowed down by extreme cold."新陈代谢"/The idea that metabolism is 20% influenced by cardio and 80% by regular activities is a simplification. While cardio exercise does contribute to metabolism, the majority of your daily energy expenditure is determined by your basal metabolic rate (BMR), which is the energy your body uses for basic functions at rest.
+
+"the chemical processes in living things that change food, etc. into energy and materials for growth"
+
+
+
+02.simplification /ˌsɪmplɪfɪˈkeɪʃn/
+
+[n] Complaints have led to (a) simplification of the rules.
+
+"the process of making sth easier to do or understand"
 
 
 
