@@ -4874,25 +4874,13 @@ forerunner [ˈfɔːrʌnə(r)]
 
 
 
-#### 2020/04/16.03
+#### 2020/04/16.02
 
 01.dean  [diːn] 
 
 
 
-02.rash  [ræʃ] 
-
-[noun] I come out in a rash (= a rash appears on my skin) if I eat chocolate. 
-
-"**an area of red spots** on a person's skin, caused by an illness or a reaction to sth"
-
-[noun] {~ (of sth)} a rash of movies about life in prison."**a lot of sth**; a series of unpleasant things that happen over a short period of time" -spate-
-
-[adj] a rash young man."doing sth that may not be sensible without first thinking about the possible results" -impulsive/reckless-
-
-
-
-03.spate /speɪt/
+02.spate /speɪt/
 
 [n] {of~} The bombing was the latest in a spate of terrorist attacks.
 
@@ -8706,7 +8694,7 @@ Within weeks, his confidence had spread throughout the team. "to affect or make 
 
 
 
-#### 2020/08/26.12
+#### 2020/08/26.11
 
 01.pop up  [ˈpɒp ʌp]
 
@@ -8728,7 +8716,9 @@ You solved one problem and another would immediately pop up."If someone or somet
 
 
 
-03.texture  [ˈtekstʃə(r)]
+03.means of a vote
+
+"表决方式"
 
 
 
@@ -8794,9 +8784,11 @@ You solved one problem and another would immediately pop up."If someone or somet
 
 
 
-12.means of a vote
 
-"表决方式"
+
+
+
+
 
 
 
@@ -13669,7 +13661,7 @@ I used to stay up late with my mom and watch movies.
 
 
 
-#### 2020/10/17.33
+#### 2020/10/17.29
 
 01.military  [ˈmɪlətri]
 
@@ -13795,21 +13787,19 @@ D[adv] militarily a militarily superior[suːˈpɪəriə(r)] country.
 
 
 
-10.assure  [əˈʃʊə(r)]
 
-[verb] {~ sb (of sth)} You think I did it deliberately, but I assure you (that) I did not. 
 
-"to tell sb that sth is definitely true or is definitely going to happen, especially when they have doubts about it"
 
-[verb] {~ yourself (of sth)} He assured himself of her safety. "to make yourself certain about sth"
 
-[verb] Victory would assure a place in the finals. "to make sth certain to happen" 
+10.guilty [ˈɡɪlti]
 
--guarantee-
+[adj] {~ (about sth)} I felt guilty about not visiting my parents more often.
 
-rest assured.
+"feeling ashamed because you have done sth that you know is wrong or have not done sth that you should have done"
 
-[slang] Rest assured, all midterm exam question sheets have been gathered. No need to fret about your attendance score in the midterm exam.  "used to emphasize that what you say is true or will definitely happen"
+[adj] {~ (of sth)} The jury found the defendant not guilty of the offence.
+
+"having done sth illegal; being responsible for sth bad that has happened"
 
 
 
@@ -13941,7 +13931,47 @@ stuck in "陷入"
 
 
 
+23.territory  [ˈterətri]  [ˈterətɔːri]
 
+[noun] enemy/**disputed**/foreign territory. "land that is under the control of a particular country or ruler" '领土'
+
+[noun] **Mating** blackbirds will defend their territory against **intruders**.  '地盘'
+
+
+
+> "an area that one person, group, animal, etc. considers as their own and defends against others who try to enter it"
+>
+> "Region" and "territory" are related words that both refer to a specific geographic area, but they have slightly different connotations.
+>
+> A "region" is a larger and more general area that is defined by certain characteristics such as geography, climate, culture, or economy. For example, a region might be defined by a common language, shared history, or similar geographic features such as mountains or coastlines. Regions can be political, cultural, or geographical in nature, and they can overlap with other regions.
+>
+> A "territory," on the other hand, is a more specific area that is defined by political or legal boundaries. It usually refers to a defined area that is governed by a particular government or authority. For example, a territory might be a country, state, province, or any other political division that has a specific set of rules, regulations, and governance structures.
+>
+> In summary, "region" refers to a larger and more general area that is defined by certain characteristics, while "territory" refers to a specific area that is defined by political or legal boundaries.
+
+
+
+24.boundary  [ˈbaʊndri] 
+
+[noun] national boundaries. "a real or imagined line that marks the limits or edges of sth and separates it from other things or places; a dividing line"
+
+
+
+25.ashamed  [əˈʃeɪmd] 
+
+[adj]{~ (of sth/sb/yourself) | ~ (that…) | ~ (to be sth)} 
+
+She was deeply ashamed of her behaviour at the party.
+
+"feeling shame or embarrassment about sb/sth or because of sth you have done"
+
+[adj] {~ to do sth} I'm ashamed to say that I lied to her.
+
+"unwilling to do sth because of shame or embarrassment"
+
+
+
+> Both shame and ashamed refer to the same idea of guilt or humiliation because of sub-standard behavior, **shame is a noun or sometimes a verb, ashamed is an adjective**.
 
 
 
@@ -13991,65 +14021,11 @@ D[adj]  It was a terrifying experience.
 
 
 
-30. guilty [ˈɡɪlti]
-
-[adj] {~ (about sth)} I felt guilty about not visiting my parents more often.
-
-"feeling ashamed because you have done sth that you know is wrong or have not done sth that you should have done"
-
-[adj] {~ (of sth)} The jury found the defendant not guilty of the offence.
-
-"having done sth illegal; being responsible for sth bad that has happened"
 
 
 
-31.ashamed  [əˈʃeɪmd] 
-
-[adj]{~ (of sth/sb/yourself) | ~ (that…) | ~ (to be sth)} 
-
-She was deeply ashamed of her behaviour at the party.
-
-"feeling shame or embarrassment about sb/sth or because of sth you have done"
-
-[adj] {~ to do sth} I'm ashamed to say that I lied to her.
-
-"unwilling to do sth because of shame or embarrassment"
 
 
-
-> Both shame and ashamed refer to the same idea of guilt or humiliation because of sub-standard behavior, **shame is a noun or sometimes a verb, ashamed is an adjective**.
-
-
-
-32.boundary  [ˈbaʊndri] 
-
-[noun] national boundaries. "a real or imagined line that marks the limits or edges of sth and separates it from other things or places; a dividing line"
-
-
-
-33.territory  [ˈterətri]  [ˈterətɔːri]
-
-[noun] enemy/**disputed**/foreign territory. "land that is under the control of a particular country or ruler" '领土'
-
-[noun] **Mating** blackbirds will defend their territory against **intruders**.  '地盘'
-
-
-
-##### 
-
-
-
-```javascript
-"an area that one person, group, animal, etc. considers as their own and defends against others who try to enter it"
-
-"Region" and "territory" are related words that both refer to a specific geographic area, but they have slightly different connotations.
-
-A "region" is a larger and more general area that is defined by certain characteristics such as geography, climate, culture, or economy. For example, a region might be defined by a common language, shared history, or similar geographic features such as mountains or coastlines. Regions can be political, cultural, or geographical in nature, and they can overlap with other regions.
-
-A "territory," on the other hand, is a more specific area that is defined by political or legal boundaries. It usually refers to a defined area that is governed by a particular government or authority. For example, a territory might be a country, state, province, or any other political division that has a specific set of rules, regulations, and governance structures.
-
-In summary, "region" refers to a larger and more general area that is defined by certain characteristics, while "territory" refers to a specific area that is defined by political or legal boundaries.
-```
 
 
 
@@ -14177,7 +14153,7 @@ A special bond unites our two countries.
 
 
 
-#### 2020/10/19.16
+#### 2020/10/19.17
 
 01.tease  [tiːz] 
 
@@ -14399,13 +14375,9 @@ It is mandatory for blood banks to test all donated blood for the virus.
 
 
 
-04.deem /diːm/
+04.phobia [ˈfəʊbiə] 
 
-[v] {not usually used in the progressive tenses }The evening was deemed a great success.
-
-/Papers with more than 14 pages (excluding references) will be rejected without review. This includes papers where the margins and formatting including the font are deemed to have been significantly altered from those laid down by this style guide.
-
-"to have a particular opinion about sth" -consider/视为-
+[noun] He has a phobia about flying. "a strong unreasonable fear of sth"
 
 
 
@@ -14431,13 +14403,11 @@ D[adv] We reluctantly agreed to go with her.
 
 
 
-06.phobia [ˈfəʊbiə] 
-
-[noun] He has a phobia about flying. "a strong unreasonable fear of sth"
 
 
 
-07.
+
+
 
 
 
@@ -17810,65 +17780,7 @@ His teachers are full of praise for the progress he's making.
 
 
 
-#### 20210106.07
 
-01.geometry /dʒiˈɑːmətri/ 
-
-[n] "the branch of mathematics that deals with the measurements and relationships of lines, angles, surfaces and solids"
-
-
-
-02.circle  [ˈsɜː(r)kl] 
-
-[noun] Cut out two circles of paper. "a completely round flat shape" 
-
-[verb] {~ (around) (above/over sb/sth)} Seagulls circled around above his head.
-
-"to move in a circle, especially in the air"
-
- 
-
-03.triangle [ˈtraɪæŋɡl] 
-
-[noun] a right-angled triangle/a right triangle.
-
-"a flat shape with three straight sides and three angles; a thing in the shape of a triangle"
-
-
-
-04.square  [skweə(r)] 
-
-[adj] a square room. "having four straight equal sides and four angles of 90˚"
-
-[noun] First break the chocolate into squares. "a shape with four straight sides of equal length and four angles of 90˚; a piece of sth that has this shape"
-
-[verb] It was like trying to square a circle . That is, it was impossible. "to make sth have straight edges and corners"
-
-[adv] {only used after the verb} I looked her square in the face. "directly; not at an angle"
-
-
-
-05.rectangle  [ˈrektæŋɡl] 
-
-[noun] "a flat shape with four straight sides, two of which are longer than the other two, and four angles of 90˚"
-
-
-
-06.trapezium /trəˈpiːziəm/
-
-[n] **A trapezoid** (also known as a trapezium) is a flat 2D shape with four straight sides. It has one pair of parallel sides which are usually the top and bottom sides. The parallel sides are called the bases, while the non-parallel sides are called the legs.
-
-"a flat shape with four straight sides, one pair of opposite sides being parallel and the other pair not parallel"
-
-
-
-07.oval [ˈoʊvl] 
-
-[adj] an oval face. 
-
-"shaped like an egg"
-
-[noun] an oval shape.
 
 
 
@@ -18531,7 +18443,7 @@ D[noun] a period of economic stagnation.
 
 
 
-#### 20210126.18
+#### 20210126.17
 
 01.refurbish  [ˌriːˈfɜːbɪʃ]  
 
@@ -18657,17 +18569,9 @@ If no one else wants it, we might as well give it to him.
 
 
 
-16.assure  [əˈʃʊr] 
+16.seabass / ˈsiˌbæs /
 
-[verb] {~ sb (of sth)}
-
-You think I did it deliberately, but I assure you (that) I did not. 
-
-"to tell sb that sth is definitely true or is definitely going to happen, especially when they have doubts about it"
-
-[verb]  Victory would assure a place in the finals. "to make sth certain to happen"
-
--guarantee-
+[noun] "any of numerous marine fishes of the family Serranidae"
 
 
 
@@ -18679,9 +18583,7 @@ You think I did it deliberately, but I assure you (that) I did not.
 
 
 
-18.seabass / ˈsiˌbæs /
 
-[noun] "any of numerous marine fishes of the family Serranidae"
 
 
 
@@ -19518,7 +19420,7 @@ This is a video that is very often quoted in all sorts of native media.
 
 
 
-#### 20210205.17
+#### 20210205.16
 
 01.inception [ɪnˈsepʃn]
 
@@ -19644,11 +19546,11 @@ This is a video that is very often quoted in all sorts of native media.
 
 
 
-14.attire /əˈtaɪər/
+14.evaporate /ɪˈvæpəreɪt/
 
-[n]{formal} In conclusion, the difference between attire and clothes lies in their connotation and formality. Attire refers to clothing worn for a specific occasion or purpose, while clothes are a general term for garments worn on a daily basis. It is important to understand the distinction between the two to avoid miscommunication and to convey the appropriate level of formality in different settings.
+[v] If I fill a bucket with water, I KNOW that some of that water is evaporating.
 
- "clothes"
+"if a liquid evaporates or if sth evaporates it, it changes into a gas, especially steam"
 
 
 
@@ -19671,14 +19573,6 @@ This is a video that is very often quoted in all sorts of native media.
 World race population 2023 Mongoloid 27%, Caucasian 27% and Negroid 43%.
 
 "a member of any of the races of people who have pale skin"
-
-
-
-17.evaporate /ɪˈvæpəreɪt/
-
-[v] If I fill a bucket with water, I KNOW that some of that water is evaporating.
-
-"if a liquid evaporates or if sth evaporates it, it changes into a gas, especially steam"
 
 
 
@@ -22690,7 +22584,7 @@ We were informed that our CEO Richard Qiangdong Liu was **taken into custody(202
 
 
 
-#### 20210406.14
+#### 20210406.13
 
 01.ownership  [ˈoʊnərʃɪp] 
 
@@ -22756,9 +22650,19 @@ The food had been adulterated to increase its weight.
 
 
 
-08.secondary  [ˈsekəndri]  [ˈsekənderi] 
 
-[adj] {~ (to sth)}  That is just a secondary consideration ."less important than sth else"
+
+
+
+08.perpetual  [pəˈpetʃuəl] 
+
+[adj] the perpetual noise of traffic.
+
+"continuing for a long period of time without interruption" -continuous-
+
+[adj] How can I work with these perpetual interruptions? "frequently repeated, in a way that is annoying" -continual-
+
+[adj]  He was elected perpetual president. "lasting for the whole of sb's life"
 
 
 
@@ -22802,15 +22706,7 @@ The food had been adulterated to increase its weight.
 
 
 
-14.perpetual  [pəˈpetʃuəl] 
 
-[adj] the perpetual noise of traffic.
-
-"continuing for a long period of time without interruption" -continuous-
-
-[adj] How can I work with these perpetual interruptions? "frequently repeated, in a way that is annoying" -continual-
-
-[adj]  He was elected perpetual president. "lasting for the whole of sb's life"
 
 
 
@@ -23869,44 +23765,6 @@ D[adj] a monogamous marriage.
 
 
 
-
-
-
-
-
-
-
-
-#### 20210503.03
-
-01.brink of collapse 
-
-[phrasal] The Prime Minister's fragile government was on the brink of collapse.
-
-
-
-02.brink  [brɪŋk]
-
-[noun] {the ~ (of sth)} on the brink of collapse/war/death/disaster.  
-
-"if you are on the brink of sth, you are almost in a very new, dangerous or exciting situation"
-
-[noun]{literary  [ˈlɪtərəri]} the brink of the precipice. "the extreme edge of land, for example at the top of a cliff or by a river"
-
-
-
-03.collapse   [kəˈlæps]
-
-[verb] The roof collapsed under the weight of snow."to fall down or fall in suddenly, often after breaking apart" -give way-
-
-[noun] the collapse of law and order in the area. "a sudden failure of sth, such as an institution, a business or a course of action"
-
-
-
-
-
-
-
 #### 20210506.07
 
 01.scrape  [skreɪp] 
@@ -24271,7 +24129,7 @@ startling/sensational revelations about her private life.
 
 
 
-#### 20210520.07
+#### 20210520.09
 
 01.tail bone  [teɪl bəʊn]
 
@@ -24351,21 +24209,7 @@ startling/sensational revelations about her private life.
 
 
 
-#### 20210521.16
-
-
-
-
-
-02.
-
-
-
-
-
-
-
-04.precaution  [prɪˈkɔːʃn]
+08.precaution  [prɪˈkɔːʃn]
 
 [noun] safety precautions. "something that is done in advance in order to prevent problems or to avoid danger"
 
@@ -24373,7 +24217,7 @@ startling/sensational revelations about her private life.
 
 
 
-05.contraception  [ˌkɒntrəˈsepʃn]   [ˌkɑːntrəˈsepʃn] 
+09.contraception  [ˌkɒntrəˈsepʃn]   [ˌkɑːntrəˈsepʃn] 
 
 [noun] to give advice about contraception.
 
@@ -24381,17 +24225,51 @@ startling/sensational revelations about her private life.
 
 
 
-06.empathy  [ˈempəθi]
+#### 20210521.10
+
+01.Curly Braces [ˈkɜː(r)li ˈbreɪsɪz]
+
+"{}" -Braces-
+
+
+
+02.curly  [ˈkɜː(r)li]
+
+[adj] short curly hair. "having a lot of curls or a curved shape"
+
+
+
+03.Slashes [ˈslæʃɪz] 
+
+"\ /"
+
+
+
+04.Angle Brackets  [ˈæŋɡl ˈbrækɪts] 
+
+" < >"
+
+
+
+05.Square Brackets  [skweə(r) ˈbrækɪts]
+
+"[]"
+
+
+
+06.Parentheses [pəˈrɛnθɪsiːz] 
+
+"()"
+
+
+
+07.empathy  [ˈempəθi]
 
 [noun] {~ (with sb/sth) | ~ (for sb/sth) | ~ (between A and B)}  
 
 empathy for other people's situations.
 
 "the ability to understand another person's feelings, experience, etc."
-
-
-
-
 
 
 
@@ -24430,40 +24308,6 @@ empathy for other people's situations.
 "your attitude to a particular situation or the way in which you deal with it"
 
 
-
-11.Curly Braces [ˈkɜː(r)li ˈbreɪsɪz]
-
-"{}" -Braces-
-
-
-
-12.curly  [ˈkɜː(r)li]
-
-[adj] short curly hair. "having a lot of curls or a curved shape"
-
-
-
-13.Slashes [ˈslæʃɪz] 
-
-"\ /"
-
-
-
-14.Angle Brackets  [ˈæŋɡl ˈbrækɪts] 
-
-" < >"
-
-
-
-15.Square Brackets  [skweə(r) ˈbrækɪts]
-
-"[]"
-
-
-
-16.Parentheses [pəˈrɛnθɪsiːz] 
-
-"()"
 
 
 
@@ -24597,7 +24441,7 @@ The City of Taylor in Texas has endorsed an incentive to refund 92.5 percent of 
 
 
 
-#### 20210526.15
+#### 20210526.16
 
 01.stochastic  [stə'kæstɪk] 
 
@@ -25510,17 +25354,9 @@ Kim Jong-un's slimmer frame has prompted more speculation about his health./Ther
 
 
 
-#### 20210629.03
+#### 20210629.02
 
-01.appetizer  [ˈæpɪtaɪzər] 
-
-[noun] Seafood soup is a good appetizer.
-
-"a small amount of food or a drink that you have before a meal"
-
-
-
-02.hearsay  [ˈhɪrseɪ] 
+01.hearsay  [ˈhɪrseɪ] 
 
 [noun] We can't make a decision based on hearsay and guesswork.
 
@@ -25528,7 +25364,7 @@ Kim Jong-un's slimmer frame has prompted more speculation about his health./Ther
 
 
 
-03.confront [kənˈfrʌnt] 
+02.confront [kənˈfrʌnt] 
 
 [verb] the economic problems confronting the country.
 
@@ -27147,15 +26983,7 @@ D[noun]  insufficiency.
 
 
 
-08.halve /hɑːv/ /hæv/
-
-[v] As a result, Chinese arrivals halved from roughly **8 million** in 2016 to around 4 million in 2017./The number of people aged 19-34 came to 10.21 million in 2020, and the figure is forecast to tumble to 5.21 million in 2050, according to the analysis by Statistics Korea.
-
-"to reduce by a half; to make sth reduce by a half"
-
-
-
-#### 20210914.10
+#### 20210914.02
 
 01.mandate  [ˈmændeɪt] 
 
@@ -27169,7 +26997,11 @@ D[noun]  insufficiency.
 
 
 
+02.scholarly  [ˈskɒləli] [ˈskɑːlərli] 
 
+[adj]{of a person} "spending a lot of time studying and having a lot of knowledge about an academic subject"
+
+[adj] a scholarly journal. "connected with academic study" -academic-
 
 
 
@@ -27239,11 +27071,7 @@ D[noun]  insufficiency.
 
 
 
-10.scholarly  [ˈskɒləli] [ˈskɑːlərli] 
 
-[adj]{of a person} "spending a lot of time studying and having a lot of knowledge about an academic subject"
-
-[adj] a scholarly journal. "connected with academic study" -academic-
 
 #### 20210915.03
 
@@ -30363,16 +30191,6 @@ D[adj] (BrE) a theological college . (NAmE) a theological seminary.
 
 
 
-#### 12/30.01
-
-01.sarcasm  [ˈsɑːkæzəm] 
-
-[noun] a hint/touch/trace of sarcasm in his voice.
-
-"a way of using words that are the opposite of what you mean in order to be unpleasant to sb or to make fun of them"
-
-
-
 #### 2021/12/31.20
 
 01.quiz [kwɪz] 
@@ -30975,7 +30793,7 @@ My sister and I used to quarrel all the time."to have an angry argument or disag
 
 
 
-#### 01/25.04
+#### 01/25.03
 
 01.lenient  [ˈliːniənt]
 
@@ -31006,20 +30824,6 @@ D[adv] to treat sb leniently.
 [n] cuts and bruises
 
 "a blue, brown or purple mark that appears on the skin after sb has fallen, been hit, etc."
-
-
-
-04.assurance /əˈʃʊərəns/
-
-[n] They called for assurances that the government is committed to its education policy.
-
-"a statement that sth will certainly be true or will certainly happen, particularly when there has been doubt about it"
-
-[n] There was an air of easy assurance and calm about him."belief in your own abilities or strengths"
-
-[n] a life assurance company.
-
-"a type of insurance in which money is paid out when sb dies or after an agreed period of time"
 
 
 
@@ -34563,11 +34367,11 @@ dizzy [ˈdɪzi]
 
 
 
-09.handful  [ˈhændfʊl] 
+09.speculation  [ˌspekjuˈleɪʃn]
 
-[noun] There has been speculation over Beijing's reopening to Korean content in recent years, but only a handful of films and dramas returned to Chinese platform since last year.
+[noun] There was widespread speculation that she was going to resign.
 
- "a small number of people or things"
+"the act of forming opinions about what has happened or what might happen without knowing all the facts"
 
 
 
@@ -34598,12 +34402,6 @@ dizzy [ˈdɪzi]
 "a substance that you put on your face or body to make it more attractive"
 
 
-
-13.speculation  [ˌspekjuˈleɪʃn]
-
-[noun] There was widespread speculation that she was going to resign.
-
-"the act of forming opinions about what has happened or what might happen without knowing all the facts"
 
 
 
@@ -34863,7 +34661,7 @@ dizzy [ˈdɪzi]
 
 "a person who has done sth wrong or against the law"
 
-[noun] The main culprit in the current crisis seems to be modern farming techniques.
+[noun] The main culprit in the current crisis seems to be modern farming techniques./Here’s why this happens and why SS2D is a likely culprit.
 
 "a person or thing responsible for causing a problem"
 
@@ -37660,7 +37458,7 @@ These **prejudices** are particularly prevalent among people living in the North
 
 
 
-#### 05/09.02
+#### 05/09.01
 
 01.excrete /ɪkˈskriːt/
 
@@ -37670,11 +37468,7 @@ These **prejudices** are particularly prevalent among people living in the North
 
 
 
-02.enzyme /ˈenzaɪm/
 
-[noun] This enzyme would make the filtration of beer easier. 
-
-"a substance, produced by all living things, which helps a chemical change happen or happen more quickly, without being changed itself"
 
 
 
@@ -39177,7 +38971,7 @@ Growing levels of pollution represent a serious health hazard to the local popul
 
 
 
-#### 07/06.08
+#### 07/06.07
 
 01.aim /eɪm/
 
@@ -39221,7 +39015,7 @@ Growing levels of pollution represent a serious health hazard to the local popul
 
 
 
-07.demonise / ˈdiːmənaɪz /
+06.demonise / ˈdiːmənaɪz /
 
 [v] She went on to suggest restricting where such adverts could be placed would only "demonise" them
 
@@ -39229,7 +39023,7 @@ Growing levels of pollution represent a serious health hazard to the local popul
 
 
 
-08.amplify /ˈæmplɪfaɪ/
+07.amplify /ˈæmplɪfaɪ/
 
 [v]   to amplify a guitar/an electric current/a signal.  
 
@@ -39237,31 +39031,9 @@ Growing levels of pollution represent a serious health hazard to the local popul
 
 
 
-#### 07/11.02
+#### 07/11.01
 
-01.reckon **[ˈrekən]** 
-
-[V] He'll be famous one day. What do you reckon (= do you agree) ?
-
-" to think sth or have an opinion about sth  "
-
-[V] {be reckoned}    Children are reckoned to be more **sophisticated** nowadays.
-
-"to be generally considered to be sth"
-
-[V]   We reckon to finish by ten. 
-
-"to expect to do sth"
-
-[V]  to calculate an amount, a number, etc.  
-
-"The age of the earth is reckoned at about 4 600 million years."
-
-```
-“Think” is by far the more common of the two verbs. While “think” is probably found in all varieties of English, “reckon” is limited to some (beautiful) regional dialects. Also, “reckon” is more like “figuring out from evidence” or “guessing” than “think” is, which signifies a basic thought process.
-```
-
-02.sophisticated /səˈfɪstɪkeɪtɪd/
+01.sophisticated /səˈfɪstɪkeɪtɪd/
 
 [adj]   Mark is a smart and sophisticated young man.   
 
@@ -39279,7 +39051,7 @@ Growing levels of pollution represent a serious health hazard to the local popul
 
 
 
-#### 07/20.03
+#### 07/20.02
 
 01.recording studio /rɪˈkɔːrdɪŋ ˈstuːdioʊ/
 
@@ -39294,14 +39066,6 @@ Growing levels of pollution represent a serious health hazard to the local popul
 [adv] a dimly lit room.
 
 "not very brightly or clearly"
-
-
-
-03.immersive /ɪˈmɜːrsɪv/
-
-[adj] I feel that the language barrier has been lifted and it's much easier  for global fans to have an immersive experience with my music. 
-
-"used to describe a computer system or image that seems to surround the user"
 
 
 
@@ -41105,25 +40869,13 @@ D[adv] The applicant has experience in teaching and, more relevantly, in industr
 
 
 
-#### 10/13.03
+#### 10/13.02
 
-01.reverse /rɪˈvɜː(r)s/
+01.prowess /ˈpraʊəs/
 
-[v] to reverse a procedure/process/trend. 
+[n] South Korea’s prowess in the field of artificial intelligence (AI) has been ranked 6th among 62 evaluated countries. "great skill at doing sth"
 
-"to change sth completely so that it is the opposite of what it was before"
 
-[v] We just received notice from Google that your payment to us has been reversed. 
-
-"to change a previous decision, law, etc. to the opposite one" -revoke-
-
-[n] This problem is the reverse of the previous one.
-
-"the opposite of what has just been mentioned"
-
-[adj] to travel in the reverse direction.
-
-"opposite to what has been mentioned"
 
 
 
@@ -41137,9 +40889,7 @@ On the afternoon of November 26, Representative **Jeong Hye Kyung** of the Progr
 
 
 
-03.prowess /ˈpraʊəs/
 
-[n] South Korea’s prowess in the field of artificial intelligence (AI) has been ranked 6th among 62 evaluated countries. "great skill at doing sth"
 
 
 
@@ -42926,7 +42676,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 01.famine /ˈfæmɪn/
 
-[n] That estimated one-year drop in population was due to **the Great Famine**, perhaps the worst human-made catastrophe in history, resulting in the deaths of as many as 45 million people. 
+[n] That estimated one-year drop in population was due to **the Great Famine**, perhaps the worst human-made catastrophe in history, resulting in the deaths of as many as 45 million people. / How Israel's policies created famine in Gaza.
 
 "**Famine** is a situation in which large numbers of people have little or no food, and many of them die."
 
@@ -43438,7 +43188,7 @@ We strive to build an institution that will last for generations and evolve with
 
 
 
-#### 02/20.06
+#### 02/20.05
 
 01.contradict /ˌkɑːntrəˈdɪkt/
 
@@ -43458,7 +43208,19 @@ We strive to build an institution that will last for generations and evolve with
 
 
 
+03.scramble /ˈskræmbl/
 
+[v] She managed to scramble over the wall.
+
+"to move quickly, especially with difficulty, using your hands to help you" -clamber-
+
+[v]  Shoppers were scrambling to get the best bargains.
+
+"to push, fight or compete with others in order to get or to reach sth"
+
+[v] scrambled eggs.
+
+" to cook an egg by mixing the white and yellow parts together and heating them, sometimes with milk and butter"
 
 
 
@@ -43482,19 +43244,7 @@ d[adv]shabbily dressed
 
 
 
-06.scramble /ˈskræmbl/
 
-[v] She managed to scramble over the wall.
-
-"to move quickly, especially with difficulty, using your hands to help you" -clamber-
-
-[v]  Shoppers were scrambling to get the best bargains.
-
-"to push, fight or compete with others in order to get or to reach sth"
-
-[v] scrambled eggs.
-
-" to cook an egg by mixing the white and yellow parts together and heating them, sometimes with milk and butter"
 
 
 
@@ -43650,7 +43400,7 @@ d[adv]shabbily dressed
 
 
 
-#### 03/05.02
+#### 03/05.03
 
 01.speculative /ˈspekjələtɪv/
 
@@ -43708,7 +43458,7 @@ d[adv]shabbily dressed
 
 
 
-#### 03/14.07
+#### 03/14.05
 
 01.streaker /ˈstriːkər/
 
@@ -43732,20 +43482,14 @@ d[adv]shabbily dressed
 
 
 
-
-
-
-
-05.plow/plaʊ/  =plough犁;耕 sow  /soʊ , saʊ/ 播种 raise /reɪz/
-
-
-
-06.most-sought-after
+04.most-sought-after
 [adj] The most-sought-after item during the holiday season was the limited edition gaming console, with eager customers lining up outside stores for hours to secure one.
 
 "The term "most-sought-after" refers to something that is highly desired or pursued by a large number of people. "
 
 
+
+05.plow/plaʊ/  =plough犁;耕 sow  /soʊ , saʊ/ 播种 raise /reɪz/
 
 
 
@@ -43859,7 +43603,7 @@ d[adv]shabbily dressed
 
 
 
-#### 04/02.07
+#### 04/02.06
 
 01.wellness /ˈwelnəs/
 
@@ -43891,11 +43635,7 @@ d[adv]shabbily dressed
 
 
 
-
-
-
-
-06.sprint /sprɪnt/
+05.sprint /sprɪnt/
 
 [v] When my mom and I landed on the roof of the hospital, a team of nearly twenty doctors and nurses sprinted onto the helipad and wheeled me into the trauma unit.
 
@@ -43905,7 +43645,7 @@ d[adv]shabbily dressed
 
 
 
-07.trauma /ˈtrɔːmə/ /ˈtraʊmə/
+06.trauma /ˈtrɔːmə/ /ˈtraʊmə/
 
 [n] trauma unit.
 
@@ -44283,7 +44023,7 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 
 
-#### 05/14.05
+#### 05/14.06
 
 01.carcinogen /kɑːrˈsɪnədʒən/
 
@@ -44335,7 +44075,7 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 
 
-#### 05/15.03
+#### 05/15.08
 
 01.beacon /ˈbiːkən/
 
@@ -45536,7 +45276,7 @@ D[noun]  copyright infringement.
 
 
 
-#### 08/29.04
+#### 08/29.03
 
 01.backlog /ˈbæklɔːɡ/
 
@@ -45546,11 +45286,7 @@ D[noun]  copyright infringement.
 
 
 
-
-
-
-
-03.probe /proʊb/
+02.probe /proʊb/
 
 [v] “This company and Taeil first became aware of the accusation in the middle of this month,” SM Entertainment said Thursday, confirming Taeil was probed by the police the previous day. 
 
@@ -45562,7 +45298,7 @@ D[noun]  copyright infringement.
 
 
 
-04.accusation [ˌækjuˈzeɪʃn]
+03.accusation [ˌækjuˈzeɪʃn]
 
 [noun] {~ (of sth) (against sb) | ~ (that…)} accusations of corruption/cruelty/racism.
 
@@ -46131,13 +45867,13 @@ to make sb lose respect for himself or herself"
 
 
 
-#### 01/10.02
+#### 01/10.01
 
 
 
 
 
-02.nab /nab/
+01.nab /nab/
 
 [verb] Chinese tourist nabbed for filming Jeju Int'l Airport with a drone.
 
@@ -46535,7 +46271,7 @@ In short, flour is a specific type of powder used for cooking and baking, while 
 
 
 
-#### 01/27.03
+#### 01/27.05
 
 01.venom /ˈvenəm/
 
@@ -48630,7 +48366,7 @@ D[noun] Make sure that there is adequate ventilation in the room before using th
 
 13.tactic /ˈtæktɪk/
 
-[n] What sort of tactics will the President use to rally the people behind him?
+[n] What sort of tactics will the President use to rally the people behind him?When asked if Mark Zuckerberg truly believes in superintelligence or is just using it as a recruiting tactic, OpenAI COO Brad Lightcap quipped, “I think he believes he’s super intelligent.”
 
 "**Tactics** are the methods that you choose to use in order to achieve what you want in a particular situation."
 
@@ -48652,7 +48388,7 @@ D[noun] Make sure that there is adequate ventilation in the room before using th
 
 
 
-#### 03/09.11
+#### 03/09.10
 
 01.dismissive /dɪsˈmɪsɪv/
 
@@ -48756,15 +48492,7 @@ Key Difference:
 
 
 
-11.levy/ˈlevi/
 
-[n] to put/impose a levy on oil imports.
-
-"an extra amount of money that has to be paid, especially as a tax to the government"
-
-[v] Tensions with the U.S. have meanwhile escalated as the White House has restricted Chinese access to advanced technology and levied tariffs on Chinese goods.
-
-"to use official authority to demand and collect a payment, tax, etc."
 
 
 
@@ -49795,7 +49523,7 @@ Hun Pheap lost her husband after he drank a toxic alcoholic homebrew
 
 
 
-#### 04/09.05
+#### 04/09.07
 
 01.pharmacy /ˈfɑː(r)məsi/
 
@@ -49834,6 +49562,22 @@ Hun Pheap lost her husband after he drank a toxic alcoholic homebrew
 05.sarcasm /ˈsɑːrkæzəm/
 
 [n] I speak fluent sarcasm—unfortunately, it's not yet recognized as a second language on my résumé.
+
+"a way of using words that are the opposite of what you mean in order to be unpleasant to sb or to make fun of them"
+
+
+
+06.sarcastic /sɑːrˈkæstɪk/
+
+[adj] {also 英国英语informal sarky} sarcastic comments.
+
+"showing or expressing sarcasm"
+
+
+
+07.sarcasm  [ˈsɑːkæzəm] /ˈsɑːrkæzəm/
+
+[noun] a hint/touch/trace of sarcasm in his voice.
 
 "a way of using words that are the opposite of what you mean in order to be unpleasant to sb or to make fun of them"
 
@@ -53474,7 +53218,7 @@ translate: "The quiet conversations and signals this week at the Summer Davos co
 
 
 
-#### 06/27
+#### 06/27.03
 
 01.metabolism /məˈtæbəlɪzəm/
 
@@ -53489,6 +53233,910 @@ translate: "The quiet conversations and signals this week at the Summer Davos co
 [n] Complaints have led to (a) simplification of the rules.
 
 "the process of making sth easier to do or understand"
+
+
+
+03.clock /klɒk/  /klɑːk/
+
+[v] You’re not getting it. It’s not clocking to you. It’s not clocking to you that I’m standing on business, is it?
+
+"to notice or recognize sb"
+
+
+
+#### 06/30.05
+
+01.appetizer  [ˈæpɪtaɪzər] 
+
+[noun] Seafood soup is a good appetizer.
+
+"a small amount of food or a drink that you have before a meal"
+
+
+
+02.starter 英/ˈstɑːtə(r)/
+
+[n] "a small amount of food that is served before the main course of a meal"
+
+
+
+03.immersive /ɪˈmɜːrsɪv/
+
+[adj] I feel that the language barrier has been lifted and it's much easier  for global fans to have an immersive experience with my music./Department of Immersive Media Engineering. 
+
+"used to describe a computer system or image that seems to surround the user"
+
+
+
+04.mummify /ˈmʌmɪfaɪ/
+
+[v] In America, people are paying up to$ 150,000 to be mummified after death.
+
+"to preserve a dead body by treating it with special oils and wrapping it in cloth"
+
+
+
+05.embalm /ɪmˈbɑːm/
+
+[v] Chairman Mao's body was indeed embalmed and is on public display in Beijing's Chairman Mao Memorial Hall.
+
+"to prevent a dead body from decaying by treating it with special substances to preserve it"
+
+
+
+#### 07/01.06
+
+01.blitz /blɪts/
+
+[n] Meta shares hit all-time high as Mark Zuckerberg goes on AI hiring blitz.
+
+"something which is done with a lot of energy"
+
+
+
+02.deem /diːm/
+
+[v] {not usually used in the progressive tenses }The evening was deemed a great success.
+
+/Papers with more than 14 pages (excluding references) will be rejected without review. This includes papers where the margins and formatting including the font are deemed to have been significantly altered from those laid down by this style guide./The company’s shares reached $747.90 during midday trading, topping Meta’s previous stock market record in February when it began laying off the 5% of its workforce that it deemed “low performers.”
+
+"to have a particular opinion about sth" -consider/视为-
+
+
+
+03.fierce /fɪrs/
+
+[adj] Meta CEO Mark Zuckerberg has been on an AI hiring blitz amid fierce competition with rivals such as OpenAI and Google parent Alphabet.
+
+"angry and aggressive in a way that is frightening"
+
+
+
+04.snatch /snætʃ/
+
+[v] Meta has also snatched [AI researchers ](https://x.com/giffmana/status/1938299990922674352?ref_src=twsrc^google|twcamp^serp|twgr^tweet)from OpenAI. Sam Altman, OpenAI’s CEO, [said](https://www.cnbc.com/2025/06/18/sam-altman-says-meta-tried-to-poach-openai-staff-with-100-million-bonuses-mark-zuckerberg.html) during a podcast that Meta was offering signing bonuses as high as $100 million.
+
+"to take sth quickly and often rudely or roughly"
+
+[n] a snatch of music.
+
+"a very small part of a conversation or some music that you hear" -snippet-
+
+
+
+05.unprecedented /ʌnˈpresɪdentɪd/
+
+[adj] Andrew Bosworth, Meta’s technology chief, spoke about the social media company’s AI hiring spree during a June 20 [interview with CNBC’s “Closing Bell Overtime,”](https://www.cnbc.com/2025/06/20/metas-andrew-bosworth-says-openai-countered-lucrative-job-offers.html) saying that the talent market is “really incredible and kind of unprecedented in my 20-year career as a technology executive.”
+
+"that has never happened, been done or been known before"
+
+
+
+06.spree /spriː/
+
+[n] Some Americans went on a spending spree in December to beat the new tax.
+
+"If you spend a period of time doing something in an excessive way, you can say that you are going on a particular kind of spree ."
+
+
+
+#### 07/03.01
+
+01.oppositely  /ˈɒpəzɪtli/
+
+[adv] She acted oppositely to what I expected.
+
+"in an opposite manner"
+
+[adv] He turned the knob clockwise, but she turned it oppositely.
+
+"in contrast to something"
+
+
+
+#### 07/04.01
+
+01.fallback /ˈfɔːlbæk/
+
+[n] What's our fallback if they don't come up with the money?
+
+"a plan or course of action that is ready to be used in an emergency if other things fail"
+
+
+
+#### 07/05.08
+
+01.geometry /dʒiˈɑːmətri/ 
+
+[n] "the branch of mathematics that deals with the measurements and relationships of lines, angles, surfaces and solids"
+
+
+
+02.circle  [ˈsɜː(r)kl] 
+
+[noun] Cut out two circles of paper. "a completely round flat shape" 
+
+[verb] {~ (around) (above/over sb/sth)} Seagulls circled around above his head.
+
+"to move in a circle, especially in the air"
+
+ 
+
+03.triangle [ˈtraɪæŋɡl] 
+
+[noun] a right-angled triangle/a right triangle.
+
+"a flat shape with three straight sides and three angles; a thing in the shape of a triangle"
+
+
+
+04.square  [skweə(r)] 
+
+[adj] a square room. "having four straight equal sides and four angles of 90˚"
+
+[noun] First break the chocolate into squares. "a shape with four straight sides of equal length and four angles of 90˚; a piece of sth that has this shape"
+
+[verb] It was like trying to square a circle . That is, it was impossible. "to make sth have straight edges and corners"
+
+[adv] {only used after the verb} I looked her square in the face. "directly; not at an angle"
+
+
+
+05.rectangle  [ˈrektæŋɡl] 
+
+[noun] "a flat shape with four straight sides, two of which are longer than the other two, and four angles of 90˚"
+
+
+
+06.rectangular /rekˈtæŋɡjələr/
+
+[adj] the Swin Transformer can handle rectangular images where the width is much longer than the height, though some considerations are needed due to its design for square images in the original paper.
+
+"Something that is rectangular is shaped like a rectangle."
+
+
+
+07.trapezium /trəˈpiːziəm/
+
+[n] **A trapezoid** (also known as a trapezium) is a flat 2D shape with four straight sides. It has one pair of parallel sides which are usually the top and bottom sides. The parallel sides are called the bases, while the non-parallel sides are called the legs.
+
+"a flat shape with four straight sides, one pair of opposite sides being parallel and the other pair not parallel"
+
+
+
+08.oval [ˈoʊvl] 
+
+[adj] an oval face. 
+
+"shaped like an egg"
+
+[noun] an oval shape.
+
+
+
+#### 07/06.03
+
+01.gout /ɡaʊt/
+
+[n] Yes, free alcohol beer can trigger gout attacks, even though it contains less alcohol than regular beer. Yes, free alcohol beer can trigger gout attacks, even though it contains less alcohol than regular beer. /Even non-alcoholic beers can raise uric acid levels. A study found that non-alcoholic beer raised uric acid by 4.4%, while alcoholic beer raised it by 6.5%. 
+
+"a disease that causes painful swelling in the joints, especially of the toes, knees and fingers"
+
+
+
+02.purine / ˈpjʊəriːn /
+
+[n] "a colorless crystalline organic base containing nitrogen,the parent compound of various biologically important substances"
+
+
+
+03.contradict /ˌkɑːntrəˈdɪkt/
+
+[v] A pattern is emerging: The most predictable thing about Trump is his unpredictability. He changes his mind. He contradicts himself. He is inconsistent.
+
+"to say that sth that sb else has said is wrong, and that the opposite is true"
+
+
+
+#### 07/07.05
+
+01.drive-thru /draɪv θruː/
+
+[n] The promotion is not valid for drive-thru orders, third-party delivery apps or at Shake Shack locations in airports, stadiums, arenas, museums or travel plazas.
+
+"A drive-through (or drive-thru) is a type of service offered by a business that allows customers to purchase goods or services without leaving their vehicles."
+
+
+
+02.visceral /ˈvɪsərəl/
+
+[adj] She had a visceral dislike of all things foreign.
+
+"resulting from strong feelings rather than careful thought"
+
+[adj] How to Destroy Visceral Belly Fat in 30 Days.
+
+"relating to the viscera"
+
+
+
+03.viscus/viscera
+
+[n] "the large organs inside the body, such as the heart, lungs and stomach"
+
+
+
+04.cholesterol /kəˈlestərɔːl/
+
+[n] Chicken is generally easier to digest than beef. [according to Heights](https://www.heights.com/blogs/nutrition/easy-to-digest-foods). This is because chicken is a leaner meat, with less fat and cholesterol, which can be more difficult for the body to process.
+
+"a substance found in blood, fat and most tissues of the body. Too much cholesterol can cause heart disease."
+
+
+
+05.enzyme /ˈenzaɪm/
+
+[noun] This enzyme would make the filtration of beer easier. /Red meats like beef contain more connective tissue and require more stomach acid and enzymes to break down, making them take longer to digest.
+
+"a substance, produced by all living things, which helps a chemical change happen or happen more quickly, without being changed itself"
+
+
+
+#### 07/08.02
+
+01.halve /hɑːv/ /hæv/
+
+[v] As a result, Chinese arrivals halved from roughly **8 million** in 2016 to around 4 million in 2017./The number of people aged 19-34 came to 10.21 million in 2020, and the figure is forecast to tumble to 5.21 million in 2050, according to the analysis by Statistics Korea.
+
+"to reduce by a half; to make sth reduce by a half"
+
+
+
+02.diaspora /daɪˈæspərə/
+
+[n] The **Korean diaspora** consists of around 7.3 million people, both descendants of early emigrants from the [Korean Peninsula](https://en.wikipedia.org/wiki/Korea), as well as more recent emigrants from Korea.
+
+"the movement of people from any nation or group away from their own country"
+
+
+
+#### 07/14.03
+
+01.virtuous /ˈvɜːrtʃuəs/
+
+[adj] a wise and virtuous man.
+
+"behaving in a very good and moral way"
+
+
+
+02.virtuous cycle
+
+[phrase] "A virtuous cycle, also known as a virtuous circle, is a chain of events where each positive action or outcome reinforces and enhances the next, leading to a continuous positive feedback loop and overall improvement."
+
+
+
+03.atheist /ˈeɪθiɪst/
+
+[n] China has the largest proportion of atheists among its population. According to some reports, as much as 91% of the Chinese population identifies as atheist.
+
+"a person who believes that God does not exist"
+
+
+
+#### 07/15.03
+
+01.assurance /əˈʃʊərəns/ /əˈʃʊrəns/
+
+[n] They called for assurances that the government is committed to its education policy./Nvidia says it will resume H20 AI chip sales to China ‘soon,’ following U.S. government assurances.
+
+"a statement that sth will certainly be true or will certainly happen, particularly when there has been doubt about it"
+
+[n] There was an air of easy assurance and calm about him."belief in your own abilities or strengths"
+
+[n] a life assurance company.
+
+"a type of insurance in which money is paid out when sb dies or after an agreed period of time"
+
+
+
+02.assure  [əˈʃʊr] 
+
+[verb] {~ sb (of sth)}
+
+You think I did it deliberately, but I assure you (that) I did not. 
+
+"to tell sb that sth is definitely true or is definitely going to happen, especially when they have doubts about it"
+
+[verb]  Victory would assure a place in the finals./ He assured himself of her safety. /“The U.S. government has assured NVIDIA that licenses will be granted, and NVIDIA hopes to start deliveries soon,” the company said in a press release. "to make sth certain to happen"
+
+-guarantee-
+
+[slang] Rest assured, all midterm exam question sheets have been gathered. No need to fret about your attendance score in the midterm exam.  "used to emphasize that what you say is true or will definitely happen"
+
+
+
+assure vs guarantee
+
+The words **"assure"** and **"guarantee"** are similar but differ in formality, strength, and typical usage. Here's a breakdown:
+
+------
+
+🔹 1. **Assure**
+
+**Meaning:** To **say something confidently** to make someone feel **less worried** or more **certain**.
+
+- **Focus:** **Reassurance**, often emotional or psychological.
+- **Typical use:** People → people
+- **Formality:** Medium
+- **Strength:** Weaker than "guarantee"
+
+**Examples:**
+
+- *I assure you everything will be fine.*
+- *She assured him that she was okay.*
+
+------
+
+🔹 2. **Guarantee**
+
+**Meaning:** To **promise with certainty** that something **will happen** or that a product/service will perform as expected.
+
+- **Focus:** **Commitment or warranty**, often legal or contractual.
+- **Typical use:** People or companies → people, products, or outcomes
+- **Formality:** More formal
+- **Strength:** Strong, often enforceable
+
+**Examples:**
+
+- *We guarantee a full refund if you're not satisfied.*
+- *This phone comes with a two-year guarantee.*
+
+------
+
+✅ Quick Comparison Table
+
+| Feature  | **Assure**                | **Guarantee**                       |
+| -------- | ------------------------- | ----------------------------------- |
+| Tone     | Reassuring                | Strong and definite                 |
+| Use with | People                    | People, products, outcomes          |
+| Context  | Emotional, conversational | Legal, commercial, contractual      |
+| Strength | Weaker                    | Stronger                            |
+| Example  | *I assure you it's safe.* | *I guarantee this product is safe.* |
+
+------
+
+
+
+
+
+03.hit-and-run /ˌhɪt ən ˈrʌn/
+
+[adj] **Fauja Singh**, a British-Indian man believed to be the world's oldest marathon runner, has died after being hit by a car in India at the age of 114. Police say Singh was crossing a road in the village where he was born in Punjab when an unidentified vehicle hit him. Locals took him to hospital, where he died.
+
+"caused by a driver who does not stop to help"
+
+
+
+#### 07/17.03
+
+01.reverse /rɪˈvɜː(r)s/
+
+[v] to reverse a procedure/process/trend. 
+
+"to change sth completely so that it is the opposite of what it was before"
+
+[v] We just received notice from Google that your payment to us has been reversed. /The U.S. reversed a ban that restricted Nvidia from sending its export control-compliant chip known as the H20 to China.
+
+"to change a previous decision, law, etc. to the opposite one" -revoke-
+
+[n] This problem is the reverse of the previous one.
+
+"the opposite of what has just been mentioned"
+
+[adj] to travel in the reverse direction.
+
+"opposite to what has been mentioned"
+
+
+
+02.compliant /kəmˈplaɪənt/
+
+[adj] We should not be producing compliant students who do not dare to criticize.
+
+"too willing to agree with other people or to obey rules"
+
+
+
+03.control-compliant
+
+[phrase] "Compliance controls are **mechanisms, policies, and procedures an organization implements to ensure adherence to laws, regulations, and internal standards**."
+
+
+
+#### 07/20.01
+
+01.fatally / ˈfeɪtəli /
+
+[adv] "with death as a result."
+
+
+
+#### 07/22.01
+
+01.dowry /ˈdaʊri/
+
+[n] Dowry practices, where the bride's family provides gifts or wealth to the groom's family, are prevalent in several regions including South Asia, parts of Africa, and some Eastern European and Middle Eastern countries. While dowry is illegal in many of these countries, it continues to be practiced, sometimes disguised as gifts or affection. 
+
+In some cases, the practice leads to violence against women, including dowry deaths.
+
+"money and/or property that, in some societies, a wife or her family must pay to her husband when they get married"
+
+[n] "money and/or property that, in some societies, a husband must pay to his wife's family when they get married"
+
+
+
+The terms **"custom"** and **"practice"** are similar but have distinct meanings depending on context. Here's a breakdown of their differences:
+
+------
+
+🔹 1. **Definition**
+
+| Term         | Meaning                                                      |
+| ------------ | ------------------------------------------------------------ |
+| **Custom**   | A long-established tradition or norm followed by a group or society. |
+| **Practice** | A repeated action or behavior, often done for a specific purpose or function. |
+
+------
+
+🔹 2. **Key Differences**
+
+| Aspect          | **Custom**                                              | **Practice**                       |
+| --------------- | ------------------------------------------------------- | ---------------------------------- |
+| **Origin**      | Cultural, historical, or traditional                    | Habitual, learned, or professional |
+| **Duration**    | Long-term, often generational                           | Can be short- or long-term         |
+| **Flexibility** | Harder to change                                        | More adaptable                     |
+| **Examples**    | Shaking hands when greeting; Lunar New Year gift-giving | Daily meditation; Medical practice |
+
+------
+
+🔹 3. **Examples in Use**
+
+- **Custom**:
+
+  > "In my country, it's a **custom** to remove your shoes before entering someone’s home."
+
+- **Practice**:
+
+  > "It's common **practice** for doctors to wash their hands before seeing each patient."
+
+------
+
+🔹 4. **Overlap**
+
+Sometimes they are interchangeable:
+
+- "It's the **custom/practice** here to bow when greeting someone."
+
+But in formal/professional or legal contexts, **practice** is more common:
+
+- "Accounting **practices**"
+- "Best **practices** in software development"
+
+------
+
+Summary
+
+- Use **custom** when referring to **cultural or traditional norms**.
+- Use **practice** when referring to **repeated actions or professional procedures**.
+
+
+
+
+
+#### 07/23.03
+
+01.agriculture /ˈæɡrɪkʌltʃər/
+
+[n] The number of people employed in agriculture has fallen in the last decade.
+
+"the science or practice of farming"
+
+
+
+02.agricultural /ˌæɡrɪˈkʌltʃərəl/
+
+[adj] He also said Japan will “open their Country to Trade including Cars and Trucks, Rice and certain other Agricultural Products, and other things.”
+
+"Agricultural means involving or relating to agriculture."
+
+
+
+03.levy/ˈlevi/
+
+[n] to put/impose a levy on oil imports.
+
+"an extra amount of money that has to be paid, especially as a tax to the government"
+
+[v] Tensions with the U.S. have meanwhile escalated as the White House has restricted Chinese access to advanced technology and levied tariffs on Chinese goods./
+
+In his tariff letter sent to Japan earlier this month, Trump had threatened 25% levies on the country’s exports from Aug. 1, one percentage point higher from the 24% rate announced during his April 2 “Liberation Day” tariffs.
+
+"to use official authority to demand and collect a payment, tax, etc."
+
+
+
+#### 07/24.01
+
+01.recession /rɪˈseʃn/
+
+[n] South Korea avoided a technical recession as its economy expanded by 0.6% from the previous quarter, beating expectations, according to advance estimates.
+
+"a difficult time for the economy of a country, when there is less trade and industrial activity than usual and more people are unemployed"
+
+
+
+#### 07/28.01
+
+01.baptist /ˈbæptɪst/
+
+[n] "a member of a Christian Protestant Church that believes that baptism should take place when a person is old enough to understand what it means, and not as a baby"
+
+
+
+#### 07/31.03
+
+01.secondary  [ˈsekəndri]  [ˈsekənderi] 
+
+[adj]  {~ (to sth)}  That is just a secondary consideration ."less important than sth else"
+
+
+
+02.secondary battery /ˈsekənderi ˈbætəri/
+
+[n] will play a role in facilitating the active entry of Korean companies into the US market in industries where we have strengths, such as shipbuilding, semiconductors, secondary batteries, biotechnology, and energy.
+
+"A secondary battery, also known as a [rechargeable battery](https://www.google.com/search?newwindow=1&sca_esv=6d2215782c6bedf0&sxsrf=AE3TifNqqvTaI4cO6BI1vz2h1rfBg5Hh7w%3A1753928470571&q=rechargeable+battery&sa=X&ved=2ahUKEwiPvczbhOaOAxVqe_UHHWXWIZIQxccNegQIKBAB&mstk=AUtExfCQUvsV4lTFFQVzab8mEzSRla25P0-75AFYjKS6kT5nHLd9hhCGcEHzCrnS8pOsNJV0yCrmwJ13BC52usedWac2tD2Ff9LEX3-28DfbcaXhXI5vbXlgJ1R_H-tgbeQFxA45_AIhZUI4fMB2rVfNOI0cYzQu-KXx3__0twRo_fSqJSZ81sMBTBdec_g9Q6n9zWMo8VI__rwlyCFi-txrSH1dYYmLk53JPx0mO7nMxqdKNUuRZnA7IbPHoBDLFF2YcREznBSzrKqUMSkc1Cuxx4oI&csui=3) or [storage battery](https://www.google.com/search?newwindow=1&sca_esv=6d2215782c6bedf0&sxsrf=AE3TifNqqvTaI4cO6BI1vz2h1rfBg5Hh7w%3A1753928470571&q=storage+battery&sa=X&ved=2ahUKEwiPvczbhOaOAxVqe_UHHWXWIZIQxccNegQIKBAC&mstk=AUtExfCQUvsV4lTFFQVzab8mEzSRla25P0-75AFYjKS6kT5nHLd9hhCGcEHzCrnS8pOsNJV0yCrmwJ13BC52usedWac2tD2Ff9LEX3-28DfbcaXhXI5vbXlgJ1R_H-tgbeQFxA45_AIhZUI4fMB2rVfNOI0cYzQu-KXx3__0twRo_fSqJSZ81sMBTBdec_g9Q6n9zWMo8VI__rwlyCFi-txrSH1dYYmLk53JPx0mO7nMxqdKNUuRZnA7IbPHoBDLFF2YcREznBSzrKqUMSkc1Cuxx4oI&csui=3), is designed to be charged and discharged multiple times. "
+
+
+
+03.declare /dɪˈkler/
+
+[v] The government has declared a state of emergency."to say sth officially or publicly"
+
+[v] Do you have anything to declare?
+
+"to tell customs officers (= at the border of a country) that you are carrying goods on which you should pay tax"
+
+
+
+#### 08/01.01
+
+01.contingency /kənˈtɪndʒənsi/
+
+[n] We must consider all possible contingencies.
+
+"an event that may or may not happen"
+
+
+
+#### 08/04.01
+
+01.proprietary /prəˈpraɪəteri/
+
+[adj] We compare VACE comprehensive model based on LTX-Video with task proprietary approaches on VACE-Benchmark.
+
+"made and sold by a particular company and protected by a registered trademark"
+
+
+
+#### 08/11.02
+
+01.evangelical /ˌiːvænˈdʒelɪkl/
+
+[adj] evangelical founder.
+
+"wanting very much to persuade people to accept your views and opinions"
+
+[n] "a member of the evangelical branch of the Christian Church"
+
+
+
+02.handful  [ˈhændfʊl] 
+
+[noun] There has been speculation over Beijing's reopening to Korean content in recent years, but only a handful of films and dramas returned to Chinese platform since last year.
+
+ "a small number of people or things"
+
+
+
+#### 08/12.01
+
+01.glacier /ˈɡleɪʃər/
+
+[n] British man who died in Antarctic glacier found 65 years later.
+
+"a large mass of ice, formed by snow on mountains, that moves very slowly down a valley"
+
+
+
+#### 08/13.02
+
+01.hamster /ˈhæmstər/
+
+[n] "an animal like a large mouse, with large cheeks for storing food. Hamsters are often kept as pets."
+
+
+
+02.flying squirrel /ˌflaɪɪŋ ˈskwɜːrəl/
+
+[n] "a small animal like a squirrel which travels through the air between trees, spreading out the skin between its front and back legs to stop itself from falling too quickly"
+
+
+
+#### 08/14.01
+
+01.outmaneuver 
+
+[v] How Putin could try to outmaneuver Trump when they meet.
+
+"defeat by more skillful maneuvering"
+
+
+
+#### 08/17.03
+
+01.imminent /ˈɪmɪnənt/
+
+[adj] Trump says no imminent plans to penalize China for buying Russian oil.
+
+"likely to happen very soon"
+
+
+
+02.concession /kənˈseʃn/
+
+[n] CBS quotes sources as saying that Trump told European leaders in a call after the summit that Putin would make "some concessions", but failed to specify what they were.
+
+"something that you allow or do, or allow sb to have, in order to end an argument or to make a situation less difficult"
+
+
+
+03.handout /ˈhændaʊt/
+
+[n] About 80,000 foreign residents in Seoul eligible for cash handouts.
+
+"money that is given to a person or an organization by the government, etc., for example to encourage commercial activity"
+
+
+
+#### 08/18.06
+
+01.onus /ˈoʊnəs/
+
+[n] Trump puts onus on Zelenskyy to end conflict with Russia ahead of meeting.
+
+"the responsibility for sth"
+
+
+
+02.rash  [ræʃ] 
+
+[noun] I come out in a rash (= a rash appears on my skin) if I eat chocolate. 
+
+"**an area of red spots** on a person's skin, caused by an illness or a reaction to sth"
+
+[noun] {~ (of sth)} a rash of movies about life in prison."**a lot of sth**; a series of unpleasant things that happen over a short period of time" -spate-
+
+[adj] a rash young man."doing sth that may not be sensible without first thinking about the possible results" -impulsive/reckless-
+
+
+
+03.reckless /ˈrekləs/
+
+[adj] She was a good rider, but reckless.
+
+"showing a lack of care about danger and the possible results of your actions"
+
+
+
+04.carnivore /ˈkɑːrnɪvɔːr/
+
+[n] a carnivorous diet.
+
+"any animal that eats meat"
+
+
+
+05.satiate /ˈseɪʃieɪt/
+
+[v] working out can lead to feelings of satiety.
+
+"to give sb so much of sth that they do not feel they want any more"
+
+
+
+06.tingle /ˈtɪŋɡl/
+
+[n] In Spider-Man comics, the "tingle" refers to his Spider-Sense, a prehensile intuition that alerts him to danger.
+
+"a slight prickling or stinging sensation."
+
+
+
+#### 08/19.03
+
+01.brunt /brʌnt/
+
+[n] Ukraine to bear the brunt of Russia’s invasion.
+
+"To bear the brunt or take the brunt of something unpleasant means to suffer the main part or force of it."
+
+
+
+02.attire /əˈtaɪər/
+
+[n]{formal} In conclusion, the difference between attire and clothes lies in their connotation and formality. Attire refers to clothing worn for a specific occasion or purpose, while clothes are a general term for garments worn on a daily basis. It is important to understand the distinction between the two to avoid miscommunication and to convey the appropriate level of formality in different settings.
+
+The Ukrainian president's military-style *attire* was questioned by a Maga media star before he was upbraided by President Trump and JD Vance.
+
+ "clothes"
+
+
+
+03.upbraid /ʌpˈbreɪd/ 
+
+[v] The U.S. president *upbraided Zelenskyy* in front of world media at the time, saying Ukraine's leader did not "hold the cards" in negotiations ...
+
+"If you upbraid someone, you tell them that they have done something wrong and criticize them for doing it."
+
+
+
+#### 08/20.07
+
+01.brink of collapse 
+
+[phrasal] The Prime Minister's fragile government was on the brink of collapse.
+
+
+
+02.brink  [brɪŋk]
+
+[noun] {the ~ (of sth)} on the brink of collapse/war/death/disaster.  
+
+"if you are on the brink of sth, you are almost in a very new, dangerous or exciting situation"
+
+[noun]{literary  [ˈlɪtərəri]} the brink of the precipice. "the extreme edge of land, for example at the top of a cliff or by a river"
+
+
+
+03.collapse   [kəˈlæps]
+
+[verb] The roof collapsed under the weight of snow."to fall down or fall in suddenly, often after breaking apart" -give way-
+
+[v] outputs are collapsed.
+
+"to fold sth into a shape that uses less space; to be able to be folded in this way" -fold up-
+
+[noun] the collapse of law and order in the area. "a sudden failure of sth, such as an institution, a business or a course of action"
+
+
+
+04.fizzy /ˈfɪzi/
+
+[adj] It's like fizzy milk.
+
+"having bubbles of gas in it"
+
+
+
+05.moreish /ˈmɔːrɪʃ/
+
+[adj] But I reckon if you had it three or four times you would get a bit more moreish.
+
+ "if food or drink is moreish , it tastes so good that you want to have more of it"
+
+
+
+06.reckon **[ˈrekən]** 
+
+[V] He'll be famous one day. What do you reckon (= do you agree) ?
+
+" to think sth or have an opinion about sth  "
+
+[V] {be reckoned}    Children are reckoned to be more **sophisticated** nowadays.
+
+"to be generally considered to be sth"
+
+[V]   We reckon to finish by ten. 
+
+"to expect to do sth"
+
+[V]  to calculate an amount, a number, etc.  
+
+"The age of the earth is reckoned at about 4 600 million years."
+
+```
+“Think” is by far the more common of the two verbs. While “think” is probably found in all varieties of English, “reckon” is limited to some (beautiful) regional dialects. Also, “reckon” is more like “figuring out from evidence” or “guessing” than “think” is, which signifies a basic thought process.
+```
+
+
+
+07.texture  [ˈtekstʃə(r)]
+
+[n] The two cheeses were very different in both taste and texture.
+
+"the way food or drink tastes or feels in your mouth, for example whether it is rough, smooth, light, heavy, etc."
+
+
+
+#### 08/21.02
+
+01.radioactive /ˌreɪdioʊˈæktɪv/
+
+[adj] Walmart recalls frozen shrimp over potential radioactive contamination.
+
+"sending out harmful radiation caused when the nuclei (= central parts) of atoms are broken up"
+
+
+
+02.contamination /kənˌtæmɪˈneɪʃn/
+
+[n] "the act of contaminating or polluting,including (either intentionally or accidentally) unwanted substances or factors"
+
+
+
+#### 08/22.01
+
+01.commend /kəˈmend/
+
+[verb] I want to commend your performance during this intership.
+
+"to praise sb/sth, especially publicly"
+
+
+
+#### 08/28
+
+01.kip /kɪp/
+
+[n] I must get some kip. 
+
+"sleep"
+
+
+
+02.philanthropic /ˌfɪlənˈθrɑːpɪk/
+
+[adj] Gates stepped down from his seat on the board of directors altogether, citing his desire to dedicate more time to his philanthropic priorities, such as global health and climate change initiatives. 
+
+"A philanthropic person or organization freely gives money or other help to people who need it."
+
+
+
+
+
+
 
 
 
