@@ -1819,7 +1819,7 @@ Why don't you shove up so that Brian can sit next to you? "to move in order to m
 
 
 
-#### 2020/01/14.12
+#### 2020/01/14.10
 
 01.proximity  [prɒkˈsɪməti]  [prɑːkˈsɪməti]
 
@@ -1913,21 +1913,17 @@ The tennis star made the allegations on Chinese social media site Weibo./Seo Soo
 
 
 
-07.petition  [pəˈtɪʃn]
+07.guard   [ɡɑːd]
 
-[noun] {~ (against/for sth)} a petition against experiments on animals.
+[noun] a security guard. 
 
-*As of Friday, nearly 41,000 people have signed the petition exposing the student's alleged academic misconduct.*/
+"a person, such as a soldier, a police officer or a prison officer, who protects a place or people, or prevents prisoners from escaping"
 
-But the labor ministry said the Seoul western labor office decided to reject the petition regarding NewJeans member Hanni because she cannot be viewed as a worker under the Labor Standards Act.
+[verb] The dog was guarding its owner's luggage. "to protect property, places or people from attack or danger"
 
-"a written document signed by a large number of people that asks sb in a position of authority to do or change sth/请愿"
+[verb] The prisoners were guarded by soldiers. "to prevent prisoners from escaping"
 
-[verb] {~ for/against sth | ~ sb (for sth)}
-
-Local residents have successfully petitioned against the siting of a prison in their area.
-
-"to make a formal request to sb in authority, especially by sending them a petition"
+[verb phrase] **guard against sth**" to guard against accidents/disease.to take care to prevent sth or to protect yourself from sth"
 
 
 
@@ -1954,24 +1950,6 @@ The airport operator said the total weekly flights between Gimpo and the Chinese
 [adv] It's about halfway between London and Bristol. 
 
 "at an equal distance between two points; in the middle of a period of time"
-
-
-
-11.guard   [ɡɑːd]
-
-[noun] a security guard. 
-
-"a person, such as a soldier, a police officer or a prison officer, who protects a place or people, or prevents prisoners from escaping"
-
-[verb] The dog was guarding its owner's luggage. "to protect property, places or people from attack or danger"
-
-[verb] The prisoners were guarded by soldiers. "to prevent prisoners from escaping"
-
-[verb phrase] **guard against sth**" to guard against accidents/disease.to take care to prevent sth or to protect yourself from sth"
-
-
-
-
 
 
 
@@ -4276,7 +4254,7 @@ Have you checked his curriculum vitae? "履历"
 
 
 
-#### 2020/04/08.14
+#### 2020/04/08.15
 
 01.within  [wɪˈðɪn] 
 
@@ -4348,15 +4326,11 @@ D[adj] He denied his father's rumoured love affair.
 
 
 
-08.contain  [kənˈteɪn]
+08.politician /ˌpɒləˈtɪʃn/ /ˌpɑːləˈtɪʃn/
 
-all [verb] {not used in the progressive tenses}
+[noun] They have arrested a number of leading opposition politicians.
 
-This drink doesn't contain any alcohol. "if sth contains sth else, it has that thing inside it or as part of it"
-
-She was unable to contain her excitement. "to keep your feelings under control" -restrain-
-
-to contain an epidemic. "to prevent sth harmful from spreading or getting worse"
+"a person whose job is concerned with politics, especially as an elected member of parliament, etc."
 
 
 
@@ -4428,11 +4402,7 @@ He later accused reporters of willful distortion and bias.
 
 
 
-16.politician /ˌpɒləˈtɪʃn/ /ˌpɑːləˈtɪʃn/
 
-[noun] They have arrested a number of leading opposition politicians.
-
-"a person whose job is concerned with politics, especially as an elected member of parliament, etc."
 
 
 
@@ -11314,7 +11284,7 @@ it can also be used the same way as hard in telling difficulty.
 
 
 
-#### 2020/09/23.05
+#### 2020/09/23.08
 
 01.temporary [ˈtemprəri]
 
@@ -11368,7 +11338,7 @@ D[adv] We regret this service is temporarily unavailable.
 
 
 
-09.take place /teɪk pleɪs/
+06.take place /teɪk pleɪs/
 
 [v] A total solar eclipse **is due to** take place some time tomorrow. "come to pass"
 
@@ -11376,13 +11346,13 @@ D[adv] We regret this service is temporarily unavailable.
 
 
 
-10.rural  [ˈrʊərəl]
+07.rural  [ˈrʊərəl]
 
 [adj] rural areas. "connected with or like the countryside"
 
 
 
-11.solar eclipse /ˈsoʊlər ɪˈklɪps/
+08.solar eclipse /ˈsoʊlər ɪˈklɪps/
 
 [n] please do not take medical advise from a man who looked directly at a solar eclipse. 
 
@@ -11744,11 +11714,15 @@ dominant hand vs non-dominant hand
 
 
 
-06.recipient  [rɪˈsɪpiənt] 
+06.occurrence /əˈkʌrəns/ /əˈkɜːrəns/
 
-[noun] recipients of awards./ He is a recipient of the Siebel Scholarship. 
+[n] a common/everyday/frequent/regular occurrence. 
 
-"a person who receives sth"
+"something that happens or exists"
+
+[n] a link between the occurrence of skin cancer and the use of computer monitors.
+
+"the fact of sth happening or existing"
 
 
 
@@ -11768,15 +11742,7 @@ dominant hand vs non-dominant hand
 
 
 
-08.occurrence /əˈkʌrəns/ /əˈkɜːrəns/
 
-[n] a common/everyday/frequent/regular occurrence. 
-
-"something that happens or exists"
-
-[n] a link between the occurrence of skin cancer and the use of computer monitors.
-
-"the fact of sth happening or existing"
 
 
 
@@ -12394,7 +12360,7 @@ D[adv] reliably. I am reliably informed (= told by sb who knows the facts) that 
 
 
 
-#### 2020/10/09.15
+#### 2020/10/09.13
 
 01.dense [dens] 
 
@@ -12520,23 +12486,21 @@ Chest is that part of our body which contains muscles, fat and along with **bone
 
 
 
-14.delight [dɪˈlaɪt]
-
-[noun] a feeling of sheer/pure delight.  "a feeling of great pleasure" -joy-
-
-[noun] This guitar is a delight to play. "something that gives you great pleasure" -joy-
-
-[verb] This news will delight his fans all over the world. "to give sb a lot of pleasure and enjoyment"
 
 
 
-15.notation [nəʊˈteɪʃn] 
 
-[noun] "a system of signs or symbols used to represent information, especially in mathematics, science and music"
+
 
 
 
 #### 2020/10/10.19
+
+01.cliff [klɪf]
+
+[noun] the cliff edge/top. 
+
+"a high area of rock with a very steep side, often at the edge of the sea or ocean"
 
 
 
@@ -12558,7 +12522,9 @@ Chest is that part of our body which contains muscles, fat and along with **bone
 
 
 
+04.notation [nəʊˈteɪʃn] 
 
+[noun] "a system of signs or symbols used to represent information, especially in mathematics, science and music"
 
 
 
@@ -12625,6 +12591,14 @@ Chest is that part of our body which contains muscles, fat and along with **bone
 "a position in which one end or side of sth is higher than the other; an act of tilting sth to one side"
 
 
+
+10.delight [dɪˈlaɪt]
+
+[noun] a feeling of sheer/pure delight.  "a feeling of great pleasure" -joy-
+
+[noun] This guitar is a delight to play. "something that gives you great pleasure" -joy-
+
+[verb] This news will delight his fans all over the world. "to give sb a lot of pleasure and enjoyment"
 
 
 
@@ -12727,12 +12701,6 @@ In summary, the main differences between blackbirds and crows are their physical
 ```
 
 
-
-20.cliff [klɪf]
-
-[noun] the cliff edge/top. 
-
-"a high area of rock with a very steep side, often at the edge of the sea or ocean"
 
 
 
@@ -17060,33 +17028,9 @@ plenty of eggs/money/time.
 
 
 
-#### 2020/12/09.02
+#### 2020/12/09.01
 
-01.argument  [ˈɑː(r)ɡjumənt] 
-
-[noun] {~ (with sb) (about/over sth)}
-
-We had an argument with the waiter about the bill.
-
-"a conversation or discussion in which two or more people disagree, often angrily"
-
-[noun] {~ (for/against sth) | ~ (that…)}
-
-There are strong arguments for and against euthanasia. 
-
-"a reason or set of reasons that sb uses to show that sth is true or correct"
-
-[noun] {~ (about sth)} 
-
-Let's assume for the sake of argument (= in order to discuss the problem) that we can't start till March.
-
-"the act of disagreeing in a conversation or discussion using a reason or set of reasons"
-
-[programming tech] "实参"
-
-
-
-02.parameter [pəˈræmɪtə(r)]
+01.parameter [pəˈræmɪtə(r)]
 
 [noun] to set/define the parameters.  "something that decides or limits the way in which sth can be done"
 
@@ -19250,7 +19194,7 @@ A lamp was suspended from the ceiling."to hang sth from sth else"
 
 
 
-#### 20210203.19
+#### 20210203.17
 
 01.affluent /ˈæfluənt/
 
@@ -19328,9 +19272,15 @@ A lamp was suspended from the ceiling."to hang sth from sth else"
 
 
 
-09.comprehend [ˌkɒmprɪˈhend]
+09.doctrine [ˈdɒktrɪn]   [ˈdɑːktrɪn] 
 
-[verb] {(often used in negative sentences 常用于否定句) (formal) } The infinite distances of space are too great for the human mind to comprehend. "to understand sth fully"
+[noun] Christian doctrine.
+
+"a belief or set of beliefs held and taught by a Church, a political party, etc."
+
+[noun]the Monroe Doctrine./ATM, it feels like they have a doctrine of "pick only the fights you can win" 
+
+"a statement of government policy"
 
 
 
@@ -19396,27 +19346,7 @@ A lamp was suspended from the ceiling."to hang sth from sth else"
 
 
 
-18.quote [kwəʊt] 
 
-[verb] {~ (sth) (from sb/sth) | ~ (sb) (as doing sth)} 
-
-He quoted a passage from the minister's speech./
-
-This is a video that is very often quoted in all sorts of native media.
-
-"to repeat the exact words that another person has said or written"
-
-
-
-19.doctrine [ˈdɒktrɪn]   [ˈdɑːktrɪn] 
-
-[noun] Christian doctrine.
-
-"a belief or set of beliefs held and taught by a Church, a political party, etc."
-
-[noun]the Monroe Doctrine./ATM, it feels like they have a doctrine of "pick only the fights you can win" 
-
-"a statement of government policy"
 
 
 
@@ -24035,7 +23965,7 @@ D[adv] He has lived and worked in France almost continuously since 1990.
 
 
 
-#### 20210517.12
+#### 20210517.11
 
 01.consciously [ˈkɒnʃəsli]  [ˈkɑnʃəsli] 
 
@@ -24059,7 +23989,17 @@ D[adv] He has lived and worked in France almost continuously since 1990.
 
 
 
+04.revelation  [ˌrevəˈleɪʃn]
 
+[noun] {~ (about/concerning sth) | ~ (that…)}
+
+startling/sensational revelations about her private life.
+
+ "a fact that people are made aware of, especially one that has been secret and is surprising" -disclosure-
+
+[noun] The company's financial problems followed the revelation of a major fraud scandal.
+
+"the act of making people aware of sth that has been secret" -disclosure-
 
 
 
@@ -24115,17 +24055,7 @@ D[adv] He has lived and worked in France almost continuously since 1990.
 
 
 
-12.revelation  [ˌrevəˈleɪʃn]
 
-[noun] {~ (about/concerning sth) | ~ (that…)}
-
-startling/sensational revelations about her private life.
-
- "a fact that people are made aware of, especially one that has been secret and is surprising" -disclosure-
-
-[noun] The company's financial problems followed the revelation of a major fraud scandal.
-
-"the act of making people aware of sth that has been secret" -disclosure-
 
 
 
@@ -36144,7 +36074,9 @@ Job hopping is **a trend that is growing exponentially in the labour market and 
 
 "to make sb/sth seem less important than they really are" -belittle-
 
-#### 03/19.09
+
+
+#### 03/19.08
 
 01.hieroglyph [ˈhaɪərəɡlɪf]
 
@@ -36160,11 +36092,11 @@ Job hopping is **a trend that is growing exponentially in the labour market and 
 
 
 
-03.baton [bəˈtɑːn]
+03.heart attack [ˈhɑːrt ətæk]
 
-[noun] to pass/hand over the baton. 
+[noun] He died of a heart attack **brought on by** overwork.
 
-"a small light stick that one member of a team in a relay race passes to the next person to run"
+"a sudden serious medical condition in which the heart stops working normally, sometimes causing death"
 
 
 
@@ -36218,11 +36150,7 @@ prescriptive powers.
 
  
 
-09.heart attack [ˈhɑːrt ətæk]
 
-[noun] He died of a heart attack **brought on by** overwork.
-
-"a sudden serious medical condition in which the heart stops working normally, sometimes causing death"
 
 
 
@@ -54116,7 +54044,7 @@ The Ukrainian president's military-style *attire* was questioned by a Maga media
 
 
 
-#### 08/28
+#### 08/28.02
 
 01.kip /kɪp/
 
@@ -54133,6 +54061,306 @@ The Ukrainian president's military-style *attire* was questioned by a Maga media
 "A philanthropic person or organization freely gives money or other help to people who need it."
 
 
+
+#### 08/31.04
+
+01.forensic /fəˈrenzɪk/
+
+[adj] forensic evidence/medicine/science/tests.
+
+"connected with the scientific tests used by the police when trying to solve a crime"
+
+
+
+02.browse /braʊz/
+
+[v] You are welcome to come in and browse.
+
+"to look at a lot of things in a shop/store rather than looking for one particular thing"
+
+
+
+03.contain  [kənˈteɪn]
+
+all [verb] {not used in the progressive tenses}
+
+This drink doesn't contain any alcohol. "if sth contains sth else, it has that thing inside it or as part of it"
+
+She was unable to contain her excitement. "to keep your feelings under control" -restrain-
+
+[verb] to contain an epidemic./The fire was quickly contained and everyone was evacuated in an orderly manner. 
+
+"to prevent sth harmful from spreading or getting worse"
+
+
+
+> The verb "contain" is a [stative verb](https://www.google.com/search?newwindow=1&sca_esv=5e51b69b39b86b67&cs=0&sxsrf=AE3TifN7CXGK9Lf6Xz_pC1Xfj4Ky1opZ2A%3A1756619925469&q=stative+verb&sa=X&ved=2ahUKEwjy9ciUr7SPAxV41TQHHS6OOy4QxccNegQIAhAB&mstk=AUtExfCIQUHWvK3DDsUY_DTZFMZQzXIkhtKNKNrDlGdTRwe11G7NxmF8oiQxoWifCXrJEEXLpyF7Ko8hePdl6QUZ8hIklxUZARO6UbAEcjS_C2E5PzpYqZd8wt2uwN5no0mJ5ycz8YFX2aUjrKcSwgE2nMCrjXZU4-AFvOj14CoVeVjNRaA&csui=3) that describes a state of being or possession, not an action, and is not used in progressive (or continuous) tenses because stative verbs typically refer to ongoing, unchanging states rather than dynamic actions. For example, you would say "The box contains the toys" (simple present) and not "The box is containing the toys" (present progressive). However, "contain" can be used in a progressive tense if it has a secondary meaning, such as "to limit the spread of something" or "to keep something within boundaries," like "Firefighters are containing the blaze". 
+
+
+
+04.blaze /bleɪz/
+
+[n] Dry wood makes a good blaze.
+
+"strong bright flames in a fire"
+
+
+
+05.refinery /rɪˈfaɪnəri/
+
+[n] Russia has carried out a massive overnight attack on 14 regions of Ukraine, authorities have said, as Kyiv struck Russian oil refineries.
+
+"a factory where a substance such as oil is refined (= made pure)"
+
+
+
+06.quote [kwəʊt] 
+
+[verb] {~ (sth) (from sb/sth) | ~ (sb) (as doing sth)} 
+
+He quoted a passage from the minister's speech./
+
+This is a video that is very often quoted in all sorts of native media.
+
+"to repeat the exact words that another person has said or written"
+
+
+
+#### 09/01.03
+
+01.barrage /bəˈrɑːʒ/
+
+[n] The latest barrage comes amid ongoing international efforts to secure a peace deal between the two warring nations - and days after the Ukrainian capital Kyiv faced [the second largest aerial attack of the war](https://www.bbc.co.uk/news/articles/cy9834jp9qno) so far, with at least 25 killed.
+
+"the continuous firing of a large number of guns in a particular direction, especially to protect soldiers while they are attacking or moving towards the enemy"
+
+[n] Bullet screen game."a large number of sth, such as questions or comments, that are directed at sb very quickly, one after the other, often in an aggressive way"
+
+
+
+02.abuzz /əˈbʌz/
+
+[adj] Matcha prices have hit an all-time high as its health benefits keep the internet abuzz.
+
+"If someone says that a place is abuzz with rumours or plans, they mean that everyone there is excited about them."
+
+
+
+03.deceptive /dɪˈseptɪv/
+
+[adj] AliExpress Korea fined $1.5 mil. for deceptive pricing.
+
+"likely to make you believe sth that is not true"
+
+
+
+#### 09/04.02
+
+01.baton [bəˈtɑːn]
+
+[noun] to pass/hand over the baton. /Italy used to be the bad boy of Europe. Now, France is taking the baton.
+
+"a small light stick that one member of a team in a relay race passes to the next person to run"
+
+
+
+02.grin /ɡrɪn/
+
+[v] "to smile widely"
+
+
+
+#### 09/08.02
+
+01.ergonomics /ˌɜːrɡəˈnɑːmɪks/
+
+[n] "the study of working conditions, especially the design of equipment and furniture, in order to help people work more efficiently"
+
+
+
+02.ergonomic /ˌɜːrɡəˈnɑːmɪk/
+
+[adj] ergonomic design.
+
+"designed to improve people's working conditions and to help them work more efficiently"
+
+
+
+#### 09/09.02
+
+01.argument  [ˈɑː(r)ɡjumənt] 
+
+[noun] {~ (with sb) (about/over sth)}
+
+We had an argument with the waiter about the bill.
+
+"a conversation or discussion in which two or more people disagree, often angrily"
+
+[noun] {~ (for/against sth) | ~ (that…)}
+
+There are strong arguments for and against euthanasia. 
+
+"a reason or set of reasons that sb uses to show that sth is true or correct"
+
+[noun] {~ (about sth)} 
+
+Let's assume for the sake of argument (= in order to discuss the problem) that we can't start till March.
+
+"the act of disagreeing in a conversation or discussion using a reason or set of reasons"
+
+[programming tech] "实参"
+
+
+
+02.euthanasia /ˌjuːθəˈneɪʒə/
+
+[n] The prospects of using AI in euthanasia and physician-assisted suicide: a legal exploration.
+
+"the practice (illegal in most countries) of killing without pain a person who is suffering from a disease that cannot be cured"
+
+
+
+#### 09/10.01
+
+01.university completion /kəmˈpliːʃn/
+
+[phrase] "University completion is a broad term referring to **achieving your specific academic or personal goals within a university setting**, which traditionally means earning a degree but can also include obtaining certificates, developing skills, or meeting other defined objectives, even if a formal degree isn't the ultimate outcome. "
+
+
+
+#### 09/15.02
+
+01.fluffy /ˈflʌfi/
+
+[adj] "soft, light and containing air"
+
+
+
+02.crispy /ˈkrɪspi/
+
+[adj] These epic fries are crispy and golden on the outside and fluffy on the inside.
+
+"crisp:pleasantly hard and dry"
+
+
+
+#### 09/17.01
+
+01.petition  [pəˈtɪʃn]
+
+[noun] {~ (against/for sth)} a petition against experiments on animals./Korea’s visa-free entry program for Chinese tour groups is drawing public backlash, with more than 52,000 citizens signing [a petition](https://petitions.assembly.go.kr/proceed/onGoingAll/3A827D84A1354ACFE064B49691C6967B) for its cancellation just two weeks before it is set to begin.
+
+*As of Friday, nearly 41,000 people have signed the petition exposing the student's alleged academic misconduct.*/
+
+But the labor ministry said the Seoul western labor office decided to reject the petition regarding NewJeans member Hanni because she cannot be viewed as a worker under the Labor Standards Act.
+
+"a written document signed by a large number of people that asks sb in a position of authority to do or change sth/请愿"
+
+[verb] {~ for/against sth | ~ sb (for sth)}
+
+Local residents have successfully petitioned against the siting of a prison in their area.
+
+"to make a formal request to sb in authority, especially by sending them a petition"
+
+
+
+#### 09/18.02
+
+01.lapse /læps/
+
+[v] She had allowed her membership to lapse.
+
+"to be no longer valid because the period of time that it lasts has come to an end"
+
+
+
+02.lapsed /læpst/
+
+[adj] Your IEEE benefits have lapsed.
+
+"If a situation or legal contract lapses, it is allowed to end rather than being continued, renewed, or extended."
+
+
+
+#### 09/21.02
+
+01.recipient  [rɪˈsɪpiənt] 
+
+[noun] recipients of awards./ He is a recipient of the Siebel Scholarship. 
+
+Top 10 H-1B visa recipients in FY 2025 (Q1–Q3).
+
+"a person who receives sth"
+
+
+
+02.comprehend [ˌkɒmprɪˈhend]
+
+[verb] {(often used in negative sentences 常用于否定句) (formal) } The infinite distances of space are too great for the human mind to comprehend. 
+
+/The reason I’m in America along with so many critical people who built SpaceX, Tesla and hundreds of other companies that made America strong is because of H1B. Take a big step back and FUCK YOURSELF in the face. I will go to war on this issue the likes of which you cannot possibly comprehend.
+
+"to understand sth fully"
+
+
+
+#### 09/24.04
+
+01.talent draw 
+
+[phrase] The startup’s flexible work culture is a big talent draw.
+
+ "**Attraction of talent** – how much a company, organization, or event appeals to skilled people."
+
+
+
+02.revamp /ˈriːvæmp , ˌriːˈvæmp/
+
+[v] Europe’s work-life balance a key talent draw as Trump revamps H-1B visa.
+
+"to make changes to the form of sth, usually to improve its appearance"
+
+
+
+03.Teleprompter /ˈteliprɑːmptər/
+
+[n] "A Teleprompter is a device used by people speaking on television or at a public event, which displays words for them to read."
+
+
+
+04.overrun /ˈoʊvərʌn , ˌoʊvəˈrʌn/
+
+[v] The house was completely overrun with mice.
+
+"to fill or spread over an area quickly, especially in large numbers"
+
+
+
+#### 09/25
+
+01.daredevil /ˈderdevl/
+
+[n] A daredevil parachutist jumped from the top of Tower Bridge today. 
+
+"a person who enjoys doing dangerous things, in a way that other people may think is stupid"
+
+
+
+02.parachutist /ˈpærəʃuːtɪst/
+
+[n] He was an experienced parachutist who had done over 150 jumps.
+
+"a person who jumps from a plane using a parachute"
+
+
+
+03.parachute /ˈpærəʃuːt/
+
+[n] Planes dropped supplies by parachute.
+
+"a device that is attached to people or objects to make them fall slowly and safely when they are dropped from an aircraft. It consists of a large piece of thin cloth that opens out in the air to form an umbrella shape."
+
+ 
 
 
 
