@@ -5038,7 +5038,7 @@ We're open till 6 o'clock.
 
 
 
-#### 2020/04/24.09
+#### 2020/04/24.08
 
 01.scammer [ˈskæmə(r)]
 
@@ -5056,11 +5056,11 @@ We're open till 6 o'clock.
 
 
 
-03.pessimistic  [ˌpesɪˈmɪstɪk]
+03.scam  [skæm]
 
-[adj] {~ (about sth)}  They appeared surprisingly pessimistic about their chances of winning.
+[noun] {informal}The scam, which was reported by Gizmodo, is called a "rug pull." 
 
-"expecting **bad things** to happen or sth not to be successful; showing this"
+"a clever and dishonest plan for making money"
 
 
 
@@ -5103,14 +5103,6 @@ We're open till 6 o'clock.
  [adj] an aggressive advertising campaign. 
 
 "acting with force and determination in order to succeed"
-
-
-
-09.scam  [skæm]
-
-[noun] {informal}The scam, which was reported by Gizmodo, is called a "rug pull." 
-
-"a clever and dishonest plan for making money"
 
 
 
@@ -7417,7 +7409,7 @@ sliced meat.
 
 
 
-#### 2020/07/14.16
+#### 2020/07/14.15
 
 01.cumin /ˈkjuːmɪn/
 
@@ -7507,13 +7499,15 @@ If Americans want to really compete in this vital industry, we’re going to hav
 
 
 
-12.step up /step ʌp/
+12.critical [ˈkrɪtɪkl] 
 
-[pv] He urged donors to step up their efforts to send aid to Somalia...
+[adj] a critical comment/report.
 
-"If you **step up** something, you **increase** it or increase its intensity."
+"expressing **disapproval** of sb/sth and saying what you think is bad about them"
 
+[adj] a critical factor in the election campaign. 
 
+"extremely important because a future situation will be affected by it" -crucial-
 
 
 
@@ -7563,18 +7557,6 @@ So, while all four words describe something that is important, crucial implies t
 [adv]  Crucially, in contrast to ResNets, we never combine features through summation before they are passed into a layer; instead, we combine features by concatenating them.
 
 "to a crucial degree"
-
-
-
-16.critical [ˈkrɪtɪkl] 
-
-[adj] a critical comment/report.
-
-"expressing **disapproval** of sb/sth and saying what you think is bad about them"
-
-[adj] a critical factor in the election campaign. 
-
-"extremely important because a future situation will be affected by it" -crucial-
 
 
 
@@ -15782,7 +15764,7 @@ D[adj] a freckled face/schoolgirl.
 
 
 
-#### 2020/11/14.08
+#### 2020/11/14.06
 
 01.mindful of  [ˈmaɪndfl]
 
@@ -15792,7 +15774,25 @@ D[adj] a freckled face/schoolgirl.
 
 
 
+02.sake  /seɪk , ˈsɑːki/
 
+[n]  They stayed together for the sake of the children.
+
+"in order to help sb/sth or because you like sb/sth"
+
+[n] "a Japanese alcoholic drink made from rice"
+
+
+
+03.closure  [ˈkləʊʒə(r)]
+
+[noun] factory closures."the situation when a **factory, school, hospital**, etc. shuts permanently"
+
+[noun] "the temporary closing of a road or bridge"
+
+[noun] The conviction of their son's murderer helped to give them a sense of closure.
+
+"the feeling that a difficult or an unpleasant experience has come to an end or been dealt with in an acceptable way"
 
 
 
@@ -15822,25 +15822,9 @@ D[adj] a freckled face/schoolgirl.
 
 
 
-07.closure  [ˈkləʊʒə(r)]
-
-[noun] factory closures."the situation when a **factory, school, hospital**, etc. shuts permanently"
-
-[noun] "the temporary closing of a road or bridge"
-
-[noun] The conviction of their son's murderer helped to give them a sense of closure.
-
-"the feeling that a difficult or an unpleasant experience has come to an end or been dealt with in an acceptable way"
 
 
 
-08.sake  /seɪk , ˈsɑːki/
-
-[n]  They stayed together for the sake of the children.
-
-"in order to help sb/sth or because you like sb/sth"
-
-[n] "a Japanese alcoholic drink made from rice"
 
 
 
@@ -16912,7 +16896,7 @@ plenty of eggs/money/time.
 
 
 
-#### 2020/12/07.11
+#### 2020/12/07.10
 
 01.germ  [dʒɜː(r)m]
 
@@ -17012,22 +16996,6 @@ plenty of eggs/money/time.
 
 
 
-11.articulate /ɑːrˈtɪkjuleɪt , ɑːrˈtɪkjələt/
-
-[v] She struggled to articulate her thoughts. 
-
-"to express or explain your thoughts or feelings clearly in words"
-
-[adj] Articulate speech is essential for a teacher. 
-
-"good at expressing ideas or feelings clearly in words"
-
-
-
-> Express means to convey a thought, feeling or sentiment by speaking, writing, shouting, crying, dancing, etc.  Articulate means to express a thought or opinion in a refined or specific and detailed manner, so the person **clearly understands you**.
-
-
-
 #### 2020/12/09.01
 
 01.parameter [pəˈræmɪtə(r)]
@@ -17043,11 +17011,15 @@ plenty of eggs/money/time.
 
 
 
-#### 2020/12/10.10
+#### 2020/12/10.08
 
-01.dissolution [ˌdɪsəˈluːʃn] 
+01.hatred /ˈheɪtrɪd/
 
-[noun] { ~ (of sth)} Marriage dissolution system is an indispensable part of the institution of marriage. "the act of officially ending a marriage, a business agreement, or a parliament"
+[n] {~ (for/of sb/sth) | ~ (towards sb)}
+
+More than 54 percent people think Korean society has hatred or a discriminatory attitude against migrants.
+
+"a very strong feeling of dislike for sb/sth"
 
 
 
@@ -17062,6 +17034,14 @@ plenty of eggs/money/time.
 [verb]  When the ambulance [ˈæmbjələns] had gone, the crowd dissolved. "to disappear; to make sth disappear"
 
 
+
+03.handler  [ˈhændlə(r)]
+
+[noun] "a person who trains and controls animals, especially dogs"
+
+[noun] airport baggage handlers. "a person who carries or touches sth as part of their job"
+
+[noun] the President's campaign handlers. "a person who organizes sth or advises sb"
 
 
 
@@ -17125,10 +17105,6 @@ plenty of eggs/money/time.
 
 
 
-
-
-
-
 08.incarceration /ɪnˌkɑrsəˈreɪʃən/
 
 [n] This time his period of incarceration will last longer. 
@@ -17137,23 +17113,7 @@ plenty of eggs/money/time.
 
 
 
-09.handler  [ˈhændlə(r)]
 
-[noun] "a person who trains and controls animals, especially dogs"
-
-[noun] airport baggage handlers. "a person who carries or touches sth as part of their job"
-
-[noun] the President's campaign handlers. "a person who organizes sth or advises sb"
-
-
-
-10.hatred /ˈheɪtrɪd/
-
-[n] {~ (for/of sb/sth) | ~ (towards sb)}
-
-More than 54 percent people think Korean society has hatred or a discriminatory attitude against migrants.
-
-"a very strong feeling of dislike for sb/sth"
 
 
 
@@ -21291,21 +21251,9 @@ Recognizing outstanding work communicating and refining ideas in Machine Learnin
 
 
 
-06.refund  [ˈriːfʌnd , rɪˈfʌnd]
+06.suitcase [ˈsuːtkeɪs]  
 
-[noun] a tax refund.
-
-"a sum of money that is paid back to you, especially because you paid too much or because you returned goods to a shop/store"
-
-[verb] {~ sth (to sb) | ~ sb sth}  Tickets cannot be exchanged or money refunded.
-
-"to give sb their money back, especially because they have paid too much or because they are not satisfied with sth they bought" -reimburse-
-
-
-
-> 报销vs退款
->
-> A reimbursement is a payment you receive **in exchange for** incurring a cost on behalf of someone else. A refund, on the other hand, is a payment that one party makes to another as a result of overpayment or returning a product.
+[noun] to pack/unpack a suitcase. "a case with flat sides and a handle, used for carrying clothes, etc. when you are travelling"
 
 
 
@@ -21422,12 +21370,6 @@ In summary, a resort provides a luxurious and comfortable vacation experience wi
 [n] {disapproving or humorous} Like the fabled rustic who raised the devil with infinite pains, and was so terrified at the sight of him that he could ask the enemy no question, but immediately fled. 
 
 "a person who lives in or comes from the country"
-
-
-
-21.suitcase [ˈsuːtkeɪs]  
-
-[noun] to pack/unpack a suitcase. "a case with flat sides and a handle, used for carrying clothes, etc. when you are travelling"
 
 
 
@@ -23883,13 +23825,21 @@ Park Min Young addresses dating rumor controversy: 'Regretted it everyday...'
 
 
 
-#### 20210512.10
+#### 20210512.07
+
+01.fetch  [fetʃ]
+
+[verb] {especially BrE}   to fetch help/a doctor.
+
+"to go to where sb/sth is and bring them/it back"
+
+[verb] The painting **is expected to** fetch $10 000 at auction[ˈɔːkʃn]. 
+
+"to be sold for a particular price"
 
 
 
-
-
-03.customary /ˈkʌstəmeri/
+02.customary /ˈkʌstəmeri/
 
 [adj] Is it customary to tip hairdressers in this country?
 
@@ -23936,32 +23886,6 @@ D[adv] He has lived and worked in France almost continuously since 1990.
 [noun] Not all chemicals normally present in living organisms are harmless.
 
 "a living thing, especially one that is extremely small"
-
-
-
-08.prenuptial agreement [priːˌnʌpʃl əˈɡriːmənt]
-
-[n] These days many couples sign a prenuptial agreement to protect their assets. 
-
-"an agreement made by a couple before they get married in which they say how their money and property is to be divided if they get divorced."
-
-
-
-09.fetch  [fetʃ]
-
-[verb] {especially BrE}   to fetch help/a doctor.
-
-"to go to where sb/sth is and bring them/it back"
-
-[verb] The painting **is expected to** fetch $10 000 at auction[ˈɔːkʃn]. 
-
-"to be sold for a particular price"
-
-
-
-10.prenuptial /ˌpriːˈnʌp.ʃəl/
-
-[adj] "relating to events before a marriage"
 
 
 
@@ -28806,7 +28730,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-#### 2021/11/21.11
+#### 2021/11/21.10
 
 01.expatriate  [ˌeksˈpætriət] 
 
@@ -28899,18 +28823,6 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 [noun] If you behave well with them you can be a part of their friend circle easily and Korean people are very warm and kind so you may get a glimpse of Korean hospitality there. 
 
 "friendly and generous behaviour towards guests"
-
-
-
-11.punctual  [ˈpʌŋktʃuəl] 
-
-[adj]  Koreans are very punctual people so they do not like to waste time. 
-
-"happening or doing sth at the arranged or correct time; not late"
-
-[adv] They always pay punctually.
-
-
 
 
 
@@ -31703,11 +31615,11 @@ D[adv] riskiness
 
 
 
-02.extensive [ɪkˈstensɪv] 
+02.outbid [ˌaʊtˈbɪd]  [ˌaʊtˈbɪd] 
 
-[adj] Librosa is one of the most popular and has an extensive set of features. 
+[verb] {~ sb (for sth)}  If Netflix sees that they’re being outbid they’ll increase your salary and do the same for everyone across the company in similar roles.
 
-"covering a large area; great in amount"
+"to offer more money than sb else in order to buy sth, for example at an auction"
 
 
 
@@ -31733,11 +31645,7 @@ D[adv] riskiness
 
 
 
-06.outbid [ˌaʊtˈbɪd]  [ˌaʊtˈbɪd] 
 
-[verb] {~ sb (for sth)}  If Netflix sees that they’re being outbid they’ll increase your salary and do the same for everyone across the company in similar roles.
-
-"to offer more money than sb else in order to buy sth, for example at an auction"
 
 
 
@@ -36380,7 +36288,7 @@ prescriptive powers.
 
 
 
-#### 03/28.11
+#### 03/28.10
 
 01.eradicate /ɪˈrædɪkeɪt/
 
@@ -36390,11 +36298,11 @@ prescriptive powers.
 
 
 
-02.hiatus [haɪˈeɪtəs]
+02.fire drill [ˈfaɪər drɪl]
 
-[noun] After a three-year hiatus due to the COVID-19 pandemic./The latest move came three weeks after China's tourism authorities announced the decision to lift the ban on group tours to South Korea, ending a six-year hiatus caused by frayed relations following the deployment of a U.S. defense system here.
+[phrasal noun] During a fire drill, please do the following:
 
-"a pause in activity when nothing happens"
+"a practice of what people must do in order to escape safely from a fire in a building"
 
 
 
@@ -36510,16 +36418,6 @@ So, while both words describe a careful approach, the main difference lies in th
 [adj] the country's chronic unemployment problem.
 
 "lasting for a long time; difficult to cure or get rid of"
-
-
-
-11.fire drill [ˈfaɪər drɪl]
-
-[phrasal noun] During a fire drill, please do the following:
-
-"a practice of what people must do in order to escape safely from a fire in a building"
-
-
 
 
 
@@ -45398,16 +45296,6 @@ What is behind NewJeans's 2-week ultimatum to HYBE?
 
 
 
-#### 10/24.01
-
-01.discrepancy /dɪsˈkrepənsi/
-
-[n] What are the reasons for the discrepancy between girls' and boys' performance in school?
-
-"a difference between two or more things that should be the same"
-
-
-
 #### 11/01.04
 
 01.derby /ˈdɜːrbi/
@@ -45519,7 +45407,7 @@ The pleasant and consistent weather makes regions with Mediterranean climates po
 
 
 
-#### 11/20.07
+#### 11/20.06
 
 01.glamorize /ˈɡlæməraɪz/
 
@@ -45545,11 +45433,13 @@ The pleasant and consistent weather makes regions with Mediterranean climates po
 
 
 
-04.cheapen /ˈtʃiːpən/
+04.transaction/trænˈzækʃn/
 
-[v] "Excessive promise can sometimes cheapen one's own position in the hearts of others.
+[n] financial transactions between companies.
 
-to make sb lose respect for himself or herself"
+"a piece of business that is done between people, especially an act of buying or selling" -deal-
+
+[n] {~ of sth}  the transaction of government business. "the process of doing sth"
 
 
 
@@ -45568,16 +45458,6 @@ to make sb lose respect for himself or herself"
 [n] automatic teller machines.
 
 "a machine that pays out money automatically"
-
-
-
-07.transaction/trænˈzækʃn/
-
-[n] financial transactions between companies.
-
-"a piece of business that is done between people, especially an act of buying or selling" -deal-
-
-[n] {~ of sth}  the transaction of government business. "the process of doing sth"
 
 
 
@@ -53718,7 +53598,7 @@ In his tariff letter sent to Japan earlier this month, Trump had threatened 25% 
 
 01.recession /rɪˈseʃn/
 
-[n] South Korea avoided a technical recession as its economy expanded by 0.6% from the previous quarter, beating expectations, according to advance estimates.
+[n] South Korea avoided a technical recession as its economy expanded by 0.6% from the previous quarter, beating expectations, according to advance estimates./A shrinking population could lead to a permanent recession by the 2040s, according to the Bank of Korea.
 
 "a difficult time for the economy of a country, when there is less trade and industrial activity than usual and more people are unemployed"
 
@@ -54336,7 +54216,7 @@ Top 10 H-1B visa recipients in FY 2025 (Q1–Q3).
 
 
 
-#### 09/25
+#### 09/25.03
 
 01.daredevil /ˈderdevl/
 
@@ -54360,7 +54240,215 @@ Top 10 H-1B visa recipients in FY 2025 (Q1–Q3).
 
 "a device that is attached to people or objects to make them fall slowly and safely when they are dropped from an aircraft. It consists of a large piece of thin cloth that opens out in the air to form an umbrella shape."
 
- 
+
+
+#### 09/26.02
+
+01.extensive [ɪkˈstensɪv] 
+
+[adj] Librosa is one of the most popular and has an extensive set of features./his is a very interesting contribution, as demonstrated by the extensive discussions in the “Issues” section. 
+
+"covering a large area; great in amount"
+
+
+
+02.discrepancy /dɪsˈkrepənsi/
+
+[n] What are the reasons for the discrepancy between girls' and boys' performance in school?/Additionally, Figure 1 seems inconsistent with the algorithm. The figure shows no concatenation operation, yet in Algorithm 1 there is a torch.cat(i, c) step. Could the authors please clarify this discrepancy?
+
+"a difference between two or more things that should be the same"
+
+
+
+#### 09/28.08
+
+01.pessimistic  [ˌpesɪˈmɪstɪk]
+
+[adj] {~ (about sth)}  They appeared surprisingly pessimistic about their chances of winning./In its projections, South Korea’s economy could contract by 2047 in a neutral scenario — or as early as 2041 in a pessimistic one.
+
+"expecting **bad things** to happen or sth not to be successful; showing this"
+
+
+
+02.step up /step ʌp/
+
+[pv] He urged donors to step up their efforts to send aid to Somalia...
+
+"If you **step up** something, you **increase** it or increase its intensity."
+
+
+
+03.donor /ˈdoʊnər/
+
+[n] Donors earn **$200 for each acceptable sperm sample, plus bonuses**. Most donors donate once a week; some donate more often. Donors who make regular weekly or twice-weekly appointments can earn $950-$1500+ per month.
+
+"a person or an organization that makes a gift of money, clothes, food, etc. to a charity, etc."
+
+
+
+06.refund  [ˈriːfʌnd , rɪˈfʌnd]
+
+[noun] a tax refund.
+
+"a sum of money that is paid back to you, especially because you paid too much or because you returned goods to a shop/store"
+
+[verb] {~ sth (to sb) | ~ sb sth}  Tickets cannot be exchanged or money refunded.
+
+"to give sb their money back, especially because they have paid too much or because they are not satisfied with sth they bought" -reimburse-
+
+
+
+> 报销vs退款
+>
+> A reimbursement is a payment you receive **in exchange for** incurring a cost on behalf of someone else. A refund, on the other hand, is a payment that one party makes to another as a result of overpayment or returning a product.
+
+
+
+07.reimbursement /ˌriːɪmˈbɜːrsmənt/
+
+[n] Compensation varies greatly by country and clinic. In many places, the payment is legally considered **reimbursement for your time, effort, and inconvenience**, not a direct payment for the biological material.
+
+"If you receive reimbursement for money that you have spent, you get your money back, for example because the money should have been paid by someone else."
+
+
+
+08.Mantis /ˈmæntɪs/
+
+[n] Netflix 'Mantis' Cast Revealed at Seoul Briefing.
+
+"a large green insect that eats other insects. The female praying mantis often eats the male."
+
+
+
+#### 09/29.05
+
+01.indispensable /ˌɪndɪˈspensəbl/
+
+[adj] "too important to be without"
+
+
+
+02.dissolution [ˌdɪsəˈluːʃn] 
+
+[noun] { ~ (of sth)} Marriage dissolution system is an indispensable part of the institution of marriage. "the act of officially ending a marriage, a business agreement, or a parliament"
+
+
+
+03.dispensable /dɪˈspensəbl/
+
+[adj] They looked on music and art lessons as dispensable.
+
+"not necessary; that can be got rid of"
+
+
+
+04.prenuptial agreement [priːˌnʌpʃl əˈɡriːmənt]
+
+[n] These days many couples sign a prenuptial agreement to protect their assets. 
+
+"an agreement made by a couple before they get married in which they say how their money and property is to be divided if they get divorced."
+
+
+
+05.prenuptial /ˌpriːˈnʌp.ʃəl/
+
+[adj] "relating to events before a marriage"
+
+
+
+#### 10/07.01
+
+01.indie /ˈɪndi/
+
+[adj] an indie publisher/newspaper.
+
+"not belonging to, working for or produced by a large organization; independent"
+
+
+
+#### 10/08.01
+
+01.cheapen /ˈtʃiːpən/
+
+[v] "Excessive promise can sometimes cheapen one's own position in the hearts of others./LeBron James did not cheapen his reputation with "The Second Decision"; instead, many see it as a clever, self-aware marketing move that ironically reclaims the narrative around the infamous 2010 broadcast.
+
+to make sb lose respect for himself or herself"
+
+
+
+#### 10/09.03
+
+01.punctual  [ˈpʌŋktʃuəl] 
+
+[adj]  Koreans are very punctual people so they do not like to waste time. 
+
+"happening or doing sth at the arranged or correct time; not late"
+
+[adv] They always pay punctually.
+
+
+
+> "On time" and "punctual" both mean to be at the scheduled or expected time, but **"punctual" refers to the characteristic of being someone who consistently arrives on time**, while **"on time" describes the specific instance of an event happening at the designated time**. For example, a train *arrives on time*, and a person who always makes it to their appointments at the correct time is *punctual*. 
+
+
+
+02.articulate /ɑːrˈtɪkjuleɪt , ɑːrˈtɪkjələt/
+
+[v] She struggled to articulate her thoughts. 
+
+"to express or explain your thoughts or feelings clearly in words"
+
+[adj] Articulate speech is essential for a teacher. 
+
+"good at expressing ideas or feelings clearly in words"
+
+[adj] Fake news... Trump ain't that articulate.
+
+ "clearly expressed or pronounced"
+
+
+
+> Express means to convey a thought, feeling or sentiment by speaking, writing, shouting, crying, dancing, etc.  Articulate means to express a thought or opinion in a refined or specific and detailed manner, so the person **clearly understands you**.
+
+
+
+
+
+ 03.fragrant /ˈfreɪɡrənt/
+
+[adj] it's got very thick fragrant soup. 
+
+"having a pleasant smell"
+
+
+
+#### 10/12.01
+
+01.out of the blue 
+
+[p] He has made his success step by step, not out of blue/she phoned me out of the blue./her brother showed up at the wedding out of the blue.
+
+"without warning; unexpectedly."
+
+
+
+#### 10/13
+
+01.hiatus [haɪˈeɪtəs]
+
+[noun] After a three-year hiatus due to the COVID-19 pandemic./The latest move came three weeks after China's tourism authorities announced the decision to lift the ban on group tours to South Korea, ending a six-year hiatus caused by frayed relations following the deployment of a U.S. defense system here./ Korean short film fest returns after 4-year hiatus.
+
+"a pause in activity when nothing happens"
+
+
+
+02.fest /fɛst/
+
+[n] an annual food and wine fest.
+
+"a festival or gathering devoted to a particular activity or interest."
+
+
 
 
 
