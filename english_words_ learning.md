@@ -5983,7 +5983,7 @@ Angela's $7,000 tuition at University this year will be paid for with scholarshi
 
 11.opium /ˈoʊpiəm/
 
-[n] He was forced to take opium to kill the pain. 
+[n] He was forced to take opium to kill the pain. /The Opium Wars were two wars fought between China and Western powers, primarily Britain, in the mid-19th century. 
 
 "a powerful drug made from the juice of a type of poppy (= a kind of flower), used in the past in medicines to reduce pain and help people sleep. Some people take opium illegally for pleasure and can become addicted to it." "鸦片/麻醉剂"
 
@@ -9384,7 +9384,7 @@ If we budget carefully we'll be able to afford the trip.
 
 
 
-#### 2020/09/05.18
+#### 2020/09/05.19
 
 01.arbitrary  [ˈɑːrbɪtrəri] 
 
@@ -9452,19 +9452,11 @@ If we budget carefully we'll be able to afford the trip.
 
 
 
-08.breed /briːd/
+08.drunken [ˈdrʌŋkən] 
 
-[v] Many animals breed only at certain times of the year.
+[adj]  a drunken driver. 
 
-"to have sex and produce young"
-
-[v] The rabbits are bred for their long coats.
-
-"to keep animals or plants in order to produce young ones in a controlled way"
-
-[noun] a breed of cattle/sheep , etc.
-
-"a particular type of animal that has been developed by people in a controlled way, especially a type of dog, cat or farm animal"
+"drunk or often getting drunk"
 
 
 
@@ -9580,11 +9572,7 @@ The children quickly got bored with staying indoors.
 
 
 
-20.drunken [ˈdrʌŋkən] 
 
-[adj]  a drunken driver. 
-
-"drunk or often getting drunk"
 
 
 
@@ -12584,9 +12572,9 @@ Chest is that part of our body which contains muscles, fat and along with **bone
 
 
 
-11.owl  [aʊl]
 
-[noun] An owl hooted nearby. "a bird of prey (= a bird that kills other creatures for food) with large round eyes, that hunts at night. Owls are traditionally thought to be wise."
+
+
 
 
 
@@ -14103,7 +14091,7 @@ A special bond unites our two countries.
 
 
 
-#### 2020/10/19.17
+#### 2020/10/19.16
 
 01.tease  [tiːz] 
 
@@ -14139,19 +14127,11 @@ A special bond unites our two countries.
 
 
 
-05.steer /stɪə(r)/ /stɪr/
+05.crescent  [ˈkresnt] 
 
-[v] The company envisions HyperCLOVA X as not just a new growth engine but also the flagship business that will steer its future endeavors.
+[noun] a crescent moon. 
 
-"to take control of a situation and influence the way in which it develops"
-
-[v] He steered the boat into the harbour.
-
-"to control the direction in which a boat, car, etc. moves"
-
-[v] The ship steered a course between the islands.
-
-"to move in a particular direction"
+"a curved shape that is wide in the middle and pointed at each end"'月牙'
 
 
 
@@ -14269,11 +14249,7 @@ A special bond unites our two countries.
 
 
 
-17.crescent  [ˈkresnt] 
 
-[noun] a crescent moon. 
-
-"a curved shape that is wide in the middle and pointed at each end"'月牙'
 
 
 
@@ -15048,7 +15024,7 @@ an ingenious device
 
 <img src="./images/bandage.jpg" alt="bandage" style="zoom:25%;" />
 
-#### 2020/11/02.20
+#### 2020/11/02.18
 
 01.shelf  [ʃelf] 
 
@@ -15080,23 +15056,23 @@ an ingenious device
 
 
 
-04.consequence [ˈkɒnsɪkwəns] 
+04.permanently  ['pɜːmənəntli] 
 
-[noun] {~ (for sb/sth)} This decision could have serious consequences for the industry.
+[adv] Heavy drinking can cause permanent damage to the brain...
 
-"a result of sth that has happened"
-
-[noun] Don't worry. It's of no consequence . "importance"
+"Something that is **permanent** lasts for ever."
 
 
 
-05.repercussion  [ˌriːpərˈkʌʃn] 
+05.literal  [ˈlɪtərəl]
 
-[noun] The collapse of the company will have repercussions for the whole industry. "an indirect and usually bad result of an action or event that may happen some time afterwards" -consequence-
+[adj] I am not referring to ‘small’ people in the literal sense of the word.
 
-> 影响vs恶果
->
-> **A consequence can be positive or negative, but a repercussion is always negative**. A repercussion is also a reflection of light or sound or a rebounding force after an impact.
+"being the basic or usual meaning of a word or phrase"
+
+[adj] a literal translation."that follows the original words exactly"
+
+[adj] Her interpretation of the music was too literal. "lacking imagination"
 
 
 
@@ -15237,24 +15213,6 @@ an ingenious device
 <img src="./images/sunlit.jpg" alt="sunlit" style="zoom:25%;" />
 
 
-
-19.permanently  ['pɜːmənəntli] 
-
-[adv] Heavy drinking can cause permanent damage to the brain...
-
-"Something that is **permanent** lasts for ever."
-
-
-
-20.literal  [ˈlɪtərəl]
-
-[adj] I am not referring to ‘small’ people in the literal sense of the word.
-
-"being the basic or usual meaning of a word or phrase"
-
-[adj] a literal translation."that follows the original words exactly"
-
-[adj] Her interpretation of the music was too literal. "lacking imagination"
 
 
 
@@ -16896,7 +16854,7 @@ plenty of eggs/money/time.
 
 
 
-#### 2020/12/07.10
+#### 2020/12/07.09
 
 01.germ  [dʒɜː(r)m]
 
@@ -16976,19 +16934,7 @@ plenty of eggs/money/time.
 
 
 
-09.peculiar  [pɪˈkjuːliə(r)] 
-
-[adj] a peculiar smell/taste. 
-
-"strange or unusual, especially in a way that is unpleasant or worrying" -odd-
-
-[adj] {~ (to sb/sth)} a humour that is peculiar to American sitcoms  [ˈsɪtkɒmz].
-
-"belonging or relating to one particular place, situation, person, etc., and not to others"
-
-
-
-10.disinfectant [ˌdɪsɪnˈfektənt]
+09.disinfectant [ˌdɪsɪnˈfektənt]
 
 [noun] a strong smell of disinfectant.
 
@@ -20971,7 +20917,7 @@ immigrant (移民者) immigration (移民的过程; 移民局检查站, 移民�
 
 
 
-#### 20210310.27
+#### 20210310.26
 
 01.splurge  [splɜː(r)dʒ]
 
@@ -21077,11 +21023,9 @@ Recognizing outstanding work communicating and refining ideas in Machine Learnin
 
 
 
-13.migration /maɪˈɡreɪʃn/
+13.metaphorical [ˌmetəˈfɒrɪkl] 
 
-[n] seasonal migration.
-
-"the movement of large numbers of people, birds or animals from one place to another"
+[adj] metaphorical language. "connected with or containing metaphors"
 
  
 
@@ -21200,16 +21144,6 @@ Recognizing outstanding work communicating and refining ideas in Machine Learnin
 26.poet  [ˈpəʊɪt]   [ˈpoʊət] 
 
 [noun] "a person who writes poems"
-
-
-
-27.metaphorical [ˌmetəˈfɒrɪkl] 
-
-[adj] metaphorical language. "connected with or containing metaphors"
-
-
-
-
 
 
 
@@ -22832,7 +22766,7 @@ the growing polarity between the left and right wings of the party.
 
 
 
-#### 20210418.12
+#### 20210418.13
 
 01.stepfather  [ˈstepfɑːðə(r)] 
 
@@ -22878,19 +22812,17 @@ D[adj] a prepositional phrase (= a preposition and the noun following it, for ex
 
 
 
-07.engage  [ɪnˈɡeɪdʒ] 
+07.lean /liːn/
 
-[verb] It is a movie that engages both the mind and the eye.
+[v]  Sit up, children! Don't lean over the table! 
 
-"to succeed in attracting and keeping sb's attention and interest"
+"to bend or move from a vertical position" "靠"
 
-[verb] He is currently engaged as a consultant.
+[adj] a lean, muscular body. 
 
-"to employ sb to do a particular job"
+"without much flesh; thin and fit"
 
-[verb] She has the ability to engage with young minds.
-
-"to become involved with and try to understand sth/sb"
+[n] "the part of meat that has little or no fat"
 
 
 
@@ -22945,20 +22877,6 @@ He has already intimated to us his intention to retire. "to let sb know what you
 "the feeling of liking or loving sb/sth very much and caring about them"
 
 [noun] Anne had two men trying to win her affections. "a person's feelings of love"
-
-
-
-14.lean /liːn/
-
-[v]  Sit up, children! Don't lean over the table! 
-
-"to bend or move from a vertical position" "靠"
-
-[adj] a lean, muscular body. 
-
-"without much flesh; thin and fit"
-
-[n] "the part of meat that has little or no fat"
 
 
 
@@ -25318,17 +25236,13 @@ Kim Jong-un's slimmer frame has prompted more speculation about his health./Ther
 
 
 
+#### 20210701.06
 
+01.ferocious [fəˈrəʊʃəs]
 
+[adj] a ferocious beast/attack/storm.
 
-
-#### 20210701.07
-
-01.overwhelming  [ˌəʊvəˈwelmɪŋ] 
-
-[adj] But an artificial intelligence (AI)-driven study which looked at thousands of tweets from Pakistan posted between 21 April and 4 May says an overwhelming number were indeed positive.
-
-"very great or very strong; so powerful that you cannot resist it or decide how to react"
+"very aggressive or violent; very strong" -savage-
 
 
 
@@ -25369,18 +25283,6 @@ A hashtag is a metadata tag that is prefaced by the hash symbol, #
 [adj] The six fractious republics are demanding autonomy. 
 
 "making trouble and complaining"
-
-
-
-07.ferocious [fəˈrəʊʃəs]
-
-[adj] a ferocious beast/attack/storm.
-
-"very aggressive or violent; very strong" -savage-
-
-
-
-
 
 
 
@@ -26203,53 +26105,13 @@ D [noun] finalization
 
 
 
-04.scarcity /ˈskersəti/
-
-[n] The expansion of cloud services, encompassing servers and software solutions, continues to drive market growth, intensifying the scarcity of talent.
-
-"if there is a scarcity of sth, there is not enough of it and it is difficult to obtain it"
 
 
+04.confiscate  [ˈkɒnfɪskeɪt]   [ˈkɑːnfɪskeɪt] 
 
-The terms **shortage** and **scarcity** are related but distinct, particularly in economics and general usage. Here's the difference:
+[verb] Illegal sheets will be confiscated at the place.
 
-1. **Scarcity***
-
-- **Definition**: Scarcity refers to the fundamental economic problem of having limited resources to meet unlimited wants. It is a natural condition and applies universally.
-
-- Key Features
-
-  :
-
-  - Permanent and unavoidable.
-  - Reflects the limitations of resources (e.g., time, land, water, minerals).
-  - Requires prioritization and decision-making to allocate resources.
-
-- **Example**: Clean water is scarce globally, as there is a limited amount compared to the growing population's needs.
-
-2. **Shortage**
-
-- **Definition**: A shortage occurs when the demand for a product or service exceeds its supply at a specific price point in a market. It is a temporary imbalance.
-
-- Key Features
-
-  :
-
-  - Often caused by market conditions, like disruptions in supply chains or price controls.
-  - Can be resolved by increasing production, adjusting prices, or other market mechanisms.
-
-- **Example**: A shortage of gasoline can occur during a natural disaster when supply routes are disrupted.
-
-**Key Difference**
-
-| **Aspect**     | **Scarcity**                         | **Shortage**                                  |
-| -------------- | ------------------------------------ | --------------------------------------------- |
-| **Nature**     | Permanent, due to limited resources. | Temporary, due to market or external factors. |
-| **Scope**      | Universal; affects all resources.    | Specific to a product or market.              |
-| **Resolution** | Cannot be eliminated, only managed.  | Can be resolved through market adjustments.   |
-| **Cause**      | Fundamental resource limitations.    | Supply and demand imbalance at a given price. |
-
-
+"to officially take sth away from sb, especially as a punishment"
 
 
 
@@ -26311,16 +26173,6 @@ The terms **shortage** and **scarcity** are related but distinct, particularly i
 
 
 
-10.confiscate  [ˈkɒnfɪskeɪt]   [ˈkɑːnfɪskeɪt] 
-
-[verb] Illegal sheets will be confiscated at the place.
-
-"to officially take sth away from sb, especially as a punishment"
-
-
-
-
-
 #### 20210813.02
 
 01.golden retriever  [ˌɡəʊldən rɪˈtriːvə(r)]
@@ -26337,7 +26189,7 @@ The terms **shortage** and **scarcity** are related but distinct, particularly i
 
 
 
-#### 20210824.06
+#### 20210824.05
 
 01.why did you do ? OR why would you you ?
 
@@ -26351,11 +26203,15 @@ The terms **shortage** and **scarcity** are related but distinct, particularly i
 
 
 
-04.elusive  [iˈluːsɪv]
+04.minefield  [ˈmaɪnfiːld] 
 
-[adj] How much do you really know about the elusive Natasha Romanoff? 
+[noun] 
 
-"difficult to find, define, or achieve"
+"an area of land or water where mines (= bombs that explode when they are touched) have been hidden"
+
+[noun] Tax can be a minefield for the unwary.
+
+"a situation that contains hidden dangers or difficulties"
 
 
 
@@ -26367,15 +26223,7 @@ The terms **shortage** and **scarcity** are related but distinct, particularly i
 
 
 
-06.minefield  [ˈmaɪnfiːld] 
 
-[noun] 
-
-"an area of land or water where mines (= bombs that explode when they are touched) have been hidden"
-
-[noun] Tax can be a minefield for the unwary.
-
-"a situation that contains hidden dangers or difficulties"
 
 
 
@@ -29462,7 +29310,7 @@ interface/interaction/international.
 
 
 
-#### 2021/12/03
+#### 2021/12/02
 
 01.propel  [prəˈpel] 
 
@@ -29484,11 +29332,7 @@ interface/interaction/international.
 
 
 
-03.foray  [ˈfɒreɪ]  [ˈfɔːreɪ] 
 
-[noun] the company's first foray into the computer market.
-
-"an attempt to become involved in a different activity or profession"
 
 
 
@@ -29501,10 +29345,6 @@ interface/interaction/international.
 
 
 #### 12/07.01
-
-
-
-
 
 01.apparel  [əˈpærəl]
 
@@ -31397,21 +31237,9 @@ D[adv] riskiness
 
 
 
-#### 03/29.03
+#### 03/29.02
 
-01.poisonous  [ˈpɔɪzənəs] 
-
-[adj] poisonous chemicals/plants.
-
-"causing death or illness if swallowed or absorbed into the body" -toxic-
-
-[adj] the poisonous atmosphere in the office.
-
-"extremely unpleasant or unfriendly"
-
-
-
-02.destructive  [dɪˈstrʌktɪv]
+01.destructive  [dɪˈstrʌktɪv]
 
 [adj] Violence in all of its forms is  poisonous and destructive.
 
@@ -31419,7 +31247,7 @@ D[adv] riskiness
 
 
 
-03.sore throat [sɔː(r) θrəʊt] 
+02.sore throat [sɔː(r) θrəʊt] 
 
 [noun] Have a sore throat.
 
@@ -31837,7 +31665,7 @@ reversible kidney failure.
 
 
 
-#### 05/15.07
+#### 05/15.06
 
 01.mites  [maɪts] 
 
@@ -31885,21 +31713,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-07.seize  [siːz] 
-
-[verb] {~ sth (from sb)}  She tried to seize the gun from him.
-
-"to take sb/sth in your hand suddenly and using force" -grab-
-
-[verb] A large quantity of drugs was seized during the **raid**.
-
-"to take illegal or stolen goods away from sb" "扣押"
-
-[verb] The Taliban showed off  dozens of American-made armored vehicles and new weapons they seized.
-
-
-
-#### 05/16.05
+#### 05/16.04
 
 01.vet  [vet] 
 
@@ -43429,7 +43243,7 @@ d[adv]shabbily dressed
 
 
 
-#### 04/02.06
+#### 04/02.05
 
 01.wellness /ˈwelnəs/
 
@@ -43445,11 +43259,11 @@ d[adv]shabbily dressed
 
 
 
-03.cede /siːd/
+03.trauma /ˈtrɔːmə/ /ˈtraʊmə/
 
-[v] Samsung ceded the No. 1 position to Apple in September last year, but the Galaxy 24, which features a range of AI functions, has seen a positive response in the market since its debut in January.
+[n] trauma unit.
 
-"to give sb control of sth or give them power, a right, etc., especially unwillingly"
+"an injury"
 
 
 
@@ -43471,11 +43285,7 @@ d[adv]shabbily dressed
 
 
 
-06.trauma /ˈtrɔːmə/ /ˈtraʊmə/
 
-[n] trauma unit.
-
-"an injury"
 
 
 
@@ -45118,7 +44928,7 @@ D[noun]  copyright infringement.
 
 "to ask questions in order to find out secret or hidden information about sb/sth"
 
-[n]  a police probe into the financial affairs of the company. /Police analyzing Yoon's phone records in martial law probe.
+[n]  a police probe into the financial affairs of the company. /Police analyzing Yoon's phone records in martial law probe./64 Koreans detained in Cambodia over alleged online scams return home, face probes.
 
 "a thorough and careful investigation of sth"
 
@@ -46518,7 +46328,7 @@ Are you guys **confident in winning**
 
 02.asylum /əˈsaɪləm/
 
-[n] Korea's asylum acceptance rate at 2.7% amid 122,000 applications.
+[n] Korea's asylum acceptance rate at 2.7% amid 122,000 applications./‘World’s highest IQ holder’ Kim Young-hoon says he is seeking asylum in US.
 
 "protection that a government gives to people who have left their own country, usually because they were in danger for political reasons"
 
@@ -46879,21 +46689,6 @@ Halt is also extremely formal and outdated English. It typically means to stop m
 ```
 
 
-
-05.truce /truːs/
-
-[n] Macron Says Ukraine Truce Could Be Weeks Away | WSJ News./If the two countries reach a complete truce or peace agreement, sanctions on Russia will likely be lifted, allowing Korean firms to resume business there.
-
-"an agreement between enemies or opponents to stop fighting for an agreed period of time; the period of time that this lasts"
-
-
-
-| Aspect     | Ceasefire                             | Truce                             |
-| ---------- | ------------------------------------- | --------------------------------- |
-| Scope      | Can be temporary or permanent         | Usually temporary                 |
-| Formality  | Can be formal or informal             | Usually informal                  |
-| Intent     | May lead to peace talks or end of war | Often just a break in hostilities |
-| Initiation | Can be one-sided                      | Typically mutual                  |
 
 
 
@@ -54432,7 +54227,7 @@ to make sb lose respect for himself or herself"
 
 
 
-#### 10/13
+#### 10/13.02
 
 01.hiatus [haɪˈeɪtəs]
 
@@ -54449,6 +54244,417 @@ to make sb lose respect for himself or herself"
 "a festival or gathering devoted to a particular activity or interest."
 
 
+
+#### 10/14.03
+
+01.proliferation  /prəˌlɪfəˈreɪʃn/
+
+[n] attempts to prevent cancer cell proliferation./a proliferation of personal computers
+
+"the sudden increase in the number or amount of sth; a large number of a particular thing"
+
+
+
+02.devolve /dɪˈvɑːlv/
+
+[v] ...the need to decentralize and devolve power to regional governments...
+
+"If you devolve power, authority, or responsibility to a less powerful person or group, or if it devolves upon them, it is transferred to them."
+
+
+
+03.decentralize /ˌdiːˈsentrəlaɪz/
+
+[v] decentralized authority/administration.
+
+"to give some of the power of a central government, organization, etc. to smaller parts or organizations around the country"
+
+
+
+#### 10/20.02
+
+01.consequence [ˈkɒnsɪkwəns] 
+
+[noun] {~ (for sb/sth)} This decision could have serious consequences for the industry.
+
+"a result of sth that has happened"
+
+[noun] Don't worry. It's of no consequence . "importance"
+
+
+
+02.repercussion  [ˌriːpərˈkʌʃn] 
+
+[noun] The collapse of the company will have repercussions for the whole industry./On the surface, the idea of hundreds of suited bureaucrats shaking hands and drawing up plans may appear drab - but history tells us that what they decide often has huge repercussions for the world. 
+
+"an indirect and usually bad result of an action or event that may happen some time afterwards" -consequence-
+
+> 影响vs恶果
+>
+> **A consequence can be positive or negative, but a repercussion is always negative**. A repercussion is also a reflection of light or sound or a rebounding force after an impact.
+
+
+
+#### 10/23.03
+
+01.bloat /bloʊt/
+
+[v] Meta lays off 600 from ‘bloated’ AI unit as Wang cements leadership.
+
+"to swell or make sth swell, especially in an unpleasant way"
+
+
+
+02.cement /sɪˈment/
+
+[v] The layoffs are an attempt by Meta to continue trim the department and further cement Wang’s role in steering the company’s AI strategy.
+
+"to make a relationship, an agreement, etc. stronger"
+
+
+
+03.steer /stɪə(r)/ /stɪr/
+
+[v] The company envisions HyperCLOVA X as not just a new growth engine but also the flagship business that will steer its future endeavors.
+
+"to take control of a situation and influence the way in which it develops"
+
+[v] He steered the boat into the harbour.
+
+"to control the direction in which a boat, car, etc. moves"
+
+[v] The ship steered a course between the islands.
+
+"to move in a particular direction"
+
+
+
+#### 10/26.08
+
+01.scarcity /ˈskersəti/
+
+[n] The expansion of cloud services, encompassing servers and software solutions, continues to drive market growth, intensifying the scarcity of talent.
+
+/High land prices are a direct result of scarcity, especially when demand is high and the supply is limited.
+
+"if there is a scarcity of sth, there is not enough of it and it is difficult to obtain it"
+
+
+
+The terms **shortage** and **scarcity** are related but distinct, particularly in economics and general usage. Here's the difference:
+
+1. **Scarcity***
+
+- **Definition**: Scarcity refers to the fundamental economic problem of having limited resources to meet unlimited wants. It is a natural condition and applies universally.
+
+- Key Features
+
+  :
+
+  - Permanent and unavoidable.
+  - Reflects the limitations of resources (e.g., time, land, water, minerals).
+  - Requires prioritization and decision-making to allocate resources.
+
+- **Example**: Clean water is scarce globally, as there is a limited amount compared to the growing population's needs.
+
+2. **Shortage**
+
+- **Definition**: A shortage occurs when the demand for a product or service exceeds its supply at a specific price point in a market. It is a temporary imbalance.
+
+- Key Features
+
+  :
+
+  - Often caused by market conditions, like disruptions in supply chains or price controls.
+  - Can be resolved by increasing production, adjusting prices, or other market mechanisms.
+
+- **Example**: A shortage of gasoline can occur during a natural disaster when supply routes are disrupted.
+
+**Key Difference**
+
+| **Aspect**     | **Scarcity**                         | **Shortage**                                  |
+| -------------- | ------------------------------------ | --------------------------------------------- |
+| **Nature**     | Permanent, due to limited resources. | Temporary, due to market or external factors. |
+| **Scope**      | Universal; affects all resources.    | Specific to a product or market.              |
+| **Resolution** | Cannot be eliminated, only managed.  | Can be resolved through market adjustments.   |
+| **Cause**      | Fundamental resource limitations.    | Supply and demand imbalance at a given price. |
+
+
+
+
+
+02.cede /siːd/
+
+[v] Samsung ceded the No. 1 position to Apple in September last year, but the Galaxy 24, which features a range of AI functions, has seen a positive response in the market since its debut in January./
+
+Hong Kong Island was ceded to Britain in **1841** and formally confirmed by the [Treaty of Nanking](https://www.google.com/search?q=Treaty+of+Nanking&newwindow=1&sca_esv=e9516683f9cf8572&sxsrf=AE3TifNIlztIOMGkiX4B4eOLrpGhrG2O_Q%3A1761452413006&source=hp&ei=fKH9aJvtOpLQ2roPutOV6Qs&iflsig=AOw8s4IAAAAAaP2vjY8HNfgrfQKZaJkkp7UofDumzSu2&ved=2ahUKEwjk-PbQgcGQAxX9s1YBHYX7D6sQgK4QegQIARAC&uact=5&oq=hong+kong+was+ceded+to+britain+in+&gs_lp=Egdnd3Mtd2l6IiJob25nIGtvbmcgd2FzIGNlZGVkIHRvIGJyaXRhaW4gaW4gMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigAUiMWlD2BVjEWHABeACQAQCYAdcBoAGuIaoBBjAuMjkuMrgBA8gBAPgBAZgCIKAC_iGoAgrCAgcQIxgnGOoCwgIHEC4YJxjqAsICDRAuGNEDGMcBGCcY6gLCAgoQIxiABBgnGIoFwgIEECMYJ8ICBRAAGIAEwgILEC4YgAQY0QMYxwHCAgoQABiABBhDGIoFwgIFEC4YgATCAggQLhiABBjUAsICChAuGIAEGEMYigXCAg4QLhiABBjHARjLARivAcICCBAAGIAEGMsBwgINEC4YgAQY1AIYChjLAcICChAuGIAEGAoYywHCAgoQABiABBgKGMsBwgIIEC4YgAQYywHCAgcQABiABBgMwgINEC4YgAQY0QMYxwEYDMICCBAAGIAEGKIEwgIFEAAY7wXCAgcQABiABBgNwgIJEAAYgAQYChgNwgIHEC4YgAQYDcICCRAAGIAEGBMYDcICCRAuGIAEGBMYDcICCBAAGKIEGIkFwgIGEAAYBRgewgIEEAAYHsICBhAAGAgYHsICBhAAGAoYHpgDBfEF7I026XeB6CWSBwYxLjI5LjKgB-GhAbIHBjAuMjkuMrgH-CHCBwY2LjI1LjHIBzU&sclient=gws-wiz&mstk=AUtExfA5GbWEVqGSx4kljT8ItD5MxmnGxSa8n0I9RPcyLLZujbqAFFPG6vsszX1NJ34J_QROYCaSg6JJ0VhHKr0t9USAwVnl5rpyLwywoZDQAzi_SQBuuZc9-QnrPvESTC_xaLMNyfUDVbOYwIDPXsnPwQmsjEXphkzLl5TWmrN4TIs_Jb4aZLrRlvcodzAkChMTZfmBtbMZroEjaxdHRPap9JI1dFZWe7uKCXiKrE32wyeEcuOOd3quoELEfJCoGW8Yoaga5fxdb6U-PzO8jq6CiXmyoLpOjS5ABGTaHUfUAhuqog&csui=3) in **1842**. Later, the Kowloon Peninsula was ceded in **1860**, and the New Territories were leased for 99 years in **1898**. 
+
+"to give sb control of sth or give them power, a right, etc., especially unwillingly"
+
+
+
+03.segregation /ˌseɡrɪˈɡeɪʃn/
+
+[n] Hong Kong, **the more its colonial administrators sought to segregate the Chinese from European residents in Hong Kong**.
+
+"the act or policy of separating people of different races, religions or sexes and treating them in a different way"
+
+
+
+04.seize  [siːz] 
+
+[verb] {~ sth (from sb)}  She tried to seize the gun from him.
+
+"to take sb/sth in your hand suddenly and using force" -grab-
+
+[verb] A large quantity of drugs was seized during the **raid**./
+
+The immediate issue was the Chinese enforcement of their ban on the [opium trade](https://en.wikipedia.org/wiki/History_of_opium_in_China) by seizing private [opium](https://en.wikipedia.org/wiki/Opium) stocks from mainly British merchants at [Guangzhou](https://en.wikipedia.org/wiki/Guangzhou) (then named *Canton*) and threatening to impose the death penalty for future offenders.
+
+"to take illegal or stolen goods away from sb" "扣押"
+
+[verb] The Taliban showed off  dozens of American-made armored vehicles and new weapons they seized.
+
+
+
+05.hook on  
+
+[vp] The British became "hooked on tea" during the 19th century due to factors like industrialization, social rituals, and colonial expansion that made tea more accessible and culturally significant. 
+
+"**Addicted:** To be dependent on something, especially drugs."
+
+
+
+06.porcelain /ˈpɔːrsəlɪn/
+
+[n] Tea, Silver, Opium and War: From Commercial Expansion to Military Invasion.
+
+"a hard white shiny substance made by baking clay and used for making delicate cups, plates and decorative objects; objects that are made of this"
+
+
+
+07.peculiar  [pɪˈkjuːliə(r)] 
+
+[adj] a peculiar smell/taste. 
+
+"strange or unusual, especially in a way that is unpleasant or worrying" -odd-
+
+[adj] {~ (to sb/sth)} a humour that is peculiar to American sitcoms  [ˈsɪtkɒmz]./Hong Kong is considered a peculiar place due to its unique blend of dense urban life with vast natural landscapes, a complex history that has created a cosmopolitan culture, and a fascinating mix of ancient traditions and modern innovations. 
+
+"belonging or relating to one particular place, situation, person, etc., and not to others"
+
+
+
+08.ubiquitous /juːˈbɪkwɪtəs/
+
+[adj] the ubiquitous bicycles of university towns.
+
+"seeming to be everywhere or in several places at the same time; very common"
+
+
+
+#### 10/27.02
+
+01.elusive  [iˈluːsɪv]
+
+[adj] How much do you really know about the elusive Natasha Romanoff?/ Trump to meet China’s Xi for the first time in second term as trade deal remains elusive. 
+
+"difficult to find, define, or achieve"
+
+
+
+02.diffuser /dɪˈfjuːzər/
+
+[n] "In general, a diffuser is **a device or object that diffuses, or spreads something out,** making it less concentrated or harsh."
+
+
+
+#### 10/30.01
+
+01.flattery /ˈflætəri/
+
+[n] Trump arrived in South Korea on Wednesday where he was showered with gifts and flattery.
+
+"praise that is not sincere, especially in order to obtain sth from sb"
+
+
+
+#### 10/31.02
+
+01.truce /truːs/
+
+[n] Macron Says Ukraine Truce Could Be Weeks Away | WSJ News./If the two countries reach a complete truce or peace agreement, sanctions on Russia will likely be lifted, allowing Korean firms to resume business there./Xi and Trump find temporary truce as China plays longer game.
+
+"an agreement between enemies or opponents to stop fighting for an agreed period of time; the period of time that this lasts"
+
+
+
+| Aspect     | Ceasefire                             | Truce                             |
+| ---------- | ------------------------------------- | --------------------------------- |
+| Scope      | Can be temporary or permanent         | Usually temporary                 |
+| Formality  | Can be formal or informal             | Usually informal                  |
+| Intent     | May lead to peace talks or end of war | Often just a break in hostilities |
+| Initiation | Can be one-sided                      | Typically mutual                  |
+
+
+
+02.jittery /ˈdʒɪtəri/
+
+[adj] International investors have become jittery about the country's economy.
+
+"anxious and nervous"
+
+
+
+#### 11/03.04
+
+01.taxing /ˈtæksɪŋ/
+
+[adj] Running a company can be very taxing, said Lim, who works about 11 hours a day on average.
+
+"needing a great amount of physical or mental effort"
+
+
+
+02.poisonous  [ˈpɔɪzənəs] 
+
+[adj] poisonous chemicals/plants./You cant eat the red crabs they are apparently poisonous. They also have these[ crabs](http://i.imgur.com/qH58WAX.jpg) on the island, which are supposed to be tasty, but they are protected.
+
+"causing death or illness if swallowed or absorbed into the body" -toxic-
+
+[adj] the poisonous atmosphere in the office.
+
+"extremely unpleasant or unfriendly"
+
+
+
+03.migration /maɪˈɡreɪʃn/
+
+[n] seasonal migration.
+
+"the movement of large numbers of people, birds or animals from one place to another"
+
+
+
+04.breed /briːd/
+
+[v] Many animals breed only at certain times of the year./Millions of red crabs are moving across Australia's Christmas Island during their annual migration to the ocean to breed.
+
+"to have sex and produce young"
+
+[v] The rabbits are bred for their long coats.
+
+"to keep animals or plants in order to produce young ones in a controlled way"
+
+[noun] a breed of cattle/sheep , etc.
+
+"a particular type of animal that has been developed by people in a controlled way, especially a type of dog, cat or farm animal"
+
+
+
+#### 11/04.04
+
+01.exert /ɪɡˈzɜːrt/
+
+[v] “Overall, Chinese consumers’ interest in and consumption of Korean cultural content continues to grow, and there is significant potential for Korean content to exert even greater economic and cultural influence in the future,” it added.
+
+"to make a big physical or mental effort"
+
+
+
+02.summon /ˈsʌmən/
+
+[v] South Korean lawmaker Kim Yong Bae [posted on Facebook](https://www.facebook.com/share/p/15NYQm8J2Zq/) that during the conversation, a proposal was made to host a large scale concert in Beijing, and Xi responded by summoning Foreign Minister Wang Yi and giving instructions. 
+
+"to order sb to come to you"
+
+
+
+03.full-fledged /ˌfʊl ˈfledʒd/
+
+[adj] [KBS President Park Jang-beom](https://youtu.be/m1rfsw-5rnc?si=Ddoo4JTKBOKeg5Jp&t=78) said “I think it’s meaningful that we’ve created a breakthrough that will allow the entire Korean content industry to once again make a full-fledged foray into the Chinese market.”
+
+"completely developed; with all the qualifications necessary for sth"
+
+
+
+04.foray  [ˈfɒreɪ]  [ˈfɔːreɪ] 
+
+[noun] the company's first foray into the computer market.
+
+"an attempt to become involved in a different activity or profession"
+
+
+
+#### 11/06
+
+01.devastation /ˌdevəˈsteɪʃn/
+
+[n] Inside Gaza, BBC sees total devastation after two years of war.
+
+"great destruction or damage, especially over a wide area"
+
+
+
+02.pitfall /ˈpɪtfɔːl/
+
+[n] the potential pitfalls of buying a house.
+
+"a danger or difficulty, especially one that is hidden or not obvious at first"
+
+
+
+03.predator /ˈpredətər/
+
+[n] the relationship between predator and prey.
+
+"an animal that kills and eats other animals"
+
+
+
+04.owl  [aʊl]
+
+[noun] An owl hooted nearby. "a bird of prey (= a bird that kills other creatures for food) with large round eyes, that hunts at night. Owls are traditionally thought to be wise."
+
+
+
+05.overwhelming  [ˌəʊvəˈwelmɪŋ] 
+
+[adj] But an artificial intelligence (AI)-driven study which looked at thousands of tweets from Pakistan posted between 21 April and 4 May says an overwhelming number were indeed positive.
+
+"very great or very strong; so powerful that you cannot resist it or decide how to react"
+
+
+
+06.overwhelm /ˌoʊvərˈwelm/
+
+[v] She was overwhelmed by feelings of guilt..
+
+"to have such a strong emotional effect on sb that it is difficult for them to resist or know how to react"
+
+
+
+07.engage  [ɪnˈɡeɪdʒ] 
+
+[verb] It is a movie that engages both the mind and the eye.
+
+"to succeed in attracting and keeping sb's attention and interest"
+
+[verb] He is currently engaged as a consultant.
+
+"to employ sb to do a particular job"
+
+[verb] She has the ability to engage with young minds.
+
+"to become involved with and try to understand sth/sb"
+
+
+
+08.engaging /ɪnˈɡeɪdʒɪŋ/
+
+[adj] an engaging smile.
+
+"interesting or pleasant in a way that attracts your attention"
 
 
 
