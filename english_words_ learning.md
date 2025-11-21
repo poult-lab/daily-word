@@ -2596,7 +2596,7 @@ a more flexible approach.
 
 
 
-#### 2020/01/21.19
+#### 2020/01/21.18
 
 01.crab  [kræb]
 
@@ -2754,31 +2754,7 @@ Explain: You fork out for sth more unwillingly than you shell out for sth.
 
 
 
-17.dispute [dɪˈspjuːt]
-
-[noun] {~ (between A and B) | ~ (over/about sth)} 
-
-a dispute between the two countries about the border. 
-
-"an argument or a disagreement between two people, groups or countries; discussion about a subject where there is disagreement"
-
-[verb] These figures have been disputed. "to question whether sth is true and valid"
-
-[verb] disputed territory. "to argue or disagree strongly with sb about sth, especially about who owns sth"
-
-[verb] On the last lap three runners were disputing the lead. "to fight to get control of sth or to win sth"
-
-
-
-18.commerce  [ˈkɒmɜːs] [ˈkɑːmɜːrs] 
-
-[noun] The music business marries art and commerce. 
-
-"trade, especially between countries; the buying and selling of goods and services"
-
-
-
-19.lap /læp/
+17.lap /læp/
 
 [n] There's only one seat so you'll have to sit on my lap .
 
@@ -2797,6 +2773,18 @@ a dispute between the two countries about the border.
 [v] {aniamal} The cat lapped milk from a dish.
 
 "When an animal **laps** a drink, it uses short quick movements of its tongue to take liquid up into its mouth."
+
+
+
+18.commerce  [ˈkɒmɜːs] [ˈkɑːmɜːrs] 
+
+[noun] The music business marries art and commerce. 
+
+"trade, especially between countries; the buying and selling of goods and services"
+
+
+
+
 
 
 
@@ -19452,11 +19440,7 @@ The hunt is on for a suitable candidate.
 
 
 
-
-
-
-
-#### 20210208.30
+#### 20210208.28
 
 01.injection  [ɪnˈdʒekʃn] 
 
@@ -19716,31 +19700,7 @@ The group is accused of brainwashing its young members.
 
 
 
-25.pledge of Allegiance  [pledʒ ɒv əˈliːdʒəns] 
-
-[phrase noun] 
-
-"a formal promise to be loyal to the US, which Americans make standing in front of the flag with their right hand on their heart"
-
-
-
-26.pledge  [pledʒ] 
-
-[noun] {~ (to do sth)}a pledge of support. "a serious promise" -commitment-
-
-[verb] {~ sth (to sb/sth)} 
-
-Japan has pledged $100 million in humanitarian aid.
-
-"to formally promise to give or do sth"
-
-[verb] {~ sb/yourself (to sth)} They were all pledged to secrecy.
-
-"to make sb or yourself formally promise to do sth" -swear-
-
-
-
-27.fortunate [ˈfɔː(r)tʃənət] 
+25.fortunate [ˈfɔː(r)tʃənət] 
 
 [adj] {~ (to do sth) | ~ (in having…) | ~ (for sb)(that…)} 
 
@@ -19750,7 +19710,7 @@ I have been fortunate enough to visit many parts of the world as a lecturer.
 
 
 
-28.elect [ɪˈlekt]
+26.elect [ɪˈlekt]
 
 [verb] {~ sb (to sth) | ~ sb (as) sth} an elected assembly/leader/representative.
 
@@ -19766,7 +19726,7 @@ I have been fortunate enough to visit many parts of the world as a lecturer.
 
 
 
-29.accomplishment  [əˈkʌmplɪʃmənt] 
+27.accomplishment  [əˈkʌmplɪʃmənt] 
 
 [noun]It was one of the President's greatest accomplishments. 
 
@@ -19782,7 +19742,7 @@ I have been fortunate enough to visit many parts of the world as a lecturer.
 
 
 
-30.expatriate  [ˌeksˈpeɪtriət]
+28.expatriate  [ˌeksˈpeɪtriət]
 
 [noun] American expatriates in Paris. "a person living in a country that is not their own" -expat-
 
@@ -39890,15 +39850,11 @@ In essence, the key difference between the two lies in their steadiness and inte
 
 
 
-05.prescribe  [prɪˈskraɪb]  
+05.abruptly /əˈbrʌptli/
 
-[verb] {~ (sb) sth (for sth)}   
+[adv] Experts say it's generally not a good idea to stop taking creatine abruptly. 
 
-Valium is usually prescribed to treat anxiety. /After the nurse completed the **blood draw** and performed a CT scan, the doctor prescribed medication for me.
-
-"to tell sb to take a particular medicine or have a particular treatment; to write a prescription for a particular medicine, etc."
-
-[verb]  The prescribed form must be completed and returned to this office."to say what should be done or how sth should be done" -stipulate [ˈstɪpjuleɪt]-
+"An **abrupt** change or action is very sudden, often in a way **which is unpleasant**."
 
 
 
@@ -39916,7 +39872,15 @@ Valium is usually prescribed to treat anxiety. /After the nurse completed the **
 
 
 
+08.abrupt /əˈbrʌpt/
 
+[adj] an abrupt change/halt/departure. 
+
+"sudden and unexpected, often in an unpleasant way"
+
+[adj] an abrupt manner.
+
+"speaking or acting in a way that seems unfriendly and rude; not taking time to say more than is necessary" "唐突的" -brusque, curt-
 
 
 
@@ -40077,27 +40041,7 @@ complex 的意思为繁杂的
 
 
 
-23.abruptly /əˈbrʌptli/
-
-[adv] Experts say it's generally not a good idea to stop taking creatine abruptly. 
-
-"An **abrupt** change or action is very sudden, often in a way **which is unpleasant**."
-
-
-
-24.abrupt /əˈbrʌpt/
-
-[adj] an abrupt change/halt/departure. 
-
-"sudden and unexpected, often in an unpleasant way"
-
-[adj] an abrupt manner.
-
-"speaking or acting in a way that seems unfriendly and rude; not taking time to say more than is necessary" "唐突的" -brusque, curt-
-
-
-
-#### 09/07.01
+#### 09/07.02
 
 01.naughty /ˈnɔːti/
 
@@ -43687,6 +43631,8 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 "If journalists say that the authorities **slap** something such as a tax or a ban **on** something, they think it is unreasonable or put on without careful thought."
 
+> "Smack" and "slap" are often used interchangeably to describe a sharp blow with the open hand, but "smack" can imply a louder or more forceful hit, while "slap" can sometimes be used to downplay the severity. "Smack" is also used to describe other actions like hitting a ball forcefully, or for sounds like smacking one's lips, whereas "slap" can also mean to place or throw something with haste. s
+
 
 
 04.forthcoming
@@ -44928,7 +44874,7 @@ D[noun]  copyright infringement.
 
 "to ask questions in order to find out secret or hidden information about sb/sth"
 
-[n]  a police probe into the financial affairs of the company. /Police analyzing Yoon's phone records in martial law probe./64 Koreans detained in Cambodia over alleged online scams return home, face probes.
+[n]  a police probe into the financial affairs of the company. /Police analyzing Yoon's phone records in martial law probe./64 Koreans detained in Cambodia over alleged online scams return home, face probes./G-Dragon opens up about considering retirement after drug probe
 
 "a thorough and careful investigation of sth"
 
@@ -49878,7 +49824,7 @@ D[adv] sexually abused children.
 
 
 
-#### 04/25.05
+#### 04/25.03
 
 01.impudent /ˈɪmpjədənt/
 
@@ -49899,32 +49845,6 @@ D[adv] sexually abused children.
 > In summary, while all of these words refer to behavior that is disrespectful or lacks proper manners, they differ in their degree and focus. "Impolite" is a general term for behavior that is not polite. "Impudent" suggests bold disrespect or defiance. "Impertinent" emphasizes inappropriateness in a specific context. "Rude" is a broad term for behavior that is discourteous or offensive.
 
 
-
-03.envoy /ˈenvɔɪ/
-
-[n] Russian general killed in car bomb as Trump envoy meets Putin in Moscow for Ukraine peace talks.
-
-"a person who represents a government or an organization and is sent as a representative to talk to other governments and organizations"
-
-
-
-04.emissary/ˈemɪseri/
-
-[n] "a person who is sent to deliver an official message, especially from one country to another, or to perform a special task"
-
-
-
-05.diplomat  [ˈdɪpləmæt] 
-
-[noun] "a person whose job is to represent his or her country in a foreign country, for example, in an embassy"
-
-
-
-| Term     | Formality | Duration   | Context                        | Official Capacity |
-| -------- | --------- | ---------- | ------------------------------ | ----------------- |
-| Diplomat | High      | Long-term  | Government, international law  | Yes               |
-| Envoy    | Medium    | Short-term | Formal missions, special tasks | Yes (often)       |
-| Emissary | Low-Med   | Short-term | Secret/urgent missions         | Not always        |
 
 
 
@@ -54586,7 +54506,7 @@ The immediate issue was the Chinese enforcement of their ban on the [opium trade
 
 
 
-#### 11/06
+#### 11/06.08
 
 01.devastation /ˌdevəˈsteɪʃn/
 
@@ -54658,7 +54578,230 @@ The immediate issue was the Chinese enforcement of their ban on the [opium trade
 
 
 
+#### 11/09.01
+
+01.trial basis  /ˈtraɪəl ˈbeɪsɪs/
+
+[n] A person may be hired on a trial basis for a few months to evaluate their skills and job fit before being offered a permanent position.
+
+""On a trial basis" means for a temporary period of time for the purpose of testing or assessment before a permanent decision is made."
 
 
 
+#### 11/11.01
 
+01.replenish /rɪˈplenɪʃ/
+
+[v] to replenish food and water supplies.
+
+"to make sth full again by replacing what has been used" -top up-
+
+
+
+#### 11/12.03
+
+01.treaty /ˈtriːti/
+
+[n] to draw up/sign/ratify a treaty.
+
+"a formal agreement between two or more countries"
+
+
+
+02.prescribe  [prɪˈskraɪb]  
+
+[verb] {~ (sb) sth (for sth)}   
+
+Valium is usually prescribed to treat anxiety. /After the nurse completed the **blood draw** and performed a CT scan, the doctor prescribed medication for me.
+
+"to tell sb to take a particular medicine or have a particular treatment; to write a prescription for a particular medicine, etc."
+
+[verb]  The prescribed form must be completed and returned to this office."to say what should be done or how sth should be done" -stipulate [ˈstɪpjuleɪt]-
+
+
+
+03.stipulate /ˈstɪpjuleɪt/
+
+[v] A delivery date is stipulated in the contract.
+
+"to state clearly and firmly that sth must be done, or how it must be done"
+
+
+
+#### 11/13.03
+
+01.to the point where 
+
+[phrase] It should’ve never gotten to the point where this adult was able to put his hands on a child.
+
+""To the point where" is a phrase used to describe a situation or degree to which something has been reached. It indicates that a process has progressed to a certain stage, often a final or extreme one. "
+
+
+
+02.dispute [dɪˈspjuːt]
+
+[noun] {~ (between A and B) | ~ (over/about sth)} 
+
+a dispute between the two countries about the border./Questions also remain about whether the group will continue as a fully unified five-member act. Industry officials say internal disagreements emerged during their contract dispute. 
+
+"an argument or a disagreement between two people, groups or countries; discussion about a subject where there is disagreement"
+
+[verb] These figures have been disputed. "to question whether sth is true and valid"
+
+[verb] disputed territory. "to argue or disagree strongly with sb about sth, especially about who owns sth"
+
+[verb] On the last lap three runners were disputing the lead. "to fight to get control of sth or to win sth"
+
+
+
+03.undisputed /ˌʌndɪˈspjuːtɪd/
+
+[adj] For a standard classification task where the labels are available for training, **Supervised Learning is the undisputed top performer.**.
+
+"that cannot be questioned or proved to be false; that cannot be disputed"  
+
+- The main difference lies in emphasis: "undisputed" focuses on the **lack of dispute** from others, while "undoubtful" focuses on the **lack of doubt** in one's mind.
+
+
+
+#### 11/14.04
+
+01.inevitably /ɪnˈevɪtəbli/
+
+[adj] Music critic Kim Do-heon noted that the group’s sound is bound to change. “No matter who takes over, NewJeans will inevitably differ from what they were before,” he said. “Whether better or worse is another question, but satisfying their existing fan base will not be easy. The priority now is rebuilding trust.”
+
+"as is certain to happen"
+
+
+
+02.choreography /ˌkɔːriˈɑːɡrəfi/
+
+[n] Min spearheaded not only music production but also choreography, fashion and promotion, making her vision inseparable from NewJeans’ early identity.
+
+"the art of designing and arranging the steps and movements in dances, especially in ballet ; the steps and movements in a particular ballet or show"
+
+
+
+03.spearhead /ˈspɪrhed/
+
+[v] Wenzhou has long spearheaded Chinese economic development.
+
+"If someone spearheads a campaign or an attack, they lead it."
+
+
+
+04.inseparable /ɪnˈseprəbl/
+
+[adj] "not able to be separated"
+
+
+
+#### 11/17.08
+
+01.dispatch /dɪˈspætʃ/
+
+[v] Japan to dispatch senior envoy to China, NHK says, as travel warning drives tourism selloff in Tokyo.
+
+"to send sb/sth somewhere, especially for a special purpose"
+
+
+
+02.pledge  [pledʒ] 
+
+[noun] {~ (to do sth)}a pledge of support. "a serious promise" -commitment-
+
+[verb] {~ sth (to sb/sth)} 
+
+Japan has pledged $100 million in humanitarian aid.
+
+"to formally promise to give or do sth"
+
+[verb] {~ sb/yourself (to sth)} They were all pledged to secrecy.
+
+"to make sb or yourself formally promise to do sth" -swear-
+
+
+
+03.envoy /ˈenvɔɪ/
+
+[n] Russian general killed in car bomb as Trump envoy meets Putin in Moscow for Ukraine peace talks.
+
+"a person who represents a government or an organization and is sent as a representative to talk to other governments and organizations"
+
+
+
+04.emissary/ˈemɪseri/
+
+[n] "a person who is sent to deliver an official message, especially from one country to another, or to perform a special task"
+
+
+
+05.diplomat  [ˈdɪpləmæt] 
+
+[noun] "a person whose job is to represent his or her country in a foreign country, for example, in an embassy"
+
+
+
+| Term     | Formality | Duration   | Context                        | Official Capacity |
+| -------- | --------- | ---------- | ------------------------------ | ----------------- |
+| Diplomat | High      | Long-term  | Government, international law  | Yes               |
+| Envoy    | Medium    | Short-term | Formal missions, special tasks | Yes (often)       |
+| Emissary | Low-Med   | Short-term | Secret/urgent missions         | Not always        |
+
+
+
+06.pledge of Allegiance  [pledʒ ɒv əˈliːdʒəns] 
+
+[phrase noun] 
+
+"a formal promise to be loyal to the US, which Americans make standing in front of the flag with their right hand on their heart"
+
+
+
+07.No less favorable /ˈfeɪvərəbəl/
+
+[phrase] The United States agreed to reduce tariffs on South Korean cars and auto parts from 25% to 15%, and to apply tariffs on South Korean semiconductors on terms “no less favorable” than those granted to comparable competitors in the future.
+
+""No less favorable" means that a party receives treatment that is equal to, or better than, what is given to a comparator, ensuring there is no disadvantage compared to others in a similar situation."
+
+
+
+08.provocation /ˌprɑːvəˈkeɪʃn/
+
+[n] This is a open provocation. 
+
+"the act of doing or saying sth deliberately in order to make sb angry or upset; something that is done or said to cause this"
+
+
+
+#### 11/20
+
+01.fell out /fel aʊt/
+
+[phrase] Trump was a friend of Epstein's for years, but the president has said they fell out in the early 2000s, two years before Epstein was first arrested. Trump has consistently denied any wrongdoing in relation to Epstein.
+
+""Fell out" can mean to stop being friends after an argument, to become detached and drop from something, or to happen or turn out. "
+
+
+
+02.chummy /ˈtʃʌmi/
+
+[adj] On Wednesday, former Harvard president [Larry Summers took a leave](https://www.bbc.com/news/articles/ce868dmz2mdo) from teaching at the university while the school investigates his links to Epstein, revealed in a series of chummy email exchanges.
+
+"very friendly"
+
+
+
+#### 11/21
+
+01.verbalize /ˈvɜːrbəlaɪz/
+
+[v] *Don't be afraid* to *verbalize your ignorance*, it's holding you back.
+
+"to express your feelings or ideas in words"
+
+
+
+02.ignorance /ˈɪɡnərəns/
+
+[n] "a lack of knowledge or information about sth"
