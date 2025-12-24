@@ -1953,7 +1953,7 @@ The airport operator said the total weekly flights between Gimpo and the Chinese
 
 
 
-#### 2020/01/15.12
+#### 2020/01/15.11
 
 01.data mining 
 
@@ -1985,13 +1985,15 @@ A family of four perished in the fire."to die, especially in a sudden violent wa
 
 
 
-05.tedious  [ˈtiːdiəs]
+05.absurd /əbˈsɜː(r)d/
 
-[adj] The journey soon became tedious. /Building even a simple neural network can be a confusing task and tuning it to get the better result is an extremely tedious task.
+[adj] Of course it's not true, what an absurd idea.
 
-"lasting or taking too long and not interesting" -boring-
+"completely ridiculous; not logical and sensible" -ridiculous-
 
-> **Boring is more common**. "This party is dull/boring." Tedious is stronger and also implies that the situation is long and slow. "Peeling a bucket of shrimp is a tedious job."
+[n] It was only later that she could see the **absurdity** of the situation.
+
+[adv] The paintings were sold for **absurdly** high prices. 
 
 
 
@@ -2050,22 +2052,6 @@ A family of four perished in the fire."to die, especially in a sudden violent wa
 [v] This work had absorbed him for several years.
 
 "to interest sb very much so that they pay no attention to anything else" -engross-
-
-
-
-12.absurd /əbˈsɜː(r)d/
-
-[adj] Of course it's not true, what an absurd idea.
-
-"completely ridiculous; not logical and sensible" -ridiculous-
-
-
-
-[n] It was only later that she could see the **absurdity** of the situation.
-
-[adv] The paintings were sold for **absurdly** high prices. 
-
-
 
 
 
@@ -3435,28 +3421,6 @@ enquire[v] enquiry[n]
 [idiom] {not to mention} He has two big houses in this country, not to mention his villa in France."used to introduce extra information and emphasize what you are saying"
 
 
-
-04.forbear  [fɔːˈbeə(r) , ˈfɔːbeə(r)] 
-
-[verb] {~ (from sth/from doing sth)}
-
-It is often difficult to forbear from expressing one's opinion.
-
-"to **stop yourself** from saying or doing sth that you could or would like to say or do"
-
-
-
-> 忍受 vs 节制 
->
-> The words “forbear” and “bear” have different meanings:
->
-> Bear: As a verb, “bear” means to support or carry the weight of something. It can also mean to endure or tolerate something.
->
-> Forbear: “Forbear” means to refrain or abstain from doing something. It can also mean to have patience or tolerance towards something.
->
-> These words are often used together in the phrase “bear and forbear”, which comes from a Stoicist motto “sustine et abstine”. This phrase means to accept and endure external hardships (bear) and to abstain oneself from doing instinctive and emotional things in reaction (forbear).
->
-> Please note that “forbear” can also be used as a noun, where it refers to an ancestor or forebear of another person. However, this usage is less common than the verb form.
 
 
 
@@ -10673,21 +10637,7 @@ She wanted to avoid **another confrontation** with her father.
 
 
 
-06.dismiss [dɪsˈmɪs] 
 
-[verb] {~ sb/sth (as sth)}
-
-I think we can safely dismiss their objections. 
-
-"to decide that sb/sth is not important and not worth thinking or talking about" -wave aside-
-
-[verb] {~ sth (from sth)} Dismissing her fears, she climbed higher. "to put thoughts or feelings out of your mind"
-
-[verb] {~ sb (from sth)} She claims she was unfairly dismissed from her post. "to officially remove sb from their job"
-
-[verb] Mexican president dismisses Trump tariff threat after ‘excellent’ talk.
-
-"to say that a trial or legal case should not continue, usually because there is not enough evidence"
 
 
 
@@ -13116,7 +13066,7 @@ correct implies taking action to remove errors, faults, deviations, defects. rec
 
 
 
-#### 2020/10/14.29
+#### 2020/10/14.25
 
 01.allergy [ˈælə(r)dʒi] 
 
@@ -13146,9 +13096,11 @@ The examination is near at hand.
 
 
 
-04.scallion [ˈskæliən]
+04.hoax /həʊks/ [hoʊks]
 
-[noun] {in BRIT, use 英国英语用 spring onion} "A **scallion** is a small onion with long green leaves."
+[noun] The rumor about a ghost haunting the old abandoned house turned out to be a hoax, but it still frightened the neighborhood children.
+
+"an act intended to make sb believe sth that is not true, especially sth unpleasant"
 
 
 
@@ -13282,7 +13234,9 @@ The examination is near at hand.
 
 
 
+18.onion  [ˈʌnjən]
 
+[noun] Chop the onions finely. "a round vegetable with many layers inside each other and a brown, red or white skin. Onions have a strong smell and flavour."
 
 
 
@@ -13336,13 +13290,7 @@ The examination is near at hand.
 
 
 
-25.onion  [ˈʌnjən]
-
-[noun] Chop the onions finely. "a round vegetable with many layers inside each other and a brown, red or white skin. Onions have a strong smell and flavour."
-
-
-
-26.witnesse [ˈwɪtnəs] 
+25.witnesse [ˈwɪtnəs] 
 
 [v] Police have appealed for anyone who witnessed the incident to contact them.“to see sth happen (typically a crime or an accident)”
 
@@ -13353,12 +13301,6 @@ The examination is near at hand.
 [noun] He was one of the witnesses at our wedding."a person who is present when an official document is signed and who also signs it to prove that they saw this happen"
 
 
-
-27.hoax /həʊks/ [hoʊks]
-
-[noun] The rumor about a ghost haunting the old abandoned house turned out to be a hoax, but it still frightened the neighborhood children.
-
-"an act intended to make sb believe sth that is not true, especially sth unpleasant"
 
 
 
@@ -17466,13 +17408,17 @@ He greeted all the guests warmly as they arrived.
 
 
 
-#### 2020/12/31.05
+#### 2020/12/31.04
 
-01.practitioner [prækˈtɪʃənə(r)]
+01.determine /dɪˈtɜːmɪn/
 
-[noun] dental practitioners. 
+[v]  An inquiry was set up to determine the cause of the accident. 
 
-"a person who works in a profession, especially **medicine** or **law**"
+"to discover the facts about sth; to calculate sth exactly" -establish-
+
+[v] Age and experience will be determining factors in our choice of candidate.
+
+"to make sth happen in a particular way or be of a particular type"
 
 
 
@@ -17503,18 +17449,6 @@ is that **specialist** is someone who is an expert in, or devoted to, some speci
 
 
 04.determination /dɪˌtɜːrmɪˈneɪʃn/
-
-
-
-06.determine /dɪˈtɜːmɪn/
-
-[v]  An inquiry was set up to determine the cause of the accident. 
-
-"to discover the facts about sth; to calculate sth exactly" -establish-
-
-[v] Age and experience will be determining factors in our choice of candidate.
-
-"to make sth happen in a particular way or be of a particular type"
 
 
 
@@ -21107,7 +21041,7 @@ Recognizing outstanding work communicating and refining ideas in Machine Learnin
 
 
 
-#### 20210312.21
+#### 20210312.18
 
 01.exploratory  [ɪkˈsplɒrətri]  [ɪkˈsplɔːrətɔːri] 
 
@@ -21131,9 +21065,19 @@ Recognizing outstanding work communicating and refining ideas in Machine Learnin
 
 
 
-04.brick [brɪk] 
+04.rustic /ˈrʌstɪk/
 
-[noun] The school is built of brick."baked clay used for building walls, houses and other buildings; an individual block of this"
+[adj] an old cottage full of rustic charm.
+
+"typical of the country or of country people; simple"
+
+[adj] a rustic garden seat.
+
+"made very simply of rough wood"
+
+[n] {disapproving or humorous} Like the fabled rustic who raised the devil with infinite pains, and was so terrified at the sight of him that he could ask the enemy no question, but immediately fled. 
+
+"a person who lives in or comes from the country"
 
 
 
@@ -21235,7 +21179,7 @@ In summary, a resort provides a luxurious and comfortable vacation experience wi
 
 
 
-18.prototype /ˈprəʊtətaɪp/
+17.prototype /ˈprəʊtətaɪp/
 
 [n] {~ (for/of sth)} the prototype of the modern bicycle.
 
@@ -21243,27 +21187,11 @@ In summary, a resort provides a luxurious and comfortable vacation experience wi
 
 
 
-19.amenity  [əˈmiːnəti] 
+18.amenity  [əˈmiːnəti] 
 
 [noun] The campsite is close to all local amenities.
 
 "a feature that makes a place pleasant, comfortable or easy to live in"
-
-
-
-20.rustic /ˈrʌstɪk/
-
-[adj] an old cottage full of rustic charm.
-
-"typical of the country or of country people; simple"
-
-[adj] a rustic garden seat.
-
-"made very simply of rough wood"
-
-[n] {disapproving or humorous} Like the fabled rustic who raised the devil with infinite pains, and was so terrified at the sight of him that he could ask the enemy no question, but immediately fled. 
-
-"a person who lives in or comes from the country"
 
 
 
@@ -22600,7 +22528,7 @@ D[adj] cracked and blistered skin.
 
 
 
-#### 20210414.14
+#### 20210414.13
 
 01.polarity  [pəˈlærəti] 
 
@@ -22648,15 +22576,11 @@ the growing polarity between the left and right wings of the party.
 
 
 
-06.surrender [səˈrendə(r)] 
+06.meditation  [ˌmedɪˈteɪʃn] 
 
-[verb] {~ (yourself) (to sb)} The rebel soldiers were forced to surrender. 
+[noun] She found peace through yoga and meditation.
 
-"to admit that you have been defeated and want to stop fighting; to allow yourself to be caught, taken prisoner, etc."
-
-[noun] {~ (to sb/sth)} They demanded (an) unconditional surrender.
-
-"an act of admitting that you have been defeated and want to stop fighting"
+"the practice of thinking deeply in silence, especially for religious reasons or in order to make your mind calm"
 
 
 
@@ -22718,11 +22642,7 @@ the growing polarity between the left and right wings of the party.
 
 
 
-14.meditation  [ˌmedɪˈteɪʃn] 
 
-[noun] She found peace through yoga and meditation.
-
-"the practice of thinking deeply in silence, especially for religious reasons or in order to make your mind calm"
 
 
 
@@ -23861,7 +23781,7 @@ startling/sensational revelations about her private life.
 
 
 
-#### 20210520.09
+#### 20210520.08
 
 01.tail bone  [teɪl bəʊn]
 
@@ -23877,11 +23797,13 @@ startling/sensational revelations about her private life.
 
 
 
-03.theorem  [ˈθiːərəm] 
+03.contraception  [ˌkɒntrəˈsepʃn]   [ˌkɑːntrəˈsepʃn] 
 
-[noun] A complete analysis must build on the implicit function theorem. 
+[noun] to give advice about contraception.
 
-"a rule or principle, especially in mathematics, that can be proved to be true"
+"the practice of preventing a woman from becoming pregnant; the methods of doing this" -birth control-
+
+
 
 
 
@@ -23949,11 +23871,7 @@ startling/sensational revelations about her private life.
 
 
 
-09.contraception  [ˌkɒntrəˈsepʃn]   [ˌkɑːntrəˈsepʃn] 
 
-[noun] to give advice about contraception.
-
-"the practice of preventing a woman from becoming pregnant; the methods of doing this" -birth control-
 
 
 
@@ -29076,7 +28994,7 @@ sober up;sober sb up
 
 
 
-#### 2021/11/28.14
+#### 2021/11/28.13
 
 01.heck  [hek] 
 
@@ -29198,23 +29116,7 @@ interface/interaction/international.
 
 
 
-13.slate  [sleɪt] 
-
-[verb] {~ sth (for sth)} More than half of South Koreans believe an inter-Korean summit at the Beijing Winter Olympics, slated for February, will not be possible, a survey showed Friday./Samsung’s next premium smartphone is slated to run the [Snapdragon 8 Gen 3](https://www.tomsguide.com/news/qualcomm-snapdragon-8-gen-3) system-on-chip.
-
-"to plan that sth will happen at a particular time in the future"
-
-[verb] {~ sb/sth (for sth)} to slate a book/play/writer. 
-
-"to criticize sb/sth, especially in a newspaper"
-
-[noun] The sea was the colour of slate.
-
-"a type of dark grey stone that splits easily into thin flat layers"
-
-
-
-14.diplomacy [dɪˈpləʊməsi] 
+13.diplomacy [dɪˈpləʊməsi] 
 
 [noun] South Korea has sought to use the Beijing Games to create fresh momentum for the resumption of stalled diplomacy with the North, though uncertainty still lingers over whether the North would accede.
 
@@ -31846,7 +31748,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-#### 06/09.03
+#### 06/09.02
 
 01.pupil  [ˈpjuːpl]
 
@@ -31872,7 +31774,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 03.vest [vest]
 
-[noun] {NAmE undershirt} a cotton vest.
+[noun] {NAmE undershirt} a cotton vest./Lotte Department Store issued a formal apology Saturday after one of its security staff asked a customer wearing a labor union vest to remove it at a food court, sparking backlash over discrimination against union members and labor activists.
 
 "a piece of underwear worn under a shirt, etc. next to the skin"
 
@@ -34269,7 +34171,7 @@ dizzy [ˈdɪzi]
 
 08.culprit [ˈkʌlprɪt] 
 
-[noun] The police quickly identified the real culprits.
+[noun] The police quickly identified the real culprits./Data breach started 5 months ago; Chinese ex-employee suspected as culprit.
 
 "a person who has done sth wrong or against the law"
 
@@ -36062,7 +35964,7 @@ prescriptive powers.
 
 
 
-#### 03/28.10
+#### 03/28.11
 
 01.eradicate /ɪˈrædɪkeɪt/
 
@@ -36072,11 +35974,20 @@ prescriptive powers.
 
 
 
-02.fire drill [ˈfaɪər drɪl]
+02.prudent [ˈpruːdnt]
 
-[phrasal noun] During a fire drill, please do the following:
+[adj] Higher loan-to-deposit ratios are better for funding efficiency, but lower figures are better for prudent control./a prudent decision/investment
 
-"a practice of what people must do in order to escape safely from a fire in a building"
+"sensible and careful when you make judgements and decisions; avoiding unnecessary risks" "精明的"
+
+
+
+Prudent and rigorous are two words that can be used to describe different approaches or attitudes towards something. Here are the main differences between the two:
+
+- Prudent: This word typically refers to being careful and cautious in making decisions or taking actions. A person who is prudent is often described as being wise, sensible, or judicious. Prudence involves considering the potential risks and consequences of one's actions and making choices that are likely to result in a positive outcome. It is often associated with financial matters, where making prudent investments means being careful not to take unnecessary risks.
+- Rigorous: This word generally means being thorough and precise in one's work or approach to a task. A person who is rigorous is often described as being exacting, meticulous, or rigorous. Rigor involves paying close attention to detail and making sure that every step of a process is carried out correctly. It is often associated with scientific research, where rigorous methods are used to ensure that the results are reliable and accurate.
+
+So, while both words describe a careful approach, the main difference lies in the focus of attention. Prudence is concerned with **avoiding unnecessary risks and ensuring a positive outcome**, while rigor is **focused on achieving a precise and accurate result**.
 
 
 
@@ -36116,58 +36027,15 @@ In summary, "recover" is about regaining something that was lost or stolen, "res
 
 
 
-06.drill /drɪl/
+06.chronic [ˈkrɑːnɪk]
 
-[n] an electric drill.
+[adj] the country's chronic unemployment problem.
 
-"a tool or machine with a pointed end for making holes"
-
-<img src="./images/drills.jpg" alt="drills" style="zoom: 25%;" />
-
-[n] a fire drill.
-
-"a practice of what to do in an emergency, for example if there is a fire"
-
-[v] Drill a series of holes in the frame.
-
-"to make a hole in sth, using a drill"
-
-[v] The children were drilled to leave the classroom quickly when the fire bell rang. 
-
-"to teach sb to do sth by making them repeat it a lot of times"
+"lasting for a long time; difficult to cure or get rid of"
 
 
 
-07.prudent [ˈpruːdnt]
-
-[adj] Higher loan-to-deposit ratios are better for funding efficiency, but lower figures are better for prudent control./a prudent decision/investment
-
-"sensible and careful when you make judgements and decisions; avoiding unnecessary risks" "精明的"
-
-
-
-Prudent and rigorous are two words that can be used to describe different approaches or attitudes towards something. Here are the main differences between the two:
-
-- Prudent: This word typically refers to being careful and cautious in making decisions or taking actions. A person who is prudent is often described as being wise, sensible, or judicious. Prudence involves considering the potential risks and consequences of one's actions and making choices that are likely to result in a positive outcome. It is often associated with financial matters, where making prudent investments means being careful not to take unnecessary risks.
-- Rigorous: This word generally means being thorough and precise in one's work or approach to a task. A person who is rigorous is often described as being exacting, meticulous, or rigorous. Rigor involves paying close attention to detail and making sure that every step of a process is carried out correctly. It is often associated with scientific research, where rigorous methods are used to ensure that the results are reliable and accurate.
-
-So, while both words describe a careful approach, the main difference lies in the focus of attention. Prudence is concerned with **avoiding unnecessary risks and ensuring a positive outcome**, while rigor is **focused on achieving a precise and accurate result**.
-
-
-
-08.panel /ˈpænl/
-
-[noun] One of the glass panels in the front door was cracked.
-
-"a square or rectangular piece of wood, glass or metal that forms part of a larger surface such as a door or wall"
-
-[noun] an advisory panel.
-
-"a group of specialists who give their advice or opinion about sth; a group of people who discuss topics of interest on television or radio"
-
-
-
-09.commission /kəˈmɪʃn/
+07.commission /kəˈmɪʃn/
 
 [n] 1% commission is charged for cashing traveller's cheques./Toss Bank launches commission-free foreign exchange service.
 
@@ -36187,11 +36055,17 @@ So, while both words describe a careful approach, the main difference lies in th
 
 
 
-10.chronic [ˈkrɑːnɪk]
+08.panel /ˈpænl/
 
-[adj] the country's chronic unemployment problem.
+[noun] One of the glass panels in the front door was cracked.
 
-"lasting for a long time; difficult to cure or get rid of"
+"a square or rectangular piece of wood, glass or metal that forms part of a larger surface such as a door or wall"
+
+[noun] an advisory panel.
+
+"a group of specialists who give their advice or opinion about sth; a group of people who discuss topics of interest on television or radio"
+
+
 
 
 
@@ -38685,7 +38559,7 @@ It's important to note that in some contexts, people might use the term "identic
 
 
 
-#### 07/28.10
+#### 07/28.09
 
 01.arrest /əˈrest/
 
@@ -38751,7 +38625,27 @@ It's important to note that in some contexts, people might use the term "identic
 
 
 
+07.transplant   [trænsˈplænt , ˈtrænsplænt] 
 
+[verb] {~ sth (from sb/sth) (into sb/sth)} 
+
+Surgeons have successfully transplanted a liver into a four-year-old boy.
+
+"to take an organ, skin, etc. from one person, animal, part of the body, etc. and put it into or onto another"
+
+[verb] Japanese production methods have been transplanted into some British factories. 
+
+"to move sb/sth to a different place or environment"
+
+D[noun]  liver transplantation.
+
+[noun] to have a heart transplant.
+
+"a medical operation in which a damaged organ, etc. is replaced with one from another person"
+
+[noun] There is always a chance that the body will reject the transplant.
+
+"an organ, etc. that is used in a transplant operation"
 
 
 
@@ -38778,32 +38672,6 @@ D[adj] surgical  [ˈsɜː(r)dʒɪkl]
 [adj] surgical procedures. "used in or connected with surgery"
 
 D[adv] The lumps will need to be surgically removed.
-
-
-
-10.transplant   [trænsˈplænt , ˈtrænsplænt] 
-
-[verb] {~ sth (from sb/sth) (into sb/sth)} 
-
-Surgeons have successfully transplanted a liver into a four-year-old boy.
-
-"to take an organ, skin, etc. from one person, animal, part of the body, etc. and put it into or onto another"
-
-[verb] Japanese production methods have been transplanted into some British factories. 
-
-"to move sb/sth to a different place or environment"
-
-D[noun]  liver transplantation.
-
-[noun] to have a heart transplant.
-
-"a medical operation in which a damaged organ, etc. is replaced with one from another person"
-
-[noun] There is always a chance that the body will reject the transplant.
-
-"an organ, etc. that is used in a transplant operation"
-
-
 
 
 
@@ -40897,7 +40765,7 @@ fleeting"lasting only for a very short time"
 
 
 
-#### 11/01.13
+#### 11/01.12
 
 01.takeaway /ˈteɪkəweɪ/
 
@@ -40941,13 +40809,7 @@ fleeting"lasting only for a very short time"
 
 "to cut off sb's head" -杀头-
 
-
-
 > Mostly none, but "behead" sounds like it was done as a formal execution.
-
-
-
-
 
 
 
@@ -40975,9 +40837,11 @@ fleeting"lasting only for a very short time"
 
 
 
-09.death squad /ˈdeθ skwɑːd/
+09.behead /bɪˈhed/
 
-[n] 'a group of people who are ordered by a government to kill other people, especially the government's political opponents'
+[vt] Charles I was beheaded by the Cromwellians.
+
+'to cut off sb's head, especially as a punishment' -decapitate/dɪˈkæpɪteɪt/s- -斩首-
 
 
 
@@ -41008,12 +40872,6 @@ fleeting"lasting only for a very short time"
 "the murder of a whole race or group of people"
 
 
-
-13.behead /bɪˈhed/
-
-[vt] Charles I was beheaded by the Cromwellians.
-
-'to cut off sb's head, especially as a punishment' -decapitate/dɪˈkæpɪteɪt/s- -斩首-
 
 
 
@@ -43515,13 +43373,19 @@ The series touches on different social issues, **dopamine-driven** media addicti
 
 
 
-#### 05/05.05
+#### 05/05.04
 
-01.oblique /əˈbliːk/
+01.consumption [kənˈsʌmpʃn] 
 
-[adj] an oblique reference/approach/comment.
+[noun] Gas and oil consumption always increases in cold weather.  
 
-"not expressed or done in a direct way"
+"the act of using energy, food or materials"
+
+[noun] Consumption rather than saving has become the central feature of contemporary societies.
+
+"the act of buying and using products"
+
+[noun] "a serious infectious disease of the lungs" -tuberculosis  [tjuːˌbɜːkjuˈləʊsɪs] -
 
 
 
@@ -43546,22 +43410,6 @@ The series touches on different social issues, **dopamine-driven** media addicti
 [vp] Keep your shirt on, Bob, they'll be here in time for the wedding.
 
 "**Stay calm, be patient; not give way to temper or excitement**."
-
-
-
-05.consumption [kənˈsʌmpʃn] 
-
-[noun] Gas and oil consumption always increases in cold weather.  
-
-"the act of using energy, food or materials"
-
-[noun] Consumption rather than saving has become the central feature of contemporary societies.
-
-"the act of buying and using products"
-
-[noun] "a serious infectious disease of the lungs" -tuberculosis  [tjuːˌbɜːkjuˈləʊsɪs] -
-
-
 
 
 
@@ -51730,7 +51578,7 @@ The knee-jerk reflex is also called the patellar reflex. Its main biological pur
 
 02.excessive /ɪkˈsesɪv/
 
-[adj] They complained about the excessive noise coming from the upstairs flat./ The traditional Vietnamese diet is known for its healthy balance, with a focus on rice, vegetables, and fish. It's also characterized by minimal oil use and avoids excessive sugar and gluten. 
+[adj] They complained about the excessive noise coming from the upstairs flat./ The traditional Vietnamese diet is known for its healthy balance, with a focus on rice, vegetables, and fish. It's also characterized by minimal oil use and avoids excessive sugar and gluten. /Lotte later said the security staff had acted "out of concern for customer comfort," but admitted the response was excessive.
 
 "greater than what seems reasonable or appropriate"
 
@@ -52698,7 +52546,7 @@ Livestreaming generated so many sales on Douyin last year that the app surpassed
 
 
 
-#### 06/26.03
+#### 06/26.05
 
 01.intertwine /ˌɪntərˈtwaɪn/
 
@@ -52738,6 +52586,24 @@ translate: "The quiet conversations and signals this week at the Summer Davos co
 [noun] They spoke in whispers./ 
 
 "a low quiet voice or the sound it makes"
+
+
+
+04.calf /kæf/ calves
+
+[n] I've torn a calf muscle.
+
+"the back part of the leg between the ankle and the knee"
+
+[n] "a young cow"
+
+
+
+05.calve /kæv/ calves
+
+[v] When his cows calve each year he keeps one or two calves for his family.
+
+"to give birth to a calf"
 
 
 
@@ -54774,7 +54640,7 @@ Japan has pledged $100 million in humanitarian aid.
 
 
 
-#### 11/20
+#### 11/20.02
 
 01.fell out /fel aʊt/
 
@@ -54792,7 +54658,7 @@ Japan has pledged $100 million in humanitarian aid.
 
 
 
-#### 11/21
+#### 11/21.02
 
 01.verbalize /ˈvɜːrbəlaɪz/
 
@@ -54805,3 +54671,398 @@ Japan has pledged $100 million in humanitarian aid.
 02.ignorance /ˈɪɡnərəns/
 
 [n] "a lack of knowledge or information about sth"
+
+
+
+#### 12/05.02
+
+01.stool /stuːl/
+
+[n] a piano stool.
+
+"a seat with legs but with nothing to support your back or arms"
+
+[n] I noticed bright red blood **in my stool**.
+
+"a piece of solid waste from your body"
+
+
+
+02.hemorrhoid /ˈhɛməˌrɔɪd/
+
+[n] Hemorrhoid is one of the most common disease in clinic presently.
+
+"pain caused by venous swelling at or inside the anal sphincter"
+
+
+
+#### 12/09.06
+
+01.forbear  [fɔːˈbeə(r) , ˈfɔːbeə(r)] 
+
+[verb] {~ (from sth/from doing sth)}
+
+It is often difficult to forbear from expressing one's opinion.
+
+"to **stop yourself** from saying or doing sth that you could or would like to say or do"
+
+
+
+> 忍受 vs 节制 
+>
+> The words “forbear” and “bear” have different meanings:
+>
+> Bear: As a verb, “bear” means to support or carry the weight of something. It can also mean to endure or tolerate something.
+>
+> Forbear: “Forbear” means to refrain or abstain from doing something. It can also mean to have patience or tolerance towards something.
+>
+> These words are often used together in the phrase “bear and forbear”, which comes from a Stoicist motto “sustine et abstine”. This phrase means to accept and endure external hardships (bear) and to abstain oneself from doing instinctive and emotional things in reaction (forbear).
+>
+> Please note that “forbear” can also be used as a noun, where it refers to an ancestor or forebear of another person. However, this usage is less common than the verb form.
+
+
+
+02.instinct /ˈɪnstɪŋkt/
+
+[n] I didn't have as strong a maternal instinct as some other mothers...
+
+"a natural tendency for people and animals to behave in a particular way using the knowledge and abilities that they were born with rather than thought or training"
+
+
+
+03.instinctive /ɪnˈstɪŋktɪv/
+
+[adj] She's an instinctive player.
+
+"based on instinct , not thought or training"
+
+
+
+04.slate  [sleɪt] 
+
+[verb] {~ sth (for sth)} More than half of South Koreans believe an inter-Korean summit at the Beijing Winter Olympics, slated for February, will not be possible, a survey showed Friday./Samsung’s next premium smartphone is slated to run the [Snapdragon 8 Gen 3](https://www.tomsguide.com/news/qualcomm-snapdragon-8-gen-3) system-on-chip.
+
+"to plan that sth will happen at a particular time in the future"
+
+[verb] {~ sb/sth (for sth)} to slate a book/play/writer. 
+
+"to criticize sb/sth, especially in a newspaper"
+
+[noun] The sea was the colour of slate.
+
+"a type of dark grey stone that splits easily into thin flat layers"
+
+[noun] An actor's audition slate is their brief, introductory moment (often just name and vital stats like height/agent) at the start of an audition tape or in-person meeting, crucial for first impressions, showcasing personality, and providing essential info to casting, usually done confidently and naturally, often with a slight smile, just before performing the sides.
+
+"a list of the candidates in an election"
+
+
+
+05.osmosis /ɒzˈməʊsɪs/ /ɑːzˈmoʊsɪs/
+
+[n] Initially, Mr Xu thought that he would be able to acquire management lessons by osmosis from Mr Chen.
+
+"the gradual process of learning or being influenced by sth, as a result of being in close contact with it"
+
+
+
+06.dismiss [dɪsˈmɪs] 
+
+[verb] {~ sb/sth (as sth)}
+
+I think we can safely dismiss their objections. 
+
+"to decide that sb/sth is not important and not worth thinking or talking about" -wave aside-
+
+[verb] {~ sth (from sth)} Dismissing her fears, she climbed higher. "to put thoughts or feelings out of your mind"
+
+[verb] {~ sb (from sth)} She claims she was unfairly dismissed from her post. "to officially remove sb from their job"
+
+[verb] Mexican president dismisses Trump tariff threat after ‘excellent’ talk.
+
+"to say that a trial or legal case should not continue, usually because there is not enough evidence"
+
+
+
+#### 12/11.01
+
+01.extremist /ɪkˈstriːmɪst/
+
+[n] "a person whose opinions, especially about religion or politics, are extreme, and who may do things that are violent, illegal, etc. for what they believe"
+
+
+
+#### 12/14.10
+
+01.cork /kɔːrk/
+
+[n] The cork came out of the bottle with a loud pop.
+
+"a small round object made of cork or plastic, that is used for closing bottles, especially wine bottles"
+
+
+
+02.corkscrew /ˈkɔːrkskruː/
+
+[n] It's a corkscrew and bottle-opener all in one.
+
+"a tool for pulling corks from bottles. Most corkscrews have a handle and a long twisted piece of metal for pushing into the cork ."
+
+
+
+03.brick [brɪk] 
+
+[noun] The school is built of brick."baked clay used for building walls, houses and other buildings; an individual block of this"
+
+
+
+04.mortar /ˈmɔːrtər/
+
+[n] "a mixture of sand, water, lime and cement used in building for holding bricks and stones together"
+
+
+
+05.brick-and-mortar 
+
+[adj] Major fashion platform Musinsa on Sunday opened its first offline store outside Korea in Shanghai, as part of its brick-and-mortar market expansion across China.
+
+"used to denote a business that operates conventionally rather than (or as well as) over the internet."
+
+
+
+06.manhunt /ˈmænhʌnt/
+
+[n] Manhunt continues after two killed in shooting at Brown University.
+
+"an organized search by a lot of people for a criminal or a prisoner who has escaped"
+
+
+
+07.underway /ˌʌndərˈweɪ/
+
+[adj] A manhunt is under way after two students were killed and nine other people were injured in a mass shooting at Brown University in Providence, Rhode Island.
+
+"currently in progress"
+
+
+
+08.escort /ˈeskɔːrt , ɪˈskɔːrt/
+
+[v] Students in parts of the campus are continuing to be told to shelter in place until police can escort them out of the area.
+
+"to go with sb to protect or guard them or to show them the way"
+
+
+
+09.death squad /ˈdeθ skwɑːd/
+
+[n] 'a group of people who are ordered by a government to kill other people, especially the government's political opponents'
+
+
+
+10.squad /skwɑːd/
+
+[n] "A **squad** is a small, cohesive team, often military (7-14 soldiers) or police, trained to work together, but it also refers to a popular large-scale tactical multiplayer video game emphasizing realism, teamwork, and combined arms combat (shooter, Mil-Sim)."
+
+
+
+#### 12/16.02
+
+01.shoestring  /ˈʃuːstrɪŋ/ shoelace
+
+[n] a pair of shoelaces.
+
+ "a long thin piece of material like string that goes through the holes on a shoe and is used to fasten it"
+
+
+
+02.on a shoestring 
+
+[phrase] OpenReview operates on a shoestring. They shouldn't have to.  
+
+""On a shoestring" is an idiom meaning to do something with very little money, a very small budget, or limited resources, often implying resourcefulness and frugality, like running a business, making a movie, or traveling with just enough to get by."
+
+
+
+#### 12/17.03
+
+01.drill /drɪl/
+
+[n] an electric drill.
+
+"a tool or machine with a pointed end for making holes"
+
+<img src="./images/drills.jpg" alt="drills" style="zoom: 25%;" />
+
+[n] a fire drill.
+
+"a practice of what to do in an emergency, for example if there is a fire"
+
+[v] Drill a series of holes in the frame.
+
+"to make a hole in sth, using a drill"
+
+[v] The children were drilled to leave the classroom quickly when the fire bell rang. 
+
+"to teach sb to do sth by making them repeat it a lot of times"
+
+
+
+02.drill down 
+
+[verb phrase]  This is a fantastic question that drills down into the actual **implementation details** of Mamba.
+
+"examine or analyze something in further depth."
+
+
+
+03.fire drill [ˈfaɪər drɪl]
+
+[phrasal noun] During a fire drill, please do the following:
+
+"a practice of what people must do in order to escape safely from a fire in a building"
+
+
+
+#### 12/18.07
+
+01.surrender [səˈrendə(r)] 
+
+[verb] {~ (yourself) (to sb)} The rebel soldiers were forced to surrender. 
+
+"to admit that you have been defeated and want to stop fighting; to allow yourself to be caught, taken prisoner, etc."
+
+[noun] {~ (to sb/sth)} They demanded (an) unconditional surrender.
+
+"an act of admitting that you have been defeated and want to stop fighting"
+
+
+
+02.give oneself up
+
+[phrase] A 28-year-old man later gave himself up and will appear in court today.
+
+""Give oneself up" means to **surrender to authorities**, like police, or to **completely devote** your time, energy, or emotions to something, like work, grief, or pleasure, often losing self-control or restraint. "
+
+
+
+03.practitioner [prækˈtɪʃənə(r)]
+
+[noun] dental practitioners. 
+
+"a person who works in a profession, especially **medicine** or **law**"
+
+[n] This is the most common confusion for deep learning practitioners. You know "Convolution" from CNNs as a **sliding window of weights** moving over an image.
+
+The word "Convolution" comes from the Latin *convolvere*, meaning **"to roll together."**
+
+Here is why the mathematical integral and the CNN algorithm share this name: **They are the exact same operation.**
+
+"a person who regularly does a particular activity, especially one that requires skill"
+
+
+
+04.theorem  [ˈθiːərəm] 
+
+[noun] A complete analysis must build on the implicit function theorem. 
+
+"a rule or principle, especially in mathematics, that can be proved to be true"
+
+
+
+> A theorem is a proven statement in math/logic (e.g., Pythagorean Theorem), a logical deduction from axioms, while a theory is a well-supported, broad explanation in science (e.g., Theory of Relativity) that explains why things happen and can be refined or disproven by evidence, though it's often confused with a guess in everyday language. Theorems are about absolute, proven truth within a system; theories are robust explanations of the natural world that fit observations. 
+
+
+
+05.tedious  [ˈtiːdiəs]
+
+[adj] The journey soon became tedious. /Building even a simple neural network can be a confusing task and tuning it to get the better result is an extremely tedious task./**Time Domain Way:** You have to flip a graph, slide it, multiply it, and integrate it for *every single moment* of $t$. It is tedious and prone to calculation errors.
+
+"lasting or taking too long and not interesting" -boring-
+
+> **Boring is more common**. "This party is dull/boring." Tedious is stronger and also implies that the situation is long and slow. "Peeling a bucket of shrimp is a tedious job."
+
+
+
+06.amnesia /æmˈniːʒə/
+
+[n] "a medical condition in which sb partly or completely loses their memory"
+
+
+
+07.oblique /əˈbliːk/
+
+[adj] an oblique reference/approach/comment.
+
+"not expressed or done in a direct way"
+
+[adj] oblique crunch.
+
+"sloping at an angle"
+
+
+
+#### 12/21.01
+
+01.faeces /ˈfiːsiːz/
+
+[n] "solid waste material that leaves the body through the anus"
+
+
+
+#### 12/24
+
+01.cohesion /koʊˈhiːʒn/
+
+[n] More than half — 56.5 percent — said multiculturalism does not weaken national cohesion, and 58.2 percent disagreed with the idea that it undermines pride in Korea’s long-standing homogeneous national identity.
+
+"the act or state of keeping together"
+
+
+
+02.porridge /ˈpɔːrɪdʒ/
+
+[n] For breakfast I have porridge made with water, to which I add raisins.
+
+"a type of soft thick white food made by boiling oats in milk or water, eaten hot, especially for breakfast"
+
+
+
+03.congee /'kɒndʒi/
+
+[n] "(in Chinese cooking) broth or porridge made from rice."
+
+> **Porridge** is a broad term for cooked grains (oats, corn, etc.) in liquid, often sweet; **congee** is a specific, savory Asian *type* of rice porridge, boiled with lots of water until creamy, and typically served with toppings like ginger, meat, or scallions, making it a heartier meal. 
+
+
+
+04.raisin /ˈreɪzn/
+
+[n] "a dried grape , used in cakes, etc."
+
+
+
+05.savoury /ˈseɪvəri/
+
+[adj] savoury snacks.
+
+"having a taste that is salty not sweet"
+
+[adj] a savoury smell from the kitchen.
+
+"having a pleasant taste or smell"
+
+
+
+06.scallion [ˈskæliən]
+
+[noun] {in **BRIT**, use spring onion} "A **scallion** is a small onion with long green leaves."
+
+
+
+07.creamy /ˈkriːmi/
+
+[adj] ...creamy mashed potato...
+
+"Food that is creamy has a soft smooth texture and appearance."
+
