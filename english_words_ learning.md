@@ -1383,7 +1383,7 @@ You can measure economic volatility in a variety of ways.
 
 
 
-#### 2020/01/09.13
+#### 2020/01/09.09
 
 01.emerging markets [iˈmɜːdʒɪŋ ˈmɑːkɪts]
 
@@ -1437,53 +1437,7 @@ D[noun] I am seeking clarification [ˌklærəfɪˈkeɪʃn] of the regulations.
 
 
 
-09.interpret  [ɪnˈtɜː(r)prət]
-
-[verb] The students were asked to interpret the poem. "to explain the meaning of sth"
-
-
-
-> In summary, interpretation involves deriving meaning from something, and it can be more subjective and context-dependent. On the other hand, explanation is about making something clear or understandable to others, and it is generally more objective and focused on presenting information in a coherent and accessible manner.
-
-
-
-10.poem /ˈpoʊəm/
-
-[noun] He recited the whole poem without making a single **slip**.  
-
-"A **poem** is a piece of writing in which the words are chosen for their beauty and sound and are carefully arranged, often in short lines which rhyme."
-
-
-
-11.intervention  [ˌɪntərˈvenʃn] 
-
-[noun] Greater government intervention in businesses would represent a step backwards./The MICCAI Society is a professional organization for scientists in the areas of Medical Image Computing and Computer Assisted Interventions.(MICCAI)
-
-"**Intervention** is the act of intervening in a situation."
-
-
-
-12.intervene /ˌɪntərˈviːn/
-
-[v] {~ (in sth)} The President intervened personally in the crisis. 
-
-"to become involved in a situation in order to improve or help it".
-
-[v]  ‘But,’ she intervened, ‘what about the others?’
-
-"to interrupt sb when they are speaking in order to say sth"
-
-[v] They were planning to get married and then the war intervened.
-
-"to happen in a way that delays sth or prevents it from happening"
-
-[v] I saw nothing of her during the years that intervened.
-
-"to exist between two events or places"
-
-
-
-13.diffuse /dɪˈfjuːs , dɪˈfjuːz/
+09.diffuse /dɪˈfjuːs , dɪˈfjuːz/
 
 [adj] a diffuse community.
 
@@ -1497,7 +1451,7 @@ D[noun] I am seeking clarification [ˌklærəfɪˈkeɪʃn] of the regulations.
 
 
 
-#### 2020/01/11.30
+#### 2020/01/11.29
 
 01...(Cartel Incorporated)  
 //ADJ (用于公司名称后)组成公司的，股份有限的
@@ -1739,7 +1693,9 @@ Why don't you shove up so that Brian can sit next to you? "to move in order to m
 
 
 
+22.anatomy/əˈnætəmi/
 
+[n] "the scientific study of the structure of human or animal bodies"
 
 
 
@@ -1813,9 +1769,7 @@ Why don't you shove up so that Brian can sit next to you? "to move in order to m
 
 
 
-30.anatomy/əˈnætəmi/
 
-[n] "the scientific study of the structure of human or animal bodies"
 
 
 
@@ -15718,7 +15672,7 @@ D[adj] a freckled face/schoolgirl.
 
 
 
-#### 2020/11/15.17
+#### 2020/11/15.15
 
 01.meticulous  [məˈtɪkjələs] 
 
@@ -15832,27 +15786,7 @@ So, there are no hygiene issues related to finger vein scanning.
 
 
 
-13.railing [ˈreɪlɪŋ] 
-
-[noun] I chained my bike to the park railings. 
-
-"a fence made of vertical metal bars; one of these bars" "金属栏杆"
-
-
-
-14.rail  [reɪl] 
-
-[noun] She leaned on the ship's rail and gazed out to sea..
-
-"a wooden or metal bar placed around sth as a barrier or to provide support"
-
-[verb]{~ (at/against sth/sb)}  She railed against the injustice of it all.
-
-"to complain about sth/sb in a very angry way"
-
-
-
-15.barrier  [ˈbæriə(r)] 
+13.barrier  [ˈbæriə(r)] 
 
 [noun] The crowd had to stand behind barriers.
 
@@ -15866,7 +15800,7 @@ So, there are no hygiene issues related to finger vein scanning.
 
 
 
-16.chain /tʃeɪn/
+14.chain /tʃeɪn/
 
 [n] a short length of chain.
 
@@ -15878,7 +15812,7 @@ So, there are no hygiene issues related to finger vein scanning.
 
 
 
-17.meticulously / məˈtɪkjələsli /
+15.meticulously / məˈtɪkjələsli /
 
 [adv] I can't recall how many times we worked together to meticulously revise every word.
 
@@ -27149,17 +27083,9 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
  
 
-#### 2021/10/03.02
+#### 2021/10/03.01
 
-01.petrochemical  [ˌpetrəʊˈkemɪkl] 
-
-[noun] the petrochemical industry./Korean petrochemical industry joins hands with fashion brands for growth
-
-"any chemical substance obtained from petroleum oil or natural gas"
-
-
-
-02.outbound  [ˈaʊtbaʊnd]  [ˈaʊtbaʊnd] 
+01.outbound  [ˈaʊtbaʊnd]  [ˈaʊtbaʊnd] 
 
 [adj]{formal}  Outbound shipments of petrochemical products jumped 51.9 percent and general machinery 7.9 percent.
 
@@ -28456,7 +28382,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-#### 2021/11/21.10
+#### 2021/11/21.08
 
 01.expatriate  [ˌeksˈpætriət] 
 
@@ -28506,11 +28432,11 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-06.petroleum [pəˈtrəʊliəm] 
+06.hospitality [ˌhɒspɪˈtæləti]  [ˌhɑːspɪˈtæləti] 
 
-[noun] We ought to and can produce more petroleum./Major export items such as semiconductors, petroleum products, and wireless communications posted positive growth rates thanks to the recovery of the information technology (IT) industry and the improvement in the economies of major countries.
+[noun] If you behave well with them you can be a part of their friend circle easily and Korean people are very warm and kind so you may get a glimpse of Korean hospitality there. 
 
-"mineral [ˈmɪnərəl] oil that is found under the ground or the sea and is used to produce petrol/gas, paraffin , diesel oil, etc."
+"friendly and generous behaviour towards guests"
 
 
 
@@ -28520,15 +28446,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-08.paraffin [ˈpærəfɪn] 
-
-[noun] a paraffin heater/lamp/stove. 
-
-"a type of oil obtained from petroleum and used as a fuel for heat and light"
-
-
-
-09.glimpse  [ɡlɪmps]
+08.glimpse  [ɡlɪmps]
 
 [noun] {~ (at sb/sth) | ~ (of sb/sth)}  He caught a glimpse of her in the crowd.
 
@@ -28541,14 +28459,6 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 [verb] He'd glimpsed her through the window as he passed. "to see sb/sth for a moment, but not very clearly"
 
 [verb] Suddenly she glimpsed the truth about her sister. "to start to understand sth"
-
-
-
-10.hospitality [ˌhɒspɪˈtæləti]  [ˌhɑːspɪˈtæləti] 
-
-[noun] If you behave well with them you can be a part of their friend circle easily and Korean people are very warm and kind so you may get a glimpse of Korean hospitality there. 
-
-"friendly and generous behaviour towards guests"
 
 
 
@@ -30047,7 +29957,7 @@ Four men are being quizzed by police about the murder. "to ask sb a lot of quest
 
 
 
-#### 01/05.04
+#### 01/05.03
 
 01.whine  [waɪn] 
 
@@ -30063,9 +29973,9 @@ Four men are being quizzed by police about the murder. "to ask sb a lot of quest
 
 
 
-02.foreign exchange reserves 
+02.side by side  [saɪd baɪ saɪd]
 
-[phrase] Korea was the ninth-largest holder of foreign exchange reserves as of end of November.
+[adj] "closely related or associated"
 
 
 
@@ -30081,9 +29991,7 @@ Four men are being quizzed by police about the murder. "to ask sb a lot of quest
 
 
 
-04.side by side  [saɪd baɪ saɪd]
 
-[adj] "closely related or associated"
 
 
 
@@ -37570,11 +37478,17 @@ D[adj] tainted drinking water.
 
 
 
-10.textile /ˈtekstaɪl/ 
+10.claw /klɔː/
 
-[n] He has been in the textile business for many years.
+[n] The lion's claws had gouged a wound in the horse's side.
 
-"any type of cloth made by weaving or knitting"
+"one of the sharp curved nails on the end of an animal's or a bird's foot"
+
+[n] The claws of a crab are used for grasping things, especially food. 
+
+"a long, sharp curved part of the body of some types of shellfish , used for catching and holding things"
+
+[v] She had clawed Stephen across the face. "to scratch or **tear** sb/sth with claws or with your nails"
 
 
 
@@ -37624,23 +37538,11 @@ D[adj] tainted drinking water.
 
 
 
-07.cardigan /ˈkɑːrdɪɡən/
+17.cardigan /ˈkɑːrdɪɡən/
 
 [n] "a knitted jacket made of wool, usually with no **collar** and **fastened** with buttons at the front"
 
 <img src="./images/cardigan.jpg" alt="cardigan" style="zoom:50%;" />
-
-18.claw /klɔː/
-
-[n] The lion's claws had gouged a wound in the horse's side.
-
-"one of the sharp curved nails on the end of an animal's or a bird's foot"
-
-[n] The claws of a crab are used for grasping things, especially food. 
-
-"a long, sharp curved part of the body of some types of shellfish , used for catching and holding things"
-
-[v] She had clawed Stephen across the face. "to scratch or **tear** sb/sth with claws or with your nails"
 
 
 
@@ -39580,7 +39482,7 @@ In essence, the key difference between the two lies in their steadiness and inte
 
 
 
-#### 09/03.09
+#### 09/03.08
 
 01.turn out /tɜːrn aʊt/
 
@@ -39641,14 +39543,6 @@ In essence, the key difference between the two lies in their steadiness and inte
 [v] New businesses thrive in this area.
 
 "to become, and continue to be, successful, strong, healthy, etc." -flourish-
-
-
-
-09.admirable /ˈædmərəbl/
-
-[adj] Her dedication to her work was admirable. 
-
-"having qualities that you admire and respect" -commendable-
 
 
 
@@ -40879,7 +40773,7 @@ fleeting"lasting only for a very short time"
 
 
 
-#### 11/02.05
+#### 11/02.03
 
 01.retro /ˈretroʊ/
 
@@ -40899,27 +40793,7 @@ But that title would now seem far-fetched. The French economy grew by 0.1% in th
 
 
 
-03.thorn /θɔːrn/
-
-[n] Roses will always have thorns but with care they can be avoided.
-
-"a small sharp pointed part on the stem of some plants, such as roses"
-
-
-
-04.thorny /ˈθɔːrni/
-
-[adj] a thorny bush.
-
-"having thorns"
-
-[adj] a thorny question/issue/problem. 
-
-"causing difficulty or disagreement" -knotty-
-
-
-
-05.prick /prɪk/
+03.prick /prɪk/
 
 [v] Prick holes in the paper with a pin.
 
@@ -43323,11 +43197,7 @@ d[adv]shabbily dressed
 
 #### 05/01.01
 
-01.scepticism /ˈskeptɪsɪzəm/
 
-[n] After the video was released, some expressed skepticism, pointing out that the claim of needing 60 million won in the bank to study in France does not align with reality.
-
-"an attitude of doubting that claims or statements are true or that sth will happen"
 
 
 
@@ -44110,7 +43980,7 @@ I can't say I share your enthusiasm for the idea."a strong feeling of excitement
 
 
 
-#### 06/25.02
+#### 06/25.01
 
 01.quest /kwest/
 
@@ -44119,18 +43989,6 @@ I can't say I share your enthusiasm for the idea."a strong feeling of excitement
 "a long search for sth, especially for some quality such as happiness"
 
 [v] "to search for sth that is **difficult** to find; 探索"
-
-
-
-02.bait /beɪt/
-
-[n] China's Xi accused the US of trying to trick him into invading Taiwan, but said he won't take the bait, report says. 
-
-"food put on a hook to catch fish or in nets, traps, etc. to catch animals or birds"
-
-[v] He baited the trap with a piece of meat.
-
-"to place food on a hook, in a trap, etc. in order to attract or catch an animal"
 
 
 
@@ -46486,19 +46344,7 @@ Halt is also extremely formal and outdated English. It typically means to stop m
 
 
 
-#### 02/12.01
 
-
-
-01.derail /dɪˈreɪl/
-
-[v] The present wave of political killings is the work of people trying to derail peace talks.
-
-"To **derail** something such as a plan or a series of negotiations means to prevent it from continuing as planned."
-
-[v] Several people were injured today when a train was derailed...
-
-"If a train **is derailed** or if it **derails**, it comes off the track on which it is running."
 
 
 
@@ -47933,7 +47779,7 @@ The British "Ministry of Justice" is the "Department of Justice" in the US
 
 
 
-#### 03/12.09
+#### 03/12.08
 
 01.mansion [ˈmænʃn] 
 
@@ -48006,14 +47852,6 @@ The British "Ministry of Justice" is the "Department of Justice" in the US
 [n] {NAmE soda} Soft drinks and minerals sold here.
 
 "a sweet drink in various flavours that has bubbles of gas in it and does not contain alcohol"
-
-
-
-09.interim /ˈɪntərɪm/
-
-[adj] an interim government/measure/report.
-
-"intended to last for only a short time until sb/sth more permanent is found"
 
 
 
@@ -48099,7 +47937,7 @@ The apple tree has born fruits.
 
 03.legit [lɪˈdʒɪt]
 
-[adj]The business seems legit. 
+[adj] The business seems legit. 
 
 "legal, or acting according to the law or the rules"
 
@@ -55010,7 +54848,7 @@ Here is why the mathematical integral and the CNN algorithm share this name: **T
 
 
 
-#### 12/24
+#### 12/24.13
 
 01.cohesion /koʊˈhiːʒn/
 
@@ -55066,3 +54904,254 @@ Here is why the mathematical integral and the CNN algorithm share this name: **T
 
 "Food that is creamy has a soft smooth texture and appearance."
 
+
+
+08.foreign /ˈfɔːrən/ exchange(FX) reserves 
+
+[phrase] Korea was the ninth-largest holder of foreign exchange reserves as of end of November.
+
+
+
+09.foreign /ˈfɔːrən/
+
+[adj] a foreign accent/language/student.
+
+"in or from a country that is not your own"
+
+
+
+10.poem /ˈpoʊəm/
+
+[noun] He recited the whole poem without making a single **slip**.  
+
+"A **poem** is a piece of writing in which the words are chosen for their beauty and sound and are carefully arranged, often in short lines which rhyme."
+
+
+
+11.intervention  [ˌɪntərˈvenʃn] 
+
+[noun] Greater government intervention in businesses would represent a step backwards./The MICCAI Society is a professional organization for scientists in the areas of Medical Image Computing and Computer Assisted Interventions.(MICCAI)
+
+"**Intervention** is the act of intervening in a situation."
+
+
+
+12.intervene /ˌɪntərˈviːn/
+
+[v] {~ (in sth)} The President intervened personally in the crisis. 
+
+"to become involved in a situation in order to improve or help it".
+
+[v]  ‘But,’ she intervened, ‘what about the others?’
+
+"to interrupt sb when they are speaking in order to say sth"
+
+[v] They were planning to get married and then the war intervened.
+
+"to happen in a way that delays sth or prevents it from happening"
+
+[v] I saw nothing of her during the years that intervened.
+
+"to exist between two events or places"
+
+
+
+13.interpret  [ɪnˈtɜː(r)prət]
+
+[verb] The students were asked to interpret the poem. "to explain the meaning of sth"
+
+
+
+> In summary, interpretation involves deriving meaning from something, and it can be more subjective and context-dependent. On the other hand, explanation is about making something clear or understandable to others, and it is generally more objective and focused on presenting information in a coherent and accessible manner.
+
+
+
+#### 12/25.02
+
+01.aquatic /əˈkwɑːtɪk/
+
+[adj] aquatic plants/life/ecosystems .
+
+"growing or living in, on or near water"
+
+[adj] Elon Musk On The Question If Tesla Will Build Aquatic Cars In The Future.
+
+"connected with water"
+
+
+
+02.infiltrate /ˈɪnfɪltreɪt/
+
+[v] Donald Trump told children he would not let a "bad Santa" infiltrate the US.
+
+"to enter or make sb enter a place or an organization secretly, especially in order to get information that can be used against it"
+
+
+
+#### 12/29.02
+
+01.interim /ˈɪntərɪm/
+
+[adj] an interim government/measure/report./"We have prepared this compensation plan as part of our efforts to take responsibility for our customers," Coupang interim CEO Harold Rogers said.
+
+"intended to last for only a short time until sb/sth more permanent is found"
+
+
+
+02.bait /beɪt/
+
+[n] China's Xi accused the US of trying to trick him into invading Taiwan, but said he won't take the bait, report says. /Coupang's compensation plan derided as 'bait'
+
+"food put on a hook to catch fish or in nets, traps, etc. to catch animals or birds"
+
+[v] He baited the trap with a piece of meat.
+
+"to place food on a hook, in a trap, etc. in order to attract or catch an animal"
+
+
+
+#### 12/30.04
+
+01.textile /ˈtekstaɪl/ 
+
+[n] He has been in the textile business for many years./China dominates global textile exports with massive scale and cost-efficiency, supplying most of South Korea's textiles, while South Korea, facing high costs, focuses on high-tech/value-added fabrics.
+
+"any type of cloth made by weaving or knitting"
+
+
+
+02.petroleum [pəˈtrəʊliəm] 
+
+[noun] We ought to and can produce more petroleum./Major export items such as semiconductors, petroleum products, and wireless communications posted positive growth rates thanks to the recovery of the information technology (IT) industry and the improvement in the economies of major countries./**Petroleum Products:** Led by the USA, Russia, and Saudi Arabia.
+
+"mineral [ˈmɪnərəl] oil that is found under the ground or the sea and is used to produce petrol/gas, paraffin , diesel oil, etc."
+
+
+
+03.paraffin /ˈpærəfɪn/
+
+[n] a paraffin heater/lamp/stove.
+
+"a type of oil obtained from petroleum and used as a fuel for heat and light"
+
+
+
+04.petrochemical  [ˌpetrəʊˈkemɪkl] 
+
+[noun] the petrochemical industry./Korean petrochemical industry joins hands with fashion brands for growth
+
+"any chemical substance obtained from petroleum oil or natural gas"
+
+
+
+#### 12/31.06
+
+01.thorn /θɔːrn/
+
+[n] Roses will always have thorns but with care they can be avoided.
+
+"a small sharp pointed part on the stem of some plants, such as roses"
+
+
+
+02.thorny /ˈθɔːrni/
+
+[adj] a thorny bush.
+
+"having thorns"
+
+[adj] a thorny question/issue/problem./The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal.
+
+"causing difficulty or disagreement" -knotty-
+
+
+
+03.railing [ˈreɪlɪŋ] 
+
+[noun] I chained my bike to the park railings. 
+
+"a fence made of vertical metal bars; one of these bars" "金属栏杆"
+
+
+
+04.rail  [reɪl] 
+
+[noun] She leaned on the ship's rail and gazed out to sea..
+
+"a wooden or metal bar placed around sth as a barrier or to provide support"
+
+[verb]{~ (at/against sth/sb)}  She railed against the injustice of it all.
+
+"to complain about sth/sb in a very angry way"
+
+
+
+05.railway /ˈreɪlweɪ/
+
+[n] The railway is still under construction.
+
+"a track with rails on which trains run"
+
+[n] Her father worked on the railways.
+
+"a system of tracks, together with the trains that run on them, and the organization and people needed to operate them"
+
+
+
+> "Rail" refers to the metal bar itself or the entire transportation concept, while "railway" (or "railroad") refers to the entire system, infrastructure (tracks, stations, signals), and the company/operation, with "railroad" being more common in the US and "railway" in the UK, though the terms are often interchangeable for the system, with "rail" also meaning the physical component or action. Think of **[rails](https://www.google.com/search?q=rails&newwindow=1&sca_esv=193e4d72471d1d68&sxsrf=AE3TifO2BM72XP0bYDunaiOhO7-04fIMMQ%3A1767146722175&source=hp&ei=4oRUaeiYB8_i2roPuJbimQU&iflsig=AOw8s4IAAAAAaVSS8jIYuy5kMrUPMSTAVwZnZ6tk6ilY&ved=2ahUKEwiM3IbJ3uaRAxWphlYBHWr8Er0QgK4QegQIARAC&uact=5&oq=railway+vs+rail&gs_lp=Egdnd3Mtd2l6Ig9yYWlsd2F5IHZzIHJhaWwyCBAAGIAEGMsBMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgYQABgIGB4yBhAAGAgYHjIGEAAYBRgeMgYQABgIGB4yBhAAGAgYHkjVNVD_AlirIHABeACQAQCYAYEBoAHgB6oBAzAuObgBA8gBAPgBAvgBAZgCCqACiAioAgrCAgcQIxgnGOoCwgIFEAAYgATCAggQLhiABBjLAcICDhAuGIAEGMcBGMsBGK8BwgIGEAAYChgemAMI8QXJ6x4idxDGHpIHAzEuOaAHwSayBwMwLjm4B_8HwgcFMC43LjPIBx6ACAA&sclient=gws-wiz&mstk=AUtExfCnjGri78hoOqoqlZS0lyiNpCy3XFd-47ZRl3-DmVA9D-jdwTF4x3OSZKvt-IRrn35zC1TsLTDpx0XRp9TyCrZ7hMPKObU3P6x5BSE6O6h2jzZoRR__TiLpMUDU06CNVQalF30OscZMTObIt-vWET5ITPwv2-z-Rb5m5Uo1RLo-GEE&csui=3)** as the *parts* (the metal bars) and **[railway](https://www.google.com/search?q=railway&newwindow=1&sca_esv=193e4d72471d1d68&sxsrf=AE3TifO2BM72XP0bYDunaiOhO7-04fIMMQ%3A1767146722175&source=hp&ei=4oRUaeiYB8_i2roPuJbimQU&iflsig=AOw8s4IAAAAAaVSS8jIYuy5kMrUPMSTAVwZnZ6tk6ilY&ved=2ahUKEwiM3IbJ3uaRAxWphlYBHWr8Er0QgK4QegQIARAD&uact=5&oq=railway+vs+rail&gs_lp=Egdnd3Mtd2l6Ig9yYWlsd2F5IHZzIHJhaWwyCBAAGIAEGMsBMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgYQABgIGB4yBhAAGAgYHjIGEAAYBRgeMgYQABgIGB4yBhAAGAgYHkjVNVD_AlirIHABeACQAQCYAYEBoAHgB6oBAzAuObgBA8gBAPgBAvgBAZgCCqACiAioAgrCAgcQIxgnGOoCwgIFEAAYgATCAggQLhiABBjLAcICDhAuGIAEGMcBGMsBGK8BwgIGEAAYChgemAMI8QXJ6x4idxDGHpIHAzEuOaAHwSayBwMwLjm4B_8HwgcFMC43LjPIBx6ACAA&sclient=gws-wiz&mstk=AUtExfCnjGri78hoOqoqlZS0lyiNpCy3XFd-47ZRl3-DmVA9D-jdwTF4x3OSZKvt-IRrn35zC1TsLTDpx0XRp9TyCrZ7hMPKObU3P6x5BSE6O6h2jzZoRR__TiLpMUDU06CNVQalF30OscZMTObIt-vWET5ITPwv2-z-Rb5m5Uo1RLo-GEE&csui=3)/[railroad](https://www.google.com/search?q=railroad&newwindow=1&sca_esv=193e4d72471d1d68&sxsrf=AE3TifO2BM72XP0bYDunaiOhO7-04fIMMQ%3A1767146722175&source=hp&ei=4oRUaeiYB8_i2roPuJbimQU&iflsig=AOw8s4IAAAAAaVSS8jIYuy5kMrUPMSTAVwZnZ6tk6ilY&ved=2ahUKEwiM3IbJ3uaRAxWphlYBHWr8Er0QgK4QegQIARAE&uact=5&oq=railway+vs+rail&gs_lp=Egdnd3Mtd2l6Ig9yYWlsd2F5IHZzIHJhaWwyCBAAGIAEGMsBMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgYQABgIGB4yBhAAGAgYHjIGEAAYBRgeMgYQABgIGB4yBhAAGAgYHkjVNVD_AlirIHABeACQAQCYAYEBoAHgB6oBAzAuObgBA8gBAPgBAvgBAZgCCqACiAioAgrCAgcQIxgnGOoCwgIFEAAYgATCAggQLhiABBjLAcICDhAuGIAEGMcBGMsBGK8BwgIGEAAYChgemAMI8QXJ6x4idxDGHpIHAzEuOaAHwSayBwMwLjm4B_8HwgcFMC43LjPIBx6ACAA&sclient=gws-wiz&mstk=AUtExfCnjGri78hoOqoqlZS0lyiNpCy3XFd-47ZRl3-DmVA9D-jdwTF4x3OSZKvt-IRrn35zC1TsLTDpx0XRp9TyCrZ7hMPKObU3P6x5BSE6O6h2jzZoRR__TiLpMUDU06CNVQalF30OscZMTObIt-vWET5ITPwv2-z-Rb5m5Uo1RLo-GEE&csui=3)** as the *whole system* (tracks + trains + company). 
+
+
+
+06.derail /dɪˈreɪl/
+
+[v] The present wave of political killings is the work of people trying to derail peace talks.
+
+"To **derail** something such as a plan or a series of negotiations means to prevent it from continuing as planned."
+
+[v] Several people were injured today when a train was derailed...
+
+"If a train **is derailed** or if it **derails**, it comes off the track on which it is running."
+
+
+
+### 2026
+
+#### 01/02
+
+01.reinvent /ˌriːɪnˈvent/
+
+[verb] You can reinvent your entire life in 1 year. 
+
+"to present yourself/sth in a new form or with a new image"
+
+
+
+02.admirable /ˈædmərəbl/
+
+[adj] Her dedication to her work was admirable. 
+
+"having qualities that you admire and respect" -commendable-
+
+
+
+03.dedication /ˌdedɪˈkeɪʃn/
+
+[n] Fitness influencer Ashton Hall claims to be a "lifetime natural," but his physique's appearance sparks debate online, with some believing his massive size is achievable naturally through genetics and dedication, while others, including some fitness personalities, express skepticism and suggest steroid use, though there's no definitive proof he's not natural. 
+
+"the hard work and effort that sb puts into an activity or purpose because they think it is important"
+
+
+
+04.scepticism /ˈskeptɪsɪzəm/
+
+[n] After the video was released, some expressed skepticism, pointing out that the claim of needing 60 million won in the bank to study in France does not align with reality.
+
+"an attitude of doubting that claims or statements are true or that sth will happen"
+
+
+
+05.poised to 
+
+[verb] The two carmakers are poised to publish their final annual sales figures for 2025.
+
+"If someone is poised to do something, they are **ready to take action at any moment**."
