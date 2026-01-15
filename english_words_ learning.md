@@ -6084,7 +6084,7 @@ You could hike through the Fish River Canyon.
 
 
 
-#### 2020/06/06.15
+#### 2020/06/06.14
 
 01.expiry /ɪkˈspaɪəri/
 
@@ -6130,15 +6130,13 @@ You could hike through the Fish River Canyon.
 
 
 
-06.verdict /ˈvɜːrdɪkt/
+06.striking  [ˈstraɪkɪŋ] 
 
-[n] Has the **jury** reached a verdict ?
+[adj] a striking feature. "interesting and unusual enough to attract attention"-marked-
 
-"a decision that is made by a jury in court, stating if sb is considered guilty of a crime or not/裁决"
+[adj] striking good looks. "very attractive, often in an unusual way"-stunning-
 
-[n] Well, what's your verdict?
-
-"a decision that you make or an opinion that you give about sth, after you have tested it or considered it carefully/结论"
+D[adv]  The two polls produced strikingly different results.
 
 
 
@@ -6218,13 +6216,7 @@ a collision between two trains.
 
 
 
-15.striking  [ˈstraɪkɪŋ] 
 
-[adj] a striking feature. "interesting and unusual enough to attract attention"-marked-
-
-[adj] striking good looks. "very attractive, often in an unusual way"-stunning-
-
-D[adv]  The two polls produced strikingly different results.
 
 
 
@@ -6314,14 +6306,6 @@ e.g: state-owned enterprises
 
 
 
-09.tart /tɑːrt/
-
-[adj] tart apples.
-
-"having an unpleasant sour taste"
-
-
-
 #### 2020/06/09.07
 
 01.hike [haɪk] [noun/verb] "远足"
@@ -6384,7 +6368,7 @@ campaign vs activity
 
 
 
-#### 2020/06/11.13
+#### 2020/06/11.12
 
 01.diagnose /ˌdaɪəɡˈnoʊs/ {dia bi}{gnos know}{"两头都知道"} "诊断(疾病);判断(问题的原因)"
 
@@ -6500,11 +6484,11 @@ strike a balance /straɪk ə ˈbæləns/
 
 
 
-11.flatter [ˈflætə(r)]  /suck up
+11.shrug  [ʃrʌɡ] 
 
-[verb] Are you trying to flatter me?
+[verb] Sam shrugged and said nothing. 
 
-[verb] How will you manage without me?’ ‘Don't flatter yourself."没有我看你怎么办？”“别自以为了不起。"
+"to raise your shoulders and then drop them to show that you do not know or care about sth"
 
 
 
@@ -6516,11 +6500,7 @@ strike a balance /straɪk ə ˈbæləns/
 
 
 
-13.shrug  [ʃrʌɡ] 
 
-[verb] Sam shrugged and said nothing. 
-
-"to raise your shoulders and then drop them to show that you do not know or care about sth"
 
 
 
@@ -10847,13 +10827,17 @@ When we use “borrow” in a sentence, we use the preposition “from.” Andy 
 
 
 
-#### 2020/09/21.20
+#### 2020/09/21.18
 
-01.monopolistic [məˌnɒpəˈlɪstɪk]  [məˌnɑːpəˈlɪstɪk]"
+01.strict  [strɪkt]
 
-[adj] In China, the power industry is a traditional monopolistic industry.
+[adj] strict rules/regulations/discipline. "that must be obeyed exactly"
 
-"controlling or trying to get complete control over sth, especially an industry or a company"
+[adj] a strict teacher/parent/disciplinarian. "demanding that rules, especially rules about behaviour, should be obeyed"
+
+[adj] a strict Muslim. "obeying the rules of a particular religion, belief, etc. exactly"
+
+[adj] It wasn't illegal in the strict sense (of the word). "very exact and clearly defined"
 
 
 
@@ -10991,13 +10975,23 @@ onions pickled in vinegar.
 
 
 
-
-
-
-
-17.dove  [dəʊv]
+16.dove  [dəʊv]
 
 [noun] A dove cooed softly. "a bird of the pigeon family. The white dove is often used as a symbol of peace."
+
+
+
+17.sever [ˈsevə(r)] 
+
+[verb] {~ sth (from sth)} to sever a **rope**. "To sever something means to cut completely through it or to **cut it completely off**."
+
+[verb] The two countries have severed all diplomatic links. "to completely end a relationship or all communication with sb" -**break off**-
+
+```
+Sever means to completely cut off, like a severed head for example would mean the head is completely cut off from the body, while cut can mean slicing something but not all the way.
+```
+
+
 
 
 
@@ -11011,27 +11005,7 @@ doves are generally of a smaller stature while pigeons are often larger and stub
 
 
 
-19.sever [ˈsevə(r)] 
 
-[verb] {~ sth (from sth)} to sever a **rope**. "To sever something means to cut completely through it or to **cut it completely off**."
-
-[verb] The two countries have severed all diplomatic links. "to completely end a relationship or all communication with sb" -**break off**-
-
-```
-Sever means to completely cut off, like a severed head for example would mean the head is completely cut off from the body, while cut can mean slicing something but not all the way.
-```
-
-
-
-20.strict  [strɪkt]
-
-[adj] strict rules/regulations/discipline. "that must be obeyed exactly"
-
-[adj] a strict teacher/parent/disciplinarian. "demanding that rules, especially rules about behaviour, should be obeyed"
-
-[adj] a strict Muslim. "obeying the rules of a particular religion, belief, etc. exactly"
-
-[adj] It wasn't illegal in the strict sense (of the word). "very exact and clearly defined"
 
 
 
@@ -16927,7 +16901,7 @@ More than 54 percent people think Korean society has hatred or a discriminatory 
 
 
 
-#### 2020/12/12.08
+#### 2020/12/12.07
 
 foul/musty/pungent
 
@@ -16973,23 +16947,15 @@ foul/musty/pungent
 
 
 
-04.foul /faʊl/
+04.damp [adj] "温暖潮湿的;湿热的"
 
-[adj] foul air/breath.
+[adj] The cottage was cold and damp."slightly wet, often in a way that is unpleasant"
 
-"dirty and smelling bad"
+[noun ] The old house smells of damp.  "the state of being damp ; areas on a wall, etc. that are damp"
 
-[adj] She's in a foul mood . 
+[verb] She damped a towel and wrapped it round his leg. "dampen"
 
-"very unpleasant; very bad"
 
-[verb]  He was fouled inside the penalty area."
-
-to do sth to another player that is against the rules of the game"
-
-[n] It was a clear foul by Ford on the goalkeeper.
-
-"an action that is against the rules of the game"
 
 
 
@@ -17014,16 +16980,6 @@ to do sth to another player that is against the rules of the game"
 [adj] These ferns will grow best in a humid atmosphere.
 
 "warm and damp"
-
-
-
-08.damp [adj] "温暖潮湿的;湿热的"
-
-[adj] The cottage was cold and damp."slightly wet, often in a way that is unpleasant"
-
-[noun ] The old house smells of damp.  "the state of being damp ; areas on a wall, etc. that are damp"
-
-[verb] She damped a towel and wrapped it round his leg. "dampen"
 
 
 
@@ -20485,7 +20441,7 @@ British Airways."a route regularly used by planes"
 
 
 
-#### 20210303.13
+#### 20210303.12
 
 01.evoke/ɪˈvəʊk/ /ɪˈvoʊk/
 
@@ -20515,15 +20471,17 @@ British Airways."a route regularly used by planes"
 
 
 
-05.passionate  [ˈpæʃənət] 
+05.tendency /ˈtendənsi/
 
-[adj] to have a passionate nature. 
+[n] {~ (for sb/sth) (to do sth) | ~ (to/towards sth)}
 
-"having or showing strong feelings of sexual love or of anger, etc."
+I have a tendency to talk too much when I'm nervous.
 
-[adj] a passionate interest in music.
+"if sb/sth has a particular tendency , they are likely to behave or act in a particular way"
 
-"having or showing strong feelings of enthusiasm for sth or belief in sth"
+[n] There is a growing tendency among employers to hire casual staff.
+
+"a new custom that is starting to develop" -trend-
 
 
 
@@ -20582,18 +20540,6 @@ British Airways."a route regularly used by planes"
 [noun]The plan has the virtue of simplicity. "an attractive or useful quality" -advantage-
 
 
-
-13.tendency /ˈtendənsi/
-
-[n] {~ (for sb/sth) (to do sth) | ~ (to/towards sth)}
-
-I have a tendency to talk too much when I'm nervous.
-
-"if sb/sth has a particular tendency , they are likely to behave or act in a particular way"
-
-[n] There is a growing tendency among employers to hire casual staff.
-
-"a new custom that is starting to develop" -trend-
 
 
 
@@ -23489,13 +23435,21 @@ D[adj] a monogamous marriage.
 
 
 
-10.therapy [ˈθerəpi] 
 
-[noun] Most **leukaemia** patients undergo some sort of drug therapy (= treatment using drugs).
 
-/He kept his family in the dark for years until a dramatic therapy session.
+10.fidelity [fɪˈdeləti] 
 
-"the treatment of a physical problem or an illness"
+[noun] {~ (to sth)} fidelity to your principles.
+
+"the quality of being loyal to sb/sth"
+
+[noun] {~ (to sb)} marital/sexual fidelity. 
+
+"the quality of being faithful to your husband, wife or partner by not having a sexual relationship with anyone else" +infidelity+
+
+[noun] {~ (of sth) (to sth)} the fidelity of the translation to the original text. "the quality of being accurate"
+
+
 
 
 
@@ -23542,18 +23496,6 @@ Park Min Young addresses dating rumor controversy: 'Regretted it everyday...'
 -unfaithfulness-
 
 
-
-16.fidelity [fɪˈdeləti] 
-
-[noun] {~ (to sth)} fidelity to your principles.
-
-"the quality of being loyal to sb/sth"
-
-[noun] {~ (to sb)} marital/sexual fidelity. 
-
-"the quality of being faithful to your husband, wife or partner by not having a sexual relationship with anyone else" +infidelity+
-
-[noun] {~ (of sth) (to sth)} the fidelity of the translation to the original text. "the quality of being accurate"
 
 
 
@@ -30219,7 +30161,7 @@ My sister and I used to quarrel all the time."to have an angry argument or disag
 
 
 
-#### 01/24.03
+#### 01/24.02
 
 01.xenotransplantation  [ˌziːnəʊˌtrænsplɑːnˈteɪʃn]
 
@@ -30237,11 +30179,7 @@ My sister and I used to quarrel all the time."to have an angry argument or disag
 
 
 
-03.chronic  [ˈkrɒnɪk]  [ˈkrɑːnɪk] 
 
-[adj] chronic bronchitis/arthritis/asthma.
-
-"lasting for a long time; difficult to cure or get rid of"
 
 
 
@@ -31533,7 +31471,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-#### 05/23.07
+#### 05/23.05
 
 01.pull out [ˈpʊl aʊt]
 
@@ -31567,25 +31505,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-05.subsidiary [səbˈsɪdiəri]  [səbˈsɪdieri] 
-
-[adj] In retaliation, Beijing started to impose tougher regulations on Lotte's subsidiaries in China.
-
-"owned or controlled by another company"
-
-[adj] {~ (to sth)} subsidiary information."connected with sth but less important than it" -additional-
-
-
-
-06.retaliation [rɪˌtæliˈeɪʃn] 
-
-[noun] { ~ (against sb/sth) (for sth)} retaliation against UN workers./In March 2017, China implemented a suspension of visas for group tour programs to Korea in retaliation against the deployment of the U.S. THAAD on Korean soil.
-
-"action that a person takes against sb who has harmed them in some way"
-
-
-
-07.barb [bɑːrb]
+05.barb [bɑːrb]
 
 [noun] "the point of an arrow or a hook that is curved backwards to make it difficult to pull out"
 
@@ -31904,7 +31824,7 @@ The students left the classroom right after the class was over.
 
 
 
-#### 07/19.04
+#### 07/19.03
 
 01.appendicitis [əˌpendəˈsaɪtɪs] 
 
@@ -31918,15 +31838,7 @@ The students left the classroom right after the class was over.
 
 
 
-03.appendix  [əˈpendɪks]
-
-[noun] He had to have his appendix out (= removed) .
-
-"a small bag of tissue that is attached to the large intestine . In humans, the appendix has no clear function."
-
-
-
-04.discontent  [ˌdɪskənˈtent]
+03.discontent  [ˌdɪskənˈtent]
 
 [noun] {~ (at/over/with sth)} Most Americans are discounted with President Biden.
 
@@ -32796,15 +32708,21 @@ Samsung to focus on car chips growth to withstand a slump in demand.
 
 
 
-#### 11/17.07
+#### 11/17.04
 
-01.reaffirm [ˌriːəˈfɜːm] 
+01.yuck  [jʌk]
 
-[verb] I met **with** Prime Minister Modi of India and President Widodo of Indonesia to reaffirm our **commitment** to the G20 as the premier forum for global economic cooperation.
+[int] (informal) Don't yuck my yum.
 
-""
+"used to show that you think sth is disgusting or unpleasant" 
 
-02.premier forum  [prɪˈmɪr ˈfɔːrəm]
+
+
+02.yum [jʌm]
+
+[int] (informal)  "used to show that you think sth tastes or smells very nice"
+
+
 
 
 
@@ -32819,24 +32737,6 @@ Samsung to focus on car chips growth to withstand a slump in demand.
 04.pilgrimage  [ˈpɪlɡrɪmɪdʒ]
 
 [noun] the annual pilgrimage. "a journey to a holy place for religious reasons"
-
-
-
-05.yuck  [jʌk]
-
-[int] (informal) Don't yuck my yum.
-
-"used to show that you think sth is disgusting or unpleasant" 
-
-
-
-06.yum [jʌm]
-
-[int] (informal)  "used to show that you think sth tastes or smells very nice"
-
-
-
-
 
 
 
@@ -34603,17 +34503,9 @@ dizzy [ˈdɪzi]
 
 
 
-#### 02/01.03
+#### 02/01.02
 
-01.intestine[ɪnˈtestɪn] 
-
-[noun]  This area is always tender to the touch if the intestines are not functioning properly...
-
-"a long tube in the body between the stomach and the anus . Food passes from the stomach to the small intestine and from there to the large intestine ."
-
-
-
-02.tender [ˈtendə(r)]
+01.tender [ˈtendə(r)]
 
 [adj] tender words.
 
@@ -34635,7 +34527,7 @@ dizzy [ˈdɪzi]
 
 
 
-03.tinder [ˈtɪndə(r)]
+02.tinder [ˈtɪndə(r)]
 
 [noun]This is a key fire prevention area, no smoking and tinder.  
 
@@ -35568,7 +35460,7 @@ Job hopping is **a trend that is growing exponentially in the labour market and 
 
 
 
-#### 03/19.08
+#### 03/19.07
 
 01.hieroglyph [ˈhaɪərəɡlɪf]
 
@@ -35592,15 +35484,17 @@ Job hopping is **a trend that is growing exponentially in the labour market and 
 
 
 
-04.advocate [ˈædvəkeɪt , ˈædvəkət]
+04.prescriptive [prɪˈskrɪptɪv]
 
-[verb] The group does not advocate the use of violence.
+[adj] prescriptive methods of teaching.
 
-"to support sth publicly"
+"telling people what should be done"
 
-[noun] a staunch advocate of free speech.
+[adj] {(technical 术语) (of rights and institutions 权利和风俗) 约定俗成的；相沿成习的}
 
-"a person who supports or speaks in favour of sb or of a public plan or action"
+prescriptive powers.
+
+"made legal or acceptable because they have existed for a long time"
 
 
 
@@ -35625,24 +35519,6 @@ Job hopping is **a trend that is growing exponentially in the labour market and 
 [adj] concerned with beauty and art and the understanding of beautiful things.
 
 "concerned with beauty and art and the understanding of beautiful things"
-
-
-
-08.prescriptive [prɪˈskrɪptɪv]
-
-[adj] prescriptive methods of teaching.
-
-"telling people what should be done"
-
-[adj] {(technical 术语) (of rights and institutions 权利和风俗) 约定俗成的；相沿成习的}
-
-prescriptive powers.
-
-"made legal or acceptable because they have existed for a long time"
-
- 
-
-
 
 
 
@@ -39574,12 +39450,6 @@ In essence, the key difference between the two lies in their steadiness and inte
 
 #### 09/06.22
 
-01.deplete /dɪˈpliːt/
-
-[v] However, your body's creatine stores will be depleted, especially in muscle and the brain.
-
-"to reduce sth by a large amount so that there is not enough left"
-
 
 
 02.lethargy /ˈleθərdʒi/
@@ -41329,7 +41199,7 @@ D[noun] She is a designer of extraordinary **versatility**.
 
 
 
-#### 12/06.02
+#### 12/06.01
 
 01.snake oil /ˈsneɪk ɔɪl/
 
@@ -41338,12 +41208,6 @@ D[noun] She is a designer of extraordinary **versatility**.
 "something, for example medicine, that sb tries to sell you, but that is not effective or useful"
 
 
-
-02.lucrative /ˈluːkrətɪv/
-
-[adj] The new contract is believed to be among *the most lucrative signed by any music group this year*./CJ Cheiljedang's leading food brand Bibigo, is now featured in a Harvard Business School textbook, which explains how the food brand successfully expanded its presence in the lucrative global food market, according to the food company, Sunday.
-
-"producing a large amount of money; making a large profit"
 
 
 
@@ -41957,21 +41821,7 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-03.colon /ˈkoʊlən/
-
-[n] "the mark ( : ) used to introduce a list, a summary, an explanation, etc. or before reporting what sb has said"
-
-[n] "the main part of the large intestine (= part of the bowels )"
-
-
-
-04.colonoscope / koʊˈlɑːnəskoʊp; kəˈlɑːnəˌskoʊp /
-
-[n] "an elongated fiberoptic endoscope for examining the entire colon from cecum to rectum"
-
-
-
-05.elongate /ɪˈlɔːŋɡeɪt/
+03.elongate /ɪˈlɔːŋɡeɪt/
 
 [verb] Sometimes hormones are used to elongate apples so that they look more attractive.
 
@@ -42995,19 +42845,19 @@ d[adv]shabbily dressed
 
 #### 04/05.07
 
-01.judiciously / dʒuˈdɪʃəsli /
+01.elapsed time /ɪˌlæpst ˈtaɪm/
 
-[adv] Modern fertilisers should be used judiciously.
+[n] Then, `torch.cuda.synchronize()` is used to ensure that all CUDA operations are completed before calculating the elapsed time. 
 
-"If you describe an action or decision as **judicious**, you approve of it because you think that it shows good judgment and sense."
+"used to describe the time that passes between the start and end of a project or a computer operation, in contrast to the actual time needed to do a particular task which is part of the project"
 
 
 
-02.judicious /dʒuˈdɪʃəs/
+02.consume /kənˈsjuːm/
 
-[adj]  judicious use of one's money.
+[v] The electricity industry consumes large amounts of fossil fuels. 
 
-"careful and sensible; showing good judgement"
+"to use sth, especially fuel, energy or time"
 
 
 
@@ -43030,22 +42880,6 @@ d[adv]shabbily dressed
 05.asynchronization 
 
 [n] "异步"
-
-
-
-06.elapsed time /ɪˌlæpst ˈtaɪm/
-
-[n] Then, `torch.cuda.synchronize()` is used to ensure that all CUDA operations are completed before calculating the elapsed time. 
-
-"used to describe the time that passes between the start and end of a project or a computer operation, in contrast to the actual time needed to do a particular task which is part of the project"
-
-
-
-07.consume /kənˈsjuːm/
-
-[v] The electricity industry consumes large amounts of fossil fuels. 
-
-"to use sth, especially fuel, energy or time"
 
 
 
@@ -43192,12 +43026,6 @@ d[adv]shabbily dressed
 [n] How Korea's World Scout Jamboree became a global fiasco.
 
 "something that does not succeed, often in a way that causes embarrassment"
-
-
-
-#### 05/01.01
-
-
 
 
 
@@ -44564,7 +44392,7 @@ D[noun]  copyright infringement.
 
 
 
-#### 08/29.03
+#### 08/29.02
 
 01.backlog /ˈbæklɔːɡ/
 
@@ -44574,19 +44402,7 @@ D[noun]  copyright infringement.
 
 
 
-02.probe /proʊb/
-
-[v] “This company and Taeil first became aware of the accusation in the middle of this month,” SM Entertainment said Thursday, confirming Taeil was probed by the police the previous day. 
-
-"to ask questions in order to find out secret or hidden information about sb/sth"
-
-[n]  a police probe into the financial affairs of the company. /Police analyzing Yoon's phone records in martial law probe./64 Koreans detained in Cambodia over alleged online scams return home, face probes./G-Dragon opens up about considering retirement after drug probe
-
-"a thorough and careful investigation of sth"
-
-
-
-03.accusation [ˌækjuˈzeɪʃn]
+02.accusation [ˌækjuˈzeɪʃn]
 
 [noun] {~ (of sth) (against sb) | ~ (that…)} accusations of corruption/cruelty/racism.
 
@@ -45281,15 +45097,17 @@ In short, flour is a specific type of powder used for cooking and baking, while 
 
 03.hypertrophy /haɪˈpɜːrtrəfi/
 
-[n]  *Hypertrophy* increases the size of your muscles. Strength training increases the strength of your muscles. 
+[n]  *Hypertrophy* increases the size of your muscles. Strength training increases the strength of your muscles. /**Use the Rope if:** Your goal is hypertrophy (muscle growth) and you want to feel every fiber of your lats working. It is excellent as a **finisher** at the end of a back workout to get a maximum pump.
 
 "an increase in the size of an organ or tissue because its cells grow in size"
 
 
 
-04.contraction /kənˈtræktaɪl/
+04.contraction /kənˈtrækʃn/
 
-[n] Muscle contraction is **the tightening, shortening, or lengthening of muscles when you do some activity**.  "the process in which a muscle becomes or is made shorter and tighter"
+[n] Muscle contraction is **the tightening, shortening, or lengthening of muscles when you do some activity**. /The rope is generally preferred by those looking to maximize the **mind-muscle connection** and the end-range contraction of the lats.
+
+"the process in which a muscle becomes or is made shorter and tighter"
 
 [n] The sudden contraction of the markets left them with a lot of unwanted stock."the process of becoming smaller"
 
@@ -46664,15 +46482,7 @@ post-fermented tea
 
 
 
-07.transition /trænˈzɪʃn/
-
-[n] This course is useful for students who are in transition (= in the process of changing) from one training programme to another.
-
-"the process or a period of changing from one state or condition to another"
-
-
-
-08.intrusion /ɪnˈtruːʒn/
+07.intrusion /ɪnˈtruːʒn/
 
 [n] Actress Kim Sae-ron found dead on the 16th… Police: "No signs of external intrusion." 
 
@@ -49601,7 +49411,7 @@ The words **"companion"** and **"company"** are related but have different nuanc
 
 "**Cement** is a grey powder which is mixed with sand and water in order to make concrete."
 
-[v]  *two countries aim to cement their military alliance beyond the ongoing war*.
+[v]  *two countries aim to cement their military alliance beyond the ongoing war*./The shift to "Convolutional Downsampling" for hierarchical Transformers was cemented in **January 2022** (ConvNeXt).
 
 "Something that **cements** a relationship or agreement makes it stronger."
 
@@ -53097,16 +52907,6 @@ In his tariff letter sent to Japan earlier this month, Trump had threatened 25% 
 
 
 
-#### 08/12.01
-
-01.glacier /ˈɡleɪʃər/
-
-[n] British man who died in Antarctic glacier found 65 years later.
-
-"a large mass of ice, formed by snow on mountains, that moves very slowly down a valley"
-
-
-
 #### 08/13.02
 
 01.hamster /ˈhæmstər/
@@ -53399,7 +53199,7 @@ She was unable to contain her excitement. "to keep your feelings under control" 
 
 04.blaze /bleɪz/
 
-[n] Dry wood makes a good blaze.
+[n] Dry wood makes a good blaze./Numerous teenagers among the dead identified in Swiss bar blaze, police say.
 
 "strong bright flames in a fire"
 
@@ -55116,7 +54916,7 @@ Here is why the mathematical integral and the CNN algorithm share this name: **T
 
 ### 2026
 
-#### 01/02
+#### 01/02.05
 
 01.reinvent /ˌriːɪnˈvent/
 
@@ -55155,3 +54955,453 @@ Here is why the mathematical integral and the CNN algorithm share this name: **T
 [verb] The two carmakers are poised to publish their final annual sales figures for 2025.
 
 "If someone is poised to do something, they are **ready to take action at any moment**."
+
+
+
+#### 01/04.07
+
+01.judiciously / dʒuˈdɪʃəsli /
+
+[adv] Modern fertilisers should be used judiciously.
+
+"If you describe an action or decision as **judicious**, you approve of it because you think that it shows good judgment and sense."
+
+
+
+02.judicious /dʒuˈdɪʃəs/
+
+[adj]  judicious use of one's money./Trump: We are going to run Venezuela until we can do a safe, proper and judicious transition.
+
+"careful and sensible; showing good judgement"
+
+
+
+03.transition /trænˈzɪʃn/
+
+[n] This course is useful for students who are in transition (= in the process of changing) from one training programme to another.
+
+"the process or a period of changing from one state or condition to another"
+
+
+
+| **Word**       | **Primary Focus**                                      | **Best Example**                                 |
+| -------------- | ------------------------------------------------------ | ------------------------------------------------ |
+| **Move**       | Physical displacement or changing position.            | "I **moved** the chair to the corner."           |
+| **Transfer**   | Handing over ownership, location, or responsibility.   | "She **transferred** funds to her savings."      |
+| **Transition** | A process of gradual change from one state to another. | "The company is in **transition** to a new CEO." |
+| **Switch**     | A sudden or binary swap between two options.           | "I **switched** the light from off to on."       |
+
+
+
+04.tart /tɑːrt/
+
+[adj] tart apples.
+
+"having an unpleasant sour taste"
+
+[n] a strawberry tart./egg tart.
+
+"an open pie filled with sweet food such as fruit"
+
+
+
+05.foul /faʊl/
+
+[adj] foul air/breath.
+
+"dirty and smelling bad"
+
+[adj] She's in a foul mood . 
+
+"very unpleasant; very bad"
+
+[verb]  He was fouled inside the penalty area."
+
+to do sth to another player that is against the rules of the game"
+
+[n] It was a clear foul by Ford on the goalkeeper.
+
+"an action that is against the rules of the game"
+
+
+
+06.goalkeeper /ˈɡoʊlkiːpər/
+
+[n] K League sees first foreign goalkeeper in 28 years.
+
+"a player whose job is to stop the ball from going into his or her own team's goal"
+
+
+
+07.state visit
+
+[phrase] South Korean President Lee Jae Myung began a state visit to China on Sunday, hoping to promote peace on the Korean Peninsula hours after rival North Korea launched ballistic missiles.
+
+
+
+#### 01/05.03
+
+01.reaffirm [ˌriːəˈfɜːm] 
+
+[verb] I met **with** Prime Minister Modi of India and President Widodo of Indonesia to reaffirm our **commitment** to the G20 as the premier forum for global economic cooperation./In an interview with Chinese state broadcaster CCTV on Friday, Lee reaffirmed that South Korea's stance on respecting the "One China" policy remains unchanged.
+
+"If you reaffirm something, you state it again clearly and firmly."
+
+
+
+02.premier forum  [prɪˈmɪr ˈfɔːrəm]
+
+
+
+03.limelight /ˈlaɪmlaɪt/
+
+[n] Advanced AI, robotics set to steal limelight at CES 2026.
+
+"the centre of public attention"
+
+
+
+#### 01/06.05
+
+01.remorse /rɪˈmɔːrs/
+
+[n] I felt guilty and full of remorse.
+
+"the feeling of being extremely sorry for sth wrong or bad that you have done"
+
+
+
+02.deplete /dɪˈpliːt/
+
+[v] However, your body's creatine stores will be depleted, especially in muscle and the brain./Gov't intervention depletes foreign exchange reserves.
+
+"to reduce sth by a large amount so that there is not enough left"
+
+
+
+03.banquet /ˈbæŋkwɪt/
+
+[n] Later, at a banquet for Lee in Beijing's Great Hall of the People, Xi urged the South Korean leader noted that the "international situation is becoming more turbulent and complex".
+
+"a formal meal for a large number of people, usually for a special occasion, at which speeches are often made"
+
+
+
+04.tightrope /ˈtaɪtroʊp/
+
+[n] South Korea is a US security ally - like Japan - but also relies on China for trade. Experts say Lee is expected to keep walking a diplomatic tightrope between Beijing and Tokyo.
+
+"a rope or wire that is stretched tightly high above the ground and that performers walk along, especially in a circus"
+
+
+
+05.usher /ˈʌʃər/
+
+[v] On Monday Lee stated that the visit was "a crucial opportunity" for the "full-scale restoration of South Korea-China relations", reported South Korean newspaper Chosun. "We want to usher in a new phase in the development of South Korea-China relations."
+
+"If you usher someone somewhere, you show them where they should go, often by going with them."
+
+
+
+#### 01/08.14
+
+01.sitz bath 
+
+[phrase] **My Recommendation:** Keep the alarms I set for you. Do not miss a single sitz bath or a single application of Pasarect until the very last day of your current supply. "A sitz bath is a warm, shallow soak for the hips and buttocks, used to cleanse and soothe the anal/genital area, relieve pain, itching, and muscle spasms, and promote healing from conditions like [hemorrhoids](https://www.google.com/search?q=hemorrhoids&newwindow=1&sca_esv=7968779fbfd70ae6&sxsrf=ANbL-n7MTiedH666j9yvy_U_Pn-iop6ikQ%3A1767849566402&source=hp&ei=Xj5faZmkFu7q1e8P4tON0Q4&iflsig=AFdpzrgAAAAAaV9MbjCBMgRLOwpZvCG4uB5vTNOcP_pl&oq=sitz+&gs_lp=Egdnd3Mtd2l6IgVzaXR6ICoCCAAyBRAAGIAEMgcQABiABBgMMgUQABiABDIFEAAYgAQyBRAAGIAEMgcQABiABBgMMgUQABiABDIFEAAYgAQyBxAAGIAEGAwyBxAAGIAEGAxI0gxQ3gJYmQNwAXgAkAEAmAGGAaABgAKqAQMwLjK4AQHIAQD4AQL4AQGYAgOgAo0CqAIKwgIHECMYJxjqAsICDRAjGPAFGCcYyQIY6gKYAwbxBXQw7e6-1GV8kgcDMS4yoAfkBLIHAzAuMrgHhgLCBwUwLjIuMcgHCYAIAA&sclient=gws-wiz&ved=2ahUKEwj6tszsmPuRAxVKiK8BHYlcDUwQgK4QegYIAQgAEBE), [anal fissures](https://www.google.com/search?q=anal+fissures&newwindow=1&sca_esv=7968779fbfd70ae6&sxsrf=ANbL-n7MTiedH666j9yvy_U_Pn-iop6ikQ%3A1767849566402&source=hp&ei=Xj5faZmkFu7q1e8P4tON0Q4&iflsig=AFdpzrgAAAAAaV9MbjCBMgRLOwpZvCG4uB5vTNOcP_pl&oq=sitz+&gs_lp=Egdnd3Mtd2l6IgVzaXR6ICoCCAAyBRAAGIAEMgcQABiABBgMMgUQABiABDIFEAAYgAQyBRAAGIAEMgcQABiABBgMMgUQABiABDIFEAAYgAQyBxAAGIAEGAwyBxAAGIAEGAxI0gxQ3gJYmQNwAXgAkAEAmAGGAaABgAKqAQMwLjK4AQHIAQD4AQL4AQGYAgOgAo0CqAIKwgIHECMYJxjqAsICDRAjGPAFGCcYyQIY6gKYAwbxBXQw7e6-1GV8kgcDMS4yoAfkBLIHAzAuMrgHhgLCBwUwLjIuMcgHCYAIAA&sclient=gws-wiz&ved=2ahUKEwj6tszsmPuRAxVKiK8BHYlcDUwQgK4QegYIAQgAEBI), or [postpartum soreness](https://www.google.com/search?q=postpartum+soreness&newwindow=1&sca_esv=7968779fbfd70ae6&sxsrf=ANbL-n7MTiedH666j9yvy_U_Pn-iop6ikQ%3A1767849566402&source=hp&ei=Xj5faZmkFu7q1e8P4tON0Q4&iflsig=AFdpzrgAAAAAaV9MbjCBMgRLOwpZvCG4uB5vTNOcP_pl&oq=sitz+&gs_lp=Egdnd3Mtd2l6IgVzaXR6ICoCCAAyBRAAGIAEMgcQABiABBgMMgUQABiABDIFEAAYgAQyBRAAGIAEMgcQABiABBgMMgUQABiABDIFEAAYgAQyBxAAGIAEGAwyBxAAGIAEGAxI0gxQ3gJYmQNwAXgAkAEAmAGGAaABgAKqAQMwLjK4AQHIAQD4AQL4AQGYAgOgAo0CqAIKwgIHECMYJxjqAsICDRAjGPAFGCcYyQIY6gKYAwbxBXQw7e6-1GV8kgcDMS4yoAfkBLIHAzAuMrgHhgLCBwUwLjIuMcgHCYAIAA&sclient=gws-wiz&ved=2ahUKEwj6tszsmPuRAxVKiK8BHYlcDUwQgK4QegYIAQgAEBM) by increasing blood flow. "
+
+
+
+02.colon /ˈkoʊlən/
+
+[n] "the mark ( : ) used to introduce a list, a summary, an explanation, etc. or before reporting what sb has said"
+
+[n] "the main part of the large intestine (= part of the bowels )"
+
+
+
+03.colonoscope / koʊˈlɑːnəskoʊp; kəˈlɑːnəˌskoʊp /
+
+[n] "an elongated fiberoptic endoscope for examining the entire colon from cecum to rectum"
+
+
+
+04.intestine[ɪnˈtestɪn] 
+
+[noun]  This area is always tender to the touch if the intestines are not functioning properly./ the terms "large intestine" and "colon" are often used interchangeably because the colon makes up the majority of the large intestine.
+
+"a long tube in the body between the stomach and the anus . Food passes from the stomach to the small intestine and from there to the large intestine ."
+
+
+
+05.appendix  [əˈpendɪks]
+
+[noun] He had to have his appendix out (= removed) .
+
+"a small bag of tissue that is attached to the large intestine . In humans, the appendix has no clear function."
+
+[n] Full details are given in Appendix 3.
+
+"a section giving extra information at the end of a book or document"
+
+
+
+06.rectum /ˈrektəm/
+
+[n] "the end section of the tube where food waste collects before leaving the body through the anus"
+
+
+
+07.sphincter /ˈsfɪŋktər/
+
+[n] the anal sphincter.
+
+"a ring of muscle that surrounds an opening in the body and can contract to close it"
+
+
+
+08.relapse /ˈriːlæps , rɪˈlæps/
+
+[n] to have/suffer a relapse.  
+
+"the fact of becoming ill/sick again after making an improvement"
+
+[v] You are currently at the **start of Phase 1**. While you feel great today, you need at least **another 4 to 6 weeks** of consistent habits to consider yourself "fully recovered" and safe from a relapse.
+
+"to go back into a previous condition or into a worse state after making an improvement"
+
+
+
+09.verdict /ˈvɜːrdɪkt/
+
+[n] Has the **jury** reached a verdict ?
+
+"a decision that is made by a jury in court, stating if sb is considered guilty of a crime or not/裁决"
+
+[n] Well, what's your verdict?
+
+"a decision that you make or an opinion that you give about sth, after you have tested it or considered it carefully/结论"
+
+
+
+10.chronic  [ˈkrɒnɪk]  [ˈkrɑːnɪk] 
+
+[adj] chronic bronchitis/arthritis/asthma./ In the case of a chronic anal fissure (which you've been dealing with for over a month), the timeline for **full tissue maturation** is longer than most people expect.
+
+"lasting for a long time; difficult to cure or get rid of"
+
+
+
+11.fissure /ˈfɪʃər/
+
+[n] The geologists observed a deep fissure in the glacier.
+
+"a long deep crack in sth, especially in rock or in the earth"
+
+
+
+12.glacier /ˈɡleɪʃər/
+
+[n] British man who died in Antarctic glacier found 65 years later.
+
+"a large mass of ice, formed by snow on mountains, that moves very slowly down a valley"
+
+
+
+13.wedge /wedʒ/
+
+[n] Chinese state media spotlight Lee’s Shanghai visit, seek to drive wedge between Seoul and Tokyo.
+
+"a piece of wood, rubber, metal, etc. with one thick end and one thin pointed end that you use to keep a door open, to keep two things apart, or to split wood or rock"
+
+
+
+14.acrobat /ˈækrəbæt/
+
+[n] Acrobats can and have walked tightropes between buildings, most famously Philippe Petit between the Twin Towers in 1974 and Nik Wallenda between Chicago skyscrapers in 2014.
+
+"An acrobat is an entertainer who performs difficult physical acts such as jumping and balancing, especially in a circus."
+
+
+
+
+
+#### 01/11.05	
+
+01.advocate [ˈædvəkeɪt , ˈædvəkət]
+
+[verb] The group does not advocate the use of violence.
+
+"to support sth publicly"
+
+[noun] a staunch advocate of free speech./Chris Bumstead is a strong advocate for therapy and mental health.
+
+"a person who supports or speaks in favour of sb or of a public plan or action"
+
+
+
+02.therapy [ˈθerəpi] 
+
+[noun] Most **leukaemia** patients undergo some sort of drug therapy (= treatment using drugs).
+
+/He kept his family in the dark for years until a dramatic therapy session.
+
+"the treatment of a physical problem or an illness"
+
+
+
+03.flatter [ˈflætə(r)]  /suck up
+
+[verb] Are you trying to flatter me?
+
+[verb] How will you manage without me?’ ‘Don't flatter yourself."没有我看你怎么办？”“别自以为了不起。"
+
+
+
+04.alignment /əˈlaɪnmənt/
+
+[n] A bone in my spine was out of alignment./ Chris Bumstead believes in "alignment" as a core principle for success, meaning **aligning all daily actions (workouts, diet, sleep) with a single, clear, long-term goal, eliminating distractions and excuses for relentless, consistent execution**. 
+
+"arrangement in a straight line"
+
+
+
+05.decisive /dɪˈsaɪsɪv/
+
+[adj] a decisive factor/victory/battle.
+
+"very important for the final result of a particular situation"
+
+[adj] Be decisive from Chris Bumstead.
+
+"able to decide sth quickly and with confidence"
+
+
+
+#### 01/12.02
+
+01.intimidation /ɪnˌtɪmɪˈdeɪʃən/
+
+[n] Fed Chair Powell says he’s under criminal investigation, won’t bow to Trump intimidation.
+
+"the action of intimidating someone, or the state of being intimidated."
+
+
+
+02.intimidate /ɪnˈtɪmɪdeɪt/
+
+[vt] They were accused of intimidating people into voting for them.
+
+"to frighten or threaten sb so that they will do what you want"
+
+
+
+> [Blackmail](https://www.google.com/search?q=Blackmail&newwindow=1&sca_esv=05c88817306837c2&sxsrf=ANbL-n7v32D4rGYCjh22949V4Bd_m41pVg%3A1768190454739&source=hp&ei=9nFkabv5Kp_L1e8P7IX34AE&iflsig=AFdpzrgAAAAAaWSABvRcHimRQovWL6l0pQ5a7Z_lfiFw&ved=2ahUKEwix_-3kjoWSAxUIffUHHXn1OboQgK4QegQIARAB&uact=5&oq=blackmail+vs+intimidation&gs_lp=Egdnd3Mtd2l6IhlibGFja21haWwgdnMgaW50aW1pZGF0aW9uSIZNUJoFWJ5BcAV4AJABAJgBjAGgAekPqgEEMC4xN7gBA8gBAPgBAvgBAZgCCKAC2AaoAgrCAgcQIxgnGOoCwgIIEAAYgAQYywHCAggQLhiABBjLAcICChAAGIAEGAoYywHCAgYQABgIGB7CAggQABiABBiiBJgDBvEFNnN4776Hs1qSBwMxLjegB_UqsgcDMC43uAfSBsIHBTEuNi4xyAcRgAgA&sclient=gws-wiz&mstk=AUtExfAa0ygcq2pPLfu00IY4e_fVmdJwNytmfrAqg_-utLzez0N_DnCb7cdGWNOHoSJI0nxkLxVdsIhGJ1nJK7JwBd6S_jJg19GZKXE_UXijaZNWDduGoSlRb2IW0MUw80wKWvNLM-YOCChxx6Y2QbLJLlkO4q1yIREs-plsDp55m3v3uE0KfnQ4mfTbZHlllgB4BCUZhyZu3cty2pzQZB0xrUEM_5Qzf7BkK0cMzzt9fCkP07KKg1ESk2cW59U-MaKFrXRJzNeHq_x1h9ikBBINbviD&csui=3) is a specific type of [extortion](https://www.google.com/search?q=extortion&newwindow=1&sca_esv=05c88817306837c2&sxsrf=ANbL-n7v32D4rGYCjh22949V4Bd_m41pVg%3A1768190454739&source=hp&ei=9nFkabv5Kp_L1e8P7IX34AE&iflsig=AFdpzrgAAAAAaWSABvRcHimRQovWL6l0pQ5a7Z_lfiFw&ved=2ahUKEwix_-3kjoWSAxUIffUHHXn1OboQgK4QegQIARAC&uact=5&oq=blackmail+vs+intimidation&gs_lp=Egdnd3Mtd2l6IhlibGFja21haWwgdnMgaW50aW1pZGF0aW9uSIZNUJoFWJ5BcAV4AJABAJgBjAGgAekPqgEEMC4xN7gBA8gBAPgBAvgBAZgCCKAC2AaoAgrCAgcQIxgnGOoCwgIIEAAYgAQYywHCAggQLhiABBjLAcICChAAGIAEGAoYywHCAgYQABgIGB7CAggQABiABBiiBJgDBvEFNnN4776Hs1qSBwMxLjegB_UqsgcDMC43uAfSBsIHBTEuNi4xyAcRgAgA&sclient=gws-wiz&mstk=AUtExfAa0ygcq2pPLfu00IY4e_fVmdJwNytmfrAqg_-utLzez0N_DnCb7cdGWNOHoSJI0nxkLxVdsIhGJ1nJK7JwBd6S_jJg19GZKXE_UXijaZNWDduGoSlRb2IW0MUw80wKWvNLM-YOCChxx6Y2QbLJLlkO4q1yIREs-plsDp55m3v3uE0KfnQ4mfTbZHlllgB4BCUZhyZu3cty2pzQZB0xrUEM_5Qzf7BkK0cMzzt9fCkP07KKg1ESk2cW59U-MaKFrXRJzNeHq_x1h9ikBBINbviD&csui=3) involving threats to reveal damaging information (true or false) unless demands (usually money) are met, while **intimidation** is a broader term for using threats or coercion to induce fear or action, which can include blackmail, [physical harm](https://www.google.com/search?q=physical+harm&newwindow=1&sca_esv=05c88817306837c2&sxsrf=ANbL-n7v32D4rGYCjh22949V4Bd_m41pVg%3A1768190454739&source=hp&ei=9nFkabv5Kp_L1e8P7IX34AE&iflsig=AFdpzrgAAAAAaWSABvRcHimRQovWL6l0pQ5a7Z_lfiFw&ved=2ahUKEwix_-3kjoWSAxUIffUHHXn1OboQgK4QegQIARAD&uact=5&oq=blackmail+vs+intimidation&gs_lp=Egdnd3Mtd2l6IhlibGFja21haWwgdnMgaW50aW1pZGF0aW9uSIZNUJoFWJ5BcAV4AJABAJgBjAGgAekPqgEEMC4xN7gBA8gBAPgBAvgBAZgCCKAC2AaoAgrCAgcQIxgnGOoCwgIIEAAYgAQYywHCAggQLhiABBjLAcICChAAGIAEGAoYywHCAgYQABgIGB7CAggQABiABBiiBJgDBvEFNnN4776Hs1qSBwMxLjegB_UqsgcDMC43uAfSBsIHBTEuNi4xyAcRgAgA&sclient=gws-wiz&mstk=AUtExfAa0ygcq2pPLfu00IY4e_fVmdJwNytmfrAqg_-utLzez0N_DnCb7cdGWNOHoSJI0nxkLxVdsIhGJ1nJK7JwBd6S_jJg19GZKXE_UXijaZNWDduGoSlRb2IW0MUw80wKWvNLM-YOCChxx6Y2QbLJLlkO4q1yIREs-plsDp55m3v3uE0KfnQ4mfTbZHlllgB4BCUZhyZu3cty2pzQZB0xrUEM_5Qzf7BkK0cMzzt9fCkP07KKg1ESk2cW59U-MaKFrXRJzNeHq_x1h9ikBBINbviD&csui=3), or [emotional manipulation](https://www.google.com/search?q=emotional+manipulation&newwindow=1&sca_esv=05c88817306837c2&sxsrf=ANbL-n7v32D4rGYCjh22949V4Bd_m41pVg%3A1768190454739&source=hp&ei=9nFkabv5Kp_L1e8P7IX34AE&iflsig=AFdpzrgAAAAAaWSABvRcHimRQovWL6l0pQ5a7Z_lfiFw&ved=2ahUKEwix_-3kjoWSAxUIffUHHXn1OboQgK4QegQIARAE&uact=5&oq=blackmail+vs+intimidation&gs_lp=Egdnd3Mtd2l6IhlibGFja21haWwgdnMgaW50aW1pZGF0aW9uSIZNUJoFWJ5BcAV4AJABAJgBjAGgAekPqgEEMC4xN7gBA8gBAPgBAvgBAZgCCKAC2AaoAgrCAgcQIxgnGOoCwgIIEAAYgAQYywHCAggQLhiABBjLAcICChAAGIAEGAoYywHCAgYQABgIGB7CAggQABiABBiiBJgDBvEFNnN4776Hs1qSBwMxLjegB_UqsgcDMC43uAfSBsIHBTEuNi4xyAcRgAgA&sclient=gws-wiz&mstk=AUtExfAa0ygcq2pPLfu00IY4e_fVmdJwNytmfrAqg_-utLzez0N_DnCb7cdGWNOHoSJI0nxkLxVdsIhGJ1nJK7JwBd6S_jJg19GZKXE_UXijaZNWDduGoSlRb2IW0MUw80wKWvNLM-YOCChxx6Y2QbLJLlkO4q1yIREs-plsDp55m3v3uE0KfnQ4mfTbZHlllgB4BCUZhyZu3cty2pzQZB0xrUEM_5Qzf7BkK0cMzzt9fCkP07KKg1ESk2cW59U-MaKFrXRJzNeHq_x1h9ikBBINbviD&csui=3), making blackmail a subset of intimidation. The key difference is the *method*: blackmail uses sensitive information as leverage, whereas intimidation uses a wider range of tactics, including threats of violence or reputational damage, to create fear and compel compliance. 
+
+
+
+#### 01/13.01
+
+01.passionate  [ˈpæʃənət] 
+
+[adj] to have a passionate nature. 
+
+"having or showing strong feelings of sexual love or of anger, etc."
+
+[adj] a passionate interest in music./stay passionate.
+
+"having or showing strong feelings of enthusiasm for sth or belief in sth"
+
+
+
+#### 01/14.01
+
+01.mammoth /ˈmæməθ/
+
+[adj] BTS stand to make $1bn as they announce mammoth comeback tour.
+
+"You can use mammoth to emphasize that a task or change is very large and needs a lot of effort to achieve."
+
+[n] "A mammoth was an animal like an elephant, with very long tusks and long hair, that lived a long time ago but no longer exists."
+
+
+
+#### 01/15
+
+01.subsidiary [səbˈsɪdiəri]  [səbˈsɪdieri] 
+
+[adj] In retaliation, Beijing started to impose tougher regulations on Lotte's subsidiaries in China.
+
+"owned or controlled by another company"
+
+[adj] {~ (to sth)} subsidiary information."connected with sth but less important than it" -additional-
+
+
+
+02.retaliation [rɪˌtæliˈeɪʃn] 
+
+[noun] { ~ (against sb/sth) (for sth)} retaliation against UN workers./In March 2017, China implemented a suspension of visas for group tour programs to Korea in retaliation against the deployment of the U.S. THAAD on Korean soil./Iran warns of retaliation if Trump strikes, US withdraws some personnel from bases.
+
+"action that a person takes against sb who has harmed them in some way"
+
+
+
+03.personnel /ˌpɜːrsəˈnel/
+
+[n] sales/technical/medical/security/military, etc. personnel.
+
+"the people who work for an organization or one of the armed forces"
+
+
+
+04.base /beɪs/
+
+[n] a military/naval base./US and UK pulling some personnel from Qatar military base.
+
+"a place where an army, a navy, etc. operates from"
+
+
+
+05.lucrative /ˈluːkrətɪv/
+
+[adj] The new contract is believed to be among *the most lucrative signed by any music group this year*./CJ Cheiljedang's leading food brand Bibigo, is now featured in a Harvard Business School textbook, which explains how the food brand successfully expanded its presence in the lucrative global food market, according to the food company, Sunday./Computer science used to be a golden ticket to a lucrative career. Now graduates can’t get a job.
+
+"producing a large amount of money; making a large profit"
+
+
+
+> Lucrative (盆满钵满) vs profitable (有利可图)
+>
+> Lucrative means making **a lot** of money, implying substantial wealth, while profitable simply means making money or being financially beneficial, a broader term that can apply to smaller gains or even non-financial benefits, with "lucrative" being a stronger, more intense form of "profitable". 
+
+
+
+06.antitrust /ˌæntiˈtrʌst/
+
+[adj] Trip.com shares plunge over 20% as China opens antitrust probe into Asia’s largest online travel firm.
+
+"preventing companies or groups of companies from controlling prices unfairly"
+
+
+
+07.probe /proʊb/
+
+[v] “This company and Taeil first became aware of the accusation in the middle of this month,” SM Entertainment said Thursday, confirming Taeil was probed by the police the previous day. 
+
+"to ask questions in order to find out secret or hidden information about sb/sth"
+
+[n]  a police probe into the financial affairs of the company. /Police analyzing Yoon's phone records in martial law probe./64 Koreans detained in Cambodia over alleged online scams return home, face probes./G-Dragon opens up about considering retirement after drug probe
+
+"a thorough and careful investigation of sth"
+
+
+
+08.monopolistic [məˌnɒpəˈlɪstɪk]  [məˌnɑːpəˈlɪstɪk]"
+
+[adj] In China, the power industry is a traditional monopolistic industry./In a high-profile case SAMR investigated Chinese tech giant in Alibaba in 2021, fining the firm a record 18.2 billion yuan ($2.8 billion) after it was found guilty of monopolistic practices.
+
+"controlling or trying to get complete control over sth, especially an industry or a company"
+
+
+
+
+
