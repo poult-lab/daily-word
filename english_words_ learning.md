@@ -3772,15 +3772,7 @@ Strictly speaking, there is difference between their meanings and application. *
 
 
 
-19.lesion /ˈliːʒn/
-
-[n] skin/brain lesions.
-
-"damage to the skin or part of the body caused by injury or by illness"
-
-
-
-20.formation /fɔːrˈmeɪʃn/
+19.formation /fɔːrˈmeɪʃn/
 
 [n] The Formation of Russia. 
 
@@ -6084,7 +6076,7 @@ You could hike through the Fish River Canyon.
 
 
 
-#### 2020/06/06.14
+#### 2020/06/06.13
 
 01.expiry /ɪkˈspaɪəri/
 
@@ -6152,17 +6144,11 @@ D[adv]  The two polls produced strikingly different results.
 
 
 
-09.collision  [kəˈlɪʒn]
+09.metaphor /ˈmetəfər/
 
-[noun]  {~ (with sb/sth) | ~ (between/of A and B)} 
+[n] the writer's striking use of metaphor
 
-a collision between two trains.
-
-"an accident in which two vehicles or people crash into each other"
-
-[noun] a collision between two opposing points of view.
-
-"a strong disagreement between two people or between opposing ideas, opinions, etc.; the meeting of two things that are very different"
+"a word or phrase used to describe sb/sth else, in a way that is different from its normal use, in order to show that the two things have the same qualities and to make the description more powerful, for example She has a heart of stone ; the use of such words and phrases"
 
 
 
@@ -6205,18 +6191,6 @@ a collision between two trains.
 [adj] I'll leave you in Robin's capable hands─ metaphorically speaking , of course!
 
 "connected with or containing metaphors"
-
-
-
-14.metaphor /ˈmetəfər/
-
-[n] the writer's striking use of metaphor
-
-"a word or phrase used to describe sb/sth else, in a way that is different from its normal use, in order to show that the two things have the same qualities and to make the description more powerful, for example She has a heart of stone ; the use of such words and phrases"
-
-
-
-
 
 
 
@@ -7470,17 +7444,7 @@ So, while all four words describe something that is important, crucial implies t
 
 
 
-04.mound [maʊnd] 
-
-[noun] a Bronze Age burial mound. "a large pile of earth or stones; a small hill"
-
-[noun] a small mound of rice/sand. "a pile [paɪl] "
-
-[noun] {~ of sth} I've got a mound of paperwork to do."a large amount of sth"
-
-
-
-05.ordinary  [ˈɔːdnri]   [ˈɔːrdneri]
+04.ordinary  [ˈɔːdnri]   [ˈɔːrdneri]
 
 [adj] an ordinary sort of day. "not unusual or different in any way"
 
@@ -7810,7 +7774,7 @@ D[noun] total/temporary/partial blindness.
 
 
 
-#### 2020/07/31.14
+#### 2020/07/31.10
 
 01.internal organs  [ɪnˈtɜːnl ˈɔːgənz]
 
@@ -7818,7 +7782,11 @@ D[noun] total/temporary/partial blindness.
 
 
 
+02.hormone /ˈhɔːrmoʊn/
 
+[n] growth hormones.
+
+"a chemical substance produced in the body or in a plant that encourages growth or influences how the cells and tissues function; an artificial substance that has similar effects" 
 
 
 
@@ -7852,11 +7820,11 @@ D[noun] total/temporary/partial blindness.
 
 
 
-07.pancreas /ˈpæŋkriəs/
+07.adrenal gland /əˈdriːnl ɡlænd/
 
-[n] **Insulin** is secreted by the pancreas.
+[n] Adrenal glands produce **hormones** that help **regulate your metabolism**, immune system, blood pressure, response to stress and other essential functions.
 
-"an organ near the stomach that produces insulin and a liquid that helps the body to digest food"
+"either of the two small organs above the kidneys that produce adrenalin and other hormones"
 
 
 
@@ -7866,11 +7834,11 @@ D[noun] total/temporary/partial blindness.
 
 
 
-09.insulin  [ˈɪnsəlɪn]
+09.lung /lʌŋ/
 
-[noun] No one should have to pay $1,000 a month for insulin.
+[n] Lung cells die and are replaced about once a week. 
 
-"a chemical substance produced in the body that controls the amount of sugar in the blood (by influencing the rate at which it is removed); a similar artificial substance given to people whose bodies do not produce enough naturally"
+"either of the two organs in the chest that you use for breathing"
 
 
 
@@ -7882,27 +7850,11 @@ D[noun] total/temporary/partial blindness.
 
 
 
-11.adrenal gland /əˈdriːnl ɡlænd/
-
-[n] Adrenal glands produce **hormones** that help **regulate your metabolism**, immune system, blood pressure, response to stress and other essential functions.
-
-"either of the two small organs above the kidneys that produce adrenalin and other hormones"
 
 
 
-12.lung /lʌŋ/
-
-[n] Lung cells die and are replaced about once a week. 
-
-"either of the two organs in the chest that you use for breathing"
 
 
-
-13.hormone /ˈhɔːrmoʊn/
-
-[n] growth hormones.
-
-"a chemical substance produced in the body or in a plant that encourages growth or influences how the cells and tissues function; an artificial substance that has similar effects" 
 
 
 
@@ -12016,19 +11968,15 @@ D[adv] internally connected rooms.
 
 
 
-#### 2020/10/07.03
+#### 2020/10/07.02
 
-01.
-
-
-
-02.tea polyphenols[ pol-ee-**fee**-nawl, -nol ] /caffeine  [ˈkæfiːn] 
+01.tea polyphenols[ pol-ee-**fee**-nawl, -nol ] /caffeine  [ˈkæfiːn] 
 
 ‘茶多酚’
 
 
 
-03.gel  [dʒel] 
+02.gel  [dʒel] 
 
 [noun] hair/shower gel. "a thick substance like jelly, especially one used in products for the hair or skin"
 
@@ -13232,7 +13180,7 @@ The examination is near at hand.
 
 
 
-#### 2020/10/16.17
+#### 2020/10/16.16
 
 01.cinnamon [ˈsɪnəmən]
 
@@ -13276,13 +13224,15 @@ The examination is near at hand.
 
 
 
-06.silver [ˈsɪlvə(r)] 
+06.assault /əˈsɔːlt/
 
-[noun] a silver chain. 
+[noun]{~ (on/upon sb)} Both men were charged with assault. "the **crime of attacking** sb physically"
 
-"a chemical element. Silver is a greyish-white precious metal used for making coins, jewellery, decorative objects, etc."
+[noun] An assault on the capital was launched in the early hours of the morning.
 
-[adj] a silver car. "shiny greyish-white in colour"
+ "the act of attacking a building, an area, etc. in order to take control of it"
+
+[verb] He has been charged with assaulting a police officer. "to attack sb violently, especially when this is a crime"
 
 
 
@@ -13436,22 +13386,6 @@ I used to stay up late with my mom and watch movies.
 16.all-out  [ˌɔːl ˈaʊt] 
 
 [adj] all-out war. "using or involving every possible effort [ˈefə(r)t]  and done in a very determined way"
-
-
-
-17.assault /əˈsɔːlt/
-
-[noun]{~ (on/upon sb)} Both men were charged with assault. "the **crime of attacking** sb physically"
-
-[noun] An assault on the capital was launched in the early hours of the morning.
-
- "the act of attacking a building, an area, etc. in order to take control of it"
-
-[verb] He has been charged with assaulting a police officer. "to attack sb violently, especially when this is a crime"
-
-
-
-
 
 
 
@@ -14255,7 +14189,7 @@ D[adj] Her submerged car was discovered in the river by police divers.
 
 
 
-#### 2020/10/23.30
+#### 2020/10/23.29
 
 01.eliminate  [ɪˈlɪmɪneɪt]
 
@@ -14385,9 +14319,11 @@ D[noun] "elimination"
 
 
 
-15.lime [laɪm]
+15.marble /ˈmɑː(r)bl/
 
-[noun] lime juice. "a small green fruit, like a lemon, with a lot of sour juice, used in cooking and in drinks; the juice of this fruit"
+[n] a marble floor/sculpture. 
+
+"a type of hard stone that is usually white and often has coloured lines in it. It can be polished and is used in building and for making statues, etc." 
 
 
 
@@ -14504,15 +14440,19 @@ D[noun] "elimination"
 
 
 
-27.cellulose /ˈseljuloʊs/
+27.tea leaf /ˈtiː liːf/
 
-[n] "a natural substance that forms the cell walls of all plants and trees and is used in making plastics, paper, etc."
+[n] This product shortens the cold brew process, which typically takes an average of 18 to 24 hours, to just 20 minutes, allowing users to make iced tea by steeping tea leaves. 
+
+"a small piece of a dried leaf of the tea bush ; used especially in the plural to describe what is left at the bottom of a cup or pot after the tea has been made"
 
 
 
 28.galactose /gəˈlæktoʊs/
 
 [n] "a simple sugar found in lactose"
+
+
 
 29.maple /ˈmeɪpl/
 
@@ -14524,15 +14464,13 @@ D[noun] "elimination"
 
 
 
-30.tea leaf /ˈtiː liːf/
+#### 2020/10/25.04
 
-[n] This product shortens the cold brew process, which typically takes an average of 18 to 24 hours, to just 20 minutes, allowing users to make iced tea by steeping tea leaves. 
+01.singular /ˈsɪŋɡjələr/
 
-"a small piece of a dried leaf of the tea bush ; used especially in the plural to describe what is left at the bottom of a cup or pot after the tea has been made"
+[n] The singular of ‘bacteria’ is ‘bacterium’."a form of a noun or verb that refers to one person or thing"
 
-
-
-#### 2020/10/25.06
+[adj] landscape of singular beauty."very great or obvious" -outstanding-
 
 
 
@@ -14557,22 +14495,6 @@ D[noun] "elimination"
 04.boon [buːn] 
 
 [noun] {~ (to/for sb)} The new software will **prove a boon** to Internet users."something that is very helpful and makes life easier for you"
-
-
-
-05.marble /ˈmɑː(r)bl/
-
-[n] a marble floor/sculpture. 
-
-"a type of hard stone that is usually white and often has coloured lines in it. It can be polished and is used in building and for making statues, etc." 
-
-
-
-06.singular /ˈsɪŋɡjələr/
-
-[n] The singular of ‘bacteria’ is ‘bacterium’."a form of a noun or verb that refers to one person or thing"
-
-[adj] landscape of singular beauty."very great or obvious" -outstanding-
 
 
 
@@ -15007,16 +14929,6 @@ an ingenious device
 "a piece of furniture with doors and shelves used for storing dishes, food, clothes, etc."
 
 
-
-13.miserable /ˈmɪzrəbl/
-
-[adj] We were cold, wet and thoroughly miserable.
-
-"very unhappy or uncomfortable"
-
-[adj] miserable housing conditions. 
-
-"making you feel very unhappy or uncomfortable" -depressing-
 
 
 
@@ -24300,12 +24212,6 @@ She understood the importance of establishing a close rapport with clients.
 
 
 
-19.hilarious  [hɪˈleriəs] 
-
-[adj] extremely funny. "a hilarious joke/story"
-
-
-
 #### 20210529.05
 
 01.coherence [kəʊˈhɪərəns] 
@@ -25587,15 +25493,13 @@ Korean cuisine enters global mainstream fueled by K-content fever.
 
 
 
-#### 20210727.05
+#### 20210727.04
 
-01.testify  [ˈtestɪfaɪ] 
+01.testimony /ˈtestɪmoʊni/
 
-[verb] {~ (against/for sb) | ~ (to/about sth)} She refused to testify against her husband.
+[n] Can I refuse to give testimony? 
 
-"to make a statement that sth happened or that sth is true, especially as a witness in court"
-
-[verb] Too many young people are unable to write or spell well, as employers will testify."to say that you believe sth is true because you have evidence of it"
+"a formal written or spoken statement saying what you know to be true, usually in court"
 
 
 
@@ -25622,14 +25526,6 @@ Korean cuisine enters global mainstream fueled by K-content fever.
 [n] Jennifer Crumbley, Michigan school shooter's mother, to testify in manslaughter trial.
 
 "the crime of killing sb illegally but not deliberately"
-
-
-
-05.testimony /ˈtestɪmoʊni/
-
-[n] Can I refuse to give testimony? 
-
-"a formal written or spoken statement saying what you know to be true, usually in court"
 
 
 
@@ -28096,7 +27992,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-#### 2021/11/16.09
+#### 2021/11/16.08
 
 01.postpartum ['pəʊst'pɑːtəm] [ˌpoʊstˈpɑːrtəm]
 
@@ -28169,14 +28065,6 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 [adj] Honestly, my voice was muted and threatened for so long.
 
 "If you feel **threatened**, you feel as if someone is trying to harm you."
-
-
-
-09.contestant [kənˈtestənt] 
-
-[noun]" The project, led by Joanna Griffiths and Domino Kirke-Badgley, features many personal photos including this one of Jillian Harris, a former contestant on "The Bachelor," sharing an intimate moment with her husband and child.  
-
-"a person who takes part in a contest"
 
 
 
@@ -45013,7 +44901,7 @@ The pleasant and consistent weather makes regions with Mediterranean climates po
 
 
 
-#### 01/14.07
+#### 01/14.06
 
 01.powder[ˈpaʊdə(r)] 
 
@@ -45045,11 +44933,11 @@ In short, flour is a specific type of powder used for cooking and baking, while 
 
 
 
-04.gluten /ˈɡluːtn/
+04.resilience /rɪˈzɪliəns/
 
-[n] We sell a range of gluten-free products (= not containing gluten ) . 
+[n] A startup founder requires many skills, but what tops the list for [Sam Altman](https://twitter.com/sama) is resilience- a trait he has observed as a common factor among thousands of successful founders over the course of a decade. 
 
-"a sticky substance that is a mixture of two proteins and is left when starch is removed from flour, especially wheat flour"
+"the ability of people or things to feel better quickly after sth unpleasant, such as shock, injury, etc."
 
 
 
@@ -45066,14 +44954,6 @@ In short, flour is a specific type of powder used for cooking and baking, while 
 "a fungus used in making beer and wine, or to make bread rise"
 
 [adj] {yeasty} a yeasty smell.
-
-
-
-07.resilience /rɪˈzɪliəns/
-
-[n] A startup founder requires many skills, but what tops the list for [Sam Altman](https://twitter.com/sama) is resilience- a trait he has observed as a common factor among thousands of successful founders over the course of a decade. 
-
-"the ability of people or things to feel better quickly after sth unpleasant, such as shock, injury, etc."
 
 
 
@@ -52293,15 +52173,17 @@ translate: "The quiet conversations and signals this week at the Summer Davos co
 
 02.starter 英/ˈstɑːtə(r)/
 
-[n] "a small amount of food that is served before the main course of a meal"
+[n] {北美英语 usually appetizer} "a small amount of food that is served before the main course of a meal"
+
+[n] In track and field, a "starter" is the official responsible for ensuring a fair, consistent start using specific commands. 
+
+"a person who gives the signal for a race to start"
 
 
 
-03.immersive /ɪˈmɜːrsɪv/
+03.starters 
 
-[adj] I feel that the language barrier has been lifted and it's much easier  for global fans to have an immersive experience with my music./Department of Immersive Media Engineering. 
-
-"used to describe a computer system or image that seems to surround the user"
+[n] "Starters in sports are the primary athletes who begin a game, typically chosen by coaches based on skill and strategy, with significant performance differences often observed compared to non-starters. "
 
 
 
@@ -52318,6 +52200,8 @@ translate: "The quiet conversations and signals this week at the Summer Davos co
 [v] Chairman Mao's body was indeed embalmed and is on public display in Beijing's Chairman Mao Memorial Hall.
 
 "to prevent a dead body from decaying by treating it with special substances to preserve it"
+
+
 
 
 
@@ -54320,7 +54204,7 @@ Japan has pledged $100 million in humanitarian aid.
 
 "a seat with legs but with nothing to support your back or arms"
 
-[n] I noticed bright red blood **in my stool**.
+[n] I noticed bright red blood **in my stool**./Bristol Stool Scale.
 
 "a piece of solid waste from your body"
 
@@ -55325,7 +55209,7 @@ to do sth to another player that is against the rules of the game"
 
 
 
-#### 01/15
+#### 01/15.08
 
 01.subsidiary [səbˈsɪdiəri]  [səbˈsɪdieri] 
 
@@ -55400,6 +55284,282 @@ to do sth to another player that is against the rules of the game"
 [adj] In China, the power industry is a traditional monopolistic industry./In a high-profile case SAMR investigated Chinese tech giant in Alibaba in 2021, fining the firm a record 18.2 billion yuan ($2.8 billion) after it was found guilty of monopolistic practices.
 
 "controlling or trying to get complete control over sth, especially an industry or a company"
+
+
+
+#### 01/19.03
+
+01.in wake of 
+
+[phrase] 'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats.
+
+"following (someone or something), especially as a consequence"
+
+
+
+02.collision  [kəˈlɪʒn]
+
+[noun]  {~ (with sb/sth) | ~ (between/of A and B)} 
+
+a collision between two trains.
+
+"an accident in which two vehicles or people crash into each other"
+
+[noun] a collision between two opposing points of view.
+
+"a strong disagreement between two people or between opposing ideas, opinions, etc.; the meeting of two things that are very different"
+
+
+
+03.collide /kəˈlaɪd/
+
+[v] Two high-speed trains collide in Spain, 21 killed.
+
+"if two people, vehicles, etc. collide , they crash into each other; if a person, vehicle, etc. collides with another, or with sth that is not moving, they crash into it"
+
+
+
+#### 01/20.02
+
+01.cellulose /ˈseljuloʊs/
+
+[n] In scientific terms, **Cellulose (Insoluble Fiber)** is the "mechanical tool" your digestive system is currently missing.
+
+"a natural substance that forms the cell walls of all plants and trees and is used in making plastics, paper, etc."
+
+
+
+02.insoluble /ɪnˈsɑːljəbl/
+
+[adj] Carotenes are insoluble in water and soluble in oils and fats.
+
+"that does not dissolve in a liquid"
+
+
+
+#### 01/21.05
+
+01.insulin  [ˈɪnsəlɪn]
+
+[noun] No one should have to pay $1,000 a month for insulin.
+
+"a chemical substance produced in the body that controls the amount of sugar in the blood (by influencing the rate at which it is removed); a similar artificial substance given to people whose bodies do not produce enough naturally"
+
+
+
+02.give off /ɡɪv ɔːf/
+
+[pv] In spring the fields give off an earthy aroma.
+
+"If something gives off or gives out a gas, heat, or a smell, it produces it and sends it out into the air."
+
+
+
+03.secret /ˈsiːkrət/
+
+[n] "something that is known about by only a few people and not told to others"
+
+[adj] "known about by only a few people; kept hidden from others"
+
+
+
+04.secrete /sɪˈkriːt/
+
+[v] insulin is secreted in response to rising levels of glucose in the blood.
+
+"(of a cell, gland, or organ) produce and discharge (a substance)."
+
+
+
+05.pancreas /ˈpæŋkriəs/
+
+[n] **Insulin** is secreted by the pancreas.
+
+"an organ near the stomach that produces insulin and a liquid that helps the body to digest food"
+
+
+
+#### 01/27.04
+
+01.immersive /ɪˈmɜːrsɪv/
+
+[adj] I feel that the language barrier has been lifted and it's much easier  for global fans to have an immersive experience with my music./Department of Immersive Media Engineering./ Each race is hosted indoors in expansive exhibition halls, creating an immersive and electrifying race, where your spectators can support you from the very beginning to the very end.
+
+"used to describe a computer system or image that seems to surround the user"
+
+
+
+02.electrifying /ɪˈlektrɪfaɪɪŋ/
+
+[adj] "very exciting"
+
+
+
+03.spectator /ˈspekteɪtər/
+
+[n] Thirty thousand spectators watched the final game.
+
+"a person who is watching an event, especially a sports event"
+
+
+
+04.live up to /lɪv ʌp tu/
+
+[vp] Trump says he’s raising tariffs on South Korea because it’s ‘not living up’ to trade agreement.
+
+"If someone or something lives up to what they were expected to be, they are as good as they were expected to be."
+
+
+
+#### 02/02.02
+
+01.instill /ɪnˈstɪl/
+
+[v] Instill 1 to 2 drops, 4 to 5 times per day. 
+
+"fill, as with a certain quality"
+
+
+
+02.testify  [ˈtestɪfaɪ] 
+
+[verb] {~ (against/for sb) | ~ (to/about sth)} She refused to testify against her husband./Clintons agree to testify on Epstein.
+
+"to make a statement that sth happened or that sth is true, especially as a witness in court"
+
+[verb] Too many young people are unable to write or spell well, as employers will testify."to say that you believe sth is true because you have evidence of it"
+
+
+
+#### 02/04.02
+
+01.lesion /ˈliːʒn/
+
+[n] skin/brain lesions./We evaluate our method on several public medical image segmentation datasets for skin lesion segmentation and polyp segmentation, and the experimental results demonstrate the segmentation accuracy of our new method over state-of-the-art methods, while preserving memory and computational efficiency.
+
+"damage to the skin or part of the body caused by injury or by illness"
+
+
+
+02.polyp /ˈpɑːlɪp/
+
+[n] "a small lump that grows inside the body, especially in the nose, that is caused by disease but is usually harmless"
+
+
+
+#### 02/10.01
+
+01.lime [laɪm]
+
+[noun] lime juice./lime vs lemon.
+
+"a small green fruit, like a lemon, with a lot of sour juice, used in cooking and in drinks; the juice of this fruit"
+
+
+
+#### 02/11.03
+
+01.flour /ˈflaʊər/
+
+[n] "a fine white or brown powder made from grain, especially wheat , and used in cooking for making bread, cakes, etc."
+
+
+
+02.gluten /ˈɡluːtn/
+
+[n] We sell a range of gluten-free products (= not containing gluten ) . 
+
+"a sticky substance that is a mixture of two proteins and is left when starch is removed from flour, especially wheat flour"
+
+
+
+03.gluteus /ˈɡluːtiəs/
+
+[n] {anatomy} "any of the three muscles in each buttock"
+
+
+
+#### 02/17.03
+
+01.mound [maʊnd] 
+
+[noun] a Bronze Age burial mound. "a large pile of earth or stones; a small hill"
+
+[noun] a small mound of rice/sand. "a pile [paɪl] "
+
+[noun] {~ of sth} I've got a mound of paperwork to do."a large amount of sth"
+
+
+
+02.bronze /brɑːnz/
+
+[n] a bronze statue./South Korea now has one gold, two silver and three bronze medals, as the final week of the Winter Olympics got under way in northern Italy.
+
+"a dark reddish-brown metal made by mixing copper and tin"
+
+[adj] bronze skin.
+
+"dark reddish-brown in colour"
+
+
+
+03.silver [ˈsɪlvə(r)] 
+
+[noun] a silver chain. 
+
+"a chemical element. Silver is a greyish-white precious metal used for making coins, jewellery, decorative objects, etc."
+
+[adj] a silver car. "shiny greyish-white in colour"
+
+
+
+#### 02/18
+
+01.contestant [kənˈtestənt] 
+
+[noun]" The project, led by Joanna Griffiths and Domino Kirke-Badgley, features many personal photos including this one of Jillian Harris, a former contestant on "The Bachelor," sharing an intimate moment with her husband and child.  /Why ‘Single’s Inferno’ keeps turning to Miss Korea contestants.
+
+"a person who takes part in a contest"
+
+
+
+02.Inferno /ɪnˈfɜːrnoʊ/
+
+[n] a blazing/raging inferno.
+
+"a very large dangerous fire that is out of control"
+
+
+
+03.disclaimer /dɪsˈkleɪmər/
+
+[n] Disclaimer: Your mind will try to tell you that there's no need to write everything. BUT, YOU HAVE TO.
+
+"A disclaimer is a statement in which a person says that they did not know about something or that they are not responsible for something."
+
+
+
+04.hilarious  [hɪˈleriəs] 
+
+[adj] a hilarious joke/story. "extremely funny."
+
+
+
+05.miserable /ˈmɪzrəbl/
+
+[adj] We were cold, wet and thoroughly miserable.
+
+"very unhappy or uncomfortable"
+
+[adj] miserable housing conditions. 
+
+"making you feel very unhappy or uncomfortable" -depressing-
+
+
+
+
+
+
 
 
 
