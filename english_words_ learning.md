@@ -12,7 +12,7 @@
 
 "a building where military weapons and explosives are made or stored"
 
-
+ 
 
 02.missile [ˈmɪsl] 
 
@@ -250,7 +250,7 @@
 
 
 
-#### 2020/01/03.32
+#### 2020/01/03.31
 
 01.enquire  [ɪnˈkwaɪə(r)]
 
@@ -398,13 +398,9 @@ fiddle about/around
 
 
 
-17.brush [brʌʃ] 
+17.fuzz /fʌz/
 
-[noun] a paintbrush. "an object made of short stiff hairs (called bristles ) or wires set in a block of wood or plastic, usually attached to a handle. Brushes are used for many different jobs, such as cleaning, painting and tidying your hair."
-
-[noun] to give your teeth a good brush. "an act of brushing"
-
-[verb] to brush your hair/teeth/shoes. "to clean, polish, or make smooth with a brush"
+[n] "short soft fine hair or fur that covers sth, especially a person's face or arms" -down-
 
 
 
@@ -443,8 +439,6 @@ fiddle about/around
 [n] oral contraceptives.
 
 "a drug, device or practice used to prevent a woman becoming pregnant"
-
-
 
 
 
@@ -546,16 +540,6 @@ fiddle about/around
 Pilling grade evaluation of fabric is an important index to assess fabric quality. 
 
 'to become covered in very small balls of fibre'
-
-
-
-32.fuzz /fʌz/
-
-[n] "short soft fine hair or fur that covers sth, especially a person's face or arms" -down-
-
-
-
-
 
 
 
@@ -2390,7 +2374,7 @@ We are not set up for you to go undercover as a drug mule.
 
 
 
-#### 2020/01/18.07
+#### 2020/01/18.06
 
 01.novel  [ˈnɒvl] [ˈnɑːvl] 
 
@@ -2406,25 +2390,13 @@ We are not set up for you to go undercover as a drug mule.
 
 
 
-03.steep [stiːp] 
+03.consultant [kənˈsʌltənt] 
 
-[adj] a steep hill/slope[sləʊp]/bank [bæŋk] . "rising or falling quickly, not gradually" 
+{~ (on sth)}
 
-[adj] a steep decline in the birth rate. "sudden and very big"-sharp-
+[noun] firm of management consultants. 
 
-[adj] {of a price or demand} £2 for a cup of coffee seems a little steep to me. 
-
-"too much; unreasonable"
-
-D[adv] a steeply sloping roof.
-
-D[noun] steepness.
-
-[idiom] **be steeped in sth**. "to have a lot of a particular quality"
-
-[verb phrase] **steep yourself in sth** They spent a month steeping themselves in Chinese culture./It's a drink made by steeping pineapple rind in water.
-
-"to spend a lot of time thinking or learning about sth"
+"a person who knows a lot about a particular subject and is employed to give advice about it to other people"
 
 
 
@@ -2451,16 +2423,6 @@ Avoid any kind of metal objects like electric wires, fences, equipment, engine, 
 [n] a gas cooker/fire/furnace/oven/ring/stove. 
 
 "a particular type of gas or mixture of gases used as fuel for heating and cooking"
-
-
-
-07.consultant [kənˈsʌltənt] 
-
-{~ (on sth)}
-
-[noun] firm of management consultants. 
-
-"a person who knows a lot about a particular subject and is employed to give advice about it to other people"
 
 
 
@@ -4348,11 +4310,7 @@ The government was accused of incompetence.
 
 
 
-05.incompetence  [ɪnˈkɒmpɪtəns] 
-
-[noun] professional incompetence.
-
-"the lack of skill or ability to do your job or a task as it should be done"
+05.pipe [paɪp] /tube  [tjuːb]
 
 
 
@@ -4442,11 +4400,7 @@ He made a rash decision and now he is suffering **for** it.
 
 
 
-16.pipe [paɪp] /tube  [tjuːb]
-
-
-
-#### 2020/04/12.08
+#### 2020/04/12.07
 
 01.suspiciously [səˈspɪʃəsli] "怀疑地;有疑心地"
 
@@ -4454,7 +4408,13 @@ He made a rash decision and now he is suffering **for** it.
 
 
 
-02.asthma [ˈæsmə] "气喘;哮喘" “a medical condition of the chest that makes breathing difficult”
+02.sceptical  [ˈskeptɪkl]
+
+[adj] {~ (about/of sth)} 
+
+I am sceptical about his chances of winning.
+
+"having doubts that a claim or statement is true or that sth will happen"
 
 
 
@@ -4482,6 +4442,8 @@ Disagreement arose about exactly how to plan the show.
 
 to face a dilemma  “a situation which makes problems, often one in which you have to make a very difficult choice between things of equal importance”
 
+
+
 06.angst  [æŋst] /anxiety  "焦虑"
 
 
@@ -4501,16 +4463,6 @@ They became suspicious of his behaviour and contacted the police.
 [adj] {~ (of sb/sth)} I was suspicious of his motives. 
 
 "not willing or able to trust sb/sth" -sceptical-
-
-
-
-08.sceptical  [ˈskeptɪkl]
-
-[adj] {~ (about/of sth)} 
-
-I am sceptical about his chances of winning.
-
-"having doubts that a claim or statement is true or that sth will happen"
 
 
 
@@ -5293,27 +5245,13 @@ D[noun] to be sentenced to life imprisonment for murder.
 
 
 
-#### 2020/05/09.03
+#### 2020/05/09.02
 
-01.debt /det/
-
-[n] I need to pay off all my debts before I leave the country. 
-
-"a sum of money that sb owes"
-
-[n] He died heavily in debt ."the situation of owing money, especially when you cannot pay"
-
-[n] to owe a debt of gratitude to sb. 
-
-"the fact that you should feel grateful to sb because they have helped you or been kind to you"
+01.linearly separable data "线性可分数据"
 
 
 
-02.linearly separable data "线性可分数据"
-
-
-
-03.spirit [ˈspɪrɪt]
+02.spirit [ˈspɪrɪt]
 
 [noun] the power of the human spirit to overcome difficulties. 
 
@@ -7420,15 +7358,13 @@ So, while all four words describe something that is important, crucial implies t
 
 
 
-#### 2020/07/16.04
+#### 2020/07/16.03
 
-01.decent [ˈdiːsnt] 
+01.ordinary  [ˈɔːdnri]   [ˈɔːrdneri]
 
-[adj]  a decent meal/job/place to live."of a good enough standard or quality"
+[adj] an ordinary sort of day. "not unusual or different in any way"
 
-[adj] ordinary, decent, hard-working people."honest and fair; treating people with respect"
-
-[adj] a decent burial."acceptable to people in a particular situation"
+[adj] The meal was very ordinary."having no unusual or interesting features"
 
 
 
@@ -7441,14 +7377,6 @@ So, while all four words describe something that is important, crucial implies t
 03.burial  [ˈberiəl] 
 
 [noun] a burial place/mound/site."the act or ceremony of burying a dead body"
-
-
-
-04.ordinary  [ˈɔːdnri]   [ˈɔːrdneri]
-
-[adj] an ordinary sort of day. "not unusual or different in any way"
-
-[adj] The meal was very ordinary."having no unusual or interesting features"
 
 
 
@@ -7782,11 +7710,7 @@ D[noun] total/temporary/partial blindness.
 
 
 
-02.hormone /ˈhɔːrmoʊn/
 
-[n] growth hormones.
-
-"a chemical substance produced in the body or in a plant that encourages growth or influences how the cells and tissues function; an artificial substance that has similar effects" 
 
 
 
@@ -8874,7 +8798,7 @@ D[noun] a skin irritation.
 
 
 
-#### 2020/09/02.12
+#### 2020/09/02.11
 
 01.documentation  [ˌdɒkjumenˈteɪʃn]   [ˌdɑːkjumenˈteɪʃn] 
 
@@ -8888,8 +8812,6 @@ D[noun] a skin irritation.
 
 
 
-
-
 02.restriction  [rɪˈstrɪkʃn]
 
 [noun] import/speed/travel, etc. restrictions . 
@@ -8898,15 +8820,15 @@ D[noun] a skin irritation.
 
 
 
-03.mutual  [ˈmjuːtʃuəl]
+03.disagreement /ˌdɪsəˈɡriːmənt/
 
-[adj] mutual respect/understanding. 
+[n] Disagreement arose about exactly how to plan the show. /They have had several disagreements with their neighbours.
 
-"used to describe feelings that two or more people have for each other equally, or actions that affect two or more people equally"
+"a situation where people have different opinions about sth and often argue"
 
-mutually.
+[n] The comparison shows considerable disagreement between theory and practice. 
 
-[adv] Can we find a mutually convenient time to meet? "felt or done equally by two or more people"
+"a difference between two things that should be the same"
 
 
 
@@ -8979,22 +8901,6 @@ mutually.
 [n] Are we in agreement about the price?
 
 "the state of sharing the same opinion or feeling"
-
-
-
-12.disagreement /ˌdɪsəˈɡriːmənt/
-
-[n] Disagreement arose about exactly how to plan the show. /They have had several disagreements with their neighbours.
-
-"a situation where people have different opinions about sth and often argue"
-
-[n] The comparison shows considerable disagreement between theory and practice. 
-
-"a difference between two things that should be the same"
-
-
-
-
 
 
 
@@ -12490,7 +12396,7 @@ In summary, the main differences between blackbirds and crows are their physical
 
 
 
-#### 2020/10/11.12
+#### 2020/10/11.13
 
 01.duck [dʌk] 
 
@@ -12538,25 +12444,21 @@ In summary, the main differences between blackbirds and crows are their physical
 
 
 
-04.rage [reɪdʒ]
+04.inquisitive  [ɪnˈkwɪzətɪv] 
 
-[noun] His face was dark with rage. 
+[adj]{disapproving} Don't be so inquisitive. It's none of your business! 
 
-"a feeling of violent anger that is difficult to control"
+"asking too many questions and trying to find out about what other people are doing, etc." -curious-
 
-[noun] a case of trolley rage in the supermarket.
-
-"anger and violent behaviour caused by a particular situation"
-
-[idiom phrase] be all the rage. "to be very popular and fashionable"
-
-[verb] {~ (at/against/about sb/sth)}  He raged against the injustice of it all. "to show that you are very angry about sth or with sb, especially by shouting" -rail-
-
-[verb] {of a storm, a battle, an argument, etc. }  The riots raged for three days. "to continue in a violent way"
+[adj] an inquisitive mind. "very interested in learning about many different things" -enquiring-
 
 
 
+05.silently /ˈsaɪləntli/
 
+[adv] They marched silently through the streets."without speaking"
+
+[adv] She crept silently out of the room."without making any or much sound" -quietly-
 
 
 
@@ -12676,32 +12578,6 @@ Speak is more commonly used when it's normal talking being considered.
 13.throw into 
 
 "phrasal verb. throw yourself/something into something. **to begin to do something with energy and enthusiasm**."
-
-
-
-14.inquisitive  [ɪnˈkwɪzətɪv] 
-
-[adj]{disapproving} Don't be so inquisitive. It's none of your business! 
-
-"asking too many questions and trying to find out about what other people are doing, etc." -curious-
-
-[adj] an inquisitive mind. "very interested in learning about many different things" -enquiring-
-
-
-
-
-
-
-
-16.silently /ˈsaɪləntli/
-
-[adv] They marched silently through the streets."without speaking"
-
-[adv] She crept silently out of the room."without making any or much sound" -quietly-
-
-
-
-
 
 
 
@@ -16260,7 +16136,7 @@ It took years to disseminate information about Aids in Africa...
 
 
 
-#### 2020/12/01.09
+#### 2020/12/01.05
 
 01.commute  [kəˈmjuːt] 
 
@@ -16296,53 +16172,7 @@ D[noun] procrastination [prəʊˌkræstɪ'neɪʃ(ə)n] "If you **procrastinate**
 
 
 
-05.postpone [pəˈspəʊn] [poʊˈspoʊn] 
-
-[verb] {~ sth (to/until sth)} The game has already been postponed three times. "to arrange for an event, etc. to take place at a later time or date" -put off-
-
-D[noun] Riots [ˈraɪəts]  led to the postponement  [pəˈspəʊnmənt]  of local elections.
-
-[tip] "更加偏向主观的推迟"
-
-
-
-06.delay  [dɪˈleɪ]
-
-[noun] Commuters will face long delays on the roads today."a period of time when sb/sth has to wait because of a problem that makes sth slow or late"
-
-[noun] There's no time for delay."a situation in which sth does not happen when it should; the act of delaying"
-
-[verb] The judge will delay his verdict until he receives medical reports on the offender.
-
-"to not do sth until a later time or to make sth happen at a later time" -defer-
-
-[verb] Thousands of commuters were delayed for over an hour."to make sb late or force them to do sth more slowly" -hold up-
-
-[tip] "往往表示不是主观意念造成的，是由客观环境造成的"
-
-
-
-07.defer /dɪˈfɜːr/
-
-[v] Also, if existing companies sell real estate elsewhere and buy property inside the ODZs for relocation, income tax and corporate tax on the capital gains from the relevant real estate transactions will be deferred until the property sale.
-
-"to delay sth until a later time" -put off-
-
-
-
-08.put off [pʊt ɒf] 
-
-[phrase] Women who put off having a baby often make the best mothers... "If you **put** something **off**, you delay doing it."
-
-[phrase] The old priest [priːst] tried to put them off, saying that the hour was late. "If you **put** someone **off**, you make them wait for something that they want."
-
-
-
-> In summary, "defer" is often used in more formal or respectful situations, "postpone" is a general term for delaying something, and "put off" suggests a delay caused by reluctance or procrastination. However, in everyday conversation, these words can often be used interchangeably to convey the idea of delaying or rescheduling something to a later time.
-
-
-
-09.semester  [sɪˈmestə(r)] 
+05.semester  [sɪˈmestə(r)] 
 
 [noun] the spring/fall semester. "(especially in the US) one of the two periods that the school or college year is divided into"
 
@@ -18520,7 +18350,7 @@ D[noun] "combinatorics" [ˌkɑːmbənəˈtɔːrɪks]
 
 
 
-#### 20210131.17
+#### 20210131.15
 
 01.least favorite  [liːst ˈfeɪvərɪt] 
 
@@ -18675,26 +18505,6 @@ D[difference]
 15.Cut, Ripped, Jacked, or Swole
 
  
-
-16.vessel /ˈvesl/
-
-[n] ocean-going vessels
-
-"a large ship or boat"
-
-[n] Red wine can help to dilate blood vessels.
-
-"a tube that carries blood through the body of a person or an animal, or liquid through the parts of a plant"
-
-
-
-17.cardiovascular disease  [ˌkɑːdiəʊˈvæskjələ(r) dɪˈziːz] 
-
-[noun phra] "a disease of the heart or blood vessels"
-
-
-
-
 
 
 
@@ -19781,7 +19591,7 @@ D[adv] radiantly happy.
 
 
 
-#### 20210221.11
+#### 20210221.09
 
 01.gratitude [ˈɡrætɪtjuːd] 
 
@@ -19837,63 +19647,13 @@ We listened to his lengthy rehearsal of the arguments."the act of repeating sth 
 
 
 
-07.bluff  [blʌf] 
+07.defenceless  [dɪˈfensləs] 
 
-[verb]  I don't think he'll shoot─I think he's just bluffing.
-
-"to try to make sb believe that you will do sth that you do not really intend to do, or that you know sth that you do not really know"
-
-[noun] It was just a game of bluff. /so many people calling his bluff.
-
-"an attempt to trick sb by making them believe that you will do sth when you really have no intention of doing it, or that you know sth when you do not, in fact, know it"
-
-[adj] Beneath his bluff exterior he was a sensitive man." very direct and cheerful, with good intentions, although not always very polite"
+[adj] The village is defenceless against attack."weak; not able to protect yourself; having no protection"
 
 
 
-08.boast /boʊst/
-
-[v] I don't want to boast, but I can actually speak six languages.
-
-"to talk with too much pride about sth that you have or can do" "自吹自擂"
-
-[n] Despite his boasts that his children were brilliant, neither of them went to college. 
-
-"something that a person talks about in a very proud way, often to seem more important or clever"
-
-
-
-> Boast and brag have similar meanings. Bluff has a different meaning. All of them involve someone who is confident in themselves.  
->
-> 
->
-> To boast is to talk about your achievements to people and all the things that you did right. it is usually someone who thinks highly of themselves. 
->
-> "He boasted about the fish he caught."  
->
-> 
->
-> To brag is essentially the same thing, but it is seen as more annoying or condescending to others. This is someone who is overconfident and who may like to feel superior or better than everyone else. 
->
-> "He bragged about getting first place."  
->
-> 
->
-> To bluff is completely different, as you are lying. You will make a false statement to be perceived (viewed) a certain way. However, you have to act confident, or people will "call your bluff" or know you are lying. This word is used a lot in games like poker, which you are trying to make it seem like you are winning. 
->
-> "He was bluffing when he told her about his new girlfriend."
->
-> 
->
-> *To show off* - To do something for the express purpose of impressing others or making oneself feel superior to others.
->
-> *Showing off* does not mean deception - one does this to feel superior to others as well.
-
-
-
-
-
-09.beneath  [bɪˈniːθ]
+08.beneath  [bɪˈniːθ]
 
 [prep] They found the body buried beneath a pile of leaves.
 
@@ -19903,19 +19663,11 @@ We listened to his lengthy rehearsal of the arguments."the act of repeating sth 
 
 
 
-10.coward [ˈkaʊə(r)d]
+09.coward [ˈkaʊə(r)d]
 
 [noun]You coward! What are you afraid of ?"a person who is not brave or who does not have the courage to do things that other people do not think are especially difficult"
 
 D[adj] a cowardly attack on a defenceless man.
-
-
-
-11.defenceless  [dɪˈfensləs] 
-
-[adj] The village is defenceless against attack."weak; not able to protect yourself; having no protection"
-
-
 
 
 
@@ -20669,13 +20421,7 @@ immigrant (移民者) immigration (移民的过程; 移民局检查站, 移民�
 
 
 
-08.adjacent  [əˈdʒeɪsnt] 
 
-[adj] {~ (to sth)(of an area, a building, a room, etc. 地区、建筑、房间等)} 
-
-The planes landed on adjacent runways."next to or near sth"
-
-Recognizing outstanding work communicating and refining ideas in Machine Learning and adjacent topics.
 
 
 
@@ -21291,7 +21037,7 @@ The shadow of doubt began to creep into her mind.
 
 
 
-#### 20210321.13
+#### 20210321.12
 
 01.giggle  [ˈɡɪɡl] 
 
@@ -21395,19 +21141,9 @@ The shadow of doubt began to creep into her mind.
 
 
 
-12.imitation [ˌɪmɪˈteɪʃn]
-
-[n] a poor/cheap imitation of the real thing."a copy of sth, especially sth expensive"
-
-[n] A child learns to talk by imitation."the act of copying sb/sth"
-
-
-
-13.spokesperson  [ˈspoʊkspɜːrsn] 
+12.spokesperson  [ˈspoʊkspɜːrsn] 
 
 [n] "a person who speaks on behalf of a group or an organization"
-
-
 
 
 
@@ -23749,7 +23485,7 @@ empathy for other people's situations.
 
 
 
-#### 20210522.11
+#### 20210522.10
 
 01.endorsement  [ɪnˈdɔː(r)smənt]
 
@@ -23829,11 +23565,23 @@ empathy for other people's situations.
 
 
 
-08.brush up  [brʌʃ ʌp] 
+08.dawn  [dɔːn]
 
-[PHRASAL VERB] I had hoped to brush up my Spanish...
+[noun] They start work at dawn.
 
-"If you **brush up** something or **brush up on** it, you practise it or improve your knowledge of it."
+"the time of day when light first appears" -daybreak/sunrise-
+
+[noun] {~ (of sth)} the dawn of civilization/time/history.
+
+ "the beginning or first signs of sth"
+
+[verb] The following morning dawned bright and warm. 
+
+"to begin"
+
+[verb] Slowly the awful truth dawned.
+
+"to become obvious or easy to understand"
 
 
 
@@ -23858,24 +23606,6 @@ The City of Taylor in Texas has endorsed an incentive to refund 92.5 percent of 
 "to say in an advertisement that you use and like a particular product so that other people will want to buy it"
 
 
-
-11.dawn  [dɔːn]
-
-[noun] They start work at dawn.
-
-"the time of day when light first appears" -daybreak/sunrise-
-
-[noun] {~ (of sth)} the dawn of civilization/time/history.
-
- "the beginning or first signs of sth"
-
-[verb] The following morning dawned bright and warm. 
-
-"to begin"
-
-[verb] Slowly the awful truth dawned.
-
-"to become obvious or easy to understand"
 
 
 
@@ -25529,7 +25259,7 @@ Korean cuisine enters global mainstream fueled by K-content fever.
 
 
 
-#### 20210802.13
+#### 20210802.12
 
 01.inaugural  [ɪˈnɔːɡjərəl] 
 
@@ -25623,11 +25353,19 @@ Korean cuisine enters global mainstream fueled by K-content fever.
 
 
 
-10.regimen   [ˈredʒɪmən]
+10.chalk  [tʃɔːk]
 
-[noun]  It's always a good idea to ask your doctor if it is safe for you to take supplements as part of your fitness regimen.  
+[noun] the chalk cliffs of southern England. 
 
-"a set of rules about food and exercise or medical treatment that you follow in order to stay healthy or to improve your health"
+"a type of soft white stone"
+
+[noun] a piece/stick of chalk. 
+
+"a substance similar to chalk made into white or coloured sticks for writing or drawing"
+
+[verb] { ~ sth (up) (on sth)} She chalked (up) the day's menu on the board. 
+
+"to write or draw sth with chalk"
 
 
 
@@ -25642,22 +25380,6 @@ Korean cuisine enters global mainstream fueled by K-content fever.
 12.chalky  [ˈtʃɔːki]
 
 [adj] If a protein doesn't taste good, you probably aren't going to stick with it regardless of how "good for you" it might be. Life's too short to drink bad-tasting or chalky protein. "containing chalk or like chalk"
-
-
-
-13.chalk  [tʃɔːk]
-
-[noun] the chalk cliffs of southern England. 
-
-"a type of soft white stone"
-
-[noun] a piece/stick of chalk. 
-
-"a substance similar to chalk made into white or coloured sticks for writing or drawing"
-
-[verb] { ~ sth (up) (on sth)} She chalked (up) the day's menu on the board. 
-
-"to write or draw sth with chalk"
 
 
 
@@ -26537,7 +26259,7 @@ D[noun]  insufficiency.
 
 
 
-#### 20210924.11
+#### 20210924.08
 
 01.expansive  [ɪkˈspænsɪv] 
 
@@ -26565,7 +26287,15 @@ D[noun]  insufficiency.
 
 
 
+04.securely /sɪ'kjʊəlɪ/
 
+[adv] keep the lid securely fastened.
+
+in a fixed or stable manner"
+
+[adv] the data remains securely protected.
+
+"without threat or danger"
 
 
 
@@ -26593,23 +26323,7 @@ D[noun]  insufficiency.
 
 
 
-08.stapler [ˈsteɪplə(r)]
-
-[noun] "a small device used for putting staples into paper, etc."
-
-
-
-09.staple  [ˈsteɪpl] 
-
-[adj] The staple crop is rice. "forming a basic, large or important part of sth"
-
-[noun] "a small piece of wire that is used in a device called a stapler and is pushed through pieces of paper and bent over at the ends in order to fasten the pieces of paper together"
-
-[verb] Staple the invoice to the receipt. "to attach one thing to another using a staple or staples"
-
-
-
-10.fasten /ˈfæsn/
+08.fasten /ˈfæsn/
 
 [v] Fasten your seatbelts, please.
 
@@ -26621,15 +26335,7 @@ D[noun]  insufficiency.
 
 
 
-11.securely /sɪ'kjʊəlɪ/
 
-[adv] keep the lid securely fastened.
-
-in a fixed or stable manner"
-
-[adv] the data remains securely protected.
-
-"without threat or danger"
 
 
 
@@ -27530,17 +27236,7 @@ Servants are now almost extinct in modern society."no longer in existence in soc
 
 #### 2021/11/03.08
 
-01.plunge [plʌndʒ]
 
-[noun] Despite the country`s stellar trade report, the Kospi fell 1.41 percent to 3,025.52 on Friday morning due to a plunge in U.S. peers."a sudden movement downwards or away from sth"
-
-[verb] She lost her balance and plunged 100 feet to her death.
-
-"to move or make sb/sth move suddenly forwards and/or downwards"
-
-[verb] Squid Game crypto plunges to $0 after scammers steal million of dollars from investors. 
-
-"to decrease suddenly and quickly" -plummet-
 
 
 
@@ -32044,9 +31740,13 @@ The students left the classroom right after the class was over.
 
 
 
-#### 10/18.08
+#### 10/18.05
 
+01.agile [ˈædʒl]
 
+[adj] At 20 years old he was not as agile as he is now.
+
+"able to move quickly and easily"
 
 
 
@@ -32083,38 +31783,6 @@ The students left the classroom right after the class was over.
 [noun] a packet of chocolate biscuits.
 
 "a small flat dry cake for one person, usually sweet, and baked until crisp"
-
-
-
-06.souvenir  [ˌsuːvəˈnɪə(r)] 
-
-[noun] I bought the ring as a souvenir of Greece.
-
-"a thing that you buy and/or keep to remind yourself of a place, an occasion or a holiday/vacation; something that you bring back for other people when you have been on holiday/vacation"
-
-
-
-07.memento  [məˈmentəʊ]
-
-[noun] a memento of our trip to Italy.
-
- "a thing that you keep or give to sb to remind you or them of a person or place"
-
-
-
-08.agile [ˈædʒl]
-
-[adj] At 20 years old he was not as agile as he is now.
-
-"able to move quickly and easily"
-
-
-
-Both are synonyms with a little bit of difference in shade of meaning.
-
-Souvenir serves as a reminder but with no personal touch. Usually one is presented with a souvenir during a visit to an institution which may be a booklet detailing a short bird’s eye view of the activities of the institution and possibly a memento ( some showpiece item)
-
-A memento also serves as a reminder but it has more personal touch typically a gift when you retire from an organisation or some such occasion as a gift item given at marriage ceremony etc. where it has a personal touch
 
 
 
@@ -32554,7 +32222,7 @@ Samsung to focus on car chips growth to withstand a slump in demand.
 
 03.coordinate [kəʊˈɔːdɪneɪt , kəʊˈɔːdɪnət]
 
-[verb] Saudi Arabia's Investment Minister Khalid al-Falih is in Seoul to coordinate the schedule.
+[verb] Saudi Arabia's Investment Minister Khalid al-Falih is in Seoul to coordinate the schedule./I will coordinate with Jasper to confirm his schedule, and we will meet immediately after his meeting on Thursday.
 
 "to organize the different parts of an activity and the people involved in it so that it works well"
 
@@ -34609,7 +34277,7 @@ to change a written record or information so that it is no longer true"
 
 03.curtail [kɜːrˈteɪl]
 
-[vt] U.S. Aims to Curtail Technology Investment in China.
+[vt] U.S. Aims to Curtail Technology Investment in China./Moreover, even with sufficient data, these methods are often designed to address specific tasks, which curtails the generalization ability of the model.
 
 "to limit sth or make it last for a shorter time"
 
@@ -35245,9 +34913,13 @@ Job hopping is **a trend that is growing exponentially in the labour market and 
 
 
 
-#### 03/16.13
+#### 03/16.11
 
+01.serialize [ˈsɪriəlaɪz]
 
+[verb] The novel was serialized on TV in six parts.
+
+"to publish or broadcast sth in parts as a serial" -serial+ize-
 
 
 
@@ -35259,7 +34931,15 @@ Job hopping is **a trend that is growing exponentially in the labour market and 
 
 
 
+03.diminish [dɪˈmɪnɪʃ]
 
+[verb] The world's resources are rapidly diminishing.
+
+"to become or to make sth become smaller, weaker, etc."
+
+[verb] I don't wish to diminish the importance of their contribution. 
+
+"to make sb/sth seem less important than they really are" -belittle-
 
 
 
@@ -35328,23 +35008,7 @@ Job hopping is **a trend that is growing exponentially in the labour market and 
 
 
 
-12.serialize [ˈsɪriəlaɪz]
 
-[verb] The novel was serialized on TV in six parts.
-
-"to publish or broadcast sth in parts as a serial" -serial+ize-
-
-
-
-13.diminish [dɪˈmɪnɪʃ]
-
-[verb] The world's resources are rapidly diminishing.
-
-"to become or to make sth become smaller, weaker, etc."
-
-[verb] I don't wish to diminish the importance of their contribution. 
-
-"to make sb/sth seem less important than they really are" -belittle-
 
 
 
@@ -35492,7 +35156,7 @@ prescriptive powers.
 
 
 
-10.
+
 
 #### 03/22.02
 
@@ -35789,7 +35453,7 @@ The problem is that for your coworkers to **replicate** your analysis, they must
 
 
 
-#### 04/06.12
+#### 04/06.11
 
 01.dethrone [ˌdiːˈθroʊn]
 
@@ -35930,11 +35594,7 @@ In summary, "young" simply describes someone who is not old, while "youthful" sp
 
 
 
-12.insurrection /ˌɪnsəˈrekʃn/
 
-[n] Yoon attends 2nd insurrection trial hearing under flash of press cameras.
-
-"a situation in which a large group of people try to take political control of their own country with violence"
 
 
 
@@ -40025,7 +39685,7 @@ On the afternoon of November 26, Representative **Jeong Hye Kyung** of the Progr
 
 
 
-#### 10/17.06
+#### 10/17.04
 
 01.neglected /nɪˈɡlektɪd/
 
@@ -40058,40 +39718,6 @@ On the afternoon of November 26, Representative **Jeong Hye Kyung** of the Progr
 [v] Could you drive me home?
 
 "to take sb somewhere in a car, taxi, etc." 
-
-
-
-05.neglect /nɪˈɡlekt/
-
-[v] She denies neglecting her baby.
-
-"to fail to take care of sb/sth"
-
-[v] Dance has been neglected by television."
-
-to not give enough attention to sth"
-
-[n] ~ (of sth/sb) The law imposes penalties for the **neglect of children**. 
-
-"the fact of not giving enough care or attention to sth/sb; the state of not receiving enough care or attention"
-
-
-
-neglect vs ignore
-
-疏忽VS无视
-
-> There is a slight difference, ignore is used when it's on purpose:  
->
-> "She was mad at him, so she ignored him for 2 hours."  
->
-> Neglect is used when someone has forgotten or is being careless:  
->
-> "He neglected his plants, so they were beginning to dry up."
-
-
-
-
 
 
 
@@ -40345,7 +39971,7 @@ fleeting"lasting only for a very short time"
 
 
 
-#### 10/29.04
+#### 10/29.05
 
 01.tent /tent/
 
@@ -40396,10 +40022,6 @@ fleeting"lasting only for a very short time"
 
 
 #### 10/30.01
-
-
-
-
 
 01.fine-grained classification
 
@@ -41918,13 +41540,13 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-#### 01/30.09
+#### 01/30.08
 
-01.expenditure /ɪkˈspendɪtʃər/
+01.room  [ruːm] 
 
-[n] Chinese travelers visiting Korea spend more than double on accommodation than they did in 2019, while their average travel expenditures here remain lower than those spent in neighboring Japan, data showed.
+[verb] She and Nancy roomed together at college.
 
-"the act of spending or using money; an amount of money spent"
+"to rent a room somewhere; to share a rented room or flat/apartment with sb"
 
 
 
@@ -41983,14 +41605,6 @@ The definition of FIT goes like this: “FIT is **a person who travels completel
 [verb] Our proposal tries to accommodate the special needs of minority groups. 
 
 "to **consider** sth, such as sb's opinion or a fact, and be influenced by it when you are deciding what to do or explaining sth"
-
-
-
-09.room  [ruːm] 
-
-[verb] She and Nancy roomed together at college.
-
-"to rent a room somewhere; to share a rented room or flat/apartment with sb"
 
 
 
@@ -42530,7 +42144,7 @@ d[adv]shabbily dressed
 
 03.arable /ˈærəbl/
 
-[adj] arable farming/farms/crops. 
+[adj] arable farming/farms/crops. /Korea's total arable land dropped for the 13th consecutive year in 2025, as rice paddies continued to shrink amid declining rice consumption, government data showed Friday.
 
 "connected with growing crops such as wheat"
 
@@ -43161,13 +42775,17 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 
 
-#### 05/17.04
+#### 05/17.03
 
-01.solicit /səˈlɪsɪt/
+01.defeat /dɪˈfiːt/
 
-[v] A YouTuber tried to visit a random home gym and got the response: 'There is no soliciting.
+[v] He defeated the champion in three sets.
 
-"to ask sb for sth, such as support, money, or information; to try to get sth or persuade sb to do sth"
+"to win against sb in a war, competition, sports game, etc."
+
+[n] whimpers in defeat.
+
+"failure to win or to be successful"
 
 
 
@@ -43184,18 +42802,6 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 "to make low, weak crying noises; to speak in this way"
 
 [n] "a low weak cry that a person or an animal makes when they are hurt, frightened or sad"
-
-
-
-04.defeat /dɪˈfiːt/
-
-[v] He defeated the champion in three sets.
-
-"to win against sb in a war, competition, sports game, etc."
-
-[n] whimpers in defeat.
-
-"failure to win or to be successful"
 
 
 
@@ -44821,31 +44427,7 @@ The pleasant and consistent weather makes regions with Mediterranean climates po
 
 
 
-#### 01/09.02
-
-01.oyster /ˈɔɪstər/
-
-[n] Korea aims to become world's largest oyster exporter.
-
-"a large flat shellfish . Some types of oyster can be eaten and others produce shiny white jewels called pearls ."
-
-"the world is your oyster", "there is no limit to the opportunities open to you"
-
-
-
-02.testosterone /teˈstɑːstəroʊn/
-
-[n] Oysters are a good source of many nutrients that may help support sexual health. In particular, **the zinc in oysters may increase testosterone levels and help maintain healthy levels of dopamine**.
-
-"a hormone produced in men's testicles that causes them to develop the physical and sexual features that are characteristic of the male body"
-
-
-
 #### 01/10.01
-
-
-
-
 
 01.nab /nab/
 
@@ -46990,7 +46572,7 @@ These words all relate to fire or starting something, but they have different nu
 
 03.potassium /pəˈtæsiəm/
 
-[n] {symb K}You also need potassium for a healthy digestive system and bone health. Low levels of potassium can affect these important functions in your body.
+[n] {symb K}You also need potassium for a healthy digestive system and bone health. Low levels of potassium can affect these important functions in your body./ Potassium is designated by the symbol "K" because it originates from the Neo-Latin word **kalium**, which was derived from the word "alkali" and ultimately the Arabic word *al-qalyah* ("plant ashes").
 
 "a chemical element. Potassium is a soft silver-white metal that exists mainly in compounds which are used in industry and farming."
 
@@ -47321,7 +46903,7 @@ D[noun] Make sure that there is adequate ventilation in the room before using th
 
 
 
-#### 03/09.10
+#### 03/09.09
 
 01.dismissive /dɪsˈmɪsɪv/
 
@@ -47397,15 +46979,7 @@ Key Difference:
 
 
 
-07.retaliatory /rɪˈtæliətɔːri/
-
-[adj] China to impose retaliatory tariffs on some Canadian products as trade war heats up.
-
-"If you take **retaliatory** action, you try to harm or annoy someone who has harmed or annoyed you."
-
-
-
-08.unilateral /ˌjuːnɪˈlætrəl/
+07.unilateral /ˌjuːnɪˈlætrəl/
 
 [adj] “Canada’s unilateral imposition of tariffs disregards objective facts and World Trade Organization rules, is a typical trade protectionist practice, constitutes a discriminatory measure against China, seriously infringes on China’s legitimate rights and interests, and undermines China-Canada economic and trade relations,” China’s customs authorities [said](http://gss.mof.gov.cn/gzdt/zhengcejiedu/202503/t20250307_3959529.htm) in a statement on a Saturday, according to a Google translation.
 
@@ -47413,11 +46987,11 @@ Key Difference:
 
 
 
-09.rape plants 
+08.rape plants 
 
 
 
-10.rapeseed /ˈreɪpˌsid/
+09.rapeseed /ˈreɪpˌsid/
 
 [n] China on Saturday announced plans to impose a 100% tariff on Canadian rapeseed oil, oil cakes and peas, adding that a 25% levy would be placed on aquatic products and pork originating in Canada.
 
@@ -48394,7 +47968,7 @@ Hun Pheap lost her husband after he drank a toxic alcoholic homebrew
 
 
 
-#### 04/08.04
+#### 04/08.03
 
 01.break even /ˈbreɪk iːvn/
 
@@ -48427,24 +48001,6 @@ Hun Pheap lost her husband after he drank a toxic alcoholic homebrew
 "If you **tear** something **down**, you destroy it or remove it completely."
 
 
-
-04.vow /vaʊ/
-
-[n] to make/take a vow. 
-
-"a formal and serious promise, especially a religious one, to do sth"
-
-[v]  Meanwhile, Kakao Pay, which has already been available for making payments at Alipay merchants in China since March, vowed to strengthen its global services to 50 countries from the current 18 countries./China vows to fight 'till the end' after Trump's latest tariffs threat.
-
-"to make a formal and serious promise to do sth or a formal statement that is true"
-
-
-
-> "Promise" usually refers to something dad-to-day that you have told someone you will do. There is an expectation that once you promise to do it, you will do it. Example: "I promise I will take out the trash before you get home."  
->
-> "Swear" is like promise, but used for more important things. (It is a less formal word, so if you are in a work situation, use "promise" instead, as they can be interchangeable.) Example: "I swear I will never hurt you." 
->
-> "Vow" is reserved for formal ceremonies of commitment, like weddings. It is an official promise, often with religious connotations.
 
 
 
@@ -48558,7 +48114,7 @@ Hun Pheap lost her husband after he drank a toxic alcoholic homebrew
 
 05.reciprocal /rɪˈsɪprəkl/
 
-[adj] “We are, right now, a reciprocal nation... We’re going to have whatever India charges, we’re charging them. Whatever another country charges, we’re charging them. So it’s called reciprocal, which I think is a very fair way,” the U.S. president said at the press briefing. /[Trump’s new ‘reciprocal’ tariffs take effect on imports from around the world.
+[adj] “We are, right now, a reciprocal nation... We’re going to have whatever India charges, we’re charging them. Whatever another country charges, we’re charging them. So it’s called reciprocal, which I think is a very fair way,” the U.S. president said at the press briefing. /[Trump’s new ‘reciprocal’ tariffs take effect on imports from around the world./involving two people or groups who agree to help each other or behave in the same way to each other.
 
 "involving two people or groups who agree to help each other or behave in the same way to each other"
 
@@ -49305,7 +48861,7 @@ The words **"companion"** and **"company"** are related but have different nuanc
 
 
 
-#### 04/30.07
+#### 04/30.06
 
 01.controversial  [ˌkɒntrəˈvɜːʃl]   [ˌkɑːntrəˈvɜːrʃl] 
 
@@ -49323,11 +48879,19 @@ The words **"companion"** and **"company"** are related but have different nuanc
 
 
 
-03.tout /taʊt/
+03.stub /stʌb/
 
-[v] Watch: Trump touts second term in speech marking first 100 days.
+[noun] He **pulled** the stub of a pencil from **behind his ear**.
 
-"to try to persuade people that sb/sth is important or valuable by praising them/it"
+"The **stub** of a cigarette or a pencil is the last short piece of it which remains when the rest has been used."
+
+[noun] Fans who still have their original ticket stubs should contact Sheffield Arena by July 3.
+
+"A ticket **stub** is the part that you keep when you go in to watch a performance."
+
+[verb] {~ your toe (against/on sth)} I **stubbed my toes against** a table leg.
+
+"to hurt your toe by accident by hitting it against sth hard"
 
 
 
@@ -49352,22 +48916,6 @@ The words **"companion"** and **"company"** are related but have different nuanc
 [noun] I stubbed my toe on the step.
 
 "one of the five small parts that stick out from the foot"
-
-
-
-07.stub /stʌb/
-
-[noun] He **pulled** the stub of a pencil from **behind his ear**.
-
-"The **stub** of a cigarette or a pencil is the last short piece of it which remains when the rest has been used."
-
-[noun] Fans who still have their original ticket stubs should contact Sheffield Arena by July 3.
-
-"A ticket **stub** is the part that you keep when you go in to watch a performance."
-
-[verb] {~ your toe (against/on sth)} I **stubbed my toes against** a table leg.
-
-"to hurt your toe by accident by hitting it against sth hard"
 
 
 
@@ -50483,7 +50031,7 @@ The government will begin expanding efforts to crack down on unauthorized accomm
 
 25.acute /əˈkjuːt/
 
-[adj] Business industry leaders say the move to boosting training and skills among British workers is welcome, but warned that labor shortages were likely to become more acute.
+[adj] Business industry leaders say the move to boosting training and skills among British workers is welcome, but warned that labor shortages were likely to become more acute./Daily ECGs may be obtained following acute cardiovascular events such as myocardial infarction.
 
 "very serious or severe"
 
@@ -53113,7 +52661,7 @@ This is a video that is very often quoted in all sorts of native media.
 
 01.barrage /bəˈrɑːʒ/
 
-[n] The latest barrage comes amid ongoing international efforts to secure a peace deal between the two warring nations - and days after the Ukrainian capital Kyiv faced [the second largest aerial attack of the war](https://www.bbc.co.uk/news/articles/cy9834jp9qno) so far, with at least 25 killed.
+[n] The latest barrage comes amid ongoing international efforts to secure a peace deal between the two warring nations - and days after the Ukrainian capital Kyiv faced [the second largest aerial attack of the war](https://www.bbc.co.uk/news/articles/cy9834jp9qno) so far, with at least 25 killed./US Senate backs Trump's war powers as Iran launches new missile barrage at Israel.
 
 "the continuous firing of a large number of guns in a particular direction, especially to protect soldiers while they are attacking or moving towards the enemy"
 
@@ -54314,7 +53862,7 @@ I think we can safely dismiss their objections.
 
 
 
-#### 12/14.10
+#### 12/14.09
 
 01.cork /kɔːrk/
 
@@ -54368,21 +53916,13 @@ I think we can safely dismiss their objections.
 
 
 
-08.escort /ˈeskɔːrt , ɪˈskɔːrt/
-
-[v] Students in parts of the campus are continuing to be told to shelter in place until police can escort them out of the area.
-
-"to go with sb to protect or guard them or to show them the way"
-
-
-
-09.death squad /ˈdeθ skwɑːd/
+08.death squad /ˈdeθ skwɑːd/
 
 [n] 'a group of people who are ordered by a government to kill other people, especially the government's political opponents'
 
 
 
-10.squad /skwɑːd/
+09.squad /skwɑːd/
 
 [n] "A **squad** is a small, cohesive team, often military (7-14 soldiers) or police, trained to work together, but it also refers to a popular large-scale tactical multiplayer video game emphasizing realism, teamwork, and combined arms combat (shooter, Mil-Sim)."
 
@@ -55109,7 +54649,7 @@ to do sth to another player that is against the rules of the game"
 
 
 
-#### 01/11.05	
+#### 01/11.04	
 
 01.advocate [ˈædvəkeɪt , ˈædvəkət]
 
@@ -55146,18 +54686,6 @@ to do sth to another player that is against the rules of the game"
 [n] A bone in my spine was out of alignment./ Chris Bumstead believes in "alignment" as a core principle for success, meaning **aligning all daily actions (workouts, diet, sleep) with a single, clear, long-term goal, eliminating distractions and excuses for relentless, consistent execution**. 
 
 "arrangement in a straight line"
-
-
-
-05.decisive /dɪˈsaɪsɪv/
-
-[adj] a decisive factor/victory/battle.
-
-"very important for the final result of a particular situation"
-
-[adj] Be decisive from Chris Bumstead.
-
-"able to decide sth quickly and with confidence"
 
 
 
@@ -55209,7 +54737,7 @@ to do sth to another player that is against the rules of the game"
 
 
 
-#### 01/15.08
+#### 01/15.10
 
 01.subsidiary [səbˈsɪdiəri]  [səbˈsɪdieri] 
 
@@ -55223,17 +54751,21 @@ to do sth to another player that is against the rules of the game"
 
 02.retaliation [rɪˌtæliˈeɪʃn] 
 
-[noun] { ~ (against sb/sth) (for sth)} retaliation against UN workers./In March 2017, China implemented a suspension of visas for group tour programs to Korea in retaliation against the deployment of the U.S. THAAD on Korean soil./Iran warns of retaliation if Trump strikes, US withdraws some personnel from bases.
+[noun] { ~ (against sb/sth) (for sth)} retaliation against UN workers./In March 2017, China implemented a suspension of visas for group tour programs to Korea in retaliation against the deployment of the U.S. THAAD on Korean soil./Iran warns of retaliation if Trump strikes, US withdraws some personnel from bases./Iran's army leader vows 'decisive' retaliation for death of security chief in Israeli strikes.
 
 "action that a person takes against sb who has harmed them in some way"
 
 
 
-03.personnel /ˌpɜːrsəˈnel/
+03.decisive /dɪˈsaɪsɪv/
 
-[n] sales/technical/medical/security/military, etc. personnel.
+[adj] a decisive factor/victory/battle.
 
-"the people who work for an organization or one of the armed forces"
+"very important for the final result of a particular situation"
+
+[adj] Be decisive from Chris Bumstead.
+
+"able to decide sth quickly and with confidence"
 
 
 
@@ -55284,6 +54816,71 @@ to do sth to another player that is against the rules of the game"
 [adj] In China, the power industry is a traditional monopolistic industry./In a high-profile case SAMR investigated Chinese tech giant in Alibaba in 2021, fining the firm a record 18.2 billion yuan ($2.8 billion) after it was found guilty of monopolistic practices.
 
 "controlling or trying to get complete control over sth, especially an industry or a company"
+
+
+
+09.personnel /ˌpɜːrsəˈnel/
+
+[n] sales/technical/medical/security/military, etc. personnel.
+
+"the people who work for an organization or one of the armed forces"
+
+
+
+10.vow /vaʊ/
+
+[n] to make/take a vow. 
+
+"a formal and serious promise, especially a religious one, to do sth"
+
+[v]  Meanwhile, Kakao Pay, which has already been available for making payments at Alipay merchants in China since March, vowed to strengthen its global services to 50 countries from the current 18 countries./China vows to fight 'till the end' after Trump's latest tariffs threat.
+
+"to make a formal and serious promise to do sth or a formal statement that is true"
+
+
+
+> "Promise" usually refers to something dad-to-day that you have told someone you will do. There is an expectation that once you promise to do it, you will do it. Example: "I promise I will take out the trash before you get home."  
+>
+> "Swear" is like promise, but used for more important things. (It is a less formal word, so if you are in a work situation, use "promise" instead, as they can be interchangeable.) Example: "I swear I will never hurt you." 
+>
+> "Vow" is reserved for formal ceremonies of commitment, like weddings. It is an official promise, often with religious connotations.
+
+
+
+11.retaliatory /rɪˈtæliətɔːri/
+
+[adj] China to impose retaliatory tariffs on some Canadian products as trade war heats up./Iran launches retaliatory strikes on Israel and U.S. assets after security chief Larijani is killed.
+
+"If you take **retaliatory** action, you try to harm or annoy someone who has harmed or annoyed you."
+
+
+
+12.revenge /rɪˈvendʒ/
+
+[n] "something that you do in order to make sb suffer because they have made you suffer"
+
+[v] **Iran's army chief vows revenge** for the killing of Larijani by threatening a "decisive, deterrent, and regretful response"
+
+"If you revenge yourself on someone who has hurt you, you hurt them in return."
+
+
+
+13.deterrent /dɪˈtɜːrənt/
+
+[n] Hopefully his punishment will act as a deterrent to others.
+
+"a thing that makes sb less likely to do sth (= that deters them)"
+
+
+
+**Summary Table**
+
+| Feature             | Retaliation                | Revenge                     |
+| :------------------ | :------------------------- | :-------------------------- |
+| **Primary Driver**  | Rational "Hitting Back"    | Deep Emotion/Hatred         |
+| **Duration**        | Immediate / Short-term     | Long-term / Grudge          |
+| **Proportionality** | Often equal/proportional   | Frequently disproportionate |
+| **Context**         | Workplace, Combat, Playful | Personal, Deeply Wounded    |
 
 
 
@@ -55513,7 +55110,7 @@ a collision between two trains.
 
 
 
-#### 02/18
+#### 02/18.05
 
 01.contestant [kənˈtestənt] 
 
@@ -55557,11 +55154,875 @@ a collision between two trains.
 
 
 
+#### 02/19.03
+
+01.wellbeing /ˌwɛlˈbiɪŋ/
+
+[n] Mark Zuckerberg said he reached out to Apple CEO Tim Cook to discuss ‘wellbeing of teens and kids’.
+
+"Someone's well-being is their health and happiness."
 
 
 
+02.hormone /ˈhɔːrmoʊn/
+
+[n] growth hormones./It's fascinating – when the body is recovering during sleep, the human growth hormone is released, and emotions are regulated... These are all complex physiological processes in the body that are overlooked.
+
+"a chemical substance produced in the body or in a plant that encourages growth or influences how the cells and tissues function; an artificial substance that has similar effects" 
 
 
 
+03.insurrection /ˌɪnsəˈrekʃn/
 
+[n] Yoon attends 2nd insurrection trial hearing under flash of press cameras./Former President Yoon Suk Yeol was sentenced to life in prison Thursday after a court found him guilty of leading an insurrection linked to his Dec. 3, 2024, martial law declaration.
+
+"a situation in which a large group of people try to take political control of their own country with violence"
+
+
+
+#### 02/20.03
+
+01.souvenir  [ˌsuːvəˈnɪə(r)] 
+
+[noun] I bought the ring as a souvenir of Greece./Best for place for souvenir shopping: Hollywood Road.
+
+"a thing that you buy and/or keep to remind yourself of a place, an occasion or a holiday/vacation; something that you bring back for other people when you have been on holiday/vacation"
+
+
+
+02.memento  [məˈmentəʊ]
+
+[noun] a memento of our trip to Italy.
+
+ "a thing that you keep or give to sb to remind you or them of a person or place"
+
+
+
+> Both are synonyms with a little bit of difference in shade of meaning.
+>
+> Souvenir serves as a reminder but with no personal touch. Usually one is presented with a souvenir during a visit to an institution which may be a booklet detailing a short bird’s eye view of the activities of the institution and possibly a memento ( some showpiece item)
+>
+> A memento also serves as a reminder but it has more personal touch typically a gift when you retire from an organisation or some such occasion as a gift item given at marriage ceremony etc. where it has a personal touch
+
+
+
+03.asthma [ˈæsmə] 
+
+"气喘;哮喘" “a medical condition of the chest that makes breathing difficult”
+
+
+
+#### 02/22.07
+
+01.shut out of  
+
+[vp] Korea shut out of speed skating medals for 1st time in 24 yrs.
+
+"Shut out" means to prevent someone or something from entering, participating, or being included, often implying a deliberate act of exclusion. "
+
+
+
+02.expenditure /ɪkˈspendɪtʃər/
+
+[n] Chinese travelers visiting Korea spend more than double on accommodation than they did in 2019, while their average travel expenditures here remain lower than those spent in neighboring Japan, data showed.
+
+"the act of spending or using money; an amount of money spent"
+
+[n] Total Daily Energy Expenditure.
+
+"the use of energy, time, materials, etc."
+
+
+
+03.infertile /ɪnˈfɜːtaɪl/
+
+[adj] an infertile couple.
+
+"not able to have babies or produce young"
+
+
+
+04.oyster /ˈɔɪstər/
+
+[n] Korea aims to become world's largest oyster exporter.
+
+"a large flat shellfish . Some types of oyster can be eaten and others produce shiny white jewels called pearls ."
+
+"the world is your oyster", "there is no limit to the opportunities open to you"
+
+
+
+05.testosterone /teˈstɑːstəroʊn/
+
+[n] Oysters are a good source of many nutrients that may help support sexual health. In particular, **the zinc in oysters may increase testosterone levels and help maintain healthy levels of dopamine**.
+
+"a hormone produced in men's testicles that causes them to develop the physical and sexual features that are characteristic of the male body"
+
+
+
+06.testicle /ˈtestɪkl/
+
+[n] testicular cancer./ Drinking alcohol *can* reduce testosterone levels and damage testicular tissue in general, which is a *cause* of testicular atrophy and *small* size.
+
+"either of the two organs that produce sperm , located in a bag of skin below the penis"
+
+
+
+07.atrophy /ˈætrəfi/
+
+[n] ...exercises to avoid jelling and atrophy of cartilage.
+
+"the condition of losing flesh, muscle, strength, etc. in a part of the body because it does not have enough blood"
+
+
+
+#### 02/23.07
+
+01.brush [brʌʃ] 
+
+[noun] a paintbrush. "an object made of short stiff hairs (called bristles ) or wires set in a block of wood or plastic, usually attached to a handle. Brushes are used for many different jobs, such as cleaning, painting and tidying your hair."
+
+[noun] to give your teeth a good brush. "an act of brushing"
+
+[verb] to brush your hair/teeth/shoes. "to clean, polish, or make smooth with a brush"
+
+
+
+02.brush up  [brʌʃ ʌp] 
+
+[PHRASAL VERB] I had hoped to brush up my Spanish...
+
+"If you **brush up** something or **brush up on** it, you practise it or improve your knowledge of it."
+
+
+
+03.brush off /ˈbrʌʃ ɔːf/
+
+[vp] South Korea’s Kospi hits fresh high as Asian markets brush off Trump’s latest tariff moves.
+
+"If someone brushes you off when you speak to them, they refuse to talk to you or be nice to you."
+
+
+
+04.descent /dɪˈsent/
+
+[n] The plane began its descent to Heathrow.
+
+"an action of coming or going down" -ascent-
+
+[n] There is a gradual descent to the sea.
+
+"a slope going downwards"
+
+[n] Compared with 2023, when international travel began recovering after the COVID-19 pandemic, Korean bookings surged by more than 300 percent last year, said Quan, who is of Korean descent, adding that the Guangzhou-based agency expected even stronger growth this year.
+
+"a person's family origins"
+
+
+
+05.ascent /əˈsent/
+
+[n] The cart began its gradual ascent up the hill.
+
+"the act of climbing or moving up; an upward journey"
+
+[n] At the other side of the valley was a steep ascent to the top of the hill."an upward path or slope"
+
+
+
+06.decent [ˈdiːsnt] 
+
+[adj]  a decent meal/job/place to live."of a good enough standard or quality"
+
+[adj] ordinary, decent, hard-working people."honest and fair; treating people with respect"
+
+[adj] a decent burial."acceptable to people in a particular situation"
+
+
+
+07.portrait /ˈpɔːtreɪt/ /ˈpɔːrtrət/
+
+[n] He had his portrait painted in uniform.
+
+"a painting, drawing or photograph of a person, especially of the head and shoulders"
+
+[n] a portrait of life at the French court.
+
+"a detailed description of sb/sth"
+
+[adj] "printed so that the top of the page is one of the shorter sides"
+
+
+
+#### 02/24.02
+
+01.mutual  [ˈmjuːtʃuəl]
+
+[adj] mutual respect/understanding. 
+
+"used to describe feelings that two or more people have for each other equally, or actions that affect two or more people equally"
+
+mutually.
+
+[adv] Can we find a mutually convenient time to meet? "felt or done equally by two or more people"
+
+[n] we must have some mutuals there.
+
+" While a "mutual friend" is a single person known by two others"
+
+
+
+02.end up /end ʌp/
+
+[vp] If you don't know what you want, you might end up getting something you don't want...
+
+"If you end up doing something or end up in a particular state, you do that thing or get into that state even though you did not originally intend to."
+
+
+
+#### 02/25.14
+
+01.tout /taʊt/
+
+[v] Watch: Trump touts second term in speech marking first 100 days./State of the Union 2026 recap: Trump touted economic gains and roles in international hot spots.
+
+"to try to persuade people that sb/sth is important or valuable by praising them/it"
+
+
+
+02.bluff  [blʌf] 
+
+[verb]  I don't think he'll shoot─I think he's just bluffing.
+
+"to try to make sb believe that you will do sth that you do not really intend to do, or that you know sth that you do not really know"
+
+[noun] It was just a game of bluff. /so many people calling his bluff.
+
+"an attempt to trick sb by making them believe that you will do sth when you really have no intention of doing it, or that you know sth when you do not, in fact, know it"
+
+[adj] Beneath his bluff exterior he was a sensitive man." very direct and cheerful, with good intentions, although not always very polite"
+
+
+
+03.boast /boʊst/
+
+[v] I don't want to boast, but I can actually speak six languages.
+
+"to talk with too much pride about sth that you have or can do" "自吹自擂"
+
+[n] Despite his boasts that his children were brilliant, neither of them went to college. 
+
+"something that a person talks about in a very proud way, often to seem more important or clever"
+
+
+
+04.brag /bræɡ/
+
+[v] He bragged to his friends about the crime.
+
+"to talk too proudly about sth you own or sth you have done"
+
+
+
+> Boast and brag have similar meanings. Bluff has a different meaning. All of them involve someone who is confident in themselves.  
+>
+> 
+>
+> To boast is to talk about your achievements to people and all the things that you did right. it is usually someone who thinks highly of themselves. 
+>
+> "He boasted about the fish he caught."  
+>
+> 
+>
+> To brag is essentially the same thing, but it is seen as more annoying or condescending to others. This is someone who is overconfident and who may like to feel superior or better than everyone else. 
+>
+> "He bragged about getting first place."  
+>
+> 
+>
+> To bluff is completely different, as you are lying. You will make a false statement to be perceived (viewed) a certain way. However, you have to act confident, or people will "call your bluff" or know you are lying. This word is used a lot in games like poker, which you are trying to make it seem like you are winning. 
+>
+> "He was bluffing when he told her about his new girlfriend."
+>
+> 
+>
+> *To show off* - To do something for the express purpose of impressing others or making oneself feel superior to others.
+>
+> *Showing off* does not mean deception - one does this to feel superior to others as well.
+
+
+
+05.take credit 
+
+[vp] President [Donald Trump](https://www.cnbc.com/donald-trump/) in his Tuesday State of the Union address took credit for economic gains and his roles in international conflicts.
+
+""Take credit" means to accept or claim praise, recognition, or honor for an accomplishment, whether deserved or not. It is often used in work contexts (e.g., "taking credit for a project"), sometimes implying the claiming of credit for work actually done by others. It is similar to "get credit for"."
+
+
+
+06.address /əˈdres/
+
+[n] tonight's televised presidential address.
+
+"a formal speech that is made in front of an audience"
+
+
+
+07.overrule /ˌoʊvərˈruːl/
+
+[v] The verdict was overruled by the Supreme Court.
+
+"to change a decision or reject an idea from a position of greater power"
+
+
+
+08.underpin /ˌʌndərˈpɪn/
+
+[v] The report is underpinned by extensive research.
+
+"to support or form the basis of an argument, a claim, etc."
+
+
+
+09.vessel /ˈvesl/
+
+[n] ocean-going vessels./Two foreign vessels hit by explosions, authorities say.
+
+"a large ship or boat"
+
+[n] Red wine can help to dilate blood vessels.
+
+"a tube that carries blood through the body of a person or an animal, or liquid through the parts of a plant"
+
+
+
+10.cardiovascular disease  [ˌkɑːdiəʊˈvæskjələ(r) dɪˈziːz] 
+
+[noun phra] "a disease of the heart or blood vessels"
+
+
+
+11.dilate /daɪˈleɪt/
+
+[v] The lungs dilate in breathing.
+
+"to become or to make sth larger, wider or more open"
+
+
+
+12.adjacent  [əˈdʒeɪsnt] 
+
+[adj] {~ (to sth)(of an area, a building, a room, etc. 地区、建筑、房间等)} 
+
+The planes landed on adjacent runways./**Standard Convolution (`dilation=1`):** The kernel elements are adjacent.
+
+"next to or near sth"
+
+Recognizing outstanding work communicating and refining ideas in Machine Learning and adjacent topics.
+
+
+
+13.plunge [plʌndʒ]
+
+[noun] Despite the country`s stellar trade report, the Kospi fell 1.41 percent to 3,025.52 on Friday morning due to a plunge in U.S. peers."a sudden movement downwards or away from sth"
+
+[verb] She lost her balance and plunged 100 feet to her death.
+
+"to move or make sb/sth move suddenly forwards and/or downwards"
+
+[verb] Squid Game crypto plunges to $0 after scammers steal million of dollars from investors. 
+
+"to decrease suddenly and quickly" -plummet-
+
+[verb] Ice Bucket Face Plunge. 
+
+"If something or someone plunges in a particular direction, especially into water, they fall, rush, or throw themselves in that direction."
+
+
+
+14.intravenous /ˌɪntrəˈviːnəs/
+
+[adj] intravenous therapy.
+
+"going into a vein"
+
+
+
+#### 02/26.01
+
+01.inflammation /ˌɪnfləˈmeɪʃn/
+
+[n] The best fruits for fighting inflammation are berries (blueberries, strawberries, raspberries, blackberries), tart cherries, grapes, citrus fruits (oranges, grapefruit), and pineapples. These are high in antioxidants like anthocyanins, vitamin C, and polyphenols, which reduce inflammation, pain, and oxidative stress.
+
+"a condition in which a part of the body becomes red, sore and swollen because of infection or injury"
+
+
+
+#### 02/27.03
+
+01.paddy /ˈpædi/
+
+[n] Korea's total arable land dropped for the 13th consecutive year in 2025, as rice paddies continued to shrink amid declining rice consumption, government data showed Friday.
+
+"a field in which rice is grown"
+
+
+
+02.stapler [ˈsteɪplə(r)]
+
+[noun] "a small device used for putting staples into paper, etc."
+
+
+
+03.staple  [ˈsteɪpl] 
+
+[adj] The staple crop is rice./Arable land in Asia's fourth-largest economy has been declining since 2013, largely due to falling rice consumption. Rice has traditionally been a staple food for Koreans. 
+
+"forming a basic, large or important part of sth"
+
+[noun] "a small piece of wire that is used in a device called a stapler and is pushed through pieces of paper and bent over at the ends in order to fasten the pieces of paper together"
+
+[verb] Staple the invoice to the receipt. "to attach one thing to another using a staple or staples"
+
+
+
+#### 03/01.01
+
+01.doom /duːm/
+
+[v] The plan was doomed to failure .
+
+"to make sb/sth certain to fail, suffer, die, etc."
+
+[n] to meet your doom.
+
+"death or destruction; any terrible event that you cannot avoid"
+
+
+
+#### 03/03.01
+
+01.solicit /səˈlɪsɪt/
+
+[v] A YouTuber tried to visit a random home gym and got the response: 'There is no soliciting.
+
+To solicit potential authors and reviewers through colleagues and peers.
+
+"to ask sb for sth, such as support, money, or information; to try to get sth or persuade sb to do sth"
+
+
+
+#### 03/04.02
+
+01.escort /ˈeskɔːrt /[noun]   /ɪˈskɔːrt/ [verb]
+
+[v] Students in parts of the campus are continuing to be told to shelter in place until police can escort them out of the area.
+
+"to go with sb to protect or guard them or to show them the way"
+
+[n] Iran war live updates: Trump says U.S. to offer insurance for Gulf shipping and escort tankers.
+
+"a person or group of people or vehicles that travels with sb/sth in order to protect or guard them"
+
+
+
+02.tanker /ˈtæŋkər/
+
+[n] an oil tanker.
+
+"a ship or lorry/truck that carries oil, gas or petrol/gas in large quantities"
+
+
+
+#### 03/05.03
+
+01.debt /det/
+
+[n] I need to pay off all my debts before I leave the country. 
+
+"a sum of money that sb owes"
+
+[n] He died heavily in debt ."the situation of owing money, especially when you cannot pay"
+
+[n] to owe a debt of gratitude to sb. 
+
+"the fact that you should feel grateful to sb because they have helped you or been kind to you"
+
+
+
+02.indebted /ɪnˈdetɪd/
+
+[adj] Ranked: The World’s Most Indebted Countries Today.
+
+"owing money to other countries or organizations"
+
+
+
+03.indebtedness /ɪnˈdetɪdnəs/
+
+[n] I wish to express my **indebtedness to** my parents for all they have done.
+
+"the feeling of owing gratitude for a service or favor."
+
+
+
+#### 03/08.02
+
+01.neglect /nɪˈɡlekt/
+
+[v] She denies neglecting her baby.
+
+"to fail to take care of sb/sth"
+
+[v] Dance has been neglected by television./This method treats ECG signals as ordinary time series signals, thus neglecting the unique heartbeat and rhythmic features inherent in ECG signals.
+
+"to not give enough attention to sth"
+
+[n] ~ (of sth/sb) The law imposes penalties for the **neglect of children**. 
+
+"the fact of not giving enough care or attention to sth/sb; the state of not receiving enough care or attention"
+
+
+
+neglect vs ignore
+
+疏忽VS无视
+
+> There is a slight difference, ignore is used when it's on purpose:  
+>
+> "She was mad at him, so she ignored him for 2 hours."  
+>
+> Neglect is used when someone has forgotten or is being careless:  
+>
+> "He neglected his plants, so they were beginning to dry up."
+
+
+
+02.reservoir /ˈrezərvwɑːr/
+
+[n] "a natural or artificial lake where water is stored before it is taken by pipes to houses, etc."
+
+
+
+#### 03/09.01
+
+01.rage [reɪdʒ]
+
+[noun] His face was dark with rage. /Son of Iran's late supreme leader is chosen to replace his father as war rages.
+
+"a feeling of violent anger that is difficult to control"
+
+[noun] a case of trolley rage in the supermarket.
+
+"anger and violent behaviour caused by a particular situation"
+
+[idiom phrase] be all the rage. "to be very popular and fashionable"
+
+[verb] {~ (at/against/about sb/sth)}  He raged against the injustice of it all. "to show that you are very angry about sth or with sb, especially by shouting" -rail-
+
+[verb] {of a storm, a battle, an argument, etc. }  The riots raged for three days. "to continue in a violent way"
+
+
+
+#### 03/10.01
+
+01.shield /ʃiːld/
+
+[v] Because SKKU is part of the ACM OPEN network, you are shielded from the standard APC fees that authors from non-participating institutions are now required to pay.
+
+"to protect sb/sth from danger, harm or sth unpleasant"
+
+[n] The gunman used the hostages as a human shield .
+
+"a person or thing used to protect sb/sth, especially by forming a barrier"
+
+
+
+#### 03/11.03
+
+01.steep [stiːp] 
+
+[adj] a steep hill/slope[sləʊp]/bank [bæŋk] . "rising or falling quickly, not gradually" 
+
+[adj] a steep decline in the birth rate. "sudden and very big"-sharp-
+
+[adj] {of a price or demand} £2 for a cup of coffee seems a little steep to me. 
+
+"too much; unreasonable"
+
+D[adv] a steeply sloping roof.
+
+D[noun] steepness.
+
+[idiom] **be steeped in sth**. "to have a lot of a particular quality"
+
+[verb phrase] **steep yourself in sth** They spent a month steeping themselves in Chinese culture./It's a drink made by steeping pineapple rind in water.
+
+"to spend a lot of time thinking or learning about sth"
+
+
+
+02.steadfastness /ˈstedˌfas(t)nəs/
+
+[n] no side wins without steadfastness in the face of adversity.
+
+"the quality of being resolutely or dutifully firm and unwavering."
+
+
+
+03.adversity /ədˈvɜːrsəti/
+
+[n] courage in the face of adversity. "a difficult or unpleasant situation"
+
+
+
+#### 03/12.02
+
+01.imitation [ˌɪmɪˈteɪʃn]
+
+[n] a poor/cheap imitation of the real thing."a copy of sth, especially sth expensive"
+
+[n] A child learns to talk by imitation./Imitation Learning (IL) trains agents by mimicking expert demonstrations, making it fast and effective for complex tasks with available data. Reinforcement Learning (RL) uses trial-and-error to maximize rewards, often requiring extensive exploration.
+
+"the act of copying sb/sth"
+
+
+
+02.scant /skænt/
+
+[adj] China unveils plans to boost spending - but details are scant.
+
+"hardly any; not very much and not as much as there should be"
+
+
+
+#### 03/15.05
+
+01.consortium /kənˈsɔːrtiəm/
+
+[n] **Consortium Participants:** Students who submit to and are accepted into the Ph.D. Consortium or the Undergraduate and Master’s Consortium also receive waived registration in exchange for volunteering.
+
+"a group of people, countries, companies, etc. who are working together on a particular project"
+
+
+
+02.radiology  /ˌreɪdiˈɑːlədʒi/
+
+[n] The database also contains 2,321,355 deidentified radiology reports for 237,427 patients.
+
+"the study and use of different types of radiation in medicine, for example to treat diseases"
+
+
+
+03.deidentified 
+
+[adj] "De-identified data is information that has been stripped of personally identifiable information (PII)—such as names, addresses, or IDs—so the data subject can no longer be identified. "
+
+
+
+04.initial /ɪˈnɪʃl/
+
+[adj] an initial payment of £60 and ten instalments of £25.
+
+"happening at the beginning; first"
+
+[n] Please type your initials exactly as: HJ.
+
+"the first letters of all of a person's names"
+
+[v] Please initial each page and sign in the space provided.
+
+"to mark or sign sth with your initials"
+
+
+
+05.because vs since vs as
+
+[Because](https://www.google.com/search?q=Because&newwindow=1&sca_esv=bfcea4c01dbd2280&sxsrf=ANbL-n66UdJVjADxnQxRAyBi8Ggb6RZiBA%3A1773555250971&source=hp&ei=Mk62afa_Ocja2roPjdGwkAc&iflsig=AFdpzrgAAAAAabZcQisgmnlwGLh7OhDInO_RaDZVm2JC&oq=because+vs+since+vs+&gs_lp=Egdnd3Mtd2l6IhRiZWNhdXNlIHZzIHNpbmNlIHZzICoCCAAyCBAAGIAEGMsBMgQQABgeMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FSMFOUJkFWKdJcAV4AJABAJgBqQGgAZAXqgEEMC4yNLgBA8gBAPgBAZgCHaAC7ReoAgrCAgcQIxgnGOoCwgIMECMYgAQYExgnGIoFwgIKECMY8AUYJxieBsICChAjGIAEGCcYigXCAgUQABiABMICCxAuGIAEGNEDGMcBwgIFEC4YgATCAggQLhiABBjLAcICChAAGIAEGAoYywHCAgYQABgKGB7CAgYQABgIGB7CAgYQABgFGB7CAgYQABgMGB6YAwXxBQyqCYcxNMVkkgcENS4yNKAH54oBsgcEMC4yNLgH2RfCBwcxLjE4LjEwyAdFgAgA&sclient=gws-wiz&ved=2ahUKEwjW3Y6boKGTAxW6gVYBHW4NCZ4QgK4QegQIARAB), [since](https://www.google.com/search?q=since&newwindow=1&sca_esv=bfcea4c01dbd2280&sxsrf=ANbL-n66UdJVjADxnQxRAyBi8Ggb6RZiBA%3A1773555250971&source=hp&ei=Mk62afa_Ocja2roPjdGwkAc&iflsig=AFdpzrgAAAAAabZcQisgmnlwGLh7OhDInO_RaDZVm2JC&oq=because+vs+since+vs+&gs_lp=Egdnd3Mtd2l6IhRiZWNhdXNlIHZzIHNpbmNlIHZzICoCCAAyCBAAGIAEGMsBMgQQABgeMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FSMFOUJkFWKdJcAV4AJABAJgBqQGgAZAXqgEEMC4yNLgBA8gBAPgBAZgCHaAC7ReoAgrCAgcQIxgnGOoCwgIMECMYgAQYExgnGIoFwgIKECMY8AUYJxieBsICChAjGIAEGCcYigXCAgUQABiABMICCxAuGIAEGNEDGMcBwgIFEC4YgATCAggQLhiABBjLAcICChAAGIAEGAoYywHCAgYQABgKGB7CAgYQABgIGB7CAgYQABgFGB7CAgYQABgMGB6YAwXxBQyqCYcxNMVkkgcENS4yNKAH54oBsgcEMC4yNLgH2RfCBwcxLjE4LjEwyAdFgAgA&sclient=gws-wiz&ved=2ahUKEwjW3Y6boKGTAxW6gVYBHW4NCZ4QgK4QegQIARAC), and [as](https://www.google.com/search?q=as&newwindow=1&sca_esv=bfcea4c01dbd2280&sxsrf=ANbL-n66UdJVjADxnQxRAyBi8Ggb6RZiBA%3A1773555250971&source=hp&ei=Mk62afa_Ocja2roPjdGwkAc&iflsig=AFdpzrgAAAAAabZcQisgmnlwGLh7OhDInO_RaDZVm2JC&oq=because+vs+since+vs+&gs_lp=Egdnd3Mtd2l6IhRiZWNhdXNlIHZzIHNpbmNlIHZzICoCCAAyCBAAGIAEGMsBMgQQABgeMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FSMFOUJkFWKdJcAV4AJABAJgBqQGgAZAXqgEEMC4yNLgBA8gBAPgBAZgCHaAC7ReoAgrCAgcQIxgnGOoCwgIMECMYgAQYExgnGIoFwgIKECMY8AUYJxieBsICChAjGIAEGCcYigXCAgUQABiABMICCxAuGIAEGNEDGMcBwgIFEC4YgATCAggQLhiABBjLAcICChAAGIAEGAoYywHCAgYQABgKGB7CAgYQABgIGB7CAgYQABgFGB7CAgYQABgMGB6YAwXxBQyqCYcxNMVkkgcENS4yNKAH54oBsgcEMC4yNLgH2RfCBwcxLjE4LjEwyAdFgAgA&sclient=gws-wiz&ved=2ahUKEwjW3Y6boKGTAxW6gVYBHW4NCZ4QgK4QegQIARAD) all explain reasons, but differ in emphasis. **Because** highlights the direct cause. **Since** and **as** are more formal, often used when the reason is already known or less important than the result. *Because* answers "why," while *since/as* are better for setting the scene.
+
+ 
+
+**Key Differences:**
+
+- **Because (The Core Reason):** Use when the reason is the most important part of the sentence or to answer a "why" question directly. It provides the strongest, most direct causal link.
+  - *Example:* I am calling **because** I need help.
+- **Since (The Known Reason):** Used when the reason is already known or secondary to the main point (the result). It implies a combination of cause and time.
+  - *Example:* **Since** we have no dessert, we’ll have to skip it.
+- **As (The Contextual Reason):** Similar to *since*, but often even weaker in causal force and more formal. It sets the context or background.
+  - *Example:* **As** it was getting late, we decided to leave. 
+
+**Usage Tips:**
+
+- **Because** can stand alone as a sentence fragment in informal contexts ("Why? Because."). *Since* and *as* cannot.
+- **Since** can be ambiguous, as it often refers to time ("Since I woke up..."). Only use it for causation if the context is clear.
+- **As** can also mean "while" or "when" (referring to time).
+
+**Summary Table:**
+
+| Word        | Focus              | Formality | Usage                     |
+| :---------- | :----------------- | :-------- | :------------------------ |
+| **Because** | Direct Cause       | Common    | High, answers "Why?"      |
+| **Since**   | Result/Context     | Moderate  | Reasons known to listener |
+| **As**      | Context/Background | Formal    | Subordinate, soft reason  |
+
+
+
+#### 03/16.01
+
+01.fabricate  /ˈfæbrɪkeɪt/
+
+[v] The evidence was totally fabricated.
+
+"to invent false information in order to trick people"
+
+
+
+#### 03/19.05
+
+01.regimen   [ˈredʒɪmən]
+
+[noun]  It's always a good idea to ask your doctor if it is safe for you to take supplements as part of your fitness regimen.  
+
+"a set of rules about food and exercise or medical treatment that you follow in order to stay healthy or to improve your health"
+
+
+
+02.regime /reɪˈʒiːm/
+
+[n] US intelligence chief says Iran's regime 'intact' but 'degraded'.
+
+"a method or system of government, especially one that has not been elected in a fair way"
+
+
+
+03.intact /ɪnˈtækt/
+
+[adj] Most of the house remains intact even after two hundred years..
+
+"complete and not damaged"
+
+
+
+04.competence /ˈkɑːmpɪtəns/
+
+[n] send me proof of your competency/experience. 
+
+"a skill that you need in a particular job or for a particular task"
+
+
+
+05.incompetence  [ɪnˈkɒmpɪtəns] 
+
+[noun] professional incompetence.
+
+"the lack of skill or ability to do your job or a task as it should be done"
+
+
+
+#### 03/20
+
+01.hold off /hoʊld ɔːf/
+
+[verb] Netanyahu agrees to 'hold off' attacks on Iranian gas fields after Trump request.
+
+"If you hold off doing something, you delay doing it or delay making a decision about it."
+
+
+
+02.postpone [pəˈspəʊn] [poʊˈspoʊn] 
+
+[verb] {~ sth (to/until sth)} The game has already been postponed three times. "to arrange for an event, etc. to take place at a later time or date" -put off-
+
+D[noun] Riots [ˈraɪəts]  led to the postponement  [pəˈspəʊnmənt]  of local elections.
+
+[tip] "更加偏向主观的推迟"
+
+
+
+03.delay  [dɪˈleɪ]
+
+[noun] Commuters will face long delays on the roads today."a period of time when sb/sth has to wait because of a problem that makes sth slow or late"
+
+[noun] There's no time for delay."a situation in which sth does not happen when it should; the act of delaying"
+
+[verb] The judge will delay his verdict until he receives medical reports on the offender.
+
+"to not do sth until a later time or to make sth happen at a later time" -defer-
+
+[verb] Thousands of commuters were delayed for over an hour."to make sb late or force them to do sth more slowly" -hold up-
+
+[tip] "往往表示不是主观意念造成的，是由客观环境造成的"
+
+
+
+04.defer /dɪˈfɜːr/
+
+[v] Also, if existing companies sell real estate elsewhere and buy property inside the ODZs for relocation, income tax and corporate tax on the capital gains from the relevant real estate transactions will be deferred until the property sale.
+
+"to delay sth until a later time" -put off-
+
+
+
+05.put off [pʊt ɒf] 
+
+[phrase] Women who put off having a baby often make the best mothers... "If you **put** something **off**, you delay doing it."
+
+[phrase] The old priest [priːst] tried to put them off, saying that the hour was late. "If you **put** someone **off**, you make them wait for something that they want."
+
+
+
+> In summary, "defer" is often used in more formal or respectful situations, "postpone" is a general term for delaying something, and "put off" suggests a delay caused by reluctance or procrastination. However, in everyday conversation, these words can often be used interchangeably to convey the idea of delaying or rescheduling something to a later time.
+
+| **Word**     | **Formality**  | **Primary Reason for Waiting**                               |
+| ------------ | -------------- | ------------------------------------------------------------ |
+| **Put off**  | Informal       | Avoidance, casual rescheduling, procrastination.             |
+| **Postpone** | Formal/Neutral | Official rescheduling to a new time.                         |
+| **Delay**    | Neutral        | Often external forces making something late, or waiting to fix a problem. |
+| **Hold off** | Neutral        | Waiting strategically for more information or a better moment. |
+| **Defer**    | Very Formal    | Administrative or financial postponement (admissions, loans, taxes). |
+
+
+
+06.mutton vs lamb
+
+| **Feature**  | **Lamb**        | **Mutton**     |
+| ------------ | --------------- | -------------- |
+| **Age**      | Under 1 year    | Over 1 year    |
+| **Taste**    | Mild            | Strong / Gamey |
+| **Texture**  | Tender          | Tough          |
+| **Best For** | Quick high heat | Slow low heat  |
+
+
+
+07.gamey /ˈɡeɪmi/ =gamy
+
+[adj] "(of meat) having the strong flavor or smell of game, especially when it is slightly tainted."
+
+
+
+08.braise /breɪz/
+
+[v] Yes, you can eat the meat of a 9-year-old sheep, which is classified as mutton, though it will be tougher and have a much stronger, more intense flavor than younger lamb. It is perfectly safe to eat but requires long, slow cooking methods like stews, braising, or curries to tenderize the meat.
+
+"to cook meat or vegetables very slowly with a little liquid in a closed container"
+
+
+
+Braising and stewing are both slow-cooking methods using moist heat. They both transform tough cuts of meat into tender dishes. The main differences lie in the **size of the meat and the amount of liquid used****.
+
+Braising
+
+Braising is typically used for large cuts of meat like a whole roast or chicken quarters. The meat is usually seared first at a high temperature. Then it is placed in a pot with a small amount of liquid. The liquid only partially covers the meat. The pot is covered tightly and cooks slowly over low heat.
+
+Stewing
+
+Stewing is used for smaller uniform pieces of meat. The meat is completely submerged in liquid. The mixture simmers slowly in a covered pot. This process creates a rich gravy from the cooking liquid.
+
+Key Differences
+
+| **Feature**      | **Braising**                          | **Stewing**                  |
+| ---------------- | ------------------------------------- | ---------------------------- |
+| **Meat Size**    | Large whole cuts                      | Small bite-sized pieces      |
+| **Liquid Level** | Partially submerged                   | Fully submerged              |
+| **End Result**   | Tender meat with a concentrated sauce | Tender meat in a thick gravy |
 
