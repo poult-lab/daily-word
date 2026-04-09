@@ -450,9 +450,15 @@ fiddle about/around
 
 23.stack [stæk]
 
-"一叠，一摞，一堆"
+[n] a stack of books.
 
+"a pile of sth, usually neatly arranged"
 
+[n] "a way of storing information in a computer in which the most recently stored item is the first to be retrieved (= found or got back)"
+
+[v] "to arrange objects neatly in a pile; to be arranged in this way"
+
+ 
 
 24.bundle /ˈbʌndl/
 
@@ -1435,7 +1441,7 @@ D[noun] I am seeking clarification [ˌklærəfɪˈkeɪʃn] of the regulations.
 
 
 
-#### 2020/01/11.29
+#### 2020/01/11.28
 
 01...(Cartel Incorporated)  
 //ADJ (用于公司名称后)组成公司的，股份有限的
@@ -1599,15 +1605,11 @@ Why don't you shove up so that Brian can sit next to you? "to move in order to m
 
 
 
-16.oblige [əˈblaɪdʒ]
+16.smuggler  [ˈsmʌɡlə(r)] 
 
-[v] Parents are obliged by law to send their children to school./Additionally, businesses seeking to use outdoor autonomous driving robots are obliged to have insurance coverage.
+[noun] The smuggler was finally obliged to **inform against** his boss. 
 
-"to force sb to do sth, by law, because it is a duty, etc."
-
-[v] {~ sb (by doing sth) | ~ sb (with sth)} Call me if you need any help─I'd be happy to oblige .
-
-"to help sb by doing what they ask or what you know they want"
+"a person who takes goods into or out of a country illegally"
 
 
 
@@ -1742,18 +1744,6 @@ Why don't you shove up so that Brian can sit next to you? "to move in order to m
 "a means of getting or achieving sth"
 
 [noun] "a device that connects two computer networks that cannot be connected in any other way"
-
-
-
-29.smuggler  [ˈsmʌɡlə(r)] 
-
-[noun] The smuggler was finally obliged to **inform against** his boss. 
-
-"a person who takes goods into or out of a country illegally"
-
-
-
-
 
 
 
@@ -6082,12 +6072,6 @@ D[adv]  The two polls produced strikingly different results.
 
 
 
-09.metaphor /ˈmetəfər/
-
-[n] the writer's striking use of metaphor
-
-"a word or phrase used to describe sb/sth else, in a way that is different from its normal use, in order to show that the two things have the same qualities and to make the description more powerful, for example She has a heart of stone ; the use of such words and phrases"
-
 
 
 10.dramatic  [drəˈmætɪk]
@@ -7472,7 +7456,7 @@ So, while all four words describe something that is important, crucial implies t
 
 
 
-#### 2020/07/26.12
+#### 2020/07/26.10
 
 01.declarative [dɪˈklærətɪv] 
 
@@ -7522,7 +7506,29 @@ D[noun] total/temporary/partial blindness.
 
 
 
+05.tumble [ˈtʌmbl]
 
+[verb] He slipped and tumbled down the stairs.
+
+"to fall downwards, often hitting the ground several times, but usually without serious injury; to make sb/sth fall in this way"
+
+[noun] The jockey took a nasty tumble at the third fence. "a sudden fall"
+
+
+
+06.tumble  [ˈtʌmbl] 
+
+[verb] He slipped and tumbled down the stairs.
+
+"to fall downwards, often hitting the ground several times, but usually without serious injury; to make sb/sth fall in this way"
+
+[verb] Korea’s Sept. auto exports tumble 20%, snapping 8-month growth streak. 
+
+"to fall rapidly in value or amount"
+
+[noun] a sudden fall. 
+
+"The jockey took a nasty tumble at the third fence."
 
 
 
@@ -7554,35 +7560,7 @@ D[noun] total/temporary/partial blindness.
 
 
 
-11.tumble [ˈtʌmbl]
-
-[verb] He slipped and tumbled down the stairs.
-
-"to fall downwards, often hitting the ground several times, but usually without serious injury; to make sb/sth fall in this way"
-
-[noun] The jockey took a nasty tumble at the third fence. "a sudden fall"
-
-
-
-12.tumble  [ˈtʌmbl] 
-
-[verb] He slipped and tumbled down the stairs.
-
-"to fall downwards, often hitting the ground several times, but usually without serious injury; to make sb/sth fall in this way"
-
-[verb] Korea’s Sept. auto exports tumble 20%, snapping 8-month growth streak. 
-
-"to fall rapidly in value or amount"
-
-[noun] a sudden fall. 
-
-"The jockey took a nasty tumble at the third fence."
-
-
-
-#### 2020/07/27.02
-
-
+#### 2020/07/27.03
 
 01.coriander [ˌkɒriˈændə(r)] "香菜"
 
@@ -7598,7 +7576,7 @@ D[noun] total/temporary/partial blindness.
 
 
 
-#### 2020/07/29.03
+#### 2020/07/29.02
 
 01.residual  [rɪˈzɪdjuəl] 
 
@@ -7606,11 +7584,7 @@ D[noun] total/temporary/partial blindness.
 
 
 
-
-
-
-
-03.prominent  [ˈprɒmɪnənt]  [ˈprɑːmɪnənt] 
+02.prominent  [ˈprɒmɪnənt]  [ˈprɑːmɪnənt] 
 
 [adj] a prominent politician. "important or well known"
 
@@ -7702,7 +7676,7 @@ D[noun] total/temporary/partial blindness.
 
 
 
-#### 2020/07/31.10
+#### 2020/07/31.09
 
 01.internal organs  [ɪnˈtɜːnl ˈɔːgənz]
 
@@ -7710,7 +7684,11 @@ D[noun] total/temporary/partial blindness.
 
 
 
+02.spleen /spliːn/
 
+[n] The spleen **controls the level of white blood cells, red blood cells and platelets** (small cells that form blood clots). 
+
+"a small organ near the stomach that controls the quality of the blood cells" 
 
 
 
@@ -7763,20 +7741,6 @@ D[noun] total/temporary/partial blindness.
 [n] Lung cells die and are replaced about once a week. 
 
 "either of the two organs in the chest that you use for breathing"
-
-
-
-10.spleen /spliːn/
-
-[n] The spleen **controls the level of white blood cells, red blood cells and platelets** (small cells that form blood clots). 
-
-"a small organ near the stomach that controls the quality of the blood cells" 
-
-
-
-
-
-
 
 
 
@@ -11354,7 +11318,7 @@ dominant hand vs non-dominant hand
 
 
 
-#### 2020/09/29.08
+#### 2020/09/29.06
 
 01.rare [reə(r)]
 
@@ -11400,15 +11364,7 @@ dominant hand vs non-dominant hand
 
 
 
-05.seize  [siːz]
-
-[verb] {~ sth (from sb)} She tried to seize the gun from him. "to take sb/sth in your hand suddenly and using force" -grab-
-
-[verb] {~ sth (from sb)} They seized the airport in a surprise attack. "to take control of a place or situation, often suddenly and violently"
-
-
-
-06.occurrence /əˈkʌrəns/ /əˈkɜːrəns/
+05.occurrence /əˈkʌrəns/ /əˈkɜːrəns/
 
 [n] a common/everyday/frequent/regular occurrence. 
 
@@ -11420,7 +11376,7 @@ dominant hand vs non-dominant hand
 
 
 
-07.worchip /ˈwɜːrʃɪp/
+06.worchip /ˈwɜːrʃɪp/
 
 [n] morning worship (= a church service in the morning) .
 
@@ -14970,7 +14926,7 @@ an ingenious device
 
 
 
-#### 2020/11/06.09
+#### 2020/11/06.08
 
 01.inferior  [ɪnˈfɪəriə(r)]
 
@@ -15004,21 +14960,19 @@ an ingenious device
 
 
 
-04.intent [ɪnˈtent]
+04.irregular  [ɪˈreɡjələ(r)]
 
-[adj] an intent gaze/look. "showing strong interest and attention"
+[adj] irregular teeth. "not arranged in an even way; not having an even, smooth pattern or shape" 
 
-[adj] {~ on/upon sth | ~ on/upon doing sth} They were intent on murder. "determined to do sth, especially sth that will harm other people"
+-uneven-
 
-[adj] {~ on/upon sth} I was so intent on my work that I didn't notice the time.
+[adj] irregular meals. "not happening at times that are at an equal distance from each other; not happening regularly"
 
-"giving all your attention to sth"
+[adj] an irregular practice. "not normal; not according to the usual rules" -abnormal-
 
-[noun] {~ (to do sth)}She denies possessing the drug with intent to supply. "what you intend to do"
+[adj] an irregular verb."not formed in the normal way"
 
 
-
-> Intention and intent are synonyms, but with a subtle difference. **Intention implies a general desire or plan to accomplish something, while intent is a little stronger, indicating a firm resolve to get it done**. Intent can be used as a noun or adjective.
 
 
 
@@ -15053,20 +15007,6 @@ an ingenious device
 [noun] {~ (of/to sth) | ~ (of/to doing sth)} The main drawback to it is the cost. 
 
 "a disadvantage or problem that makes sth a less attractive idea" -disadvantage/snag[snæɡ]-
-
-
-
-09.irregular  [ɪˈreɡjələ(r)]
-
-[adj] irregular teeth. "not arranged in an even way; not having an even, smooth pattern or shape" 
-
--uneven-
-
-[adj] irregular meals. "not happening at times that are at an equal distance from each other; not happening regularly"
-
-[adj] an irregular practice. "not normal; not according to the usual rules" -abnormal-
-
-[adj] an irregular verb."not formed in the normal way"
 
 
 
@@ -20237,7 +20177,7 @@ With youth unemployment at a record, the Communist Party is trying to reset expe
 
 
 
-#### 20210307.12
+#### 20210307.11
 
 01.panic  [ˈpænɪk]
 
@@ -20327,23 +20267,15 @@ D[noun] Embarkation will be at 14:20 hours.
 
 
 
-10.salmon [ˈsæmən]
+10.aquaculture  [ˈækwəkʌltʃə(r)]
 
-[noun] wild and farmed salmon.
-
-"a large fish with silver skin and pink flesh that is used for food. Salmon live in the sea but swim up rivers to lay their eggs."
+[noun] "rearing aquatic animals or cultivating aquatic plants for food"
 
 
 
 11.farmed salmon  [fɑː(r)md ˈsæmən] 
 
 [phrasl]
-
-
-
-12.aquaculture  [ˈækwəkʌltʃə(r)]
-
-[noun] "rearing aquatic animals or cultivating aquatic plants for food"
 
 
 
@@ -23609,7 +23541,7 @@ The City of Taylor in Texas has endorsed an incentive to refund 92.5 percent of 
 
 
 
-#### 20210526.16
+#### 20210526.15
 
 01.stochastic  [stə'kæstɪk] 
 
@@ -23677,11 +23609,9 @@ The interview prompted a backlash in China, which considers self-ruling Taiwan t
 
 
 
-10.strait  [streɪt]
+10.furious  [ˈfjʊəriəs]   [ˈfjʊriəs] 
 
-[noun] The Biden administration is watching for any moves by China to close off the Taiwan Strait, and they would prefer that Nancy Pelosi cancel her planned trip. 
-
-"a narrow passage of water that connects two seas or large areas of water"
+[adj] {~ (with sb) | ~ (at sth/sb) | ~ (that…)} She was absolutely furious at having been deceived. "very angry"
 
 
 
@@ -23725,9 +23655,7 @@ The interview prompted a backlash in China, which considers self-ruling Taiwan t
 
 
 
-16.furious  [ˈfjʊəriəs]   [ˈfjʊriəs] 
 
-[adj] {~ (with sb) | ~ (at sth/sb) | ~ (that…)} She was absolutely furious at having been deceived. "very angry"
 
 
 
@@ -27988,7 +27916,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-#### 2021/11/22.03
+#### 2021/11/22.02
 
 01.wise  [waɪz] 
 
@@ -28004,31 +27932,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-02.bar [bɑː(r)]
-
-[noun] We met at a bar called the Flamingo.
-
-"a place where you can buy and drink alcoholic and other drinks"
-
-[verb] {usually passive} All the doors and windows were barred.
-
-"to close sth with a bar or bars"
-
-[verb] Two police officers were barring her exit.
-
-"to block a road, path, etc. so that nobody can pass"
-
-[verb] SK hynix Inc.’s plan to upgrade its chip making plant in Wuxi, China, has faced a major setback after Washington has barred ASML from shipping EUV to Chinese turf.
-
-"to ban or prevent sb from doing sth"
-
-[prep] The students all attended, bar two who were ill.
-
-"except for sb/sth"
-
-
-
-03.nod [nɒd] [nɑːd] 
+02.nod [nɒd] [nɑːd] 
 
 [verb]  I asked him if he would help me and he nodded.
 
@@ -32543,7 +32447,7 @@ downplay[v]  Why do you persist in blaming yourself for what happened?
 
 'to continue to do sth despite difficulties or opposition, in a way that can seem unreasonable'
 
-[v]  The questioning came after the Chinese platform opened its first customer center in Korea in November 2022 and saw its local customers in Korea surpassing 5 million in number last August. Despite its growing presence in Korea, the counterfeit issue persisted.
+[v]  The questioning came after the Chinese platform opened its first customer center in Korea in November 2022 and saw its local customers in Korea surpassing 5 million in number last August. Despite its growing presence in Korea, the counterfeit issue persisted./Airfares are heavily influenced by high jet fuel costs—which have surged due to the conflict—and reduced flight capacity, which likely means elevated prices will persist for several months, according to experts.
 
 'to continue to exist'
 
@@ -33560,14 +33464,6 @@ dizzy [ˈdɪzi]
 "showing what you really think or feel" -genuine-
 
 [adj] {of a person} She is never completely sincere in what she says about people. "saying only what you really think or feel" -honest-
-
-
-
-11.denounce [dɪˈnaʊns]
-
-[verb] China Denounces Covid Testing Rules Imposed on Its Travelers.
-
-"to strongly criticize sb/sth that you think is wrong, illegal, etc."
 
 
 
@@ -36372,7 +36268,7 @@ These **prejudices** are particularly prevalent among people living in the North
 
 12.audit /ˈɔːdɪt/
 
-[n] an annual audit.
+[n] an annual audit./ *Bachelor of Auditing (drop)*
 
 "an official examination of business and financial records to see that they are true and correct"
 
@@ -42006,9 +41902,9 @@ d[adv]shabbily dressed
 
 07.unwind /ˌʌnˈwaɪnd/ 
 
-[v] He unwound his scarf from his neck.
+[v] He unwound his scarf from his neck./It remains unclear what further action the Chinese government will take in addition to the exit bans on the founders, and whether it will order Meta-Manus to unwind the transaction. 
 
-"to undo sth that has been wrapped into a ball or around sth"
+"to undo sth that has been wrapped into a ball or around sth/"
 
 [v] Music helps me unwind after a busy day.
 
@@ -45864,7 +45760,9 @@ I was thrilled to be invited. /We’re thrilled to bring forward the Apple Healt
 
 [adj] "connected with ships or trade at sea"
 
-[noun] "a soldier who is trained to serve on land or at sea, especially one in the US Marine Corps or the British Royal Marines"
+[noun] Yemen's Houthis enter Iran war with attacks on Israel, while US Marines arrive in region.
+
+"a soldier who is trained to serve on land or at sea, especially one in the US Marine Corps or the British Royal Marines"
 
 
 
@@ -50236,7 +50134,7 @@ D[adj] I felt that life was no longer endurable. -unendurable-
 
 "to make the effect of a fall or hit less severe"
 
-[v] China’s industrial profit growth accelerates in April as Beijing’s **policy measures** cushion tariff impact.
+[v] China’s industrial profit growth accelerates in April as Beijing’s **policy measures** cushion tariff impact./The Ministry of Planning and Budget said the proposal is part of a 26.2 trillion won supplementary budget to cushion households and businesses from rising energy and logistics costs amid the prolonged conflict.
 
 "to protect sb/sth from being hurt or damaged or from the unpleasant effects of sth"
 
@@ -50847,7 +50745,7 @@ So if you rescind a job offer **after it's been accepted**, the law treats it **
 
 06.scrutiny /ˈskruːtəni/
 
-[n]  Her argument doesn't really stand up to scrutiny.
+[n]  Her argument doesn't really stand up to scrutiny./The boom in size and popularity under Radvinsky's ownership also brought scrutiny from lawmakers and regulators over its adult content.
 
 "careful and thorough examination"
 
@@ -51552,7 +51450,7 @@ Livestreaming generated so many sales on Douyin last year that the app surpassed
 
 01.obliterate /əˈblɪtəreɪt/
 
-[vt] "Iran's nuclear enrichment facilities have been completely and totally obliterated," Trump said. "Iran, the bully of the Middle East, must now make peace. If they do not, future attacks would be far greater and a lot easier."
+[vt] "Iran's nuclear enrichment facilities have been completely and totally obliterated," Trump said. "Iran, the bully of the Middle East, must now make peace. If they do not, future attacks would be far greater and a lot easier."/Trump says US will ‘obliterate’ Iran’s power plants if Strait of Hormuz not open before 48-hour deadline.
 
 "to remove all signs of sth, either by destroying or covering it completely"
 
@@ -51619,6 +51517,14 @@ Livestreaming generated so many sales on Douyin last year that the app surpassed
 [v] Reporters constantly badger her about her private life. 
 
 "If you badger someone, you repeatedly tell them to do something or repeatedly ask them questions."
+
+
+
+09.power plant /ˈpaʊər plænt/
+
+[n] Iran warns it will retaliate /rɪˈtælieɪt/ against all US-linked energy infrastructure in the Middle East if its power plants are attacked.
+
+"= power station/an electrical generating station"
 
 
 
@@ -53083,17 +52989,9 @@ to make sb lose respect for himself or herself"
 
 
 
-#### 10/13.02
+#### 10/13.01
 
-01.hiatus [haɪˈeɪtəs]
-
-[noun] After a three-year hiatus due to the COVID-19 pandemic./The latest move came three weeks after China's tourism authorities announced the decision to lift the ban on group tours to South Korea, ending a six-year hiatus caused by frayed relations following the deployment of a U.S. defense system here./ Korean short film fest returns after 4-year hiatus.
-
-"a pause in activity when nothing happens"
-
-
-
-02.fest /fɛst/
+01.fest /fɛst/
 
 [n] an annual food and wine fest.
 
@@ -54805,9 +54703,17 @@ to do sth to another player that is against the rules of the game"
 
 "to ask questions in order to find out secret or hidden information about sb/sth"
 
-[n]  a police probe into the financial affairs of the company. /Police analyzing Yoon's phone records in martial law probe./64 Koreans detained in Cambodia over alleged online scams return home, face probes./G-Dragon opens up about considering retirement after drug probe
+[n]  a police probe into the financial affairs of the company. /Police analyzing Yoon's phone records in martial law probe./64 Koreans detained in Cambodia over alleged online scams return home, face probes./G-Dragon opens up about considering retirement after drug probe./Ofcom ultimately dropped that probe, but it[ fined the firm about £1m](https://www.ofcom.org.uk/online-safety/protecting-children/ofcom-fines-provider-of-onlyfans-1.05-million) for failing to respond accurately to its requests for information about the measures it had in place to check the age of its users, who in theory must be 18 or over.
 
 "a thorough and careful investigation of sth"
+
+| **Term**          | **Primary Focus**                     | **Typical Context**                  |
+| ----------------- | ------------------------------------- | ------------------------------------ |
+| **Investigation** | Gathering evidence to find the truth  | Crimes or formal inquiries           |
+| **Probe**         | Uncovering hidden facts or wrongdoing | Scandals or investigative journalism |
+| **Scrutiny**      | Critical observation for flaws        | Public attention or strict judgment  |
+| **Inspection**    | Checking against official rules       | Safety checks or quality control     |
+| **Examination**   | Assessing condition or knowledge      | Medical visits or academic tests     |
 
 
 
@@ -55180,7 +55086,7 @@ a collision between two trains.
 
 
 
-#### 02/20.03
+#### 02/20.02
 
 01.souvenir  [ˌsuːvəˈnɪə(r)] 
 
@@ -55203,12 +55109,6 @@ a collision between two trains.
 > Souvenir serves as a reminder but with no personal touch. Usually one is presented with a souvenir during a visit to an institution which may be a booklet detailing a short bird’s eye view of the activities of the institution and possibly a memento ( some showpiece item)
 >
 > A memento also serves as a reminder but it has more personal touch typically a gift when you retire from an organisation or some such occasion as a gift item given at marriage ceremony etc. where it has a personal touch
-
-
-
-03.asthma [ˈæsmə] 
-
-"气喘;哮喘" “a medical condition of the chest that makes breathing difficult”
 
 
 
@@ -55919,7 +55819,7 @@ D[noun] steepness.
 
 
 
-#### 03/20
+#### 03/20.08
 
 01.hold off /hoʊld ɔːf/
 
@@ -56026,3 +55926,261 @@ Key Differences
 | **Liquid Level** | Partially submerged                   | Fully submerged              |
 | **End Result**   | Tender meat with a concentrated sauce | Tender meat in a thick gravy |
 
+
+
+#### 03/21.01
+
+01.denounce [dɪˈnaʊns]
+
+[verb] China Denounces Covid Testing Rules Imposed on Its Travelers.
+
+"to strongly criticize sb/sth that you think is wrong, illegal, etc."
+
+[v] Renowned Chinese director Chen Kaige publicly denounced his father, filmmaker Chen Huai'ai, during the Cultural Revolution (1966–1976) when he was a 14-year-old Red Guard.
+
+"to tell the police, the authorities, etc. about sb's illegal political activities"
+
+> denounce vs report
+>
+> [Denounce](https://www.google.com/search?q=Denounce&newwindow=1&sca_esv=f8af17cac5cf6abe&sxsrf=ANbL-n6qjxsSky-_3aQKZmqc30_6U37xHA%3A1774154328723&ei=WHK_abXsK-Db1e8Pm-WCuAw&biw=1858&bih=1614&oq=denounce+vs+repo&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGRlbm91bmNlIHZzIHJlcG8qAggAMgQQABgeMgUQABjvBTIFEAAY7wUyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogRImkhQ6wRY4UFwA3gBkAEAmAH3AaABqw-qAQYwLjEzLjG4AQPIAQD4AQGYAhGgAv8PwgIKEAAYsAMY1gQYR8ICChAjGIAEGCcYigXCAgsQLhiABBjRAxjHAcICBRAAGIAEwgIMECMYgAQYExgnGIoFwgIFEC4YgATCAggQABiABBjLAcICBhAAGAUYHsICBhAAGAgYHpgDAIgGAZAGCpIHBjMuMTMuMaAH2WKyBwYwLjEzLjG4B-8PwgcGMC4zLjE0yAdBgAgA&sclient=gws-wiz-serp&ved=2ahUKEwibqNj92LKTAxX8sVYBHfoIKXcQgK4QegQIARAC) means to publicly condemn or criticize someone/something strongly, focusing on moral disapproval, whereas [report](https://www.google.com/search?q=report&newwindow=1&sca_esv=f8af17cac5cf6abe&sxsrf=ANbL-n6qjxsSky-_3aQKZmqc30_6U37xHA%3A1774154328723&ei=WHK_abXsK-Db1e8Pm-WCuAw&biw=1858&bih=1614&oq=denounce+vs+repo&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGRlbm91bmNlIHZzIHJlcG8qAggAMgQQABgeMgUQABjvBTIFEAAY7wUyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogRImkhQ6wRY4UFwA3gBkAEAmAH3AaABqw-qAQYwLjEzLjG4AQPIAQD4AQGYAhGgAv8PwgIKEAAYsAMY1gQYR8ICChAjGIAEGCcYigXCAgsQLhiABBjRAxjHAcICBRAAGIAEwgIMECMYgAQYExgnGIoFwgIFEC4YgATCAggQABiABBjLAcICBhAAGAUYHsICBhAAGAgYHpgDAIgGAZAGCpIHBjMuMTMuMaAH2WKyBwYwLjEzLjG4B-8PwgcGMC4zLjE0yAdBgAgA&sclient=gws-wiz-serp&ved=2ahUKEwibqNj92LKTAxX8sVYBHfoIKXcQgK4QegQIARAD) refers to informing authorities about an incident or wrongdoing, focusing on factual notification. 
+
+ 
+
+#### 03/22.04
+
+01.duel /ˈdjuːəl/ /ˈduːəl/
+
+[n] He had killed a man in a duel.
+
+"A duel is a formal fight between two people in which they use guns or swords in order to settle a quarrel."
+
+[v] *President Donald Trump and Tehran issuing dueling warnings regarding the Strait of Hormuz.*
+
+"To duel means to fight a duel or be involved in a conflict."
+
+
+
+02.strait  [streɪt]
+
+[noun] The Biden administration is watching for any moves by China to close off the Taiwan Strait, and they would prefer that Nancy Pelosi cancel her planned trip. 
+
+"a narrow passage of water that connects two seas or large areas of water"
+
+
+
+03.hiatus [haɪˈeɪtəs]
+
+[noun] After a three-year hiatus due to the COVID-19 pandemic./The latest move came three weeks after China's tourism authorities announced the decision to lift the ban on group tours to South Korea, ending a six-year hiatus caused by frayed relations following the deployment of a U.S. defense system here./ Korean short film fest returns after 4-year hiatus./ The free concert in Gwanghwamun Square in Seoul on Saturday saw all seven members - Jin, Suga, J-Hope, RM, Jimin, V, and Jung Kook - perform together for the first time since they went on hiatus in 2022, in order to enlist for mandatory military service.
+
+"a pause in activity when nothing happens"
+
+
+
+04.enlist /ɪnˈlɪst/
+
+[v] to enlist as a soldier.
+
+"to join or to make sb join the armed forces" /call up , conscript , draft
+
+
+
+#### 03/23.03
+
+01.initiate /ɪˈnɪʃieɪt , ɪˈnɪʃiət/
+
+[v] We are initiating a high-impact research project for publication in **IEEE Access (Q1, IF: 3.2)**.
+
+"to make sth begin"
+
+
+
+02.intent [ɪnˈtent]
+
+[adj] an intent gaze/look./Trump tells CNBC ‘we are very intent on making a deal’ with Iran. 
+
+"showing strong interest and attention"
+
+[adj] {~ on/upon sth | ~ on/upon doing sth} They were intent on murder. "determined to do sth, especially sth that will harm other people"
+
+[adj] {~ on/upon sth} I was so intent on my work that I didn't notice the time.
+
+"giving all your attention to sth"
+
+[noun] {~ (to do sth)}She denies possessing the drug with intent to supply. "what you intend to do"
+
+
+
+> Intention and intent are synonyms, but with a subtle difference. **Intention implies a general desire or plan to accomplish something, while intent is a little stronger, indicating a firm resolve to get it done**. Intent can be used as a noun or adjective.
+
+
+
+03.worship /ˈwɜːrʃɪp/
+
+[n] Xi Just Can’t Shake GDP Worship.
+
+"a strong feeling of love and respect for sb/sth"
+
+
+
+#### 03/27.01
+
+01.expertise /ˌekspɜːrˈtiːz/
+
+[n] Zelensky visits Saudi Arabia after offering Ukraine's drone expertise.
+
+"expert knowledge or skill in a particular subject, activity or job"
+
+
+
+#### 03/29.05
+
+01.Pentagon /ˈpentəɡɑːn/
+
+[n] "a flat shape with five straight sides and five angles"
+
+[n] The Pentagon is preparing for weeks of ground operations in Iran, the Washington Post reported Saturday, citing U.S. officials. The plans could involve raids by Special Operations and conventional infantry troops, the Post reported. Whether President Donald Trump would approve any of those plans remains uncertain, according to the Post.
+
+"the building near Washington DC that is the headquarters of the US Department of Defence and the military leaders"
+
+
+
+02.infantry /ˈɪnfəntri/
+
+[n] "soldiers who fight on foot"
+
+> - **陆军：** Army
+> - **海军：** Navy
+> - **空军：** Air Force
+> - **海军陆战队：** Marine Corps (缩写: MC) 或 Marines
+> - **陆军 (Army)**：是一个完整的**军种**。它包含了地面作战所需的一切，不仅有战斗人员，还包括医生、厨师、修车的机械师、飞行员（直升机）和会计。
+> - **步兵 (Infantry)**：是陆军中的一个**战斗分支**。他们是专门负责“走路、带枪、近距离与敌作战”的士兵。
+
+
+
+03.shed /ʃed/
+
+[v] The factory is shedding a large number of jobs./Beijing’s surprise intervention on Meta’s Manus rattles tech founders, VCs eyeing ‘China shedding’.
+
+"to get rid of sth that is no longer wanted"
+
+
+
+04.bar [bɑː(r)]
+
+[noun] We met at a bar called the Flamingo.
+
+"a place where you can buy and drink alcoholic and other drinks"
+
+[verb] {usually passive} All the doors and windows were barred.
+
+"to close sth with a bar or bars"
+
+[verb] Two police officers were barring her exit.
+
+"to block a road, path, etc. so that nobody can pass"
+
+[verb] SK hynix Inc.’s plan to upgrade its chip making plant in Wuxi, China, has faced a major setback after Washington has barred ASML from shipping EUV to Chinese turf./The Chinese government started reviewing whether Manus’ sale had violated laws governing technology exports and outbound investment, and barred co-founders Xiao Hong and Ji Yichao from leaving China for Singapore, according to a [Financial Times report](https://www.ft.com/content/d9123d9d-c807-41d6-8a17-80ff1111834a?syn-25a6b1a6=1) earlier this week.
+
+"to ban or prevent sb from doing sth"
+
+[prep] The students all attended, bar two who were ill.
+
+"except for sb/sth"
+
+
+
+05.rat race /ræt reɪs/
+
+[phrase] The influencer Zhang Xuefeng was known for no-nonsense, some said cynical, advice about how to win in China’s educational rat race. He died at 41.
+
+"If you talk about getting out of the rat race, you mean leaving a job or way of life in which people compete aggressively with each other to be successful."
+
+
+
+#### 03/30.03
+
+01.seize  [siːz]
+
+[verb] {~ sth (from sb)} She tried to seize the gun from him./ "to take sb/sth in your hand suddenly and using force" -grab-
+
+[verb] {~ sth (from sb)} They seized the airport in a surprise attack./Trump says he is considering seizing Iran's Kharg Island, as oil price rises. 
+
+"to take control of a place or situation, often suddenly and violently"
+
+
+
+02.asthma [ˈæsmə] 
+
+[n] She was sick with asthma and I went to visist her but you know asthma is nothing bad.
+
+"气喘;哮喘" “a medical condition of the chest that makes breathing difficult”
+
+
+
+03.pneumonia /nuːˈmoʊniə/
+
+[n] My mum was fine, she just had pnemonia she left us within a week and I couldnt even go, this makes me more sad.
+
+"a serious illness affecting one or both lungs that makes breathing difficult"
+
+
+
+#### 04/01.03
+
+01.alphabet soup
+
+[noun] It is completely normal to find this confusing! The jump from standard neural network code to custom attention mechanisms can look like alphabet soup. 
+
+"Alphabet soup is **a metaphor for an abundance of abbreviations or acronyms**."
+
+
+
+02.metaphor /ˈmetəfər/
+
+[n] the writer's striking use of metaphor
+
+"a word or phrase used to describe sb/sth else, in a way that is different from its normal use, in order to show that the two things have the same qualities and to make the description more powerful, for example She has a heart of stone ; the use of such words and phrases"
+
+
+
+03.acronym /ˈækrənɪm/
+
+[n] "a word formed from the first letters of the words that make up the name of sth, for example ‘AIDS’ is an acronym for ‘acquired immune deficiency syndrome’"
+
+
+
+#### 04/02
+
+01.oblige [əˈblaɪdʒ]
+
+[v] Parents are obliged by law to send their children to school./Additionally, businesses seeking to use outdoor autonomous driving robots are obliged to have insurance coverage./However, the journal is notobliged to use the suggested reviewers. Final selectionof reviewers will be determined by the editors.
+
+"to force sb to do sth, by law, because it is a duty, etc."
+
+[v] {~ sb (by doing sth) | ~ sb (with sth)} Call me if you need any help─I'd be happy to oblige .
+
+"to help sb by doing what they ask or what you know they want"
+
+
+
+02.platessa [plaˈtɛs.sa] /European plaice /pleɪs/
+
+[n] [European plaice](https://www.google.com/search?q=European+plaice&newwindow=1&sca_esv=4a0fe2a7222f0b7f&biw=2412&bih=1470&sxsrf=ANbL-n4pBP-XOPVZVptmpSNAWs_oOLNNyQ%3A1775197290587&ei=alzPaYy4I7G60-kPx5H58Aw&oq=pleuronectes+nutrition+&gs_lp=Egxnd3Mtd2l6LXNlcnAiF3BsZXVyb25lY3RlcyBudXRyaXRpb24gKgIIADIFECEYoAFIuB1QhwpYhwpwAXgAkAEAmAGyAaABsgGqAQMwLjG4AQHIAQD4AQGYAgGgArYBmAMAiAYBkgcDMC4xoAe5AbIHAzAuMbgHtgHCBwMwLjHIBwGACAA&sclient=gws-wiz-serp&mstk=AUtExfBr6ODZkv3K4960rVRNx4xZxs-omeeg1NY4vxaCekkxLFW3tmO_beq6Uik42Zsi2nS9ZJibwvCl8tW8QuLTAFRImCqFZY8syABgmsABPolTNlroz6G0qZVNX46xDvwf5xLTmLyyT8oE6nCQUmQn0JPQvNtI2Di43IVS4aIMVyeDBP_4WMZXicuVN5X5ABrYXe56Eg6JULy09_IkIBxu60vdBo_itB3-Y994duVKGJDxMeTqAivdhfefWCPvB5t4O5KyH4oliSAjl2ZysS6nij6U&csui=3&ved=2ahUKEwij_J6shdGTAxXkh1YBHdSLK1kQgK4QegQIARAB) (*Pleuronectes platessa*) is a nutritious, lean white fish, typically providing about 70–80 calories, 15–17g of protein, and only 0.8–1.5g of fat per 100g serving. It is high in essential omega-3 fatty acids (EPA+DHA), taurine, and selenium, making it a healthy low-fat protein source. "a flat sea fish that is used for food"
+
+
+
+03.salmon [ˈsæmən]
+
+[noun] wild and farmed salmon.
+
+"a large fish with silver skin and pink flesh that is used for food. Salmon live in the sea but swim up rivers to lay their eggs."
+
+
+
+#### 04/09
+
+01.hardliner /ˌhɑːrdˈlaɪnər/
+
+[n] Why ceasefire deal with US has unsettled Iran's hardliners.
+
+"The hardliners in a group such as a political party are the people who support a strict, fixed set of ideas that are often extreme, and who refuse to accept any change in them."
