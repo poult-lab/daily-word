@@ -7193,34 +7193,6 @@ sliced meat.
 
 #### 2020/07/14.15
 
-01.cumin /ˈkjuːmɪn/
-
-[n] "the dried seeds of the cumin plant, used in cooking as a spice"
-
-**Benefits of Cumin**
-
-- Source of Vitamins
-- Improves Digestion
-- Good for the Brain
-- Rich in Antioxidants
-- May Help Balance Blood Sugar
-- Relieves Asthma
-- Boosts Immunity
-- Helps Colds
-
-
-
-02.cuminum/cumin [ˈkjuːmɪn]
-
-In summary:
-
-- **Cuminum** is the scientific term for the plant genus.
-- **Cumin** refers to the spice derived from the seeds of *Cuminum cyminum*.
-
-
-
-
-
 03.mechanical [məˈkænɪkl] "机械de"
 
 [adj]
@@ -13813,20 +13785,6 @@ A special bond unites our two countries.
 
 
 
-12.plead [pliːd] 
-
-[verb] {~ (with sb) (for sth)} She pleaded with him not to go. "to ask sb for sth in a very strong and serious way" -beg-
-
-[verb] to plead guilty/not guilty. "to state in court that you are guilty or not guilty of a crime"
-
-[verb] They hired a top lawyer to plead their case. "to present a case to a court"
-
-> **plead generally is used in negative situations, such as legal matters where you are defending your self or beliefs.** **beg is more of a favor for your benefit in a positive setting**. However in general usage probably both would come up.
->
-> Traditionally begging is in regards to money. Homeless people beg for things. Pleading is more like making your case for something. You plead to God or the courts sort of thing.
-
-
-
 13.cube  [kjuːb]
 
 [noun] "a solid or hollow figure with six equal square sides"
@@ -14608,19 +14566,7 @@ an ingenious device
 
 
 
-03.initiative [ɪˈnɪʃətɪv]
-
-[noun] a United Nations peace initiative. 
-
-"a new plan for dealing with a particular problem or for achieving a particular purpose"
-
-[noun] You won't get much help. You'll have to use your initiative. 
-
-"the ability to decide and act on your own without waiting for sb to tell you what to do"
-
-
-
-04.generate [ˈdʒenəreɪt]
+02.generate [ˈdʒenəreɪt]
 
 [verb] to generate electricity/heat/power. "to produce or create sth"
 
@@ -15133,20 +15079,6 @@ contribute/distribute/attribute
 
 
 #### 2020/11/10.04
-
-01.humble  [ˈhʌmbl] 
-
-[adj] Be humble enough to learn from your mistakes.
-
-"showing you do not think that you are as important as other people" -modest-
-
-[adj] In my humble opinion , you were in the wrong.
-
-"used to suggest that you are not as important as other people, but in a way that is not sincere or not very serious"
-
-[verb] He was humbled by her generosity  [ˌdʒenəˈrɒsəti] .
-
-"to make sb feel that they are not as good or important as they thought they were"
 
 
 
@@ -20602,18 +20534,6 @@ immigrant (移民者) immigration (移民的过程; 移民局检查站, 移民�
 12.inn  [ɪn]
 
 [noun] "a small hotel, usually in the country"
-
-
-
-13.resort  [rɪˈzɔː(r)t]
-
-[noun] seaside/ski/mountain, etc. resorts.  "a place where a lot of people go on holiday/vacation""度假村"
-
-[noun] There are hopes that the conflict can be resolved without resort to violence. "the act of using sth, especially sth bad or unpleasant, because nothing else is possible" -recourse-
-
-[n] {the first/last/final ~} Strike action should be regarded as a **last resort** , when all attempts to negotiate have failed.
-
-"the first or last course of action that you should or can take in a particular situation" ""
 
 
 
@@ -29765,28 +29685,6 @@ D[adv] to treat sb leniently.
 
 #### 02/10.09
 
-01.venture [ˈventʃə(r)] 
-
-[noun] A disastrous business venture lost him thousands of dollars.
-
-"a business project or activity, especially one that involves taking risks"
-
-[verb] They ventured nervously into the water.
-
-"to go somewhere even though you know that it might be dangerous or unpleasant"
-
-[verb] She hardly dared to venture an opinion.
-
-"to say or do sth in a careful way, especially because it might upset or offend sb"
-
-[verb] It was wrong to venture his financial security on such a risky deal.
-
-"to risk losing sth valuable or important if you are not successful at sth" -gamble-
-
-[vp] venture capitals "风险投资"
-
-
-
 02.risky  [ˈrɪski]
 
 [adj] Life as an aid worker can be a risky business (= dangerous). "involving the possibility of sth bad happening"
@@ -36739,16 +36637,6 @@ D[adj] tainted drinking water.
 [adj] While makers of A.I. have tended to focus on the technology’s potential for job creation, many workers will experience painful disruption as they try to train for and find new roles that pay well and are fulfilling.
 
 "causing sb to feel satisfied and useful"
-
-
-
-03.upfront /ˌʌpˈfrʌnt/
-
-[adj] He feels that employers have not been entirely upfront with their workers about the ways they are incorporating generative A.I.
-
-"not trying to hide what you think or do" synonym: honest, frank
-
-[adj] There will be an upfront fee of 4%. "paid in advance, before other payments are made"
 
 
 
@@ -50204,6 +50092,10 @@ D[adj] I felt that life was no longer endurable. -unendurable-
 
 "the action of surrounding or closing a place, especially a port, in order to stop people or goods from coming in or out"
 
+[v] Asia markets open lower as oil surges after U.S. moves to blockade Iran ports.
+
+"to surround a place, especially a port, in order to stop people or goods from coming in or out"
+
 
 
 03.a slew /sluː/ of
@@ -53538,6 +53430,10 @@ a dispute between the two countries about the border./Questions also remain abou
 
 "to send sb/sth somewhere, especially for a special purpose"
 
+[v] **48HR REPLACEMENT** If you need to return this item, your replacement will be dispatched within 2 working days of your product arriving back at Scan.
+
+"to send a letter, package or message somewhere"
+
 
 
 02.pledge  [pledʒ] 
@@ -56149,7 +56045,7 @@ Key Differences
 
 
 
-#### 04/02
+#### 04/02.03
 
 01.oblige [əˈblaɪdʒ]
 
@@ -56177,10 +56073,159 @@ Key Differences
 
 
 
-#### 04/09
+#### 04/09.01
 
 01.hardliner /ˌhɑːrdˈlaɪnər/
 
 [n] Why ceasefire deal with US has unsettled Iran's hardliners.
 
 "The hardliners in a group such as a political party are the people who support a strict, fixed set of ideas that are often extreme, and who refuse to accept any change in them."
+
+
+
+#### 04/10.02
+
+01.cumin /ˈkjuːmɪn/
+
+[n] Xinjiang Cumin Lamb Stir Fry.
+
+"the dried seeds of the cumin plant, used in cooking as a spice"
+
+**Benefits of Cumin**
+
+- Source of Vitamins
+- Improves Digestion
+- Good for the Brain
+- Rich in Antioxidants
+- May Help Balance Blood Sugar
+- Relieves Asthma
+- Boosts Immunity
+- Helps Colds
+
+
+
+02.cuminum/cumin [ˈkjuːmɪn]
+
+In summary:
+
+- **Cuminum** is the scientific term for the plant genus.
+- **Cumin** refers to the spice derived from the seeds of *Cuminum cyminum*.
+
+
+
+#### 04/14.06
+
+01.resort  [rɪˈzɔː(r)t]
+
+[noun] seaside/ski/mountain, etc. resorts. /An [all-inclusive resort](https://www.google.com/search?q=all-inclusive+resort&newwindow=1&sca_esv=81ef8ac98c35c5fb&sxsrf=ANbL-n5mdgvhSXZ6mehsYnJaeMU37wb9yQ%3A1776131150702&ei=TpzdaejKKuLd2roPyJaMqAE&biw=3371&bih=1707&ved=2ahUKEwj6lKKenOyTAxWYsFYBHeuIMdUQgK4QegQIARAB&uact=5&oq=All-inclusive+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDkFsbC1pbmNsdXNpdmUgMgwQIxiABBgTGCcYigUyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFI2xRQzgpY3BFwAXgBkAEAmAFzoAGjBKoBAzAuNbgBA8gBAPgBAZgCBqACvATCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcDMS41oAf-GrIHAzAuNbgHuATCBwUwLjEuNcgHFIAIAA&sclient=gws-wiz-serp&mstk=AUtExfChbKGFipgrAv8fDsAdX1O1SqHK5V31fDjU9_rFF6uI6MFC-1zVlpstA8qL2wjOld4A_up2BYh6EsqRnHP8sw8pKmOpH4vOrGLr5HdIGYCuoWkCroPYiDY7bbQPdQgV5tAHyvdEw5957FUkunB73mFqQTGnx5oJ6azAKMsvtwXFGAU9JDmBrtgvnhks5o0JtJEALx7l-wSvsTaf0eDykkzElpG3yyaG49Q45agIBr0w_oABTTKoS7uDPbyEgByDNuIrRV8qOYxwczXvDaLr2_NM&csui=3) offers a vacation package where the upfront price covers lodging, meals, beverages (often alcohol), and on-site activities/entertainment. 
+
+"a place where a lot of people go on holiday/vacation""度假村"
+
+[noun] There are hopes that the conflict can be resolved without resort to violence. "the act of using sth, especially sth bad or unpleasant, because nothing else is possible" -recourse-
+
+[n] {the first/last/final ~} Strike action should be regarded as a **last resort** , when all attempts to negotiate have failed.
+
+"the first or last course of action that you should or can take in a particular situation" ""
+
+
+
+02.upfront /ˌʌpˈfrʌnt/
+
+[adj] He feels that employers have not been entirely upfront with their workers about the ways they are incorporating generative A.I.
+
+"not trying to hide what you think or do" synonym: honest, frank
+
+[adj] There will be an upfront fee of 4%. "paid in advance, before other payments are made"
+
+
+
+03.plead [pliːd] 
+
+[verb] {~ (with sb) (for sth)} She pleaded with him not to go. "to ask sb for sth in a very strong and serious way" -beg-
+
+[verb] to plead guilty/not guilty./ Founder of China's Evergrande pleads guilty to fraud.
+
+"to state in court that you are guilty or not guilty of a crime"
+
+[verb] They hired a top lawyer to plead their case. "to present a case to a court"
+
+> **plead generally is used in negative situations, such as legal matters where you are defending your self or beliefs.** **beg is more of a favor for your benefit in a positive setting**. However in general usage probably both would come up.
+>
+> Traditionally begging is in regards to money. Homeless people beg for things. Pleading is more like making your case for something. You plead to God or the courts sort of thing.
+
+
+
+04.humble  [ˈhʌmbl] 
+
+[adj] Be humble enough to learn from your mistakes.
+
+"showing you do not think that you are as important as other people" -modest-
+
+[adj] In my humble opinion , you were in the wrong.
+
+"used to suggest that you are not as important as other people, but in a way that is not sincere or not very serious"
+
+[adj] Hui, also known as Xu Jiayin, rose from humble beginnings in rural China, where he was raised by his grandmother before **venturing into** property development and setting up Evergrande in 1996.
+
+"having a low rank or social position"
+
+[verb] He was humbled by her generosity  [ˌdʒenəˈrɒsəti] .
+
+"to make sb feel that they are not as good or important as they thought they were"
+
+
+
+05.venture [ˈventʃə(r)] 
+
+[noun] A disastrous business venture lost him thousands of dollars.
+
+"a business project or activity, especially one that involves taking risks"
+
+[verb] They ventured nervously into the water.
+
+"to go somewhere even though you know that it might be dangerous or unpleasant"
+
+[verb] She hardly dared to venture an opinion.
+
+"to say or do sth in a careful way, especially because it might upset or offend sb"
+
+[verb] It was wrong to venture his financial security on such a risky deal.
+
+"to risk losing sth valuable or important if you are not successful at sth" -gamble-
+
+[vp] venture capitals "风险投资"
+
+[vp] venture into/on sth; This is the first time the company has ventured into movie production.
+
+"to do sth, even though it involves risks"
+
+
+
+06.directive /dəˈrektɪv/
+
+[n] After **The rock** said **directive** Chris was like Ryan Reynolds. 
+
+"an official instruction"
+
+
+
+#### 04/15
+
+01.initiative [ɪˈnɪʃətɪv]
+
+[noun] a United Nations peace initiative. 
+
+"a new plan for dealing with a particular problem or for achieving a particular purpose"
+
+[noun] You won't get much help. You'll have to use your initiative. 
+
+"the ability to decide and act on your own without waiting for sb to tell you what to do"
+
+
+
+02.on your own 
+
+[phrae] I have to do things on my own.
+
+"unaccompanied by others; alone or unaided."
+
