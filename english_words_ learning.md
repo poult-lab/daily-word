@@ -20,7 +20,7 @@
 
 "a weapon that is sent through the air and that explodes when it hits the thing that it is aimed at"
 
-
+ 
 
 03.trajectory [trəˈdʒektəri]
 
@@ -5187,18 +5187,6 @@ D[noun] a wince of pain.
 
 
 
-05.protest [ˈprəʊtest , prəˈtest] 
-
-[noun] {~ (against sth)}
-
-The director resigned in protest at the decision.
-
-"the expression of strong disagreement with or opposition to sth; a statement or an action that shows this"
-
-[verb] {~ (about/against/at sth)} Students took to the streets to protest against the decision.
-
-"to say or do sth to show that you disagree with or disapprove of sth, especially publicly"
-
 
 
 06.imprison [ɪmˈprɪzn] 
@@ -8442,7 +8430,7 @@ You solved one problem and another would immediately pop up."If someone or somet
 
 
 
-#### 2020/08/27.04
+#### 2020/08/27.03
 
 01.resurgent [rɪˈsɜːdʒənt]  [rɪˈsɜːrdʒənt] 
 
@@ -8473,20 +8461,6 @@ D[noun] exemption  [ɪɡˈzempʃn]
 [noun] "the fact of being difficult to see through; the fact of being opaque"
 
 [noun] "the fact of being difficult to understand; the fact of being opaque" +transparency+
-
-
-
-04.eliminate  [ɪˈlɪmɪneɪt]
-
-[verb] {~ sth/sb (from sth) } Credit cards eliminate the need to carry a lot of cash. "to remove or get rid of sth/sb"
-
-[verb] All the English teams were eliminated in the early stages of the competition. "to defeat a person or a team so that they no longer take part in a competition, etc." 
-
--knock out-
-
-[verb] Most of the regime's left-wing opponents were eliminated. "to kill sb, especially an enemy or opponent"
-
-D[noun]  the elimination of disease/poverty/crime.
 
 
 
@@ -14216,11 +14190,7 @@ D[noun] "elimination"
 
 
 
-25.starch /stɑːrtʃ/
 
-[n] There's too much starch in your diet.
-
-"a white carbohydrate food substance found in potatoes, flour, rice, etc.; food containing this"
 
 
 
@@ -17148,7 +17118,7 @@ The banks are set to merge next year.
 
 
 
-#### 20210115.01
+#### 20210115.02
 
 01.redemption  [rɪˈdempʃn]
 
@@ -17168,9 +17138,7 @@ The banks are set to merge next year.
 
 
 
-03.commit  [kəˈmɪt]
 
-[verb] to commit murder/adultery , etc. "to do sth wrong or illegal"
 
 
 
@@ -17699,10 +17667,6 @@ D[noun] a period of economic stagnation.
 
 
 
-
-
-
-
 #### 20210121.01
 
 01.portion  [ˈpɔː(r)ʃn] 
@@ -17715,11 +17679,7 @@ D[noun] a period of economic stagnation.
 
 
 
-
-
-
-
-#### 20210126.17
+#### 20210126.15
 
 01.refurbish  [ˌriːˈfɜːbɪʃ]  
 
@@ -17793,25 +17753,17 @@ He had a heart tattooed on his shoulder/His shoulder was tattooed with a heart.
 
 
 
-10.profile [ˈprəʊfaɪl]
+10.seabass / ˈsiˌbæs /
 
-[noun] his strong profile. "the outline of a person's face when you look from the side, not the front"
-
-[noun] a job/employee profile. "a description of sb/sth that gives useful information"
-
-[noun] The deal will certainly raise the company's international profile. "the general impression that sb/sth gives to the public and the amount of attention they receive"
-
-[noun]  the profile of the tower against the sky."the edge or outline of sth that you see against a background"
-
-[verb]His career is profiled in this month's journal. "to give or write a description of sb/sth that gives the most important information"
+[noun] "any of numerous marine fishes of the family Serranidae"
 
 
 
-11.low profile /ˌloʊ ˈproʊfaɪl/
+11.bass [beɪs]
 
-[n] While Xu has kept a low profile in [Asia](https://www.the-sun.com/where/asia/), the [E-commerce](https://www.the-sun.com/topic/ecommerce/) guru ranks among China's most successful entrepreneurs.
+[noun] He always plays his stereo with the bass turned right up. "the lowest tone or part in music, for instruments or voices"
 
-"a state of low visibility in which public notice is avoided"
+[adj] a bass voice. "low in tone"
 
 
 
@@ -17842,24 +17794,6 @@ He had a heart tattooed on his shoulder/His shoulder was tattooed with a heart.
 15.might as well  [maɪt æz wel]
 
 If no one else wants it, we might as well give it to him.
-
-
-
-16.seabass / ˈsiˌbæs /
-
-[noun] "any of numerous marine fishes of the family Serranidae"
-
-
-
-17.bass [beɪs]
-
-[noun] He always plays his stereo with the bass turned right up. "the lowest tone or part in music, for instruments or voices"
-
-[adj] a bass voice. "low in tone"
-
-
-
-
 
 
 
@@ -18664,11 +18598,7 @@ A lamp was suspended from the ceiling."to hang sth from sth else"
 
 #### 20210205.16
 
-01.inception [ɪnˈsepʃn]
 
-[noun] The club has grown rapidly since its inception in 1990.
-
-"the start of an institution, an organization, etc."
 
 
 
@@ -18935,20 +18865,6 @@ The hunt is on for a suitable candidate.
 [verb] {~ (away) (to sth)} dwindling audiences. /The annual number of Chinese travelers visiting Korea stood at 8 million but the figure dwindled by half after the group tour ban.
 
 "to become gradually less or smaller"
-
-
-
-09.linger  [ˈlɪŋɡə(r)] 
-
-[verb] The faint smell of her perfume lingered in the room. "to continue to exist for longer than expected"
-
-[verb] She lingered for a few minutes to talk to Nick."to stay somewhere for longer because you do not want to leave; to spend a long time doing sth"
-
-[verb] {~ (on sb/sth)} His eyes lingered on the diamond ring on her finger.
-
-"to continue to look at sb/sth or think about sth for longer than usual"
-
-[verb] {~ (on)} He lingered on for several months after the heart attack. "to stay alive but become weaker"
 
 
 
@@ -21312,14 +21228,6 @@ D[noun]blind/complete/unquestioning/total obedience.
 
 
 
-03.intimidate  [ɪnˈtɪmɪdeɪt]
-
-[verb] {~ sb (into sth/into doing sth)} Shaq admitted that the only one he couldn't intimidate was Hakeem.
-
-She refused to be intimidated by their threats.
-
-"to frighten or threaten sb so that they will do what you want"
-
 
 
 04.jog  [dʒɒɡ]   [dʒɑːɡ] 
@@ -22419,7 +22327,7 @@ D[adj] frayed denim shorts
 
 
 
-#### 20210423.12
+#### 20210423.13
 
 01.run out of  [rʌn aʊt ɒv]
 
@@ -22427,13 +22335,9 @@ D[adj] frayed denim shorts
 
 
 
-02.intensive care  [ɪnˌtensɪv ˈkeə(r)]
+02.hatch [hætʃ] 
 
-[noun] She needed intensive care for several days. "continuous care and attention, often using special equipment, for people in hospital who are very seriously ill or injured"
-
-[noun] {also intensive care unit [C] (abbr. ICU) } The baby was in intensive care for 48 hours.
-
-"the part of a hospital that provides intensive care"
+[verb] Ten chicks hatched (out) this morning. "to come out of an egg"
 
 
 
@@ -22540,12 +22444,6 @@ D[adv] ‘Why now?’ she wondered hazily.
 [noun] "a place where insects or other small creatures live and produce their young"
 
 [verb] Thousands of seabirds are nesting on the cliffs. "to make and use a nest"
-
-
-
-14.hatch [hætʃ] 
-
-[verb] Ten chicks hatched (out) this morning. "to come out of an egg"
 
 
 
@@ -23826,7 +23724,7 @@ She understood the importance of establishing a close rapport with clients.
 
 
 
-#### 20210602.14
+#### 20210602.13
 
 01.halal  [həˈlæl]
 
@@ -23924,19 +23822,7 @@ They argued for the right to strike.
 
 
 
-13.dispute [dɪˈspjuːt] 
-
-[noun] The dispute ended. But now the electric vehicle market is growing and Elon Musk is also the owner of the electric manufacturer company Tesla in the world and the company claims that it is the best electric car.\
-
-Members of K-pop group NewJeans say they are leaving agency after dispute.
-
-"an argument or a disagreement between two people, groups or countries; discussion about a subject where there is disagreement"
-
-[verb] "to question whether sth is true and valid"
-
-
-
-14.debate /dɪˈbeɪt/
+13.debate /dɪˈbeɪt/
 
 [n] a debate on abortion.
 
@@ -27420,43 +27306,13 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-#### 2021/11/10.05
+#### 2021/11/10.01
 
 01.optimal [ˈɒptɪməl]  [ˈɑːptɪməl] 
 
 [adj] This is considered the most optimal memory solution for 5G, AI and metaverse.
 
 " =optimum" "the best possible; producing the best possible results"
-
-
-
-02.urea  [jʊˈriːə]
-
-[noun] China confirms plan for export process of 18,700 tons of urea for Korea. 
-
-"a clear substance containing nitrogen that is found especially in urine"
-
-
-
-03.nitrogen  [ˈnaɪtrədʒən] 
-
-[noun]  (symb N) "a chemical element. Nitrogen is a gas that is found in large quantities in the earth's atmosphere [ˈætməsfɪə(r)]"
-
-
-
-04.nitrogenous /naɪˈtrɑdʒənəs/
-
-[adj] The human body requires a balanced intake of nitrogenous compounds such as proteins to support healthy growth and repair of tissues.
-
-"of or relating to or containing nitrogen"
-
-
-
-05.urine  [ˈjʊərɪn]  [ˈjʊrɪn] 
-
-[noun] If your urine specimen shows the presence of bacteria, you'll be prescribed antibiotics.
-
-"the waste liquid that collects in the bladder and that you pass from your body"
 
 
 
@@ -28002,15 +27858,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-06.amid [əˈmɪd]
 
-[prep] {formal} He finished his speech amid tremendous applause. 
-
-"in the middle of or during sth, especially sth that causes excitement or fear"
-
-[prep] The hotel was in a beautiful position amid lemon groves. 
-
-"surrounded by sth"
 
 
 
@@ -28388,7 +28236,7 @@ interface/interaction/international.
 
 
 
-#### 2021/12/01.03
+#### 2021/12/01.02
 
 01.flee  [fliː]  fled, fled
 
@@ -28405,30 +28253,6 @@ interface/interaction/international.
 /It's a milestone for the full resumption of the outbound travel, and will also strongly push the resumption of international flights, especially for Japan, Korea.
 
 "the act of beginning sth again after it has stopped"
-
-
-
-03.linger  [ˈlɪŋɡə(r)] 
-
-[vi] The faint smell of her perfume lingered in the room.
-
-"to continue to exist for longer than expected"
-
-[vi] She lingered for a few minutes to talk to Nick. 
-
-"to stay somewhere for longer because you do not want to leave; to spend a long time doing sth"
-
-[vi] His eyes lingered on the diamond ring on her finger.
-
-"to continue to look at sb/sth or think about sth for longer than usual"
-
-[vi] He lingered on for several months after the heart attack. 
-
-"to stay alive but become weaker"
-
-
-
-
 
 
 
@@ -29591,29 +29415,9 @@ My sister and I used to quarrel all the time."to have an angry argument or disag
 
 
 
-#### 01/25.03
+#### 01/25.02
 
-01.lenient  [ˈliːniənt]
-
-[adj] a lenient sentence/fine./The government has considered revising its International Education Quality Assurance System by making it more lenient in terms of the levels students must achieve on the Test of Proficiency in Korean (Topik), for example, by allowing entrants to hold only Level 3 proficiency.
-
- "not as strict as expected when punishing sb or when making sure that rules are obeyed"
-
-D[noun] She appealed to the judge for leniency.
-
-D[adv] to treat sb leniently.
-
-
-
-02.lumbago [lʌmˈbeɪɡəʊ]
-
-[noun] Bruises, sprains, muscular pain, muscular fatigue, lumbago, stiff shoulders, backache.
-
-"pain in the muscles and joints of the lower back"
-
-
-
-03.bruise /bruːz/
+01.bruise /bruːz/
 
 [v] Strawberries bruise easily. 
 
@@ -29622,6 +29426,14 @@ D[adv] to treat sb leniently.
 [n] cuts and bruises
 
 "a blue, brown or purple mark that appears on the skin after sb has fallen, been hit, etc."
+
+
+
+02.lumbago [lʌmˈbeɪɡəʊ]
+
+[noun] Bruises, sprains, muscular pain, muscular fatigue, lumbago, stiff shoulders, backache.
+
+"pain in the muscles and joints of the lower back"
 
 
 
@@ -33487,15 +33299,7 @@ dizzy [ˈdɪzi]
 
 
 
-06.spike /spaɪk/
 
-[v] Popularity of Korean food in U.S. leads to spike in investor immigration
-
-"to rise quickly and reach a high value"
-
-[n] a row of iron spikes on a wall.
-
-"a thin object with a sharp point, especially a pointed piece of metal, wood, etc."
 
 
 
@@ -33987,23 +33791,11 @@ dizzy [ˈdɪzi]
 
 #### 02/09.06
 
-01.demonstration  [ˌdemənˈstreɪʃn] 
+01.falsify /ˈfɔːlsɪfaɪ/
 
-[noun] mass demonstrations in support of the exiled leader.
+[v] "All those who try to falsify history are bound to end up at criminals in history.
 
-"a public meeting or march at which people show that they are protesting against or supporting sb/sth"
-
-[noun] We were given a brief demonstration of the computer's functions.
-
-"an act of showing or explaining how sth works or is done"
-
-[noun] a demonstration of the connection between the two sets of figures.
-
-"an act of giving proof or evidence for sth"
-
-[noun] a public demonstration of affection.
-
-"an act of showing a feeling or an opinion"
+to change a written record or information so that it is no longer true"
 
 
 
@@ -34045,11 +33837,7 @@ dizzy [ˈdɪzi]
 
 
 
-07.falsify /ˈfɔːlsɪfaɪ/
 
-[v] "All those who try to falsify history are bound to end up at criminals in history.
-
-to change a written record or information so that it is no longer true"
 
 
 
@@ -34265,7 +34053,7 @@ to change a written record or information so that it is no longer true"
 
 
 
-#### 02/28.10
+#### 02/28.08
 
 01.let alone [let əˈloʊn]
 
@@ -34285,7 +34073,15 @@ Her income was barely enough to maintain one child, let alone three.
 
 
 
+03.pedestrian [pəˈdestriən]
 
+[noun] They fight coyotes in the city they fight dogs and pedestrians oh wow you can be bitten or you can be beaten by this Beast. "a person walking in the street and not travelling in a vehicle"
+
+
+
+04.Nepal [nəˈpɔl]
+
+[noun] We went trekking in Nepal.
 
 
 
@@ -34324,18 +34120,6 @@ A hazard is usually used to refer to risky situations that are very serious or l
 [verb] It's hard for people to differentiate you know who's the Canadian who's the American.
 
 "to recognize or show that two things are not the same"
-
-
-
-09.pedestrian [pəˈdestriən]
-
-[noun] They fight coyotes in the city they fight dogs and pedestrians oh wow you can be bitten or you can be beaten by this Beast. "a person walking in the street and not travelling in a vehicle"
-
-
-
-10.Nepal [nəˈpɔl]
-
-[noun] We went trekking in Nepal.
 
 
 
@@ -34422,10 +34206,6 @@ D[adj] prerequisite knowledge.
 [noun] toilet requisites (= soap, toothpaste , etc.). /A university degree has become a requisite for entry into most professions.
 
 "something that you need for a particular purpose" 
-
-
-
-
 
 
 
@@ -34519,7 +34299,7 @@ D[adv]  visually exciting.
 
 
 
-#### 03/12.08
+#### 03/12.09
 
 01.hostel  /ˈhɒstl/ [ˈhɑːstl]
 
@@ -35404,7 +35184,7 @@ In summary, "young" simply describes someone who is not old, while "youthful" sp
 
 02.lure /lʊr/
 
-[verb] Korean convenience stores, supermarkets offer big discounts to lure customers./Korean travel industry hopes to lure Chinese tourists after ban lift
+[verb] Korean convenience stores, supermarkets offer big discounts to lure customers./Korean travel industry hopes to lure Chinese tourists after ban lift./ Hong Kong to announce tax break to lure global commodity traders.
 
 "to persuade or trick sb to go somewhere or to do sth by promising them a reward"
 
@@ -37465,25 +37245,9 @@ Growing levels of pollution represent a serious health hazard to the local popul
 
 
 
-#### 06/25.03
+#### 06/25.01
 
-01.amino acid /əˌmiːnoʊ ˈæsɪd/
-
-[n]{chemistry} The basic element of a protein is amino acid. 
-
- "any of the substances that combine to form the basic structure of proteins"
-
-
-
-02.enzyme /ˈenzaɪm/
-
-[n] Enzymes play a crucial role in catalyzing biochemical reactions, facilitating the conversion of complex substrates into simpler products.
-
-"a substance, produced by all living things, which helps a chemical change happen or happen more quickly, without being changed itself"
-
-
-
-03.hormone /ˈhɔːrmoʊn/
+01.hormone /ˈhɔːrmoʊn/
 
 [n] growth hormones.
 
@@ -50223,47 +49987,6 @@ The words **"bloodbath"** and **"massacre"** both describe events involving extr
 
 
 
-05.march /mɑːrtʃ/
-
-[n] protest marches.
-
-"an organized walk by many people from one place to another, in order to protest about sth, or to express their opinions"
-
-
-
-The words **"demonstration"** and **"march"** are closely related but differ in nuance and usage:
-
-------
-
-🔹 **Demonstration**
-
-- **Definition**: A public display of opinion, often a protest, gathering, or rally, organized to express support or opposition to an issue.
-- **Broader term**: Includes speeches, signs, sit-ins, vigils, or marches.
-- **Example**:
-   *“The workers held a demonstration outside the company headquarters.”*
-
-------
-
-🔹 **March**
-
-- **Definition**: A type of demonstration where participants walk together along a route to express their stance.
-- **More specific**: A march is a **form of demonstration**, typically mobile.
-- **Example**:
-   *“Thousands joined the climate march through downtown.”*
-
-------
-
-✅ Summary:
-
-| Term              | Scope    | Nature                      | Example                     |
-| ----------------- | -------- | --------------------------- | --------------------------- |
-| **Demonstration** | Broad    | Can be stationary or mobile | Protest outside a building  |
-| **March**         | Specific | Involves walking            | Protesters walking in unity |
-
-**Think of it like this**:
-
-> *Every march is a demonstration, but not every demonstration is a march.*
-
 
 
 06.riot /ˈraɪət/
@@ -53354,7 +53077,7 @@ Valium is usually prescribed to treat anxiety. /After the nurse completed the **
 
 
 
-#### 11/13.03
+#### 11/13.02
 
 01.to the point where 
 
@@ -53364,23 +53087,7 @@ Valium is usually prescribed to treat anxiety. /After the nurse completed the **
 
 
 
-02.dispute [dɪˈspjuːt]
-
-[noun] {~ (between A and B) | ~ (over/about sth)} 
-
-a dispute between the two countries about the border./Questions also remain about whether the group will continue as a fully unified five-member act. Industry officials say internal disagreements emerged during their contract dispute. 
-
-"an argument or a disagreement between two people, groups or countries; discussion about a subject where there is disagreement"
-
-[verb] These figures have been disputed. "to question whether sth is true and valid"
-
-[verb] disputed territory. "to argue or disagree strongly with sb about sth, especially about who owns sth"
-
-[verb] On the last lap three runners were disputing the lead. "to fight to get control of sth or to win sth"
-
-
-
-03.undisputed /ˌʌndɪˈspjuːtɪd/
+02.undisputed /ˌʌndɪˈspjuːtɪd/
 
 [adj] For a standard classification task where the labels are available for training, **Supervised Learning is the undisputed top performer.**.
 
@@ -53588,7 +53295,7 @@ It is often difficult to forbear from expressing one's opinion.
 
 02.instinct /ˈɪnstɪŋkt/
 
-[n] I didn't have as strong a maternal instinct as some other mothers...
+[n] I didn't have as strong a maternal instinct as some other mothers.../ you got that killer instinct.
 
 "a natural tendency for people and animals to behave in a particular way using the knowledge and abilities that they were born with rather than thought or training"
 
@@ -54469,9 +54176,9 @@ to do sth to another player that is against the rules of the game"
 
 03.flatter [ˈflætə(r)]  /suck up
 
-[verb] Are you trying to flatter me?
+[verb] Are you trying to flatter me? "to say nice things about sb, often in a way that is not sincere, because you want them to do sth for you or you want to please them"
 
-[verb] How will you manage without me?’ ‘Don't flatter yourself."没有我看你怎么办？”“别自以为了不起。"
+[verb] How will you manage without me?’ ‘Don't flatter yourself."没有我看你怎么办？”“别自以为了不起。"to choose to believe sth good about yourself and your abilities, especially when other people do not share this opinion"
 
 
 
@@ -54495,7 +54202,7 @@ to do sth to another player that is against the rules of the game"
 
 02.intimidate /ɪnˈtɪmɪdeɪt/
 
-[vt] They were accused of intimidating people into voting for them.
+[vt] They were accused of intimidating people into voting for them./ Shaq admitted that the only one he couldn't intimidate was Hakeem./She refused to be intimidated by their threats. I hired this duck to intimidate you.
 
 "to frighten or threaten sb so that they will do what you want"
 
@@ -55282,7 +54989,7 @@ mutually.
 
 09.vessel /ˈvesl/
 
-[n] ocean-going vessels./Two foreign vessels hit by explosions, authorities say.
+[n] ocean-going vessels./Two foreign vessels hit by explosions, authorities say./Iran says Strait of Hormuz is closed again as vessels attempting to cross come under fire.
 
 "a large ship or boat"
 
@@ -56143,7 +55850,7 @@ In summary:
 
 [verb] {~ (with sb) (for sth)} She pleaded with him not to go. "to ask sb for sth in a very strong and serious way" -beg-
 
-[verb] to plead guilty/not guilty./ Founder of China's Evergrande pleads guilty to fraud.
+[verb] to plead guilty/not guilty./ Founder of China's Evergrande pleads guilty to fraud./US singer D4vd pleads not guilty to murder in death of missing teen girl.
 
 "to state in court that you are guilty or not guilty of a crime"
 
@@ -56209,7 +55916,7 @@ In summary:
 
 
 
-#### 04/15
+#### 04/15.03
 
 01.initiative [ɪˈnɪʃətɪv]
 
@@ -56228,4 +55935,413 @@ In summary:
 [phrae] I have to do things on my own.
 
 "unaccompanied by others; alone or unaided."
+
+
+
+03.nuisance /ˈnuːsns/
+
+[n] South Korea jails American YouTuber for public nuisance.
+
+"behaviour by sb that annoys other people and that a court can order the person to stop"
+
+
+
+#### 04/16.04
+
+01.lenient  [ˈliːniənt]
+
+[adj] a lenient sentence/fine./The government has considered revising its International Education Quality Assurance System by making it more lenient in terms of the levels students must achieve on the Test of Proficiency in Korean (Topik), for example, by allowing entrants to hold only Level 3 proficiency./Online reaction in the U.S. has largely backed a South Korean court’s decision to jail controversial streamer Johnny Somali, with many saying the six-month sentence was justified or even too lenient.
+
+ "not as strict as expected when punishing sb or when making sure that rules are obeyed"
+
+D[noun] She appealed to the judge for leniency.
+
+D[adv] to treat sb leniently.
+
+
+
+02.commit  [kəˈmɪt]
+
+[verb] to commit murder/adultery , etc. "to do sth wrong or illegal"
+
+
+
+03.committed /kəˈmɪtɪd/
+
+[adj] *Committed people are leaders, passionate, motivated and inspiring*.
+
+"willing to work hard and give your time and energy to sth; believing strongly in sth"
+
+
+
+04.inception [ɪnˈsepʃn]
+
+[noun] The club has grown rapidly since its inception in 1990.
+
+"the start of an institution, an organization, etc."
+
+
+
+#### 04/19.02
+
+01.off putting 
+
+[adj] Your English is good, but your disrespect is off putting.
+
+""Off-putting" is an adjective describing something unpleasant, unsettling, or discouraging, which makes you dislike it or not want to get involved."
+
+
+
+02.side /saɪd/
+
+[n] Iranian official says talks with US to end war have made progress but sides 'far' from deal.
+
+"one of the two or more people or groups taking part in an argument, war, etc."
+
+
+
+#### 04/20.04
+
+01.intensive care  [ɪnˌtensɪv ˈkeə(r)]
+
+[noun] She needed intensive care for several days. "continuous care and attention, often using special equipment, for people in hospital who are very seriously ill or injured"
+
+[noun] {also intensive care unit [C] (abbr. ICU) } The baby was in intensive care for 48 hours.
+
+"the part of a hospital that provides intensive care"
+
+
+
+02.intensive /ɪnˈtensɪv/
+
+[adj] Designing Data-Intensive Applications.
+
+"involving a lot of work or activity done in a short time"
+
+
+
+03.dispute [dɪˈspjuːt] 
+
+[noun] The dispute ended. But now the electric vehicle market is growing and Elon Musk is also the owner of the electric manufacturer company Tesla in the world and the company claims that it is the best electric car./
+
+Members of K-pop group NewJeans say they are leaving agency after dispute./
+
+a dispute between the two countries about the border./Questions also remain about whether the group will continue as a fully unified five-member act. Industry officials say internal disagreements emerged during their contract dispute. /
+
+China puts Wang Yi’s Seoul visit on hold amid Taiwan labeling dispute.
+
+"an argument or a disagreement between two people, groups or countries; discussion about a subject where there is disagreement"
+
+[verb] These figures have been disputed. "to question whether sth is true and valid"
+
+[verb] disputed territory. "to argue or disagree strongly with sb about sth, especially about who owns sth"
+
+[verb] On the last lap three runners were disputing the lead. "to fight to get control of sth or to win sth"
+
+
+
+04.syndrome /ˈsɪndroʊm/
+
+[n] Big baby syndrome, or fetal macrosomia, is defined as a newborn weighing over 8 pounds, 13 ounces (4,000 grams), regardless of gestational age.
+
+"a set of physical conditions that show you have a particular disease or medical problem"
+
+
+
+#### 04/21.09
+
+01.linger  [ˈlɪŋɡə(r)] 
+
+[verb] The faint smell of her perfume lingered in the room. /South Korea’s Kospi hits record high amid mixed Asia markets as hopes linger for Mideast peace.
+
+"to continue to exist for longer than expected"
+
+[verb] She lingered for a few minutes to talk to Nick."to stay somewhere for longer because you do not want to leave; to spend a long time doing sth"
+
+[verb] {~ (on sb/sth)} His eyes lingered on the diamond ring on her finger.
+
+"to continue to look at sb/sth or think about sth for longer than usual"
+
+[verb] {~ (on)} He lingered on for several months after the heart attack. "to stay alive but become weaker"
+
+
+
+02.amid [əˈmɪd]
+
+[prep] {formal} He finished his speech amid tremendous applause. 
+
+"in the middle of or during sth, especially sth that causes excitement or fear"
+
+[prep] The hotel was in a beautiful position amid lemon groves. 
+
+"surrounded by sth"
+
+
+
+03.outcry /ˈaʊtkraɪ/
+
+[n] Ontario Premier Doug Ford agrees to sell $21m private jet following outcry.
+
+"a reaction of anger or **strong** protest shown by people in public"
+
+> An outcry and a demonstration are both forms of public opposition, but they differ significantly in structure, spontaneity, and execution. An **outcry** is generally a widespread, often vocal, eruption of anger or disapproval, while a **demonstration** is an organized, physical gathering intended to show protest.
+
+
+
+04.demonstration  [ˌdemənˈstreɪʃn] 
+
+[noun] mass demonstrations in support of the exiled leader.
+
+"a public meeting or march at which people show that they are protesting against or supporting sb/sth"
+
+[noun] We were given a brief demonstration of the computer's functions.
+
+"an act of showing or explaining how sth works or is done"
+
+[noun] a demonstration of the connection between the two sets of figures.
+
+"an act of giving proof or evidence for sth"
+
+[noun] a public demonstration of affection.
+
+"an act of showing a feeling or an opinion"
+
+
+
+
+
+05.march /mɑːrtʃ/
+
+[n] protest marches.
+
+"an organized walk by many people from one place to another, in order to protest about sth, or to express their opinions"
+
+
+
+The words **"demonstration"** and **"march"** are closely related but differ in nuance and usage:
+
+------
+
+🔹 **Demonstration**
+
+- **Definition**: A public display of opinion, often a protest, gathering, or rally, organized to express support or opposition to an issue.
+- **Broader term**: Includes speeches, signs, sit-ins, vigils, or marches.
+- **Example**:
+  *“The workers held a demonstration outside the company headquarters.”*
+
+------
+
+🔹 **March**
+
+- **Definition**: A type of demonstration where participants walk together along a route to express their stance.
+- **More specific**: A march is a **form of demonstration**, typically mobile.
+- **Example**:
+  *“Thousands joined the climate march through downtown.”*
+
+------
+
+✅ Summary:
+
+| Term              | Scope    | Nature                      | Example                     |
+| ----------------- | -------- | --------------------------- | --------------------------- |
+| **Demonstration** | Broad    | Can be stationary or mobile | Protest outside a building  |
+| **March**         | Specific | Involves walking            | Protesters walking in unity |
+
+**Think of it like this**:
+
+> *Every march is a demonstration, but not every demonstration is a march.*
+
+
+
+06.protest [ˈprəʊtest , prəˈtest] 
+
+[noun] {~ (against sth)}
+
+The director resigned in protest at the decision.
+
+"the expression of strong disagreement with or opposition to sth; a statement or an action that shows this"
+
+[verb] {~ (about/against/at sth)} Students took to the streets to protest against the decision.
+
+"to say or do sth to show that you disagree with or disapprove of sth, especially publicly"
+
+
+
+07.Premier /prɪˈmɪr/
+
+[n] "(in Canada) the first minister of a province or territory"
+
+[adj] "Premier is used to describe something that is considered to be the best or most important thing of a particular type."
+
+
+
+08.eliminate  [ɪˈlɪmɪneɪt]
+
+[verb] {~ sth/sb (from sth) } Credit cards eliminate the need to carry a lot of cash. "to remove or get rid of sth/sb"
+
+[verb] All the English teams were eliminated in the early stages of the competition. "to defeat a person or a team so that they no longer take part in a competition, etc." 
+
+-knock out-
+
+[verb] Most of the regime's left-wing opponents were eliminated. "to kill sb, especially an enemy or opponent"
+
+D[noun]  the elimination of disease/poverty/crime.
+
+
+
+09.knock out /nɑːk aʊt/
+
+[vp] President Trump threatened Sunday to destroy "*every single power plant" and "every single bridge*" in Iran if Tehran walks away from a U.S.
+
+"If something is knocked out by enemy action or bad weather, it is destroyed or stops functioning because of it."
+
+
+
+#### 04/29.02
+
+01.profile [ˈprəʊfaɪl]
+
+[noun] his strong profile. "the outline of a person's face when you look from the side, not the front"
+
+[noun] a job/employee profile. "a description of sb/sth that gives useful information"
+
+[noun] The deal will certainly raise the company's international profile. "the general impression that sb/sth gives to the public and the amount of attention they receive"
+
+[noun]  the profile of the tower against the sky."the edge or outline of sth that you see against a background"
+
+[verb] His career is profiled in this month's journal./The PyTorch model you want to profile. 
+
+"to give or write a description of sb/sth that gives the most important information"
+
+
+
+02.low profile /ˌloʊ ˈproʊfaɪl/
+
+[n] While Xu has kept a low profile in [Asia](https://www.the-sun.com/where/asia/), the [E-commerce](https://www.the-sun.com/topic/ecommerce/) guru ranks among China's most successful entrepreneurs.
+
+"a state of low visibility in which public notice is avoided"
+
+
+
+#### 05/02.03
+
+01.starch /stɑːrtʃ/
+
+[n] There's too much starch in your diet./Amylose and amylopectin are the two different types of complex carbohydrate molecules (polysaccharides) that together make up **starch**.
+
+"a white carbohydrate food substance found in potatoes, flour, rice, etc.; food containing this"
+
+
+
+02.enzyme /ˈenzaɪm/
+
+[n] Enzymes play a crucial role in catalyzing biochemical reactions, facilitating the conversion of complex substrates into simpler products.
+
+"a substance, produced by all living things, which helps a chemical change happen or happen more quickly, without being changed itself"
+
+
+
+03.amylase /ˈæmɪleɪs/
+
+[n] "an enzyme (= a substance that helps a chemical change to take place) that allows the body to change some substances into simple sugars"
+
+
+
+#### 05/04.01
+
+01.boil /bɔɪl/
+
+[v] Boil plenty of salted water, then add the spaghetti.
+
+"when a liquid boils or when you boil it, it is heated to the point where it forms bubbles and turns to steam or vapour"
+
+[n] Bring the soup to the boil , then allow it to simmer for five minutes.
+
+"a period of boiling; the point at which liquid boils"
+
+[vp] {boil sth down (to sth)} As a result, the conclusions boil down to *each model has its strengths*, which feels somewhat descriptive rather than insightful.
+
+"to make sth, especially information, shorter by leaving out the parts that are not important"
+
+
+
+#### 05/05
+
+01.attempt/əˈtempt/
+
+[n] Two factories were closed in an attempt to cut costs.
+
+"an act of trying to do sth, especially sth difficult, often with no success"
+
+[v]  I will attempt to answer all your questions.
+
+ "to make an effort or try to do sth, especially sth difficult"
+
+
+
+02.tempt /tempt/
+
+[v] Walk into a standard supermarket and you'll quickly be presented with an array of unhealthy, ultra-processed options which are often too tempting to ignore.
+
+"to attract sb or make sb want to do or have sth, even if they know it is wrong"
+
+
+
+03.spike /spaɪk/
+
+[v] Popularity of Korean food in U.S. leads to spike in investor immigration
+
+"to rise quickly and reach a high value"
+
+[v] He gave her a drink **spiked with** tranquillizers./Amino spiking (nitrogen/protein spiking). 
+
+"to add alcohol, poison or a drug to sb's drink or food without them knowing"
+
+[n] a row of iron spikes on a wall.
+
+"a thin object with a sharp point, especially a pointed piece of metal, wood, etc."
+
+
+
+04.amino acid /əˌmiːnoʊ ˈæsɪd/
+
+[n]{chemistry} The basic element of a protein is amino acid. 
+
+ "any of the substances that combine to form the basic structure of proteins"
+
+
+
+05.urine  [ˈjʊərɪn]  [ˈjʊrɪn] 
+
+[noun] If your urine specimen shows the presence of bacteria, you'll be prescribed antibiotics.
+
+"the waste liquid that collects in the bladder and that you pass from your body"
+
+
+
+06.urea  [jʊˈriːə]
+
+[noun] China confirms plan for export process of 18,700 tons of urea for Korea. 
+
+"a clear substance containing nitrogen that is found especially in urine"
+
+
+
+07.nitrogen  [ˈnaɪtrədʒən] 
+
+[noun]  (symb N) "a chemical element. Nitrogen is a gas that is found in large quantities in the earth's atmosphere [ˈætməsfɪə(r)]"
+
+
+
+08.nitrogenous /naɪˈtrɑdʒənəs/
+
+[adj] The human body requires a balanced intake of nitrogenous compounds such as proteins to support healthy growth and repair of tissues.
+
+"of or relating to or containing nitrogen"
+
+
+
+
+
+
 
