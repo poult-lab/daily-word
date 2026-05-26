@@ -11264,7 +11264,7 @@ dominant hand vs non-dominant hand
 
 
 
-#### 2020/09/29.06
+#### 2020/09/29.05
 
 01.rare [reə(r)]
 
@@ -11319,26 +11319,6 @@ dominant hand vs non-dominant hand
 [n] a link between the occurrence of skin cancer and the use of computer monitors.
 
 "the fact of sth happening or existing"
-
-
-
-06.worchip /ˈwɜːrʃɪp/
-
-[n] morning worship (= a church service in the morning) .
-
-"the practice of showing respect for God or a god, by saying prayers, singing with others, etc.; a ceremony for this"
-
-[v] He worshipped at the local mosque./Freedom to worship as you wish.
-
-"to go to a service in a religious building"
-
-[v] She worships her children.
-
-"to love and admire sb very much, especially so much that you cannot see their faults"
-
-
-
-
 
 
 
@@ -12086,23 +12066,13 @@ Chest is that part of our body which contains muscles, fat and along with **bone
 
 
 
-#### 2020/10/10.19
+#### 2020/10/10.18
 
 01.cliff [klɪf]
 
 [noun] the cliff edge/top. 
 
 "a high area of rock with a very steep side, often at the edge of the sea or ocean"
-
-
-
-
-
-02.chubby  [ˈtʃʌbi] 
-
-[adj] chubby cheeks/fingers/hands. "slightly fat in a way that people usually find attractive"
-
--丰满的-
 
 
 
@@ -12194,6 +12164,24 @@ Chest is that part of our body which contains muscles, fat and along with **bone
 
 
 
+11.raven /ˈreɪvn/
+
+[noun] "a large bird of the crow family, with shiny black feathers and a rough unpleasant cry" "渡鸦"
+
+[verb] "obtain or seize by violence"
+
+
+
+```javascript
+Blackbirds and crows are both members of the bird family Corvidae, but they are different species with distinct physical and behavioral characteristics.
+
+Blackbirds, also known as common blackbirds, are medium-sized birds with all-black feathers and a yellow eye-ring. They are primarily ground foragers, feeding on insects, worms, and fruits. They are also known for their melodious singing, and males often sing from treetops to attract mates.
+
+Crows, on the other hand, are larger birds with glossy black feathers and a distinctive thick beak. They are omnivorous and will eat a variety of foods, including insects, small animals, fruits, and carrion. Crows are known for their intelligence and social behavior, and they are often observed in large groups.
+
+In summary, the main differences between blackbirds and crows are their physical appearance, diet, and behavior. Blackbirds are smaller, have a yellow eye-ring, feed primarily on the ground, and are known for their singing, while crows are larger, have a thick beak, are omnivorous, and are known for their intelligence and social behavior.
+```
+
 
 
 
@@ -12271,30 +12259,6 @@ Chest is that part of our body which contains muscles, fat and along with **bone
 [verb] {~ (about/over sth)} He won't stop crowing about his victory.
 
 "to talk too proudly about sth you have achieved, especially when sb else has been unsuccessful" -boast/gloat-
-
-
-
-19.raven /ˈreɪvn/
-
-[noun] "a large bird of the crow family, with shiny black feathers and a rough unpleasant cry" "渡鸦"
-
-[verb] "obtain or seize by violence"
-
-
-
-```javascript
-Blackbirds and crows are both members of the bird family Corvidae, but they are different species with distinct physical and behavioral characteristics.
-
-Blackbirds, also known as common blackbirds, are medium-sized birds with all-black feathers and a yellow eye-ring. They are primarily ground foragers, feeding on insects, worms, and fruits. They are also known for their melodious singing, and males often sing from treetops to attract mates.
-
-Crows, on the other hand, are larger birds with glossy black feathers and a distinctive thick beak. They are omnivorous and will eat a variety of foods, including insects, small animals, fruits, and carrion. Crows are known for their intelligence and social behavior, and they are often observed in large groups.
-
-In summary, the main differences between blackbirds and crows are their physical appearance, diet, and behavior. Blackbirds are smaller, have a yellow eye-ring, feed primarily on the ground, and are known for their singing, while crows are larger, have a thick beak, are omnivorous, and are known for their intelligence and social behavior.
-```
-
-
-
-
 
 
 
@@ -12483,7 +12447,7 @@ Speak is more commonly used when it's normal talking being considered.
 
 
 
-#### 2020/10/12.15
+#### 2020/10/12.09
 
 01.humidity [hjuːˈmɪdəti]
 
@@ -12529,7 +12493,15 @@ She expended all her efforts on the care of home and children. "to use or spend 
 
 
 
+05.melt  [melt]
 
+[verb]  The snow showed no sign of melting.
+
+"to become or make sth become liquid as a result of heating"
+
+[verb]  The tension in the room began to melt.
+
+"to become or to make a feeling, an emotion, etc. become gentler and less strong"
 
 
 
@@ -12561,25 +12533,9 @@ After the operation you may find it difficult to chew and swallow.
 
 
 
-10.melt  [melt]
-
-[verb]  The snow showed no sign of melting.
-
-"to become or make sth become liquid as a result of heating"
-
-[verb]  The tension in the room began to melt.
-
-"to become or to make a feeling, an emotion, etc. become gentler and less strong"
-
-
-
-11.moustache  [məˈstɑːʃ]  [ˈmʌstæʃ] 
+09.moustache  [məˈstɑːʃ]  [ˈmʌstæʃ] 
 
 [noun] "a line of hair that a man allows to grow on his upper lip [lɪp]"
-
-
-
-
 
 
 
@@ -13292,10 +13248,6 @@ D[adv] militarily a militarily superior[suːˈpɪəriə(r)] country.
 [adj] a murky night. "dark and unpleasant because of smoke, fog , etc."
 
 [adj] {of people's actions or character} He had a somewhat murky past."not clearly known and suspected of not being honest"
-
-
-
-
 
 
 
@@ -26561,7 +26513,7 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-#### 2021/10/10.07
+#### 2021/10/10.06
 
 01.fraud  [frɔːd]
 
@@ -26593,9 +26545,11 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 
 
 
-04.nothing short of 
+04.intensification [ɪnˌtɛnsɪfɪˈkeɪʃən] 
 
-[phrase] The South Korean story is nothing short of inspirational. Congrats from Australia.
+[noun] Britain is intensifying its efforts to secure the release of the hostages... 
+
+"If you **intensify** something or if it **intensifies**, it becomes greater in strength, amount, or degree."
 
 
 
@@ -26610,14 +26564,6 @@ This function is easily defined as **the ratio between the hyperbolic sine and t
 [noun] The statue was brought to Rome in antiquity.
 
 "the ancient past, especially the times of the Greeks and Romans"
-
-
-
-07.intensification [ɪnˌtɛnsɪfɪˈkeɪʃən] 
-
-[noun] Britain is intensifying its efforts to secure the release of the hostages... 
-
-"If you **intensify** something or if it **intensifies**, it becomes greater in strength, amount, or degree."
 
 
 
@@ -42193,7 +42139,7 @@ This means that the runtime will disconnect if it has remained idle for 90 minut
 
 03.caveat /ˈkæviæt/
 
-[n] One important caveat to remember while using Colab is that the files you upload to it won’t be available forever.
+[n] One important caveat to remember while using Colab is that the files you upload to it won’t be available forever./Trump's hopes for an Iran peace deal come with caveats.
 
 "a warning that particular things need to be considered before sth can be done"
 
@@ -48812,7 +48758,7 @@ Would you like examples from technical writing or academic papers as well?
 
 02.ramp up 
 
-[vp] As South Korean platform giant Naver Corp. has been ramping up efforts to expand its market presence in the business-to-business (B2B) sector with its in-house large language model (LLM) HyperClova X at its core, a recent report found that nearly 700 startups and research organizations have adopted HyperClova X./US President Donald Trump says he will hit movies made in foreign countries with 100% tariffs, as he ramps up trade disputes with nations around the world.
+[vp] As South Korean platform giant Naver Corp. has been ramping up efforts to expand its market presence in the business-to-business (B2B) sector with its in-house large language model (LLM) HyperClova X at its core, a recent report found that nearly 700 startups and research organizations have adopted HyperClova X./US President Donald Trump says he will hit movies made in foreign countries with 100% tariffs, as he ramps up trade disputes with nations around the world./While some reports suggest a 2026 launch, other analyses suggest production may not fully ramp up until 2027, with pre-orders potentially appearing in late 2026.
 
 "bolster or strengthen"
 
@@ -56265,7 +56211,7 @@ D[noun]  the elimination of disease/poverty/crime.
 
 
 
-#### 05/05
+#### 05/05.08
 
 01.attempt/əˈtempt/
 
@@ -56338,6 +56284,86 @@ D[noun]  the elimination of disease/poverty/crime.
 [adj] The human body requires a balanced intake of nitrogenous compounds such as proteins to support healthy growth and repair of tissues.
 
 "of or relating to or containing nitrogen"
+
+
+
+#### 05/08.01
+
+01.archive /ˈɑːrkaɪv/
+
+[n] the National Sound Archive.
+
+"a collection of historical documents or records of a government, a family, a place or an organization; the place where these records are stored"
+
+
+
+#### 05/14.02
+
+01.bet /bet/
+
+[vp] Why big tech is betting on cute mascots.
+
+""Bet on" is a versatile phrase used as both a literal gambling term and a common idiom for certainty, as well as a slang term for agreement. "
+
+
+
+02.mascot /ˈmæskɑːt/
+
+[n] Tech giants Microsoft and Apple are among a wave of businesses who have recently introduced new cartoon character mascots, a tactic experts say is often used to make a brand seem more human and friendly, and to build a stronger connection with customers.
+
+"an animal, a toy, etc. that people believe will bring them good luck, or that represents an organization, etc."
+
+
+
+#### 05/18.03
+
+01.chubby  [ˈtʃʌbi] 
+
+[adj] chubby cheeks/fingers/hands. "slightly fat in a way that people usually find attractive"
+
+-丰满的-
+
+
+
+02.worchip /ˈwɜːrʃɪp/
+
+[n] morning worship (= a church service in the morning) .
+
+"the practice of showing respect for God or a god, by saying prayers, singing with others, etc.; a ceremony for this"
+
+[v] He worshipped at the local mosque./Freedom to worship as you wish.
+
+"to go to a service in a religious building"
+
+[v] She worships her children.
+
+"to love and admire sb very much, especially so much that you cannot see their faults"
+
+
+
+03.mosque /mɒsk/ /mɑːsk/
+
+[n] Three killed in suspected hate crime at San Diego mosque.
+
+"A mosque is a building where Muslims go to worship."
+
+
+
+#### 05/21
+
+01.situationship
+
+[n] "A **situationship** is an informal romantic or sexual relationship that lacks clear labels, mutual commitment, or a defined future. It goes beyond simple friendship or casual dating, but falls short of being an official partnership. [[1](https://www.youtube.com/watch?v=Geekfd1BmEk&t=23), [2](https://www.attachmentproject.com/love/situationships/)]"
+
+
+
+#### 05/26
+
+01.nothing short of /ˈnʌθɪŋ ʃɔːrt əv/
+
+[phrase] The South Korean story is nothing short of inspirational. Congrats from Australia./ Ukraine said Russia's threats were "nothing short of shameless blackmail" and urged allies to increase pressure on Moscow.
+
+"**Nothing short of** is an emphatic idiom meaning "completely," "absolutely," or "equivalent to". It is used to stress that something exactly measures up to an extreme state or quality—meaning it is just as intense, bad, or good as the word that follows it. [[1](https://www.collinsdictionary.com/dictionary/english/nothing-short-of), [2](https://en.wiktionary.org/wiki/nothing_short_of), [3](https://www.youtube.com/watch?v=GsyG8TRBgHA), [4](https://forum.wordreference.com/threads/nothing-short-of.2209006/), [5](https://ludwig.guru/s/nothing+short+of)]"
 
 
 
