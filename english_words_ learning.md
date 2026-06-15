@@ -573,12 +573,6 @@ Pilling grade evaluation of fabric is an important index to assess fabric qualit
 
 
 
-04.criticism /ˈkrɪtɪsɪzəm/
-
-[noun] {~ (of sb/sth) | ~ (that…)} In view of the criticisms of the reviewer(s) found at the bottom of this letter, your manuscript has not been recommended for publication in IEEE *Access*. 
-
-"the act of expressing disapproval of sb/sth and opinions about their faults or bad qualities; a statement showing disapproval"
-
 
 
 05.utterly [ˈʌtə(r)li] 
@@ -19977,7 +19971,7 @@ With youth unemployment at a record, the Communist Party is trying to reset expe
 
 
 
-#### 20210307.11
+#### 20210307.10
 
 01.panic  [ˈpænɪk]
 
@@ -20045,25 +20039,9 @@ D[noun] Embarkation will be at 14:20 hours.
 
 
 
-09.roast [rəʊst]   [roʊst] 
+09.farmed salmon  [fɑː(r)md ˈsæmən] 
 
-[verb] to roast a chicken.
-
-"to cook food, especially meat, without liquid in an oven or over a fire; to be cooked in this way"
-
-[verb] roasted chestnuts.
-
-"to cook nuts, beans , etc. in order to dry them and turn them brown"
-
-[v] {informal or humorous} 
-
-"subject to laughter or ridicule/[criticize](https://www.google.com/search?newwindow=1&sxsrf=AB5stBghjknFreFgfe154qrabdDgE7NcaA:1691293356321&q=criticize&si=ACFMAn8hzZSJQsgXIYlkGc-z1vmpG-fPyLqUEoiCQSkt4Gnpc3YwJwGe2o7Z21x0ytS5si4hBu5nuNxJI6_sMJQxr61pN4W8Kg%3D%3D&expnd=1) or [reprimand](https://www.google.com/search?newwindow=1&sxsrf=AB5stBghjknFreFgfe154qrabdDgE7NcaA:1691293356321&q=reprimand&si=ACFMAn8hzZSJQsgXIYlkGc-z1vmpp97zQ8bjTCtsqYKUdcM2dSJjBHJ2hG08IUAscnFEs34nJX_09LO-5BivjjWagoThOs7O5g%3D%3D&expnd=1) [severely](https://www.google.com/search?newwindow=1&sxsrf=AB5stBghjknFreFgfe154qrabdDgE7NcaA:1691293356321&q=severely&si=ACFMAn-fuhiZynqzEWN5DhRvBVhtDfgyutFz4e2TPTBbTIPosuFA4URIJ6vwkSuQ-yGu1PKdYpytT0PCEpDqUymUXKjF3g7YAA%3D%3D&expnd=1)." "嘲讽，挖苦"
-
-[noun]{BrE} the Sunday roast. 
-
-"a large piece of meat that is cooked whole in the oven [ˈʌvn] "
-
-[adj] roast chicken."cooked in an oven or over a fire"
+[phrasl]
 
 
 
@@ -20073,9 +20051,7 @@ D[noun] Embarkation will be at 14:20 hours.
 
 
 
-11.farmed salmon  [fɑː(r)md ˈsæmən] 
 
-[phrasl]
 
 
 
@@ -39825,19 +39801,17 @@ D[noun] She is a designer of extraordinary **versatility**.
 
 
 
-#### 11/10.06
+#### 11/10.05
 
-01.defame /dɪˈfeɪm/
+01.rally /ˈræli/
 
-[n] Not only did it “defame” Lisa, but it was using the venue’s property, which could count as copyright.
+[v] The cabinet rallied behind the Prime Minister.
 
-"to harm sb by saying or writing bad or false things about them"
+"to come together or bring people together in order to help or support sb/sth"
 
 
 
 02.one of Russia’s most notorious penal colonies.
-
-
 
 
 
@@ -39864,18 +39838,6 @@ D[noun] She is a designer of extraordinary **versatility**.
 [v] politicize the discussion.
 
 "to make sth a political issue"
-
-
-
-06.rally /ˈræli/
-
-[v] The cabinet rallied behind the Prime Minister.
-
-"to come together or bring people together in order to help or support sb/sth"
-
-
-
-
 
 
 
@@ -50605,13 +50567,15 @@ I've got a terrific amount of work to do."very large; very great"
 
 
 
-#### 06/05.04
+#### 06/05.03
 
-01.defamation /ˌdefəˈmeɪʃn/
+01.illusion  [ɪˈluːʒn] 
 
-[n] Many called it “defamation” towards the idol!/YouTuber ordered to pay $36,000 to IVE agency over Jang Won-young defamation
+[noun] I have no illusions about her feelings for me (= I know the truth is that she does not love me) .
 
-"the act of damaging sb's reputation by saying or writing bad or false things about them" 
+"a false idea or belief, especially about sb or about a situation"
+
+[noun] Mirrors in a room often give an illusion of space."something that seems to exist but in fact does not, or seems to be sth that it is not"
 
 
 
@@ -50636,14 +50600,6 @@ I've got a terrific amount of work to do."very large; very great"
 "a hope or wish that you cannot make happen because it is not realistic" -illusion-
 
 
-
-04.illusion  [ɪˈluːʒn] 
-
-[noun] I have no illusions about her feelings for me (= I know the truth is that she does not love me) .
-
-"a false idea or belief, especially about sb or about a situation"
-
-[noun] Mirrors in a room often give an illusion of space."something that seems to exist but in fact does not, or seems to be sth that it is not"
 
 
 
@@ -56349,7 +56305,7 @@ D[noun]  the elimination of disease/poverty/crime.
 
 
 
-#### 05/21
+#### 05/21.01
 
 01.situationship
 
@@ -56357,13 +56313,178 @@ D[noun]  the elimination of disease/poverty/crime.
 
 
 
-#### 05/26
+#### 05/26.06
 
 01.nothing short of /ˈnʌθɪŋ ʃɔːrt əv/
 
 [phrase] The South Korean story is nothing short of inspirational. Congrats from Australia./ Ukraine said Russia's threats were "nothing short of shameless blackmail" and urged allies to increase pressure on Moscow.
 
 "**Nothing short of** is an emphatic idiom meaning "completely," "absolutely," or "equivalent to". It is used to stress that something exactly measures up to an extreme state or quality—meaning it is just as intense, bad, or good as the word that follows it. [[1](https://www.collinsdictionary.com/dictionary/english/nothing-short-of), [2](https://en.wiktionary.org/wiki/nothing_short_of), [3](https://www.youtube.com/watch?v=GsyG8TRBgHA), [4](https://forum.wordreference.com/threads/nothing-short-of.2209006/), [5](https://ludwig.guru/s/nothing+short+of)]"
+
+
+
+02.criticism /ˈkrɪtɪsɪzəm/
+
+[noun] {~ (of sb/sth) | ~ (that…)} In view of the criticisms of the reviewer(s) found at the bottom of this letter, your manuscript has not been recommended for publication in IEEE *Access*. 
+
+"the act of expressing disapproval of sb/sth and opinions about their faults or bad qualities; a statement showing disapproval./非難"
+
+
+
+03.roast [rəʊst]   [roʊst] 
+
+[verb] to roast a chicken.
+
+"to cook food, especially meat, without liquid in an oven or over a fire; to be cooked in this way"
+
+[verb] roasted chestnuts.
+
+"to cook nuts, beans , etc. in order to dry them and turn them brown"
+
+[v] {informal or humorous} 
+
+"subject to laughter or ridicule/[criticize](https://www.google.com/search?newwindow=1&sxsrf=AB5stBghjknFreFgfe154qrabdDgE7NcaA:1691293356321&q=criticize&si=ACFMAn8hzZSJQsgXIYlkGc-z1vmpG-fPyLqUEoiCQSkt4Gnpc3YwJwGe2o7Z21x0ytS5si4hBu5nuNxJI6_sMJQxr61pN4W8Kg%3D%3D&expnd=1) or [reprimand](https://www.google.com/search?newwindow=1&sxsrf=AB5stBghjknFreFgfe154qrabdDgE7NcaA:1691293356321&q=reprimand&si=ACFMAn8hzZSJQsgXIYlkGc-z1vmpp97zQ8bjTCtsqYKUdcM2dSJjBHJ2hG08IUAscnFEs34nJX_09LO-5BivjjWagoThOs7O5g%3D%3D&expnd=1) [severely](https://www.google.com/search?newwindow=1&sxsrf=AB5stBghjknFreFgfe154qrabdDgE7NcaA:1691293356321&q=severely&si=ACFMAn-fuhiZynqzEWN5DhRvBVhtDfgyutFz4e2TPTBbTIPosuFA4URIJ6vwkSuQ-yGu1PKdYpytT0PCEpDqUymUXKjF3g7YAA%3D%3D&expnd=1)." "嘲讽，挖苦"
+
+[noun]{BrE} the Sunday roast. 
+
+"a large piece of meat that is cooked whole in the oven [ˈʌvn] "
+
+[adj] roast chicken."cooked in an oven or over a fire"
+
+
+
+04.reprimand /ˈreprɪmænd/
+
+[v] The officers were severely reprimanded for their unprofessional behaviour.
+
+"to tell sb officially that you do not approve of them or their actions"
+
+
+
+05.resent /rɪˈzent/
+
+[v] She resents her mother for being so tough on her...
+
+"to feel bitter or angry about sth, especially because you feel it is unfair"
+
+
+
+06.impostor  /ɪmˈpɑːstər/
+
+[n] He was an imposter, who masqueraded as a doctor.
+
+"a person who pretends to be sb else in order to trick people"
+
+
+
+#### 05/27.03
+
+01.defame /dɪˈfeɪm/
+
+[v] Not only did it “defame” Lisa, but it was using the venue’s property, which could count as copyright./YouTuber arrested for allegedly using AI to defame Korean actor.
+
+"to harm sb by saying or writing bad or false things about them"
+
+
+
+02.defamatory /dɪˈfæmətɔːri/
+
+[adj] South Korean authorities have arrested a YouTuber who allegedly made defamatory claims about actor Kim Soo-hyun, fuelling a scandal that halted the A-lister's career.
+
+"intended to harm sb by saying or writing bad or false things about them"
+
+
+
+03.defamation /ˌdefəˈmeɪʃn/
+
+[n] Many called it “defamation” towards the idol!/YouTuber ordered to pay $36,000 to IVE agency over Jang Won-young defamation
+
+"the act of damaging sb's reputation by saying or writing bad or false things about them" 
+
+
+
+#### 06/09.01
+
+01.Captcha /ˈkæptʃə/
+
+[n] **Visual puzzles:** Selecting specific images from a grid, such as "all images containing traffic lights".
+
+"Completely Automated Public Turing test to tell Computers and Humans Apart"
+
+
+
+#### 06/10.02
+
+01.jumper /ˈdʒʌmpər/
+
+[n] a woolly jumper./Nvidia CEO Jensen Huang delighted students at **Seoul National University (SNU)** during his visit by swapping his signature black leather jacket for the school's official navy varsity jumper.
+
+"a knitted piece of clothing made of wool or cotton for the upper part of the body, with long sleeves and no buttons"
+
+[n] He's a good jumper.
+
+"a person, an animal or an insect that jumps"
+
+
+
+> A **sweater** is a knitted garment made of yarn used for insulation and cozy warmth, usually worn indoors or as a comfortable mid-layer. A **jacket** is a structured outer layer designed to protect you from the elements (like wind, rain, or snow) and usually features a full front opening.
+>
+> 
+>
+> Functionally, **sweaters** and **jumpers** are the same garment—a long-sleeved, knitted piece of clothing worn on the upper body for warmth. The difference comes down to **geography**.
+>
+> Regional Terms
+>
+> - **Sweater:** This is the standard term used in **American and Canadian English**.
+> - **Jumper:** This is the standard term used in **British, Irish, and Australian English**. [[1](https://knitseek.com/why-is-a-sweater-called-a-jumper/)]
+
+
+
+02.varsity /ˈvɑːrsəti/
+
+[adj] the varsity match.
+
+"used when describing activities connected with the universities of Oxford and Cambridge, especially sports competitions"
+
+
+
+#### 06/15
+
+01.play out /pleɪ aʊt/
+
+[pv] US-Iran deal eases uncertainty over the war - but there is much still to play out.
+
+"If a dramatic event is played out, it gradually takes place."
+
+
+
+02.brittle /ˈbrɪtl/
+
+[adj] brittle bones/nails. 
+
+"hard but easily broken"
+
+
+
+03.crunchy /ˈkrʌntʃi/
+
+[adj] a crunchy salad.
+
+"firm and crisp and making a sharp sound when you bite or crush it"
+
+
+
+> **Crispy** refers to the feeling of food that snaps in the mouth: potato crisps (AE chips) are crispy.
+> **Crunchy** refers more to the sensation when chewed between the teeth: nuts are often crunchy.
+> **Brittle** is a more technical term, referring to the physical characteristic of the food, not how it feels: a scientist could easily measure how brittle an object is.
+>
+> While both words describe foods with a hard, audible bite, **crisp** (or crispy) is light, thin, and brittle, requiring little force to shatter. **Crunch** (or crunchy) is denser and more robust, offering a deeper, more substantial bite that often continues all the way through the food.
+
+
+
+04.Caesar /ˈsizɚ/
+
+[n] "**Caesar** generally refers to an absolute ruler, emperor, or dictator."
 
 
 
