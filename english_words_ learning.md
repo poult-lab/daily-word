@@ -26,7 +26,7 @@
 
 [noun] a missile's trajectory. "the curved path of sth that has been fired, hit or thrown into the air" "轨道，弹道"
 
- 
+ address
 
 04.colossal /kəˈlɒsl/ /kəˈlɑːsl/
 
@@ -72,11 +72,21 @@
 
 
 
-#### 2020/01/02.17
+#### 2020/01/02.16
 
 01.remote-control  [rɪˌməʊt kənˈtrəʊl]
 
 "远程控制"
+
+
+
+02.constant  [ˈkɒnstənt] [ˈkɑːnstənt]
+
+[adj] constant interruptions. "happening all the time or repeatedly"
+
+[adj] travelling at a constant speed of 50 m.p.h. "that does not change"
+
+[noun] "a number or quantity that does not vary" -variable [ˈveəriəbl]-
 
 
 
@@ -237,16 +247,6 @@
 [noun] an acceleration in the rate of economic growth. "an increase in how fast sth happens"
 
 [noun] {physics} "the rate at which the velocity (= speed in a particular direction) of an object changes"
-
-
-
-17.constant  [ˈkɒnstənt] [ˈkɑːnstənt]
-
-[adj] constant interruptions. "happening all the time or repeatedly"
-
-[adj] travelling at a constant speed of 50 m.p.h. "that does not change"
-
-[noun] "a number or quantity that does not vary" -variable [ˈveəriəbl]-
 
 
 
@@ -9032,7 +9032,7 @@ If we budget carefully we'll be able to afford the trip.
 
 
 
-#### 2020/09/05.19
+#### 2020/09/05.18
 
 01.arbitrary  [ˈɑːrbɪtrəri] 
 
@@ -9192,13 +9192,11 @@ She remarked how tired I was looking.
 
 
 
-17.joint  [dʒɔɪnt] 
+17.obsolete [ˌɑːbsəˈliːt] 
 
-[adj] a joint account (= a bank account in the name of more than one person, for example a husband and wife). "involving two or more people together"
+[adj] obsolete technology.
 
-D[adv] The event was organized jointly by students and staff.
-
-[noun] inflammation of the knee joint. "a place where two bones are joined together in the body in a way that enables them to bend and move"
+"no longer used because sth new has been invented"
 
 
 
@@ -9209,18 +9207,6 @@ D[adv] The event was organized jointly by students and staff.
 The children quickly got bored with staying indoors.
 
 "feeling tired and impatient because you have lost interest in sb/sth or because you have nothing to do"
-
-
-
-19.obsolete [ˌɑːbsəˈliːt] 
-
-[adj] obsolete technology.
-
-"no longer used because sth new has been invented"
-
-
-
-
 
 
 
@@ -9572,6 +9558,8 @@ The children quickly got bored with staying indoors.
 13.leather [ˈleðə(r)]
 
 [noun] a leather jacket. "material made by removing the hair or fur from animal skins and preserving the skins using special processes"
+
+
 
 #### 2020/09/11.16
 
@@ -20627,7 +20615,7 @@ The shadow of doubt began to creep into her mind.
 
 
 
-#### 20210318.06
+#### 20210318.05
 
 01.stash  [stæʃ] 
 
@@ -20665,19 +20653,7 @@ The shadow of doubt began to creep into her mind.
 
 
 
-05.raid /reɪd/
-
-[noun] {~ (on sth)} They carried out a bombing raid on enemy bases./Gaza's al-Shifa hospital in ruins after two-week Israeli raid.
-
-"a **short surprise** **attack** on an enemy by soldiers, ships or aircraft"
-
-[verb] The Financial Supervisory Service (FSS) raided the office of Kakao founder Kim Beom-su, Thursday, for his alleged involvement in stock manipulation./Incheon police agency raided over death of actor Lee Sun-kyun.
-
-"to visit a person or place without warning to look for criminals, illegal goods, drugs, etc."
-
-
-
-06.alleged /əˈledʒd/
+05.alleged /əˈledʒd/
 
 [adj] FSS raids Kakao founder's office over alleged stock manipulation
 
@@ -21620,7 +21596,7 @@ The food had been adulterated to increase its weight.
 
 
 
-#### 20210407.06
+#### 20210407.05
 
 01.originality [əˌrɪdʒəˈnæləti] 
 
@@ -21653,12 +21629,6 @@ The food had been adulterated to increase its weight.
 05.asset under management  [ˈæset ˈʌndə(r) ˈmænɪdʒmənt] 
 
 [phrase] 
-
-
-
-06.hedge fund  [ˈhedʒ fʌnd]
-
-[noun] "A **hedge fund** is an investment fund that invests large amounts of money using methods that involve a lot of risk."
 
 
 
@@ -27238,7 +27208,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-#### 2021/11/14.09
+#### 2021/11/14.08
 
 01.account for  [əˈkaʊnt fɔː(r)]
 
@@ -27248,11 +27218,11 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-02.oncology  [ɒŋˈkɒlədʒi]  [ɑːnˈkɑːlədʒi] 
+02.ruler /ˈruːlər/
 
-[noun] Asan Medical Center scores high in global rankings for oncology and other critical care patients.
+[n] The land was simply appropriated by the rulers."a person who rules or governs"
 
-"the scientific study of and treatment of tumours in the body"
+[n] "a straight strip of wood, plastic or metal, marked in centimetres or inches, used for measuring or for drawing straight lines"
 
 
 
@@ -27303,14 +27273,6 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 [noun] CJ Logistics to spend $2.1 bn to expand warehouse by 8 times, add high tech.
 
 "a building where large quantities of goods are stored, especially before they are sent to shops/stores to be sold"
-
-
-
-09.ruler /ˈruːlər/
-
-[n] The land was simply appropriated by the rulers."a person who rules or governs"
-
-[n] "a straight strip of wood, plastic or metal, marked in centimetres or inches, used for measuring or for drawing straight lines"
 
 
 
@@ -41566,20 +41528,6 @@ d[adv]shabbily dressed
 
 
 
-#### 03/11.01
-
-01.toll /təʊl/ /toʊl/
-
-[n] a toll road/bridge. 
-
-"money that you pay to use a particular road or bridge"
-
-[n] "the sound of a bell ringing with slow regular strokes"
-
-[v] This year **Ramdan 2024 will start from 11 March 2024 and will go on toll 9 April 2024**.
-
-"when a bell tolls or sb tolls it, it is rung slowly many times, especially as a sign that sb has died"
-
 
 
 #### 03/14.05
@@ -52869,7 +52817,7 @@ The immediate issue was the Chinese enforcement of their ban on the [opium trade
 
 02.pitfall /ˈpɪtfɔːl/
 
-[n] the potential pitfalls of buying a house.
+[n] the potential pitfalls of buying a house./ A recent study by Kapoor et al. [19] exposed the pitfalls of poorly chosen evaluation approaches in data analysis, leading to over-optimistic performance claims due to data leakage across hundreds of studies.
 
 "a danger or difficulty, especially one that is hidden or not obvious at first"
 
@@ -53854,7 +53802,7 @@ to do sth to another player that is against the rules of the game"
 
 06.goalkeeper /ˈɡoʊlkiːpər/
 
-[n] K League sees first foreign goalkeeper in 28 years.
+[n] K League sees first foreign goalkeeper in 28 years./South Korea Goalkeeper Receives Wife's Support Ahead of World Cup.
 
 "a player whose job is to stop the ball from going into his or her own team's goal"
 
@@ -54871,6 +54819,10 @@ mutually.
 
 "a formal speech that is made in front of an audience"
 
+[v] How do I address you?
+
+"to use a particular name or title for sb when you speak or write to them"
+
 
 
 07.overrule /ˌoʊvərˈruːl/
@@ -55726,7 +55678,7 @@ In summary:
 
 01.resort  [rɪˈzɔː(r)t]
 
-[noun] seaside/ski/mountain, etc. resorts. /An [all-inclusive resort](https://www.google.com/search?q=all-inclusive+resort&newwindow=1&sca_esv=81ef8ac98c35c5fb&sxsrf=ANbL-n5mdgvhSXZ6mehsYnJaeMU37wb9yQ%3A1776131150702&ei=TpzdaejKKuLd2roPyJaMqAE&biw=3371&bih=1707&ved=2ahUKEwj6lKKenOyTAxWYsFYBHeuIMdUQgK4QegQIARAB&uact=5&oq=All-inclusive+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDkFsbC1pbmNsdXNpdmUgMgwQIxiABBgTGCcYigUyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFI2xRQzgpY3BFwAXgBkAEAmAFzoAGjBKoBAzAuNbgBA8gBAPgBAZgCBqACvATCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcDMS41oAf-GrIHAzAuNbgHuATCBwUwLjEuNcgHFIAIAA&sclient=gws-wiz-serp&mstk=AUtExfChbKGFipgrAv8fDsAdX1O1SqHK5V31fDjU9_rFF6uI6MFC-1zVlpstA8qL2wjOld4A_up2BYh6EsqRnHP8sw8pKmOpH4vOrGLr5HdIGYCuoWkCroPYiDY7bbQPdQgV5tAHyvdEw5957FUkunB73mFqQTGnx5oJ6azAKMsvtwXFGAU9JDmBrtgvnhks5o0JtJEALx7l-wSvsTaf0eDykkzElpG3yyaG49Q45agIBr0w_oABTTKoS7uDPbyEgByDNuIrRV8qOYxwczXvDaLr2_NM&csui=3) offers a vacation package where the upfront price covers lodging, meals, beverages (often alcohol), and on-site activities/entertainment. 
+[noun] seaside/ski/mountain, etc. resorts. /An all-inclusive resort a vacation package where the upfront price covers lodging, meals, beverages (often alcohol), and on-site activities/entertainment. 
 
 "a place where a lot of people go on holiday/vacation""度假村"
 
@@ -56448,7 +56400,7 @@ D[noun]  the elimination of disease/poverty/crime.
 
 
 
-#### 06/15
+#### 06/15.04
 
 01.play out /pleɪ aʊt/
 
@@ -56487,6 +56439,156 @@ D[noun]  the elimination of disease/poverty/crime.
 [n] "**Caesar** generally refers to an absolute ruler, emperor, or dictator."
 
 
+
+#### 06/16.03
+
+01.toll /təʊl/ /toʊl/
+
+[n] a toll road/bridge. /US says Hormuz to be toll-free under Iran deal.
+
+"money that you pay to use a particular road or bridge"
+
+[n] "the sound of a bell ringing with slow regular strokes"
+
+[v] This year **Ramdan 2024 will start from 11 March 2024 and will go on toll 9 April 2024**.
+
+"when a bell tolls or sb tolls it, it is rung slowly many times, especially as a sign that sb has died"
+
+
+
+02.joint  [dʒɔɪnt] 
+
+[adj] a joint account (= a bank account in the name of more than one person, for example a husband and wife). "involving two or more people together"
+
+D[adv] The event was organized jointly by students and staff.
+
+[noun] inflammation of the knee joint. "a place where two bones are joined together in the body in a way that enables them to bend and move"
+
+
+
+03.disjoint /dɪsˈdʒɔɪnt/
+
+[adj] In deep metric learning, the train and test sets have **completely disjoint classes**. For example, in the CUB-200-2011 dataset.
+
+"having no elements in common"
+
+
+
+#### 06/17.04
+
+01.goose /ɡuːs/
+
+[n] goose vs duck.
+
+While both are waterfowl, geese and ducks differ significantly in size, behavior, and diet. Geese are generally much larger with longer necks, primarily grazing on land. Ducks are smaller and rounder with shorter necks, mostly spending their time in water dabbling or diving for omnivorous meals.
+
+"a bird like a large duck with a long neck. Geese either live wild or are kept on farms."
+
+
+
+02.waterfowl /ˈwɔːtərfaʊl/
+
+[n] "a bird that can swim and lives near water, especially a duck or goose"
+
+
+
+03.oncology  [ɒŋˈkɒlədʒi]  [ɑːnˈkɑːlədʒi] 
+
+[noun] Asan Medical Center scores high in global rankings for oncology and other critical care patients.
+
+"the scientific study of and treatment of tumours in the body"
+
+
+
+04.inclusive /ɪnˈkluːsɪv/
+
+[adj] Grammys CEO Harvey Mason Jr. said in a press release. "With more categories, we can represent more music creators, artists, writers and producers, and it gives us a great opportunity to be more inclusive."
+
+"including a wide range of people, things, ideas, etc."
+
+
+
+#### 06/18.01
+
+01.outdo /ˌaʊtˈduː/
+
+[v] President Trump’s efforts to "outdo" or surpass the Iran policy of former President Barack Obama have sparked intense political debate, largely because Trump's approach shifted from extreme military pressure back to direct diplomacy./Can Trump outdo Obama’s Iran nuclear deal?
+
+"to do more or better than sb else" -beat-
+
+
+
+#### 06/22.04
+
+01.bunker /ˈbʌŋkər/
+
+[n] a concrete/underground/secret bunker. /Largest ever cocaine bust in Australia after police raid underground bunker.
+
+"a strongly built shelter for soldiers or guns, usually underground"
+
+
+
+02.bust /bʌst/
+
+[v] I bust my camera.
+
+"to break sth"
+
+[v] He's been busted for drugs.
+
+"to suddenly enter a place and search it or arrest sb"
+
+
+
+03.raid /reɪd/
+
+[noun] {~ (on sth)} They carried out a bombing raid on enemy bases./Gaza's al-Shifa hospital in ruins after two-week Israeli raid.
+
+"a **short surprise** **attack** on an enemy by soldiers, ships or aircraft"
+
+[verb] The Financial Supervisory Service (FSS) raided the office of Kakao founder Kim Beom-su, Thursday, for his alleged involvement in stock manipulation./Incheon police agency raided over death of actor Lee Sun-kyun.
+
+"to visit a person or place without warning to look for criminals, illegal goods, drugs, etc."
+
+
+
+04.banker /ˈbæŋkər/
+
+[n] a merchant banker.
+
+"a person who owns a bank or has an important job at a bank"
+
+
+
+#### 06/23
+
+01.hedge fund  [ˈhedʒ fʌnd]
+
+[noun] "A **hedge fund** is an investment fund that invests large amounts of money using methods that involve a lot of risk."
+
+
+
+02.hedge /hedʒ/
+
+[v] ‘We’ll see’ — Trump hedges on guarantee Iran won’t use oil profits to rebuild military.
+
+"to avoid giving a direct answer to a question or promising to support a particular idea, etc."
+
+
+
+03.obligation /ˌɑːblɪˈɡeɪʃn/
+
+[n] Abdolnaser Hemmati, the governor of Iran’s central bank, told the Iranian news agency Tasnim, “There is no obligation to buy agricultural inputs from the U.S.,” the outlet reported.
+
+"the state of being forced to do sth because it is your duty, or because of a law, etc."
+
+
+
+04.delimit /diˈlɪmɪt/
+
+[v] Choose **Delimited**, click Next.
+
+"to decide what the limits of sth are"
 
 
 
