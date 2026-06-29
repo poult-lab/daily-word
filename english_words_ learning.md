@@ -28,6 +28,8 @@
 
  address
 
+
+
 04.colossal /kəˈlɒsl/ /kəˈlɑːsl/
 
 [adj]   The singer earns a colossal amount of money.  
@@ -2482,7 +2484,7 @@ a more flexible approach.
 
 
 
-#### 2020/01/21.18
+#### 2020/01/21.17
 
 01.crab  [kræb]
 
@@ -2630,13 +2632,11 @@ Explain: You fork out for sth more unwillingly than you shell out for sth.
 
 
 
-16.settlement  [ˈsetlmənt]
+16.commerce  [ˈkɒmɜːs] [ˈkɑːmɜːrs] 
 
-[noun] to negotiate a peace settlement.  
+[noun] The music business marries art and commerce. 
 
-"an official agreement that ends an argument between two people or groups"
-
-[noun] out-of-court settlement. "the action of reaching an agreement"
+"trade, especially between countries; the buying and selling of goods and services"
 
 
 
@@ -2659,20 +2659,6 @@ Explain: You fork out for sth more unwillingly than you shell out for sth.
 [v] {aniamal} The cat lapped milk from a dish.
 
 "When an animal **laps** a drink, it uses short quick movements of its tongue to take liquid up into its mouth."
-
-
-
-18.commerce  [ˈkɒmɜːs] [ˈkɑːmɜːrs] 
-
-[noun] The music business marries art and commerce. 
-
-"trade, especially between countries; the buying and selling of goods and services"
-
-
-
-
-
-
 
 
 
@@ -29667,17 +29653,11 @@ D[adv] riskiness
 
 
 
-#### 02/23.04
+#### 02/23.03
 
-01.juvenile [ˈdʒuːvənaɪl] 
+01.turmeric powder [ˈtɜː(r)mərɪk ˈpaʊdər] 
 
-[noun] "a young person who is not yet an adult"
-
-[adj] juvenile offenders."connected with young people who are not yet adults"
-
-[adj] juvenile behaviour.
-
-"silly and more typical of a child than an adult" -childish-
+[noun phrase] 
 
 
 
@@ -29692,12 +29672,6 @@ D[adv] riskiness
 03.fertility  [fə(r)ˈtɪləti]
 
 [noun] The total fertility rate is expected to drop to as low as 0.7 this year. "the state of being fertile"
-
-
-
-04.turmeric powder [ˈtɜː(r)mərɪk ˈpaʊdər] 
-
-[noun phrase] 
 
 
 
@@ -30040,16 +30014,6 @@ D[adv] riskiness
 02.sore throat [sɔː(r) θrəʊt] 
 
 [noun] Have a sore throat.
-
-
-
-#### 03/30.01
-
-01.allowance  [əˈlaʊəns] 
-
-[noun] an allowance of $20 a day.
-
-"an amount of money that is given to sb regularly or for a particular purpose"
 
 
 
@@ -43472,7 +43436,7 @@ What is behind NewJeans's 2-week ultimatum to HYBE?
 
 
 
-#### 11/01.04
+#### 11/01.03
 
 01.derby /ˈdɜːrbi/
 
@@ -43488,15 +43452,7 @@ What is behind NewJeans's 2-week ultimatum to HYBE?
 
 
 
-03.sediment /ˈsedɪmənt/
-
-[n] Many organisms that die in the sea are soon buried by sediment.
-
-"the solid material that settles at the bottom of a liquid"
-
-
-
-04.decouple /diːˈkʌpl/
+03.decouple /diːˈkʌpl/
 
 [v] ..a conception which decouples culture and politics. "to end the connection or relationship between two things"
 
@@ -50781,6 +50737,10 @@ I've got a terrific amount of work to do."very large; very great"
 
 "a person who commits a crime"
 
+[n] The worst offenders (Labels 1, 5, 7, 16) are all caused by the patient-level group constraint — those groups contain multi-record patients that can only move as a block.
+
+"a person or thing that does sth wrong"
+
 
 
 03.mania /ˈmeɪniə/
@@ -56560,7 +56520,7 @@ While both are waterfowl, geese and ducks differ significantly in size, behavior
 
 
 
-#### 06/23
+#### 06/23.04
 
 01.hedge fund  [ˈhedʒ fʌnd]
 
@@ -56589,6 +56549,99 @@ While both are waterfowl, geese and ducks differ significantly in size, behavior
 [v] Choose **Delimited**, click Next.
 
 "to decide what the limits of sth are"
+
+
+
+#### 06/26.01
+
+01.dysphagia /dɪsˈfedʒɪə/
+
+[n] The most recent era (2020–2026) has ushered in AI-powered, disease-specific EMG models, incorporating deep learning, transformer architectures, explainable AI (XAI), and Internet of Things (IoT) integrated home-based dysphagia care.
+
+"condition in which swallowing is difficult or painful"
+
+
+
+#### 06/28.01
+
+01.Alma mater /ˈɑlmə ˈmɑːtər/
+
+[n] She donated a large sum of money to her **alma mater**, Stanford University.
+
+"the school, college or university that sb went to"
+
+
+
+#### 06/29
+
+01.juvenile [ˈdʒuːvənaɪl] 
+
+[noun] "a young person who is not yet an adult"
+
+[adj] juvenile offenders./The government has decided to lower the age threshold for juvenile offenders exempt from criminal punishment, but only for those who commit serious crimes. 
+
+"connected with young people who are not yet adults"
+
+[adj] juvenile behaviour.
+
+"silly and more typical of a child than an adult" -childish-
+
+
+
+The core difference between the two terms is that **"teenager"** is a numeric age group (13 to 19 years old), while **"juvenile"** is a broader, legal, or biological term used to describe any young person or animal that has not reached adulthood. [[1](https://en.wikipedia.org/wiki/Teenager_(word)), [2](https://www.italki.com/en/post/question-77227), [3](https://www.reddit.com/r/EnglishLearning/comments/1dp8kic/juvenile_vs_minor_vs_underage/)]
+
+Key Distinctions
+
+| Feature             | Teenager                                                     | Juvenile                                                   |
+| ------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- |
+| **Age Range**       | 13–19 years old.                                             | Under 18 (typically).                                      |
+| **Primary Context** | Everyday language, pop culture, and marketing.               | Legal (justice system), scientific, and medical (biology). |
+| **Scope**           | Only applies to humans.                                      | Applies to humans, animals, and plants.                    |
+| **Legal Standing**  | Can technically include 18- and 19-year-olds who are legal adults. | Always denotes someone who is a legal minor.               |
+
+
+
+02.allowance  [əˈlaʊəns] 
+
+[noun] an allowance of $20 a day.
+
+"an amount of money that is given to sb regularly or for a particular purpose"
+
+[n] a baggage allowance of 20 kilos.
+
+"the amount of sth that is allowed in a particular situation"
+
+[n] personal tax allowances.
+
+"an amount of money that can be earned or received before you start paying tax"
+
+
+
+03.settlement  [ˈsetlmənt]
+
+[noun] to negotiate a peace settlement.  
+
+"an official agreement that ends an argument between two people or groups"
+
+[noun] out-of-court settlement. "the action of reaching an agreement"
+
+
+
+04.settling /ˈsetlɪŋ/
+
+[n] contents sold by weight not volume, some settling will occur.
+
+"like sediment falling to the bottom of a liquid"
+
+
+
+05.sediment /ˈsedɪmənt/
+
+[n] Many organisms that die in the sea are soon buried by sediment.
+
+"the solid material that settles at the bottom of a liquid"
+
+
 
 
 
