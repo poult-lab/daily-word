@@ -4770,7 +4770,7 @@ Is there any way of stretching shoes?
 
 
 
-#### 2020/04/19.09
+#### 2020/04/19.08
 
 01.price is firm meaning
 
@@ -4812,11 +4812,7 @@ We're open till 6 o'clock.
 
 
 
-
-
-
-
-08.innocent  [ˈɪnəsnt]
+07.innocent  [ˈɪnəsnt]
 
 [adj] {of sth} They have imprisoned an innocent man. "not guilty of a crime, etc.; not having done sth wrong"
 
@@ -4824,7 +4820,7 @@ We're open till 6 o'clock.
 
 
 
-09.firm  [fɜː(r)m]
+08.firm  [fɜː(r)m]
 
 [noun] an engineering firm. "a business or company"
 
@@ -10259,7 +10255,7 @@ These are freshly dug mass graves.
 
 
 
-#### 2020/09/19.27
+#### 2020/09/19.26
 
 01.cricket  [ˈkrɪkɪt]
 
@@ -10548,18 +10544,6 @@ When we use “borrow” in a sentence, we use the preposition “from.” Andy 
 [v]  The troops were commanded by General Haig.
 
 "to be in charge of a group of people in the army, navy, etc."
-
-
-
-27.demand  [dɪˈmɑːnd] 
-
-[noun] {~ (for sth/that…)} a very firm request for sth; sth that sb needs. "a demand for higher pay"
-
-[noun] {~ (of sth) | ~ (on sb)} the demands of children/work. "things that sb/sth makes you do, especially things that are difficult, make you tired, worried, etc."
-
-[noun] {~ (for sth/sb)} to meet the demand for a product. "the desire or need of customers for goods or services which they want to buy or use"
-
-[verb] She demanded an immediate explanation. "to **ask** for sth very **firmly**"
 
 
 
@@ -16870,7 +16854,7 @@ is that **specialist** is someone who is an expert in, or devoted to, some speci
 
 
 
-#### 20210104.07
+#### 20210104.06
 
 01.glory [ˈɡlɔːri]
 
@@ -16910,11 +16894,11 @@ His teachers are full of praise for the progress he's making.
 
 
 
-04.tycoon  [taɪˈkuːn] 
+04.latex  [ˈleɪteks] 
 
-[noun] a business/property/media tycoon. /Saudi crown prince expected to meet chaebol tycoons
+[noun] latex gloves [glʌvz] . "a thick white liquid that is produced by some plants and trees, especially rubber trees. Latex becomes solid when exposed to air, and is used to make medical products."
 
-"a person who is successful in business or industry and has become rich and powerful"
+[noun] "an artificial substance similar to this that is used to make paints, glues, etc."
 
 
 
@@ -16935,18 +16919,6 @@ His teachers are full of praise for the progress he's making.
 "used to describe a person or thing that takes the place of, or is used instead of, sb/sth else"
 
 [noun] {**Surrogate** is also a noun.} Arms control should not be made into a surrogate for peace.
-
-
-
-07.latex  [ˈleɪteks] 
-
-[noun] latex gloves [glʌvz] . "a thick white liquid that is produced by some plants and trees, especially rubber trees. Latex becomes solid when exposed to air, and is used to make medical products."
-
-[noun] "an artificial substance similar to this that is used to make paints, glues, etc."
-
-
-
-
 
 
 
@@ -56572,7 +56544,7 @@ While both are waterfowl, geese and ducks differ significantly in size, behavior
 
 
 
-#### 06/29
+#### 06/29.05
 
 01.juvenile [ˈdʒuːvənaɪl] 
 
@@ -56642,6 +56614,32 @@ Key Distinctions
 "the solid material that settles at the bottom of a liquid"
 
 
+
+#### 06/30.01
+
+01.tycoon  [taɪˈkuːn] 
+
+[noun] a business/property/media tycoon. /Saudi crown prince expected to meet chaebol tycoons./Chinese tycoon sentenced to 30 years in US jail.
+
+"a person who is successful in business or industry and has become rich and powerful"
+
+
+
+02.demand  [dɪˈmɑːnd] 
+
+[noun] {~ (for sth/that…)} a very firm request for sth; sth that sb needs. "a demand for higher pay"
+
+[noun] {~ (of sth) | ~ (on sb)} the demands of children/work. "things that sb/sth makes you do, especially things that are difficult, make you tired, worried, etc."
+
+[noun] {~ (for sth/sb)} to meet the demand for a product. "the desire or need of customers for goods or services which they want to buy or use"
+
+[verb] She demanded an immediate explanation. "to **ask** for sth very **firmly**"
+
+
+
+03.demand deposit interest rate vs deposit interest rate
+
+[phrase] Demand deposit interest rates are lower yields paid on highly liquid, immediately accessible accounts (like checking and savings). In contrast, deposit interest rates represent a broader category that includes both demand and term deposits, generally offering higher yields in exchange for locking your money away for a fixed period (like a Certificate of Deposit).
 
 
 
