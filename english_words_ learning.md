@@ -3411,7 +3411,7 @@ enquire[v] enquiry[n]
 
 
 
-#### 2020/04/02.15
+#### 2020/04/02.13
 
 01.over time
 Over time, those have to come back in balance.
@@ -3506,21 +3506,7 @@ Over time, those have to come back in balance.
 
 
 
-13.recap /ˈriːkæp/
-
-[v] Let me just recap on what we've decided so far. "= recapitulate"
-
-
-
-14.recapitulate/ˌriːkəˈpɪtʃuleɪt/
-
-[v] To recapitulate briefly, the three main points are these…
-
-"to repeat or give a summary of what has already been said, decided, etc."
-
-
-
-15.exist  [ɪɡˈzɪst] 
+13.exist  [ɪɡˈzɪst] 
 
 [verb] {not used in the progressive tenses}
 
@@ -5661,17 +5647,9 @@ Angela's $7,000 tuition at University this year will be paid for with scholarshi
 
 
 
-#### 2020/05/27.03
+#### 2020/05/27.02
 
-01.offence [əˈfens]
-
-[noun] a criminal/serious/minor/sexual, etc. offence."an illegal act"
-
-[noun] I'm sure he meant no offence when he said that."the act of upsetting or insulting sb"
-
-
-
-02.sabbatical [səˈbætɪkl]
+01.sabbatical [səˈbætɪkl]
 
 [noun] to take a year's sabbatical. 
 
@@ -5679,7 +5657,7 @@ Angela's $7,000 tuition at University this year will be paid for with scholarshi
 
 
 
-03.rotate  [rəʊˈteɪt]
+02.rotate  [rəʊˈteɪt]
 
 [verb] The EU presidency rotates among the members.
 
@@ -12300,7 +12278,7 @@ In summary, the main differences between blackbirds and crows are their physical
 
 [noun] {~ (for/to sb/sth) (to do sth)} 
 
-There is no incentive for people to save fuel [ˈfjuːəl].
+There is no incentive for people to save fuel [ˈfjuːəl]./tax incentives to encourage savings.
 
 "something that encourages you to do sth" =disincentive=
 
@@ -12710,29 +12688,7 @@ The examination is near at hand.
 
 
 
-09.victim  [ˈvɪktɪm] 
 
-[noun] murder/rape, etc. victims. 
-
-"a person who has been attacked, injured or killed as the result of a crime, a disease, an accident, etc."
-
-[noun] They were the victims of a cruel hoax. "a person who has been tricked" -target-
-
-
-
-10.victimize /ˈvɪktɪmaɪz/
-
-[v] For years the family had been victimized by racist neighbours.
-
-"to make sb suffer unfairly because you do not like them, their opinions, or sth that they have done"
-
-
-
-11.victimizer 
-
-[v] I thought we were partners, not victim and victimizer.
-
-"a person who victimizes others"
 
 
 
@@ -14638,7 +14594,7 @@ an ingenious device
 
 
 
-#### 2020/11/05.11
+#### 2020/11/05.09
 
 01.lawsuit  [ˈlɔːsuːt] 
 
@@ -14727,22 +14683,6 @@ an ingenious device
 [noun] "the soft thick mass of hair that grows on the body of some animals"
 
 [noun] a fur coat. "the skin of an animal with the fur still on it, used especially for making clothes"
-
-
-
-10.tally  [ˈtæli] 
-
-[noun] He hopes to improve on his tally of three goals in the past nine games."a record of the number or amount of sth, especially one that you can keep adding to"
-
-[verb] {~ (with sth)} Her report of what happened tallied exactly with the story of another witness.
-
-"to be the same as or to match another person's account of sth, another set of figures, etc."-match up-
-
-[verb] {~ sth (up)} "to calculate the total number, cost, etc. of sth"
-
-
-
-
 
 
 
@@ -15180,7 +15120,7 @@ D[adj] a freckled face/schoolgirl.
 
 
 
-#### 2020/11/15.15
+#### 2020/11/15.14
 
 01.meticulous  [məˈtɪkjələs] 
 
@@ -15286,11 +15226,11 @@ So, there are no hygiene issues related to finger vein scanning.
 
 
 
-12.nutrition [njuˈtrɪʃn] 
+12.meticulously / məˈtɪkjələsli /
 
-[noun] advice on diet and nutrition.
+[adv] I can't recall how many times we worked together to meticulously revise every word.
 
-"the process by which living things receive the food necessary for them to grow and be healthy"
+"in a meticulous manner"
 
 
 
@@ -15317,14 +15257,6 @@ So, there are no hygiene issues related to finger vein scanning.
 [v] The doors were always locked and chained.
 
 "to fasten sth with a chain; to fasten sb/sth to another person or thing with a chain, so that they do not escape or get stolen"
-
-
-
-15.meticulously / məˈtɪkjələsli /
-
-[adv] I can't recall how many times we worked together to meticulously revise every word.
-
-"in a meticulous manner"
 
 
 
@@ -18206,7 +18138,7 @@ D[difference]
 
 
 
-#### 20210201.10
+#### 20210201.08
 
 01.bent  [bent] 
 
@@ -18228,23 +18160,9 @@ D[difference]
 
 
 
-03.suspend [səˈspend]
+03.oversee [ˌoʊvərˈsiː]    oversaw-overseen
 
-[verb] {~ sth/sb (from sth) (by/on sth)}
-
-A lamp was suspended from the ceiling."to hang sth from sth else"
-
-[verb] Production has been suspended while safety checks are carried out.
-
-"to officially stop sth for a time; to prevent sth from being active, used, etc. for a time"
-
-[verb] The introduction of the new system has been suspended until next year.
-
-"to officially delay sth; to arrange for sth to happen later than planned"
-
-[verb] {~ sb (from sth)} The police officer was suspended while the complaint was investigated. 
-
-"to officially prevent sb from doing their job, going to school, etc. for a time"
+[verb] "to watch sb/sth and make sure that a job or an activity is done correctly" -supervise-
 
 
 
@@ -18260,9 +18178,9 @@ A lamp was suspended from the ceiling."to hang sth from sth else"
 
 
 
-05.incentive  [ɪnˈsentɪv]
+05.Nazi [ˈnɑːtsi] 
 
-[noun] {~ (for/to sb/sth) (to do sth)} tax incentives to encourage savings. "something that encourages you to do sth"
+[noun] "a member of the National Socialist party which controlled Germany from 1933 to 1945"
 
 
 
@@ -18299,22 +18217,6 @@ A lamp was suspended from the ceiling."to hang sth from sth else"
 <img src="./images/hiring_recruitment.jpg" alt="hiring_recruitment" style="zoom: 33%;" />
 
 **Hiring happens when you need to fill a role and consider candidates for employment.** **Recruiting is the process of attracting top talent to your organization**. While recruiting can certainly help you find the right person to hire, it should be an ongoing process, even when you don't have job openings.
-
-
-
-09.Nazi [ˈnɑːtsi] 
-
-[noun] "a member of the National Socialist party which controlled Germany from 1933 to 1945"
-
-
-
-10.oversee [ˌoʊvərˈsiː]    oversaw-overseen
-
-[verb] "to watch sb/sth and make sure that a job or an activity is done correctly" -supervise-
-
-
-
-
 
 
 
@@ -18490,7 +18392,13 @@ A lamp was suspended from the ceiling."to hang sth from sth else"
 
 #### 20210205.16
 
+01.Caucasian  [kɔːˈkeɪʒn] 
 
+[noun] The concept of dividing humankind into the Mongoloid, [Caucasoid](https://en.wikipedia.org/wiki/Caucasoid), and [Negroid](https://en.wikipedia.org/wiki/Negroid) races was introduced in the 1780s by members of the [Göttingen School of History](https://en.wikipedia.org/wiki/Göttingen_School_of_History).
+
+World race population 2023 Mongoloid 27%, Caucasian 27% and Negroid 43%.
+
+"a member of any of the races of people who have pale skin"
 
 
 
@@ -18627,16 +18535,6 @@ A lamp was suspended from the ceiling."to hang sth from sth else"
 [v] The salt crystallizes as the water evaporates.
 
  "to form or make sth form into crystals"
-
-
-
-16.Caucasian  [kɔːˈkeɪʒn] 
-
-[noun] The concept of dividing humankind into the Mongoloid, [Caucasoid](https://en.wikipedia.org/wiki/Caucasoid), and [Negroid](https://en.wikipedia.org/wiki/Negroid) races was introduced in the 1780s by members of the [Göttingen School of History](https://en.wikipedia.org/wiki/Göttingen_School_of_History).
-
-World race population 2023 Mongoloid 27%, Caucasian 27% and Negroid 43%.
-
-"a member of any of the races of people who have pale skin"
 
 
 
@@ -22183,25 +22081,29 @@ D[adj] frayed denim shorts
 
 
 
-#### 20210423.13
+#### 20210423.12
 
 01.run out of  [rʌn aʊt ɒv]
 
-[phrasal] our food is about to run out."be used up"
+[phrasal] our food is about to run out.
+
+"be used up"
 
 
 
 02.hatch [hætʃ] 
 
-[verb] Ten chicks hatched (out) this morning. "to come out of an egg"
+[verb] Ten chicks hatched (out) this morning. 
+
+"to come out of an egg"
 
 
 
-03.incentive  [ɪnˈsentɪv]
+03.nest [nest]
 
-[noun] {~ (for/to sb/sth) (to do sth)} tax incentives to encourage savings.
+[noun] "a place where insects or other small creatures live and produce their young"
 
-"something that encourages you to do sth"
+[verb] Thousands of seabirds are nesting on the cliffs. "to make and use a nest"
 
 
 
@@ -22292,14 +22194,6 @@ His singing voice can best be described by the connotative word “velvet.
 [adj] I'm a little hazy about what to do next."uncertain or confused about sth"
 
 D[adv] ‘Why now?’ she wondered hazily.
-
-
-
-13.nest [nest]
-
-[noun] "a place where insects or other small creatures live and produce their young"
-
-[verb] Thousands of seabirds are nesting on the cliffs. "to make and use a nest"
 
 
 
@@ -30021,23 +29915,11 @@ D[adv] riskiness
 
 
 
-#### 04/11.02
+#### 04/11.01
 
 01.deprived  [dɪˈpraɪvd]
 
 [adj] Its people are overworked, stressed out and sleep deprived.
-
-
-
-02.scrap  [skræp] 
-
-[NOUN] She scribbled his phone number on a scrap of paper.
-
-"a small piece of sth, especially paper, cloth, etc."
-
-[VERB] Transition team eyes scrapping 'Korean age'./China to scrap PCR test requirement for inbound travelers.
-
-"to cancel or get rid of sth that is no longer practical or useful"
 
 
 
@@ -31220,30 +31102,12 @@ The students left the classroom right after the class was over.
 
 
 
-#### 10/20.02
+#### 10/20.01
 
 01.beef up
 
 [phrase verb] LG beefs up efforts to comply with Biden's Made in America policies.
 "If you **beef up** something, you increase, strengthen, or improve it."
-
-
-
-02.nurture [ˈnɜː(r)tʃə(r)] 
-
-[verb] These delicate plants need careful nurturing.
-
-"to care for and protect sb/sth while they are growing and developing"
-
-[verb] Also, the government aims to nurture 150,000 chip professionals over the next 10 years by providing support measures, such as helping universities establish semiconductor-specialized schools.
-
-They will also nurture foreign workers skilled in fabrication, machinery, welding and related specialty areas by offering students work experience opportunities and expanded internship programs.
-
-ICPR 2024 is the 27th event of the series and it provides a great opportunity to nurture new ideas and collaboration for students, academics, and industry researchers.
-
-"to help sb/sth to develop and be successful"
-
-[n] nature vs nurture."care, encouragement and support given to sb/sth while they are growing"
 
 
 
@@ -32163,7 +32027,7 @@ D[noun]  Bullying is a problem in many schools.
 
 
 
-#### 12/04.07
+#### 12/04.04
 
 01.high bar
 
@@ -32171,37 +32035,7 @@ D[noun]  Bullying is a problem in many schools.
 
 
 
-02.convict /kənˈvɪkt , ˈkɑːnvɪkt/
-
-[v] The two sides also touched on sensitive issues. Biden pointed out that Trump was the only convicted felon at the stage. Trump raised an issue with Biden's son, Hunter.
-
-"to decide and state officially in court that sb is guilty of a crime"
-
-[n] "a person who has been found guilty of a crime and sent to prison"
-
-
-
-
-
-
-
-04.conviction  [kənˈvɪkʃn] 
-
-[noun] She has six previous convictions for theft.
-
-"the act of finding sb guilty of a crime in court; the fact of having been found guilty"
-
-[noun] She was motivated by deep religious conviction.
-
-"a strong opinion or belief"
-
-[noun] ‘Not true!’ she said with conviction.
-
-"the feeling or appearance of believing sth strongly and of being sure about it"
-
-
-
-05.theft [θeft] 
+02.theft [θeft] 
 
 [noun] Police are investigating the theft of computers from the company's offices.
 
@@ -32209,7 +32043,7 @@ D[noun]  Bullying is a problem in many schools.
 
 
 
-06.felon /ˈfelən/ 
+03.felon /ˈfelən/ 
 
 [n] Biden calls Trump a convicted felon at first presidential debate.
 
@@ -32217,7 +32051,7 @@ D[noun]  Bullying is a problem in many schools.
 
 
 
-07.felony /ˈfeləni/
+04.felony /ˈfeləni/
 
 [n] a charge of felony./ prison: incarceration for felonies and longer sentences.
 
@@ -50705,7 +50539,7 @@ I've got a terrific amount of work to do."very large; very great"
 
 02.offender /əˈfendər/
 
-[n] Number of drug offenders surpasses 20,000 for 2nd straight year. 
+[n] Number of drug offenders surpasses 20,000 for 2nd straight year./The courts have also reduced sentences in some cases where the convicted individuals reported on other offenders. 
 
 "a person who commits a crime"
 
@@ -56615,7 +56449,7 @@ Key Distinctions
 
 
 
-#### 06/30.01
+#### 06/30.03
 
 01.tycoon  [taɪˈkuːn] 
 
@@ -56640,6 +56474,218 @@ Key Distinctions
 03.demand deposit interest rate vs deposit interest rate
 
 [phrase] Demand deposit interest rates are lower yields paid on highly liquid, immediately accessible accounts (like checking and savings). In contrast, deposit interest rates represent a broader category that includes both demand and term deposits, generally offering higher yields in exchange for locking your money away for a fixed period (like a Certificate of Deposit).
+
+
+
+#### 07/07.17
+
+01.tally  [ˈtæli] 
+
+[noun] He hopes to improve on his tally of three goals in the past nine games./There are two parts: building running tallies (`FC`, `FS`), and computing the target reference values (`ideal`, `w`, `target`). 
+
+"a record of the number or amount of sth, especially one that you can keep adding to"
+
+[verb] {~ (with sth)} Her report of what happened tallied exactly with the story of another witness.
+
+"to be the same as or to match another person's account of sth, another set of figures, etc."-match up-
+
+[verb] {~ sth (up)} "to calculate the total number, cost, etc. of sth"
+
+
+
+02.recap /ˈriːkæp/
+
+[v] Let me just recap on what we've decided so far. "= recapitulate"
+
+
+
+03.recapitulate/ˌriːkəˈpɪtʃuleɪt/
+
+[v] To recapitulate briefly, the three main points are these…
+
+"to repeat or give a summary of what has already been said, decided, etc."
+
+
+
+04.scrap  [skræp] 
+
+[NOUN] She scribbled his phone number on a scrap of paper.
+
+"a small piece of sth, especially paper, cloth, etc."
+
+[VERB] Transition team eyes scrapping 'Korean age'./China to scrap PCR test requirement for inbound travelers./Earlier this year, Samsung agreed to scrap its 1,000% base salary bonus cap and earmark 10.5% of its operating profit for bonuses, capitulating to a weeks-long labor union protest that demanded a fair share of the company’s earnings.
+
+"to cancel or get rid of sth that is no longer practical or useful"
+
+
+
+05.embezzlement /ɪmˈbezlmənt/
+
+[n] Yang Youlin, who served in various positions in Nanjing city from 1993 to 2023, was also convicted of embezzlement, abuse of power and money laundering, with his ill-gotten gains amounting to one of the highest in recent years.
+
+"Embezzlement is the crime of embezzling money."
+
+
+
+06.embezzle /ɪmˈbezl/
+
+[v] He was found guilty of embezzling $150 000 of public funds.
+
+"to steal money that you are responsible for or that belongs to your employer"
+
+
+
+07.ill-gotten /ˌɪl ˈɡɑːtn/
+
+[adj] Jack will never get rich by ill-gotten wealth.
+
+"obtained dishonestly or unfairly"
+
+
+
+08.mete out /miːt aʊt/
+
+[PV] His father meted out punishment with a slipper.
+
+"To mete out a punishment means to order that someone should be punished in a certain way."
+
+
+
+09.white collar crimes /waɪt ˈkɑːlər kraɪmz/
+
+[phrase] Death sentences for white collar crimes however remain rare, though they are meted out occasionally, typically if the cases involve large sums exceeding 1bn yuan.
+
+"White-collar crime refers to non-violent, financially motivated offenses committed by individuals, businesses, or government professionals. These crimes are typically carried out in professional or commercial settings and rely on deceit, fraud, or the abuse of trust rather than physical force for financial gain."
+
+
+
+10.suspend [səˈspend]
+
+[verb] {~ sth/sb (from sth) (by/on sth)}
+
+A lamp was suspended from the ceiling."to hang sth from sth else"
+
+[verb] Production has been suspended while safety checks are carried out.
+
+"to officially stop sth for a time; to prevent sth from being active, used, etc. for a time"
+
+[verb] The introduction of the new system has been suspended until next year.
+
+"to officially delay sth; to arrange for sth to happen later than planned"
+
+[verb] {~ sb (from sth)} The police officer was suspended while the complaint was investigated. 
+
+"to officially prevent sb from doing their job, going to school, etc. for a time"
+
+
+
+11.convict /kənˈvɪkt , ˈkɑːnvɪkt/
+
+[v] The two sides also touched on sensitive issues. Biden pointed out that Trump was the only convicted felon at the stage. Trump raised an issue with Biden's son, Hunter.
+
+"to decide and state officially in court that sb is guilty of a crime"
+
+[n] "a person who has been found guilty of a crime and sent to prison"
+
+
+
+12.conviction  [kənˈvɪkʃn] 
+
+[noun] She has six previous convictions for theft.
+
+"the act of finding sb guilty of a crime in court; the fact of having been found guilty"
+
+[noun] She was motivated by deep religious conviction.
+
+"a strong opinion or belief"
+
+[noun] ‘Not true!’ she said with conviction.
+
+"the feeling or appearance of believing sth strongly and of being sure about it"
+
+
+
+13.victim /ˈvɪktɪm/
+
+[n] "a person who has been attacked, injured or killed as the result of a crime, a disease, an accident, etc."
+
+
+
+14.victim  [ˈvɪktɪm] 
+
+[noun] murder/rape, etc. victims. 
+
+"a person who has been attacked, injured or killed as the result of a crime, a disease, an accident, etc."
+
+[noun] They were the victims of a cruel hoax. "a person who has been tricked" -target-
+
+
+
+15.victimize /ˈvɪktɪmaɪz/
+
+[v] For years the family had been victimized by racist neighbours.
+
+"to make sb suffer unfairly because you do not like them, their opinions, or sth that they have done"
+
+
+
+16.victimizer 
+
+[v] I thought we were partners, not victim and victimizer.
+
+"a person who victimizes others"
+
+
+
+17.offence [əˈfens]
+
+[noun] a criminal/serious/minor/sexual, etc. offence./But while Yang provided similar assistance to authorities, his offences were so "grave" that his assistance "was insufficient to warrant a more lenient punishment", the Changzhou court said.
+
+"an illegal act"
+
+[noun] I'm sure he meant no offence when he said that."the act of upsetting or insulting sb"
+
+
+
+#### 07/08
+
+01.nurture [ˈnɜː(r)tʃə(r)] 
+
+[verb] These delicate plants need careful nurturing.
+
+"to care for and protect sb/sth while they are growing and developing"
+
+[verb] Also, the government aims to nurture 150,000 chip professionals over the next 10 years by providing support measures, such as helping universities establish semiconductor-specialized schools.
+
+They will also nurture foreign workers skilled in fabrication, machinery, welding and related specialty areas by offering students work experience opportunities and expanded internship programs.
+
+ICPR 2024 is the 27th event of the series and it provides a great opportunity to nurture new ideas and collaboration for students, academics, and industry researchers./
+
+Korea University focuses on nurturing global talent
+
+"to help sb/sth to develop and be successful"
+
+[n] nature vs nurture."care, encouragement and support given to sb/sth while they are growing"
+
+
+
+02.nutrition [njuˈtrɪʃn] 
+
+[noun] advice on diet and nutrition.
+
+"the process by which living things receive the food necessary for them to grow and be healthy"
+
+
+
+03.headword /ˈhedwɜːrd/
+
+[n] A **headword** is a word or phrase that appears at the beginning of an entry in a dictionary, glossary, or encyclopedia.
+
+"In a dictionary, a headword is a word which is followed by an explanation of its meaning."
+
+
+
+
 
 
 
