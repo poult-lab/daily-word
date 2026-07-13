@@ -7133,7 +7133,7 @@ sliced meat.
 
 
 
-#### 2020/07/14.15
+#### 2020/07/14.10
 
 03.mechanical [məˈkænɪkl] "机械de"
 
@@ -7182,77 +7182,6 @@ sliced meat.
 
 
 10.Political [pəˈlɪtɪkl] [adj] "政治的" / policy [ˈpɒləsi] "[ˈpɒləsi]" / politician  [ˌpɒləˈtɪʃn]  "从政者;政治家;政客"{贬义词}/ statesman [ˈsteɪtsmən] [政治家]
-
-
-
-11.vital [ˈvaɪtl]
-
-[adj] {~ (for/to sth)} the vitamins that are vital for health./
-
-If Americans want to really compete in this vital industry, we’re going to have to **step up** our game.
-
-"necessary or essential in order for sth to succeed or exist"
-
-
-
-12.critical [ˈkrɪtɪkl] 
-
-[adj] a critical comment/report.
-
-"expressing **disapproval** of sb/sth and saying what you think is bad about them"
-
-[adj] a critical factor in the election campaign. 
-
-"extremely important because a future situation will be affected by it" -crucial-
-
-
-
-13.essential /ɪˈsenʃl/
-
-[adj] Money is not essential to happiness.
-
-"completely necessary; extremely important in a particular situation or for a particular activity"
-
-[adj] The essential difference between Sara and me is in our attitude to money.
-
-"connected with the most important aspect or basic nature of sb/sth"
-
-[noun] I only had time to pack the bare essentials (= the most necessary things) .
-
-"something that is needed in a particular situation or in order to do a particular thing"
-
-[noun] the essentials of English grammar.
-
-"an important basic fact or piece of knowledge about a subject"
-
-
-
-14.crucial /ˈkruːʃl/
-
-[adj] Winning this contract is crucial to the success of the company.
-
-"extremely important, because it will affect other things"
-
-[adv] crucially important.
-
-
-
-"Critical" is another word that is often used to describe something that is important, but it has a slightly different meaning compared to "crucial," "vital," and "essential." Here's a breakdown of each word:
-
-- Crucial: Something that is crucial is essential to the success or completion of something else. It suggests that without this particular element, the entire endeavor would be jeopardized. For example, "His experience was crucial to the project's success," suggests that without his experience, the project would have failed.
-- Vital: Something that is vital is necessary for the existence, well-being, or continued existence of something else. It suggests that the thing being described is absolutely necessary and cannot be replaced. For example, "Oxygen is vital to human survival," suggests that without oxygen, humans cannot survive.
-- Essential: Something that is essential is necessary in order to achieve a certain result or outcome. It suggests that the thing being described is important, but may not necessarily be irreplaceable. For example, "Good communication is essential for a successful team," suggests that good communication is **necessary** for success, but there may be other ways to achieve success besides good communication.
-- Critical: Something that is critical is extremely important and often urgent. It suggests that the situation is serious and requires immediate attention. For example, "The patient's condition is critical," suggests that the patient's condition is very serious and requires urgent medical attention.
-
-So, while all four words describe something that is important, crucial implies that the thing being described is indispensable for success, vital suggests that it is necessary for existence, essential implies that it is necessary for achieving a desired outcome, and critical implies that the situation is serious and requires immediate attention.
-
-
-
-15.crucially /ˈkruʃəlɪ/
-
-[adv]  Crucially, in contrast to ResNets, we never combine features through summation before they are passed into a layer; instead, we combine features by concatenating them.
-
-"to a crucial degree"
 
 
 
@@ -13863,15 +13792,7 @@ D[noun] "elimination"
 
 
 
-06.ammunition  [ˌæmjuˈnɪʃn]
 
-[noun] He had only seven rounds of ammunition for the revolver.
-
-"a supply of bullets, etc. to be fired from guns"
-
-[noun] The letter gave her all the ammunition she needed. 
-
-"information that can be used against another person in an argument"
 
 
 
@@ -30371,7 +30292,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-#### 05/23.05
+#### 05/23.04
 
 01.pull out [ˈpʊl aʊt]
 
@@ -30397,15 +30318,7 @@ On December 1, 2018, [Meng Wanzhou](https://en.wikipedia.org/wiki/Meng_Wanzhou),
 
 
 
-04.stellar [ˈstelər] 
-
-[adj] On the other hand, Lotte's retail businesses in Indonesia and Vietnam are displaying stellar performances.
-
-"excellent"
-
-
-
-05.barb [bɑːrb]
+04.barb [bɑːrb]
 
 [noun] "the point of an arrow or a hook that is curved backwards to make it difficult to pull out"
 
@@ -38585,7 +38498,7 @@ bureau[v]  People were trampled underfoot in the rush for the exit.
 
 
 
-#### 09/15.05
+#### 09/15.04
 
 01.mammogram /ˈmæməɡræm/
 
@@ -38620,28 +38533,6 @@ bureau[v]  People were trampled underfoot in the rush for the exit.
 screen vs monitor 
 
 > “Screen” is a generic term for displays in all sorts of situations - the screen on a phone, a PC screen, a TV screen, an embedded display of some sort, a cinema or projector screen, etc. “Monitor” refers specifically to a computer peripheral that incorporates a screen.
-
-
-
-05.raise /reɪz/
-
-[v] She raised the gun and fired.
-
-"to lift or move sth to a higher level"
-
-[v] He raised himself up on one elbow."to move sth/sb/yourself to a vertical position"
-
-[v] to raise salaries/prices/taxes. 
-
-"to increase the amount or level of sth"
-
-[v] If Jensen Huang mentioned that he was raising money all the time at the beginning of NVIDIA, it would likely refer to the early stages of the company's development. 
-
-"to bring or collect money or people together; to manage to get or form sth"
-
-
-
-> They both mean "move up", but "raise" is usually used in an idiomatic/figurative way ("The sales were raised by 150%"), and "lift" is for when you are actually, literally moving a real thing up ("I lifted the box."). There is some overlap between the two, but not too much.
 
 
 
@@ -56647,7 +56538,7 @@ A lamp was suspended from the ceiling."to hang sth from sth else"
 
 
 
-#### 07/08
+#### 07/08.03
 
 01.nurture [ˈnɜː(r)tʃə(r)] 
 
@@ -56685,9 +56576,140 @@ Korea University focuses on nurturing global talent
 
 
 
+#### 07/13
+
+01.raise /reɪz/
+
+[v] She raised the gun and fired.
+
+"to lift or move sth to a higher level"
+
+[v] He raised himself up on one elbow."to move sth/sb/yourself to a vertical position"
+
+[v] to raise salaries/prices/taxes. 
+
+"to increase the amount or level of sth"
+
+[v] If Jensen Huang mentioned that he was raising money all the time at the beginning of NVIDIA, it would likely refer to the early stages of the company's development. 
+
+"to bring or collect money or people together; to manage to get or form sth"
+
+[v] In the meeting Mrs. Ashrawi raised the three main concerns that the Palestinians had...
+
+"If you raise a subject, an objection, or a question, you mention it or bring it to someone's attention."
+
+> They both mean "move up", but "raise" is usually used in an idiomatic/figurative way ("The sales were raised by 150%"), and "lift" is for when you are actually, literally moving a real thing up ("I lifted the box."). There is some overlap between the two, but not too much.
 
 
 
+02.vital [ˈvaɪtl]
+
+[adj] {~ (for/to sth)} the vitamins that are vital for health./
+
+If Americans want to really compete in this vital industry, we’re going to have to **step up** our game.
+
+"necessary or essential in order for sth to succeed or exist"
+
+
+
+03.critical [ˈkrɪtɪkl] 
+
+[adj] a critical comment/report.
+
+"expressing **disapproval** of sb/sth and saying what you think is bad about them"
+
+[adj] a critical factor in the election campaign. 
+
+"extremely important because a future situation will be affected by it" -crucial-
+
+
+
+04.essential /ɪˈsenʃl/
+
+[adj] Money is not essential to happiness.
+
+"completely necessary; extremely important in a particular situation or for a particular activity"
+
+[adj] The essential difference between Sara and me is in our attitude to money.
+
+"connected with the most important aspect or basic nature of sb/sth"
+
+[noun] I only had time to pack the bare essentials (= the most necessary things) .
+
+"something that is needed in a particular situation or in order to do a particular thing"
+
+[noun] the essentials of English grammar.
+
+"an important basic fact or piece of knowledge about a subject"
+
+
+
+05.crucial /ˈkruːʃl/
+
+[adj] Winning this contract is crucial to the success of the company.
+
+"extremely important, because it will affect other things"
+
+[adv] crucially important.
+
+
+
+"Critical" is another word that is often used to describe something that is important, but it has a slightly different meaning compared to "crucial," "vital," and "essential." Here's a breakdown of each word:
+
+- Crucial: Something that is crucial is essential to the success or completion of something else. It suggests that without this particular element, the entire endeavor would be jeopardized. For example, "His experience was crucial to the project's success," suggests that without his experience, the project would have failed.
+- Vital: Something that is vital is necessary for the existence, well-being, or continued existence of something else. It suggests that the thing being described is absolutely necessary and cannot be replaced. For example, "Oxygen is vital to human survival," suggests that without oxygen, humans cannot survive.
+- Essential: Something that is essential is necessary in order to achieve a certain result or outcome. It suggests that the thing being described is important, but may not necessarily be irreplaceable. For example, "Good communication is essential for a successful team," suggests that good communication is **necessary** for success, but there may be other ways to achieve success besides good communication.
+- Critical: Something that is critical is extremely important and often urgent. It suggests that the situation is serious and requires immediate attention. For example, "The patient's condition is critical," suggests that the patient's condition is very serious and requires urgent medical attention.
+
+So, while all four words describe something that is important, crucial implies that the thing being described is indispensable for success, vital suggests that it is necessary for existence, essential implies that it is necessary for achieving a desired outcome, and critical implies that the situation is serious and requires immediate attention.
+
+
+
+06.crucially /ˈkruʃəlɪ/
+
+[adv]  Crucially, in contrast to ResNets, we never combine features through summation before they are passed into a layer; instead, we combine features by concatenating them.
+
+"to a crucial degree"
+
+
+
+07.critically /ˈkrɪtɪkli/
+
+[adv] At least 27 killed, eight critically injured in Bangkok bar fire.
+
+"If a person is critical or in a critical condition in hospital, they are seriously ill."
+
+
+
+08.stellar [ˈstelər] 
+
+[adj] SK Hynix shares slide 12% in Seoul after stellar Nasdaq debut.
+
+"connected with the stars"
+
+[adj] On the other hand, Lotte's retail businesses in Indonesia and Vietnam are displaying stellar performances.
+
+"excellent"
+
+
+
+09.impulse /ˈɪmpʌls/
+
+[n] Jang Yoon-gi, the 23-year-old suspected of killing a high school girl in Gwangju, admitted to the rape-murder charge on Monday, reversing his earlier claim that the killing was the result of an impulse and not sexually motivated.
+
+"a sudden strong wish or need to do sth, without stopping to think about the results"
+
+
+
+10.ammunition  [ˌæmjuˈnɪʃn]
+
+[noun] He had only seven rounds of ammunition for the revolver./As the won-dollar exchange rate remains at unusually elevated levels despite record-high exports fueled by strong semiconductor demand, market attention has increasingly turned to the question of how much ammunition foreign exchange authorities have.
+
+"a supply of bullets, etc. to be fired from guns"
+
+[noun] The letter gave her all the ammunition she needed. 
+
+"information that can be used against another person in an argument"
 
 
 
