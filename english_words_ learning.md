@@ -8387,7 +8387,7 @@ teenage slang.
 
 
 
-#### 2020/08/29.10
+#### 2020/08/29.08
 
 01.alert [əˈlɜːt]
 
@@ -8447,7 +8447,13 @@ the search for a cure for cancer.
 
 
 
+04.format [ˈfɔːrmæt]
 
+[noun] They've brought out the magazine in a new format.
+
+ "the shape and size of a book, magazine, etc."
+
+[verb] "to prepare a computer disk so that data can be recorded on it"
 
 
 
@@ -8480,32 +8486,6 @@ D[noun] an eruption of violent protest.
 08.oily  [ˈɔɪli] 
 
 [adj] oily fish. "containing or covered with oil"
-
-
-
-09.format [ˈfɔːrmæt]
-
-[noun] They've brought out the magazine in a new format.
-
- "the shape and size of a book, magazine, etc."
-
-[verb] "to prepare a computer disk so that data can be recorded on it"
-
-
-
-10.volcano  [vɒlˈkeɪnəʊ] 
-
-[noun] 
-
-a dormant volcano (= one that is not active at present) 
-
-休眠火山
-
-an extinct volcano (= one that is no longer active) 
-
-死火山
-
-"a mountain with a large opening at the top through which gases and lava (= hot liquid rock) are forced out into the air, or have been in the past"
 
 
 
@@ -11289,19 +11269,13 @@ D[adv] I distinctly heard someone calling me.
 
 
 
-#### 2020/10/02.05
+#### 2020/10/02.04
 
-01.stubborn  [ˈstʌbən] 
+01.unrelenting /ˌʌnrɪˈlentɪŋ/
 
-[adj]  {often disapproving} He was too stubborn to admit that he was wrong. 
+[adj] unrelenting pressure. "not stopping or becoming less severe" -relentless[adj]-
 
-"determined not to change your opinion or attitude" -obstinate-
 
-[adj] a stubborn cough/stain.  "difficult to get rid of or deal with" -persistent-
-
-D[adv] stubbornly
-
-D[noun] stubbornness
 
 
 
@@ -11334,12 +11308,6 @@ D[noun] stubbornness
 "refusing to change your opinions, way of behaving, etc. when other people try to persuade you to; showing this" -stubborn-
 
 [adj] the obstinate problem of unemployment. "difficult to get rid of or deal with"
-
-
-
-05.unrelenting /ˌʌnrɪˈlentɪŋ/
-
-[adj] unrelenting pressure. "not stopping or becoming less severe" -relentless[adj]-
 
 
 
@@ -19604,7 +19572,7 @@ British Airways."a route regularly used by planes"
 
 
 
-#### 20210303.12
+#### 20210303.11
 
 01.evoke/ɪˈvəʊk/ /ɪˈvoʊk/
 
@@ -19688,13 +19656,7 @@ I have a tendency to talk too much when I'm nervous.
 
 
 
-11.sailor   [ˈseɪlə(r)] 
-
-[noun] "a person who works on a ship as a member of the crew"
-
-
-
-12.virtue  [ˈvɜː(r)tʃuː]
+11.virtue  [ˈvɜː(r)tʃuː]
 
 [noun] He led a life of virtue."behaviour or attitudes that show high moral standards"
 
@@ -24177,7 +24139,7 @@ A hashtag is a metadata tag that is prefaced by the hash symbol, #
 
 
 
-#### 20210705.07
+#### 20210705.04
 
 01.boycott [ˈbɔɪkɒt]  [ˈbɔɪkɑːt] 
 
@@ -24189,23 +24151,7 @@ A hashtag is a metadata tag that is prefaced by the hash symbol, #
 
 
 
-02.condemn  [kənˈdem]
-
-[verb] { ~ sb/sth (for/as sth)}The government issued a statement condemning the killings.
-
-"to express very strong disapproval of sb/sth, usually for moral reasons"
-
-[verb] {~ sb (to sth)}  He was condemned to death for murder and later hanged.
-
-"to say what sb's punishment will be" -sentence-
-
-
-
-
-
-
-
-05.precipitate  [prɪˈsɪpɪteɪt , prɪˈsɪpɪtət]
+02.precipitate  [prɪˈsɪpɪteɪt , prɪˈsɪpɪtət]
 
 [verb] His resignation precipitated a leadership crisis. 
 
@@ -24213,13 +24159,13 @@ A hashtag is a metadata tag that is prefaced by the hash symbol, #
 
 
 
-06.escalator [ˈeskəleɪtə(r)] 
+03.escalator [ˈeskəleɪtə(r)] 
 
 [noun] "moving stairs that carry people between different floors of a large building"
 
 
 
-07.cohesive [kəʊˈhiːsɪv]
+04.cohesive [kəʊˈhiːsɪv]
 
 [adj] a cohesive group."forming a united whole"
 
@@ -27551,23 +27497,15 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-10.carvings  [ˈkɑː(r)vɪŋ]
-
-[noun] ...a wood carving of a human hand. 
-
-"an object or a pattern made by cutting away material from wood or stone"
-
-
-
-11.carve  [kɑː(r)v] 
-
-[verb] Who's going to carve the turkey?
-
-"to cut a large piece of cooked meat into smaller pieces for eating"
 
 
 
 
+11.excessively  [ɪkˈsɛsɪvli] 
+
+[adv] But the Korean government has been excessively regulating innovative car-sharing services from entering the industry.
+
+"If you describe the amount or level of something as **excessive**, you disapprove of it because it is more or higher than is necessary or reasonable."
 
 
 
@@ -27662,16 +27600,6 @@ She was bursting with impatience to tell me the news.
 [noun] {BrE} a luggage van.
 
 "a closed coach/car on a train for carrying bags, cases, etc. or mail"
-
-
-
-19.excessively  [ɪkˈsɛsɪvli] 
-
-[adv] But the Korean government has been excessively regulating innovative car-sharing services from entering the industry.
-
-"If you describe the amount or level of something as **excessive**, you disapprove of it because it is more or higher than is necessary or reasonable."
-
-
 
 
 
@@ -40535,21 +40463,17 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 
 
 
-
-
-
-
 07.is pulling for
 
 [vp] "The expression "I'm pulling for you" is a way of expressing support, encouragement, or rooting for someone. When someone says, "I'm pulling for you," they are conveying that they are on your side, wishing you success, and hoping for positive outcomes in whatever endeavor or situation you are facing. It's a way of showing empathy and encouragement, indicating that the speaker wants the best for you and believes in your abilities or success."
 
 
 
-08.miscarriage /ˈmɪskærɪdʒ/
+08.freelance /ˈfriːlæns/
 
-[n] The pregnancy ended in miscarriage at 11 weeks.
+[adj] In 1988, Chin worked as a freelance composer at the electronic music studio of the Technical University of Berlin, realizing seven works.
 
-"the process of giving birth to a baby before it is fully developed and able to survive; an occasion when this happens"
+"earning money by selling your work or services to several different organizations rather than being employed by one particular organization"
 
 
 
@@ -40566,18 +40490,6 @@ noun. ass·wipe ˈas-ˌwīp. plural asswipes. vulgar slang. : **a stupid, annoyi
 [n] For corporate customers, Homeplus will distribute additional vouchers to those purchasing over 5 million won worth of vouchers.
 
 "a printed piece of paper that can be used instead of money to pay for sth, or that allows you to pay less than the usual price of sth"
-
-
-
-11.freelance /ˈfriːlæns/
-
-[adj] In 1988, Chin worked as a freelance composer at the electronic music studio of the Technical University of Berlin, realizing seven works.
-
-"earning money by selling your work or services to several different organizations rather than being employed by one particular organization"
-
-
-
-
 
 
 
@@ -56576,7 +56488,7 @@ Korea University focuses on nurturing global talent
 
 
 
-#### 07/13
+#### 07/13.10
 
 01.raise /reɪz/
 
@@ -56713,3 +56625,260 @@ So, while all four words describe something that is important, crucial implies t
 
 
 
+#### 07/14.06
+
+01.dope /doʊp/
+
+ [slang] 'Everything dope about America comes from Chicago.
+
+"In that sentence, "dope" is slang meaning "cool," "great," or "excellent" — it's a positive, enthusiastic way of describing something impressive."
+
+
+
+02.retard /rɪˈtɑːrd , ˈriːtɑːrd/
+
+[v] The progression of the disease can be retarded by early surgery. "to make the development or progress of sth slower"
+
+[n] When one of the guests states that he is "recently retired," Borat hilariously mishears the word as "retard".
+
+"an offensive way of describing sb who is not intelligent or who has not developed normally"
+
+
+
+03.deadpan /ˈdedpæn/
+
+[adj] **Borat:** *(deadpan, looking around the table)* "It is very good you allow retard to eat with you in the same place." [[1](https://www.instagram.com/reel/CGa64v_nIoj/), [2](https://www.instagram.com/reel/DCpBavDPo8g/)]
+
+"without any expression or emotion; often pretending to be serious when you are joking"
+
+> While both terms describe an emotionless, unreadable facial expression, **poker face** refers to intentionally hiding one's feelings or thoughts (especially to deceive), whereas **deadpan** is an intentionally blank expression used specifically to deliver dry humor or irony.
+
+
+
+04.irony /ˈaɪrəni/
+
+[n] The irony is that when he finally got the job, he discovered he didn't like it.
+
+"the amusing or strange aspect of a situation that is very different from what you expect; a situation like this"
+
+
+
+05.tangle /ˈtæŋɡl/
+
+[n] Her hair was a mass of tangles.
+
+"a twisted mass of threads, hair, etc. that cannot be easily separated"
+
+[v] She had tangled up the sheets on the bed as she lay tossing and turning.
+
+"to twist sth into an untidy mass; to become twisted in this way"
+
+
+
+06.untangle /ˌʌnˈtæŋɡl/
+
+[v] He was found desperately trying to untangle several reels of film.
+
+"If you untangle something that is knotted or has become twisted around something, you undo the knots in it or free it."
+
+[v] Lawyers and accountants began trying to untangle the complex affairs of the bank...
+
+"f you untangle a confused or complicated situation, you make the different things involved clear, or put the situation right."
+
+
+
+#### 07/15.06
+
+01.womb /wuːm/
+
+[n] Baby sharks eat each other in the womb.
+
+"the organ in women and female animals in which babies develop before they are born"
+
+
+
+02.navel /ˈneɪvl/
+
+[n] {also informal belly button} Sharks have belly buttons.
+
+ "Your navel is the small hollow just below your waist at the front of your body." 
+
+
+
+03.held-out 
+
+[data science] "***\*Held-out\**** generally refers to data, information, or resources intentionally set aside and not used during the initial process."
+
+
+
+04.carvings  [ˈkɑː(r)vɪŋ]
+
+[noun] ...a wood carving of a human hand. 
+
+"an object or a pattern made by cutting away material from wood or stone"
+
+
+
+05.carve  [kɑː(r)v] 
+
+[verb] Who's going to carve the turkey?
+
+"to cut a large piece of cooked meat into smaller pieces for eating"
+
+[v] The wood had been carved into the shape of a flower.
+
+"to make objects, patterns, etc. by cutting away material from wood or stone"
+
+
+
+06.insertion /ɪnˈsɜːrʃn/
+
+[n] That's why my earlier answer said `dataloader.py` had only an insertion: the *call site* change lives in the other file, which I also modified.
+
+"a thing that is added to a book, piece of writing, etc.; the act of adding sth"
+
+
+
+#### 07/17.03
+
+01.meddle /ˈmedl/
+
+[v] Trump doubles down on 2020 election claims in national address, alleging China meddling.
+
+"to become involved in sth that does not concern you" -interfere-
+
+
+
+02.double down 
+
+[n] "To "double down" means to stubbornly commit even more strongly to a strategy, argument, or plan, especially when facing criticism or risk. "
+
+
+
+03.stubborn  [ˈstʌbən] 
+
+[adj]  {often disapproving} He was too stubborn to admit that he was wrong. 
+
+"determined not to change your opinion or attitude" -obstinate-
+
+[adj] a stubborn cough/stain.  "difficult to get rid of or deal with" -persistent-
+
+D[adv] stubbornly
+
+D[noun] stubbornness
+
+
+
+#### 07/20.08
+
+01.miscarriage /ˈmɪskærɪdʒ/
+
+[n] The pregnancy ended in miscarriage at 11 weeks./As well as her stats, Ravika started reading Reddit posts from women who said their Oura ring had predicted not only their pregnancy but their miscarriage as well, through the ring's "major signs" notification.
+
+"the process of giving birth to a baby before it is fully developed and able to survive; an occasion when this happens"
+
+
+
+02.miscarry /ˌmɪsˈkæri/
+
+[v] Many women who miscarry eventually have healthy babies.
+
+"If a woman miscarries, she has a miscarriage."
+
+
+
+03.solicitor /səˈlɪsɪtər/
+
+[n] "In Britain, a solicitor is a lawyer who gives legal advice, prepares legal documents and cases, and represents clients in the lower courts of law. → see usage note at: lawyer"
+
+> A "lawyer" is a broad umbrella term for anyone qualified to practice law. A "solicitor" is a specific type of lawyer who primarily provides direct legal advice to clients, handles out-of-court matters like drafting contracts or wills, and builds the groundwork for a case before hiring a barrister for court.
+
+
+
+04.umbrella /ʌmˈbrelə/
+
+[n] Does coincidence come under the umbrella of the paranormal?...
+
+"a thing that contains or includes many different parts or elements"
+
+
+
+05.barrister /ˈbærɪstər/
+
+[n] She practised as a barrister for many years.
+
+"a lawyer in Britain who has the right to argue cases in the higher courts of law"
+
+
+
+06.strain /streɪn/
+
+[n] The same thing happened again three months later, and Sofia and her husband decided to take a break from trying to conceive - but it was during this break that she got a notification of "minor signs of strain" from her ring, and noticed her temperature was elevated again. She took a test, and it was positive.
+
+"pressure on sb/sth because they have too much to do or manage, or sth very difficult to deal with; the problems, worry or anxiety that this produces"
+
+
+
+07.volcano  [vɒlˈkeɪnəʊ] 
+
+[noun] 
+
+a dormant volcano (= one that is not active at present) 
+
+休眠火山
+
+an extinct volcano (= one that is no longer active) 
+
+死火山
+
+"a mountain with a large opening at the top through which gases and lava (= hot liquid rock) are forced out into the air, or have been in the past"
+
+
+
+08.dormant /ˈdɔːrmənt/
+
+[adj] The **left zero-padding in `collate` is dormant** — it would only take effect if a sample arrived shorter than 8192, which never happens when `sample=True`.
+
+"not active or growing now but able to become active or to grow in the future"
+
+
+
+#### 07/21
+
+01.sailor   [ˈseɪlə(r)] 
+
+[noun] U.S. condemns China’s ‘dangerous and aggressive’ acts after Philippine sailor injured at disputed shoal.
+
+"a person who works on a ship as a member of the crew"
+
+
+
+02.condemn  [kənˈdem]
+
+[verb] { ~ sb/sth (for/as sth)}The government issued a statement condemning the killings.
+
+"to express very strong disapproval of sb/sth, usually for moral reasons"
+
+[verb] {~ sb (to sth)}  He was condemned to death for murder and later hanged.
+
+"to say what sb's punishment will be" -sentence-
+
+
+
+03.disputed /dɪˈspjuːtɪd/
+
+[adj] "subject to disagreement and debate"
+
+
+
+04.shoal /ʃoʊl/
+
+[n] "a stretch of shallow water (often containing a sandbank or bar)"
+
+
+
+05.sandbank /ˈsændbæŋk/
+
+[n] The ship hit a sandbank.
+
+"A sandbank is a bank of sand below the surface of the sea or a river."
