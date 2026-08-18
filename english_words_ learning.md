@@ -450,17 +450,23 @@ fiddle about/around
 
 
 
-23.stack [stæk]
+23.pill /pɪl/
 
-[n] a stack of books.
+[n] a vitamin pill.
 
-"a pile of sth, usually neatly arranged"
+"a small flat round piece of medicine that you swallow without chewing it"
 
-[n] "a way of storing information in a computer in which the most recently stored item is the first to be retrieved (= found or got back)"
+[n] the **contraceptive** pill.
 
-[v] "to arrange objects neatly in a pile; to be arranged in this way"
+"a pill that some women take to prevent them becoming pregnant"
 
- 
+[v] {of a piece of clothing, especially one made of wool}
+
+Pilling grade evaluation of fabric is an important index to assess fabric quality. 
+
+'to become covered in very small balls of fibre'
+
+
 
 24.bundle /ˈbʌndl/
 
@@ -533,21 +539,7 @@ fiddle about/around
 
 
 
-31.pill /pɪl/
 
-[n] a vitamin pill.
-
-"a small flat round piece of medicine that you swallow without chewing it"
-
-[n] the **contraceptive** pill.
-
-"a pill that some women take to prevent them becoming pregnant"
-
-[v] {of a piece of clothing, especially one made of wool}
-
-Pilling grade evaluation of fabric is an important index to assess fabric quality. 
-
-'to become covered in very small balls of fibre'
 
 
 
@@ -5697,11 +5689,13 @@ Angela's $7,000 tuition at University this year will be paid for with scholarshi
 
 
 
-04.monsoon [ˌmɒnˈsuːn]  [ˌmɑːnˈsuːn]
+04.participate  [pɑːˈtɪsɪpeɪt]
 
-[noun] ...the end of the monsoon. 
+[verb] {~ (in sth)} 
 
-"a period of heavy rain in summer in S Asia; the rain that falls during this period"
+She didn't participate in the discussion. 
+
+"to take part in or become involved in an activity"
 
 
 
@@ -5837,16 +5831,6 @@ Angela's $7,000 tuition at University this year will be paid for with scholarshi
 [v] He was given drugs to deaden the pain. 
 
 "to make sth such as a sound, a feeling, etc. less strong" -dull-
-
-
-
-22.participate  [pɑːˈtɪsɪpeɪt]
-
-[verb] {~ (in sth)} 
-
-She didn't participate in the discussion. 
-
-"to take part in or become involved in an activity"
 
 
 
@@ -7929,11 +7913,15 @@ Don't despair! We'll think of a way out of this."to stop having any hope that a 
 
 
 
-02.justification  [ˌdʒʌstɪfɪˈkeɪʃn]
+02.bite /baɪt/
 
-[noun] I can see no possible justification for any further tax increases.
+[v]  She was bitten by the family dog. 
 
-"a good reason why sth exists or is done"
+"to use your teeth to cut into or through sth"
+
+[v] We were badly bitten by mosquitoes.
+
+"to wound sb by making a small hole or mark in their skin"
 
 
 
@@ -8038,16 +8026,6 @@ Patients are delighted their local hospital has been saved from the axe.
 [verb] {informal} The police haven't been able to nail the killer. "to catch sb and prove they are guilty of a crime or of doing sth bad"
 
 
-
-11.bite /baɪt/
-
-[v]  She was bitten by the family dog. 
-
-"to use your teeth to cut into or through sth"
-
-[v] We were badly bitten by mosquitoes.
-
-"to wound sb by making a small hole or mark in their skin"
 
 
 
@@ -15287,7 +15265,7 @@ D[adj] skewed statistics."not accurate or correct" -distorted-
 
 
 
-#### 2020/11/21.14
+#### 2020/11/21.12
 
 01.accessory  [əkˈsesəri]
 
@@ -15375,7 +15353,27 @@ preemptively
 
 
 
+07.setback  [ˈsetbæk] 
 
+[noun] The team suffered a major setback when their best player was injured. 
+
+"a difficulty or problem that delays or prevents sth, or makes a situation worse"
+
+
+
+08.seek [siːk]  sought-sought  [sɔːt] 
+
+[verb] {~ (for) sth/sb} Drivers are advised to seek alternative routes. 
+
+"to look for sth/sb"
+
+[verb]  to seek funding for a project.
+
+"to try to obtain or achieve sth"
+
+[verb] { ~ sth (from sb)}  I think it's time we sought legal advice.
+
+"to ask sb for sth"
 
 
 
@@ -15413,31 +15411,7 @@ preemptively
 
 
 
-13.setback  [ˈsetbæk] 
 
-[noun] The team suffered a major setback when their best player was injured. 
-
-"a difficulty or problem that delays or prevents sth, or makes a situation worse"
-
-
-
-14.seek [siːk]  sought-sought  [sɔːt] 
-
-[verb] {~ (for) sth/sb} Drivers are advised to seek alternative routes. 
-
-"to look for sth/sb"
-
-[verb]  to seek funding for a project.
-
-"to try to obtain or achieve sth"
-
-[verb] { ~ sth (from sb)}  I think it's time we sought legal advice.
-
-"to ask sb for sth"
-
-
-
-15.commit a crime
 
 
 
@@ -16831,7 +16805,7 @@ The banks are set to merge next year.
 
 
 
-#### 20210115.02
+#### 20210115.01
 
 01.redemption  [rɪˈdempʃn]
 
@@ -16843,19 +16817,7 @@ The banks are set to merge next year.
 
 
 
-02.sin  [sɪn]
-
-[noun] to commit a sin.
-
-"an offence against God or against a religious or moral law"
-
-
-
-
-
-
-
-#### 20210117.12
+#### 20210117.13
 
 01.denote [dɪˈnəʊt] 
 
@@ -18279,7 +18241,7 @@ D[difference]
 
 
 
-#### 20210205.16
+#### 20210205.14
 
 01.Caucasian  [kɔːˈkeɪʒn] 
 
@@ -18407,15 +18369,7 @@ World race population 2023 Mongoloid 27%, Caucasian 27% and Negroid 43%.
 
 
 
-14.evaporate /ɪˈvæpəreɪt/
-
-[v] If I fill a bucket with water, I KNOW that some of that water is evaporating.
-
-"if a liquid evaporates or if sth evaporates it, it changes into a gas, especially steam"
-
-
-
-15.crystallize /ˈkrɪstəlaɪz/
+14.crystallize /ˈkrɪstəlaɪz/
 
 [v] Our ideas began to crystallize into a definite plan.
 
@@ -29368,7 +29322,7 @@ D[adv] riskiness
 
 
 
-#### 02/23.03
+#### 02/23.02
 
 01.turmeric powder [ˈtɜː(r)mərɪk ˈpaʊdər] 
 
@@ -29384,9 +29338,7 @@ D[adv] riskiness
 
 
 
-03.fertility  [fə(r)ˈtɪləti]
 
-[noun] The total fertility rate is expected to drop to as low as 0.7 this year. "the state of being fertile"
 
 
 
@@ -37735,7 +37687,7 @@ It’s been a good start to life for the second season of D.P. on Netflix. Howev
 
  
 
-#### 08/28.10
+#### 08/28.09
 
 01.suture /ˈsuːtʃə(r)/
 
@@ -37773,27 +37725,11 @@ It’s been a good start to life for the second season of D.P. on Netflix. Howev
 
 
 
-04.faint /feɪnt/
+04.limb /lɪm/
 
-[adj] a faint glow/glimmer/light. 
+[n] an artificial limb.
 
-“that cannot be clearly seen, heard or smelt
-
-[adj] There is still a faint hope that she may be cured.
-
-"very small; possible but unlikely" -slight-
-
-[adj] a faint show of resistance.
-
-"not enthusiastic"
-
-[v] Suddenly the woman in front of me fainted.
-
-"to become unconscious when not enough blood is going to your brain, usually because of the heat, a shock, etc." -pass out-
-
-[n] He fell to the ground in a dead faint.
-
-"the state of becoming unconscious"
+"an arm or a leg; a similar part of an animal, such as a wing"
 
 
 
@@ -37880,14 +37816,6 @@ In essence, the key difference between the two lies in their steadiness and inte
 [v] She propped herself up on one elbow.
 
 "to support an object by leaning it against sth, or putting sth under it etc.; to support a person in the same way"
-
-
-
-10.limb /lɪm/
-
-[n] an artificial limb.
-
-"an arm or a leg; a similar part of an animal, such as a wing"
 
 
 
@@ -38378,7 +38306,7 @@ bureau[v]  People were trampled underfoot in the rush for the exit.
 
 "to put a harness on a horse or other animal; to attach a horse or other animal to sth with a harness"
 
-[v] During a keynote speech at the opening ceremony, Wozniak emphasized that people should harness the AI boom that is sweeping the world but must be vigilant about its side effects.
+[v] During a keynote speech at the opening ceremony, Wozniak emphasized that people should harness the AI boom that is sweeping the world but must be vigilant about its side effects./ Harnessing Generative AI in Academic Publishing .
 
 "to control and use the force or strength of sth to produce power or to achieve sth"
 
@@ -39542,7 +39470,7 @@ D[noun] She is a designer of extraordinary **versatility**.
 
 
 
-#### 11/27.03
+#### 11/27.02
 
 01.rhinoplasty /ˌraɪnoʊˈplæˌsti/
 
@@ -39555,18 +39483,6 @@ D[noun] She is a designer of extraordinary **versatility**.
 [n] {informal} I've never had plastic surgery, though people always think I've had a nose job.
 
 "a medical operation on the nose to improve its shape"
-
-
-
-
-
-
-
-03.jaywalk /ˈdʒeɪwɔːk/
-
-[v] Jaywalking or walking on roadways is illegal, and operators of these robots who violate the regulations will be fined 30,000 won ($23). 
-
-"to walk along or across a street illegally or without paying attention to the traffic"
 
 
 
@@ -49558,7 +49474,7 @@ South Korea planning more serious engagement with the US, says Korea's Trade and
 
 
 
-#### 05/23.02
+#### 05/23.03
 
 01.patellar/knee reflex
 
@@ -49575,6 +49491,12 @@ The knee-jerk reflex is also called the patellar reflex. Its main biological pur
 "connected with the skeleton of a person or an animal"
 
 
+
+03.skeleton /ˈskelɪtn/
+
+[n] **Our bone density begins declining earlier than you might think. But ensuring our diet is rich in certain nutrients can help to keep our skeletons strong.**
+
+"the structure of bones that supports the body of a person or an animal; a model of this structure"
 
 #### 05/26.03
 
@@ -53204,7 +53126,7 @@ Here is why the mathematical integral and the CNN algorithm share this name: **T
 
 "having thorns"
 
-[adj] a thorny question/issue/problem./The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal.
+[adj] a thorny question/issue/problem./The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal./Chinese tourists' visits to Korea casinos remain thorny issue.
 
 "causing difficulty or disagreement" -knotty-
 
@@ -53280,7 +53202,7 @@ Here is why the mathematical integral and the CNN algorithm share this name: **T
 
 03.dedication /ˌdedɪˈkeɪʃn/
 
-[n] Fitness influencer Ashton Hall claims to be a "lifetime natural," but his physique's appearance sparks debate online, with some believing his massive size is achievable naturally through genetics and dedication, while others, including some fitness personalities, express skepticism and suggest steroid use, though there's no definitive proof he's not natural. 
+[n] Fitness influencer Ashton Hall claims to be a "lifetime natural," but his physique's appearance sparks debate online, with some believing his massive size is achievable naturally through genetics and dedication, while others, including some fitness personalities, express skepticism and suggest steroid use, though there's no definitive proof he's not natural./And that can make it really tricky to notice, because putting on muscle and working out are often seen as signs of progress and dedication.
 
 "the hard work and effort that sb puts into an activity or purpose because they think it is important"
 
@@ -54184,7 +54106,7 @@ a collision between two trains.
 
 06.testicle /ˈtestɪkl/
 
-[n] testicular cancer./ Drinking alcohol *can* reduce testosterone levels and damage testicular tissue in general, which is a *cause* of testicular atrophy and *small* size.
+[n] testicular cancer./ Drinking alcohol *can* reduce testosterone levels and damage testicular tissue in general, which is a *cause* of testicular atrophy and *small* size./Icing your testicles.
 
 "either of the two organs that produce sperm , located in a bag of skin below the penis"
 
@@ -56843,7 +56765,7 @@ an extinct volcano (= one that is no longer active)
 
 
 
-#### 07/21
+#### 07/21.05
 
 01.sailor   [ˈseɪlə(r)] 
 
@@ -56882,3 +56804,328 @@ an extinct volcano (= one that is no longer active)
 [n] The ship hit a sandbank.
 
 "A sandbank is a bank of sand below the surface of the sea or a river."
+
+
+
+#### 07/22.01
+
+01.sack /sæk/
+
+[v] Zelensky sacks Ukraine's top army commander after days of protests.
+
+"to dismiss sb from a job." -fire-
+
+
+
+#### 07/24.04
+
+01.monsoon [ˌmɒnˈsuːn]  [ˌmɑːnˈsuːn]
+
+[noun] ...the end of the monsoon./Monsoon to end early next week, heat wave to follow.
+
+"a period of heavy rain in summer in S Asia; the rain that falls during this period"
+
+
+
+02.evaporate /ɪˈvæpəreɪt/
+
+[v] If I fill a bucket with water, I KNOW that some of that water is evaporating.
+
+"if a liquid evaporates or if sth evaporates it, it changes into a gas, especially steam"
+
+[v] Letting $100 evaporate to save $20 would be a bad trade.
+
+"something valuable disappearing gradually and without you noticing, usually because you failed to act."
+
+
+
+03.rebuke /rɪˈbjuːk/
+
+[v] The company was publicly rebuked for having neglected safety procedures.
+
+"to speak severely to sb because they have done sth wrong"
+[n] Trump’s new global tariff draws rebukes from trade partners over forced-labor justification.
+
+"Rebuke is also a noun."
+
+
+
+04.justification  [ˌdʒʌstɪfɪˈkeɪʃn]
+
+[noun] I can see no possible justification for any further tax increases.
+
+"a good reason why sth exists or is done"
+
+
+
+#### 07/25.05
+
+01.knock /nɑːk/
+
+[n] *The number one knock* on LeBron for older guys like myself has *always* been, “Yo, man, you *always stacking your team*.
+
+"If someone receives a knock, they have an unpleasant experience which prevents them from achieving something or which causes them to change their attitudes or plans."
+
+
+
+02.stack [stæk]
+
+[n] a stack of books.
+
+"a pile of sth, usually neatly arranged"
+
+[n] "a way of storing information in a computer in which the most recently stored item is the first to be retrieved (= found or got back)"
+
+[v] "to arrange objects neatly in a pile; to be arranged in this way"
+
+[v] If someone in authority stacks an organization or body, they fill it with their own supporters so that the decisions it makes will be the ones they want it to make./He stacked in Miami. He stacked in Cleveland. He stacked in LA. Now he’s stacking it in Philly. So that to me, I’m going to still have the same criticism I’ve always had.
+
+"If someone in authority stacks an organization or body, they fill it with their own supporters so that the decisions it makes will be the ones they want it to make."
+
+
+
+03.pact /pækt/
+
+[n] a non-aggression pact.
+
+"a formal agreement between two or more people, groups or countries, especially one in which they agree to help each other"
+
+
+
+04.it struck a pact
+
+[phrase] Samsung Electronics said on Saturday it struck a pact with U.S. chip designer [Broadcom](https://www.cnbc.com/quotes/AVGO/) to widen cooperation across ⁠memory chips, contract chip making and advanced packaging envisaged to exceed $200 billion until 2030.
+
+
+
+05.envisage /ɪnˈvɪzɪdʒ/
+
+[v] What level of profit do you envisage?
+
+"to imagine what will happen in the future"
+
+
+
+#### 07/28.03
+
+01.sinner /ˈsɪnər/
+
+[n] "a person who sins (without repenting)"
+
+
+
+02.sin  [sɪn]
+
+[noun] to commit a sin.
+
+"an offence against God or against a religious or moral law"
+
+[v] Forgive me, Lord, for I have sinned. "to break a religious or moral law"
+
+
+
+03.repent /rɪˈpent/
+
+[v] God welcomes the sinner who repents.
+
+"to feel and show that you are sorry for sth bad or wrong that you have done"
+
+
+
+
+
+#### 07/31.01
+
+01.disarm /dɪsˈɑːrm/
+
+[v] Hamas says it agrees to disarm in Gaza after Trump announces Board of Peace plan, with Israel yet to comment.
+
+"to take a weapon or weapons away from sb"
+
+
+
+#### 08/01.02
+
+01.faint /feɪnt/
+
+[adj] a faint glow/glimmer/light. 
+
+“that cannot be clearly seen, heard or smelt
+
+[adj] There is still a faint hope that she may be cured.
+
+"very small; possible but unlikely" -slight-
+
+[adj] a faint show of resistance.
+
+"not enthusiastic"
+
+[v] Suddenly the woman in front of me fainted.
+
+"to become unconscious when not enough blood is going to your brain, usually because of the heat, a shock, etc." -pass out-
+
+[n] He fell to the ground in a dead faint.
+
+"the state of becoming unconscious"
+
+
+
+02.pass out
+
+[v] how did you make niece pass out.
+
+"If you pass out, you faint or collapse."
+
+
+
+> "Pass out" and "faint" both mean losing consciousness temporarily due to a drop in blood flow to the brain. While "faint" is the specific medical term (syncope) for a brief, reflex-driven blackout, "pass out" is a casual everyday phrase that can also mean falling asleep or blacking out from heavy drinking.
+>
+
+
+
+#### 08/02.02
+
+01.anomalous /əˈnɑːmələs/
+
+[adj] Breakdown of anomalous age values by source dataset.
+
+"different from what is normal or expected"
+
+
+
+02.collusion /kəˈluːʒn/
+
+[n] The AAAI-27 organizing committee stated it has received reports of potential attempts to collude during the reviewer bidding process.
+
+"secret agreement especially in order to do sth dishonest or to trick people"
+
+
+
+#### 08/03.04
+
+01.perimeter /pəˈrɪmɪtər/
+
+[n] Guards patrol the perimeter of the estate.
+
+"the outside edge of an area of land"
+
+
+
+02.patrol /pəˈtroʊl/
+
+[n] Security guards make regular patrols at night.
+
+"the act of going to different parts of a building, an area, etc. to make sure that there is no trouble or crime"
+
+[v] Troops patrolled the border day and night.
+
+"to go around an area or a building at regular times to check that it is safe and that there is no trouble"
+
+
+
+03.perimeters of a deal 
+
+[phrase] "The phrase "perimeters of a deal" (often a slight misstatement or variation of "parameters of a deal") refers to the outer boundaries, basic framework, general terms, or core limits that shape an agreement. It sets what is included, what is excluded, and the conditions within which both sides agree to negotiate."
+
+
+
+04.call off /kɔːl ɔːf/
+
+[pv] Oil drops over 4% after Trump calls off planned strike on Iran.
+
+"If you call off an event that has been planned, you cancel it. "
+
+
+
+You can use them mostly interchangeably when referring to plans:
+
+> We need to [call off | cancel] our trip. It's going to be Alice's birthday that weekend.
+
+Sometimes using *call off* when talking about plans carried out by someone or something is better than *cancel*. Otherwise it could sound like you're talking about the wrong thing:
+
+> Call off the guard dogs.
+
+is correct and means "stop the plan to use the guard dogs", but
+
+> Cancel the guard dogs.
+
+makes it somewhat ambiguous about whether you mean "don't buy more guard dogs", "kill the guard dogs", or "stop the plan to use the guard dogs".
+
+A new meaning that has recently circulated for *cancel* is causing someone to lose prestige, status, or visibility through public shaming of their actions or opinions:
+
+> The once-respected doctor was cancelled on social media for claiming that cancer was made up by the government as a form of mind control.
+
+
+
+> Cancel the guard dogs.
+
+When using "cancel" about a living thing like this, it can also be slang for *kill* so definitely not a good idea to say this lol
+
+
+
+#### 08/05.02
+
+01.hover /ˈhʌvər/
+
+[v] The man moves away from the drone hovering above, before it chases him as he runs around a white van. 
+
+"to stay in the air in one place"
+
+
+
+02.swoop
+
+
+
+#### 08/07.02
+
+01.residue /ˈrezɪduː/
+
+[n] Food residue and tiny crumbs easily attract mice. 
+
+"a small amount of sth that remains at the end of a process"
+
+
+
+02.crumb /krʌm/
+
+[n] She stood up and brushed the crumbs from her sweater.
+
+"a very small piece of food, especially of bread or cake, that has fallen off a larger piece"
+
+[n] a few crumbs of useful information.
+
+"a small piece or amount"
+
+
+
+#### 08/17
+
+01.fertility  [fə(r)ˈtɪləti]
+
+[noun] The total fertility rate is expected to drop to as low as 0.7 this year./‘Spermageddon’: what’s going on with male fertility? 
+
+"the state of being fertile"
+
+
+
+02.transfusion /trænsˈfjuːʒn/
+
+[n] {blood transfusion} Wearing loose cotton boxer shorts. Icing your testicles. Doing blood transfusions to ‘clean’ your body of microplastics. 
+
+
+
+03.Spermageddon
+
+[n] sperm +  armageddon.
+
+
+
+04.jaywalk /ˈdʒeɪwɔːk/
+
+[v] Jaywalking or walking on roadways is illegal, and operators of these robots who violate the regulations will be fined 30,000 won ($23). 
+
+"to walk along or across a street illegally or without paying attention to the traffic"/
+
+"cross the road at a red light"
+
