@@ -35731,13 +35731,17 @@ D[adj] tainted drinking water.
 
 
 
-#### 05/22.09
+#### 05/22.07
 
 01.gigantic /dʒaɪˈɡæntɪk/
 
 [adj] ...gigantic rocks... "extremely large" synonym: enormous, huge
 
 
+
+02.out of the business 
+
+: **closed down** : no longer in business.
 
 
 
@@ -35784,20 +35788,6 @@ D[adj] tainted drinking water.
 [adj] Madison Square Garden’s owners last year tried to find a way out of the business by selling their marquee team.
 
 "most important or most popular"
-
-
-
-08.out of the business 
-
-: **closed down** : no longer in business.
-
-
-
-09.dissipated /ˈdɪsɪpeɪtɪd/
-
-[adj] Flynn was still handsome, though dissipated.
-
-"If you describe someone as **dissipated**, you disapprove of them because they spend a lot of time drinking alcohol and enjoying other physical pleasures, and are probably unhealthy because of this."
 
 
 
@@ -37967,7 +37957,13 @@ In essence, the key difference between the two lies in their steadiness and inte
 
 
 
-#### 09/06.22
+#### 09/06.20
+
+01.lump it
+
+[slang] {informal} I'm sorry you're not happy about it but you'll just have to lump it.
+
+"to accept sth unpleasant because there's no other choice"
 
 
 
@@ -38023,15 +38019,15 @@ In essence, the key difference between the two lies in their steadiness and inte
 
 
 
-08.abrupt /əˈbrʌpt/
+08.lump /lʌmp/
 
-[adj] an abrupt change/halt/departure. 
+[n] a lump of coal/cheese/wood.
 
-"sudden and unexpected, often in an unpleasant way"
+"a piece of sth hard or solid, usually without a particular shape"
 
-[adj] an abrupt manner.
+[v] You can't lump all Asian languages together.
 
-"speaking or acting in a way that seems unfriendly and rude; not taking time to say more than is necessary" "唐突的" -brusque, curt-
+"to put or consider different things together in the same group"
 
 
 
@@ -38169,26 +38165,6 @@ complex 的意思为繁杂的
 [pv] ...a woman whose husband had made several attempts to do away with her.
 
 "If one person **does away with** another, the first murders the second. If you **do away with yourself**, you kill yourself."
-
-
-
-21.lump /lʌmp/
-
-[n] a lump of coal/cheese/wood.
-
-"a piece of sth hard or solid, usually without a particular shape"
-
-[v] You can't lump all Asian languages together.
-
-"to put or consider different things together in the same group"
-
-
-
-22.lump it
-
-[slang] {informal} I'm sorry you're not happy about it but you'll just have to lump it.
-
-"to accept sth unpleasant because there's no other choice"
 
 
 
@@ -41514,7 +41490,7 @@ The series touches on different social issues, **dopamine-driven** media addicti
 
 
 
-#### 05/08.03
+#### 05/08.02
 
 01.multitude /ˈmʌltɪtuːd/
 
@@ -41533,14 +41509,6 @@ The series touches on different social issues, **dopamine-driven** media addicti
 This means that the runtime will disconnect if it has remained idle for 90 minutes, or if it has been in use for 12 hours.
 
 "not in use"
-
-
-
-03.caveat /ˈkæviæt/
-
-[n] One important caveat to remember while using Colab is that the files you upload to it won’t be available forever./Trump's hopes for an Iran peace deal come with caveats.
-
-"a warning that particular things need to be considered before sth can be done"
 
 
 
@@ -46448,7 +46416,7 @@ The difference between "wiggle" and "jiggle" is **the control had in the movemen
 
 04.demystify /ˌdiːˈmɪstɪfaɪ/
 
-[v] This book aims to demystify medical treatments.
+[v] This book aims to demystify medical treatments./Demystify Mamba in Vision: A Linear Attention Perspective.
 
 "to make sth easier to understand and less complicated by explaining it in a clear and simple way"
 
@@ -47350,7 +47318,7 @@ D[adv] We reluctantly agreed to go with her.
 
 
 
-#### 04/20.06
+#### 04/20.05
 
 01.stalker /ˈstɔːkər/
 
@@ -47426,18 +47394,6 @@ D[adv] We reluctantly agreed to go with her.
 You can be **cautious** *without* being **wary**, but if you’re **wary**, you’re almost always being **cautious**, too — just with added suspicion.
 
 Want to try using them in your own sentence to see if the nuance fits?
-
-
-
-06.genuine  [ˈdʒenjuɪn] 
-
-[adj] Is the painting a genuine Picasso? 
-
-"real; exactly what it appears to be; not artificial" -authentic-
-
-[adj] He made a genuine attempt to improve conditions.
-
-"sincere and honest; that can be trusted"
 
 
 
@@ -52474,7 +52430,7 @@ Valium is usually prescribed to treat anxiety. /After the nurse completed the **
 
 01.dispatch /dɪˈspætʃ/
 
-[v] Japan to dispatch senior envoy to China, NHK says, as travel warning drives tourism selloff in Tokyo.
+[v] Japan to dispatch senior envoy to China, NHK says, as travel warning drives tourism selloff in Tokyo./Korea to dispatch disaster relief team to Nepal to support flood recovery efforts.
 
 "to send sb/sth somewhere, especially for a special purpose"
 
@@ -53309,7 +53265,7 @@ to do sth to another player that is against the rules of the game"
 
 01.reaffirm [ˌriːəˈfɜːm] 
 
-[verb] I met **with** Prime Minister Modi of India and President Widodo of Indonesia to reaffirm our **commitment** to the G20 as the premier forum for global economic cooperation./In an interview with Chinese state broadcaster CCTV on Friday, Lee reaffirmed that South Korea's stance on respecting the "One China" policy remains unchanged.
+[verb] I met **with** Prime Minister Modi of India and President Widodo of Indonesia to reaffirm our **commitment** to the G20 as the premier forum for global economic cooperation./In an interview with Chinese state broadcaster CCTV on Friday, Lee reaffirmed that South Korea's stance on respecting the "One China" policy remains unchanged./Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine.
 
 "If you reaffirm something, you state it again clearly and firmly."
 
@@ -53327,11 +53283,11 @@ to do sth to another player that is against the rules of the game"
 
 
 
-#### 01/06.05
+#### 01/06.06
 
 01.remorse /rɪˈmɔːrs/
 
-[n] I felt guilty and full of remorse.
+[n] I felt guilty and full of remorse./The court added that Chun has not shown genuine remorse for his wrongdoing.
 
 "the feeling of being extremely sorry for sth wrong or bad that you have done"
 
@@ -53366,6 +53322,18 @@ to do sth to another player that is against the rules of the game"
 [v] On Monday Lee stated that the visit was "a crucial opportunity" for the "full-scale restoration of South Korea-China relations", reported South Korean newspaper Chosun. "We want to usher in a new phase in the development of South Korea-China relations."
 
 "If you usher someone somewhere, you show them where they should go, often by going with them."
+
+
+
+06.genuine  [ˈdʒenjuɪn] 
+
+[adj] Is the painting a genuine Picasso? 
+
+"real; exactly what it appears to be; not artificial" -authentic-
+
+[adj] He made a genuine attempt to improve conditions.
+
+"sincere and honest; that can be trusted"
 
 
 
@@ -57099,7 +57067,7 @@ When using "cancel" about a living thing like this, it can also be slang for *ki
 
 
 
-#### 08/17
+#### 08/17.04
 
 01.fertility  [fə(r)ˈtɪləti]
 
@@ -57128,4 +57096,156 @@ When using "cancel" about a living thing like this, it can also be slang for *ki
 "to walk along or across a street illegally or without paying attention to the traffic"/
 
 "cross the road at a red light"
+
+
+
+#### 08/21.02
+
+01.sift /sɪft/
+
+[v] Sift the flour into a bowl.
+
+"to put flour or some other fine substance through a sieve/sifter"
+
+[v] She looked quickly through the papers, sifting out from the pile anything that looked interesting.
+
+"to separate sth from a group of things"
+
+
+
+02.paywall /ˈpeɪwɔːl/
+
+[n] The news website uses a hard paywall.
+
+"A **paywall** is a system that blocks internet users from viewing specific website content unless they buy a paid subscription or make a payment."
+
+
+
+#### 08/31.03
+
+01.fallback /ˈfɔːlbæk/
+
+[n] Edit 1 — add a fallback norm class (after your imports).
+
+"a plan or course of action that is ready to be used in an emergency if other things fail"
+
+
+
+02.impending /ɪmˈpendɪŋ/
+
+[adj] The warnings had come from four different people in the space of minutes and helped him evaluate the impending danger.
+
+"that is going to happen very soon"
+
+
+
+03.headteacher 
+
+[n] A headteacher has told how he saved 900 pupils' lives from the Nepal floods - by quickly evacuating them just 10 minutes before the waters hit.
+
+"A **headteacher** is the person in charge of running a school." 
+
+"**British English:** Uses **headteacher** (or simply "the head") for the person in charge of a school. Traditional terms like "headmaster" or "headmistress" are also used, mostly in private schools. That title is strictly for **primary and secondary schools**.
+
+**American English:** Uses **principal** for the same role.
+
+
+
+#### 09/01.03
+
+01.selloff /ˈsɛˌlɔf/
+
+[n] The privatisation of the electricity industry — the biggest sell-off of them all...
+
+"The sell-off of something, for example an industry owned by the state or a company's shares, is the selling of it."
+
+
+
+02.implore /ɪmˈplɔːr/
+
+[v] Indian PM Modi implores Putin to end Ukraine war amid U.S. tariff threat on Russian oil.
+
+"to ask sb to do sth in an anxious way because you want or need it very much"
+
+
+
+03.caveat /ˈkæviæt/
+
+[n] One important caveat to remember while using Colab is that the files you upload to it won’t be available forever./Trump's hopes for an Iran peace deal come with caveats./One honest caveat.
+
+"a warning that particular things need to be considered before sth can be done"
+
+
+
+#### 09/02.02
+
+01.canvas /ˈkænvəs/
+
+[n] **Thicker Canvas:** Uses a heavy-duty, double-ply 12oz canvas upper that provides stronger structural support than standard Chucks.
+
+"a strong heavy rough material used for making tents, sails, etc. and by artists for painting on"
+
+
+
+02.heavy-duty /ˌhevi ˈduːti/
+
+[adj] a heavy-duty carpet.
+
+"not easily damaged and therefore suitable for hard physical work or to be used all the time"
+
+
+
+#### 09/03
+
+01.abrupt /əˈbrʌpt/
+
+[adj] an abrupt change/halt/departure./Economists said a gradual chip slowdown would be manageable, but an abrupt pullback could be more damaging. 
+
+"sudden and unexpected, often in an unpleasant way"
+
+[adj] an abrupt manner.
+
+"speaking or acting in a way that seems unfriendly and rude; not taking time to say more than is necessary" "唐突的" -brusque, curt-
+
+
+
+02.frenetic /frəˈnetɪk/
+
+[adj] a scene of frenetic activity./South Korea’s semiconductor exports have been an absolute boon for Asia’s fourth-largest economy, sending overall numbers to a record. But the frenetic pace itself is causing concern about what’s next.
+
+"involving a lot of energy and activity in a way that is not organized"
+
+
+
+03.boon /buːn/
+
+[n] "something that is very helpful and makes life easier for you"
+
+
+
+04.dissipated /ˈdɪsɪpeɪtɪd/
+
+[adj] Flynn was still handsome, though dissipated.
+
+"If you describe someone as **dissipated**, you disapprove of them because they spend a lot of time drinking alcohol and enjoying other physical pleasures, and are probably unhealthy because of this."
+
+
+
+05.dissipate /ˈdɪsɪpeɪt/
+
+[v] Growth in such figures is generally seen as a positive. But the extremely rapid pace here also raises concern about what happens if, or when, the boom starts to dissipate.
+
+"to gradually become or make sth become weaker until it disappears"
+
+
+
+06.reliance /rɪˈlaɪəns/
+
+[n] South Korea’s semiconductor and tech export boom has certainly been exceptional, Lee said, though he added that he would not characterize it as “over-reliance” because the country has other cyclical sectors that tend to do well when the broader global economy performs well.
+
+"the state of needing sb/sth in order to survive, be successful, etc.; the fact of being able to rely on sb/sth"
+
+
+
+
 
