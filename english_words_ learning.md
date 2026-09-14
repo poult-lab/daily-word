@@ -10296,11 +10296,7 @@ When we use “borrow” in a sentence, we use the preposition “from.” Andy 
 
 
 
-16.dialect  [ˈdaɪəlekt] 
 
-[noun] the Yorkshire dialect. 
-
-"the form of a language that is spoken in one area with grammar, words and pronunciation that may be different from other forms of the same language"
 
 
 
@@ -13398,27 +13394,7 @@ A special bond unites our two countries.
 
 #### 2020/10/19.16
 
-01.tease  [tiːz] 
 
-[verb]  Don't get upset─I was only teasing. 
-
-"to laugh at sb and make jokes about them, either in a friendly way or in order to annoy or embarrass them"
-
-[n] "a person who likes to play tricks and jokes on other people, especially by telling them sth that is not true or by not telling them sth that they want to know"
-
-
-
-02.tease out /tiːz aʊt/
-
-[pv]  The intention of this blog is to provide a detailed and comprehensive break down and also tease out the foundational intuition behind the math and provide a detailed narrative of why Mamba works.
-
-"If you **tease out** information or a solution, you succeed in obtaining it even though this is difficult."
-
-
-
-03.tease apart [tiːz əˈpɑːt]
-
-[verb phrasal] We can tease apart the prediction function "**disentangle and raise the fibers of**"
 
 
 
@@ -13537,14 +13513,6 @@ A special bond unites our two countries.
 
 
 > **Every ellipse is an oval but not every oval is an ellipse**. The ellipse has a balanced and uniform look. Ovals do not have foci defined, whereas ellipses have two focal points, which are important in defining the shape. An ellipse is a well-defined geometric figure.
-
-
-
-
-
-
-
-
 
 
 
@@ -27351,7 +27319,7 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-#### 2021/11/24.19
+#### 2021/11/24.16
 
 01.owe  [əʊ]   [oʊ]
 
@@ -27415,7 +27383,13 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
+06.rage  [reɪdʒ]
 
+[noun] His face was dark with rage. "a feeling of violent anger that is difficult to control"
+
+[noun]  He raged against the injustice of it all.
+
+"to show that you are very angry about sth or with sb, especially by shouting"
 
 
 
@@ -27451,7 +27425,17 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
+10.van  [væn] 
 
+[noun]a furniture van. 
+
+"a covered vehicle with no side windows in its back half, usually smaller than a lorry/truck, used for carrying goods or people"
+
+[noun]{NAmE} "a covered vehicle with side windows, usually smaller than a lorry/truck, that can carry about twelve passengers"
+
+[noun] {BrE} a luggage van.
+
+"a closed coach/car on a train for carrying bags, cases, etc. or mail"
 
 
 
@@ -27530,30 +27514,6 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 D[noun] impatience
 
 She was bursting with impatience to tell me the news.
-
-
-
-17.rage  [reɪdʒ]
-
-[noun] His face was dark with rage. "a feeling of violent anger that is difficult to control"
-
-[noun]  He raged against the injustice of it all.
-
-"to show that you are very angry about sth or with sb, especially by shouting"
-
-
-
-18.van  [væn] 
-
-[noun]a furniture van. 
-
-"a covered vehicle with no side windows in its back half, usually smaller than a lorry/truck, used for carrying goods or people"
-
-[noun]{NAmE} "a covered vehicle with side windows, usually smaller than a lorry/truck, that can carry about twelve passengers"
-
-[noun] {BrE} a luggage van.
-
-"a closed coach/car on a train for carrying bags, cases, etc. or mail"
 
 
 
@@ -28501,6 +28461,10 @@ Four men are being quizzed by police about the murder. "to ask sb a lot of quest
 > A substitute, on the other hand, **is a direct replacement for the original choice**. For example, if someone is baking a cake and they run out of butter, they might use margarine as a substitute. Margarine is a direct replacement for butter in this case, as it serves the same purpose in the recipe.
 >
 > In general, "alternative" suggests a broader range of options, while "substitute" suggests a more specific replacement.
+>
+> 
+
+
 
 
 
@@ -56713,7 +56677,7 @@ D[noun] stubbornness
 
 [noun] 
 
-a dormant volcano (= one that is not active at present) 
+a dormant volcano (= one that is not active at present)/Volcano eruption disrupts hundreds of flights at Southeast Asia’s second-busiest airport.
 
 休眠火山
 
@@ -57195,7 +57159,7 @@ When using "cancel" about a living thing like this, it can also be slang for *ki
 
 
 
-#### 09/03
+#### 09/03.06
 
 01.abrupt /əˈbrʌpt/
 
@@ -57244,6 +57208,98 @@ When using "cancel" about a living thing like this, it can also be slang for *ki
 [n] South Korea’s semiconductor and tech export boom has certainly been exceptional, Lee said, though he added that he would not characterize it as “over-reliance” because the country has other cyclical sectors that tend to do well when the broader global economy performs well.
 
 "the state of needing sb/sth in order to survive, be successful, etc.; the fact of being able to rely on sb/sth"
+
+
+
+#### 09/06.04
+
+01.pavilion /pəˈvɪliən/
+
+[n] Taiwan Pavilion opens at Gwangju Biennale amid naming controversy.
+
+"a temporary building used at public events and exhibitions"
+
+
+
+02.tease  [tiːz] 
+
+[verb]  Don't get upset─I was only teasing. /LeBron James teases partnership with Polymarket.
+
+"to laugh at sb and make jokes about them, either in a friendly way or in order to annoy or embarrass them"
+
+[n] "a person who likes to play tricks and jokes on other people, especially by telling them sth that is not true or by not telling them sth that they want to know"
+
+
+
+03.tease out /tiːz aʊt/
+
+[pv]  The intention of this blog is to provide a detailed and comprehensive break down and also tease out the foundational intuition behind the math and provide a detailed narrative of why Mamba works.
+
+"If you **tease out** information or a solution, you succeed in obtaining it even though this is difficult."
+
+
+
+04.tease apart [tiːz əˈpɑːt]
+
+[verb phrasal] We can tease apart the prediction function "**disentangle and raise the fibers of**"
+
+
+
+#### 09/07.04
+
+01.sooner or later 
+
+[phrase] They are born terrorists, sooner or later.
+
+"***\*Sooner or later\**** means an event will definitely happen at some future time, even though the exact time is unknown."
+
+
+
+02.dialect  [ˈdaɪəlekt] 
+
+[noun] the Yorkshire dialect. 
+
+"the form of a language that is spoken in one area with grammar, words and pronunciation that may be different from other forms of the same language"
+
+
+
+03.dialogue /ˈdaɪəlɔːɡ/
+
+[n] The dialogue in *Once Upon a Time in the Middle East* (also known as *Welcome to Dragon Restaurant*) centers around themes of peace, survival, and shared humanity in a war-torn setting.
+
+"conversations in a book, play, or film/movie"
+
+
+
+04.disrupt /dɪsˈrʌpt/
+
+[v] The volcanic eruption disrupted hundreds of flights at Jakarta’s main international airport, the second-busiest in Southeast Asia, with cancellations extending into Monday. 
+
+"to make it difficult for sth to continue in the normal way"
+
+
+
+#### 09/14
+
+01.soil /sɔɪl/
+
+[v] Hyrox apologises for allowing race to continue after athlete soils herself.
+
+"to make sth dirty"
+
+[n] poor/dry/acid/sandy/fertile, etc. soil. 
+
+"the top layer of the earth in which plants, trees, etc. grow"
+
+
+
+02.craze /kreɪz/
+
+[n] {~ (for sth)} How Hyrox became the latest sporting craze.
+
+"an enthusiastic interest in sth that is shared by many people but that usually does not last very long; a thing that people have a craze for"
+
+
 
 
 
