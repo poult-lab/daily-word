@@ -5001,7 +5001,7 @@ He was tackled just outside the penalty area. 抢球"
 
 
 
-#### 2020/05/07.12
+#### 2020/05/07.10
 
 01.sigh [saɪ]
 
@@ -5029,6 +5029,20 @@ He winced at the thought of dining with Camilla.
 
 
 
+04.embarrassment [ɪmˈbærəsmənt]
+
+[noun] I nearly died of embarrassment when he said that.
+
+"shy, awkward or guilty feelings; a feeling of being embarrassed"
+
+[noun] { ~ (to/for sb)} Her resignation will be a severe embarrassment to the party.
+
+"a situation which causes problems for sb" 
+
+
+
+
+
 05.trial   [ˈtraɪəl] 
 
 [noun]  a murder trial. 
@@ -5041,11 +5055,9 @@ He winced at the thought of dining with Camilla.
 
 
 
-06.lexical [ˈleksɪkl] 
+06.ease the burden /iːz ðə ˈbɜːrdn/
 
-[adj] We chose a few of the **commonest** lexical items in the languages. 
-
-"connected with the words of a language"
+[vp]   We expect our gift sets to ease the burden of inflation.
 
 
 
@@ -5086,24 +5098,6 @@ D[noun] a wince of pain.
 [noun] The main criterion is value for money. 
 
 "a standard or principle by which sth is judged, or with the help of which a decision is made"
-
-
-
-11.embarrassment [ɪmˈbærəsmənt]
-
-[noun] I nearly died of embarrassment when he said that.
-
-"shy, awkward or guilty feelings; a feeling of being embarrassed"
-
-[noun] { ~ (to/for sb)} Her resignation will be a severe embarrassment to the party.
-
-"a situation which causes problems for sb" 
-
-
-
-12.ease the burden /iːz ðə ˈbɜːrdn/
-
-[vp]   We expect our gift sets to ease the burden of inflation.
 
 
 
@@ -7657,25 +7651,9 @@ Don't despair! We'll think of a way out of this."to stop having any hope that a 
 
 
 
-#### 2020/08/07.02
+#### 2020/08/07.01
 
 01.check out
-
-
-
-02.dictate  [dɪkˈteɪt , ˈdɪkteɪt]
-
-[verb] {~ (sth) (to sb)} He dictated a letter to his **secretary**. "to say words for sb else to write down"
-
-[verb] {~ (sth) (to sb)}  They are in no position to dictate terms (= tell other people what to do).
-
-"to tell sb what to do, especially in an annoying way"
-
-[verb] When we take our vacations is very much dictated by Greg's work schedule."to control or influence how sth happens"-determine-
-
-[noun] to follow the dictates of fashion. "an order or a rule that you must obey"
-
-{**dictate to sb**} She refused to be dictated to by anyone."to give orders to sb, often in a rude or aggressive way"
 
 
 
@@ -7759,7 +7737,7 @@ Don't despair! We'll think of a way out of this."to stop having any hope that a 
 
 
 
-#### 2020/08/10.05
+#### 2020/08/10.06
 
 01.pity [ˈpɪti]
 
@@ -7795,11 +7773,11 @@ Don't despair! We'll think of a way out of this."to stop having any hope that a 
 
 
 
-04.empathy /ˈempəθi/
+04.generous  [ˈdʒenərəs] 
 
-[n] the writer's imaginative empathy with his subject. 
+[adj] to be generous with your time. "giving or willing to give freely"
 
-"the ability to understand another person's feelings, experience, etc."
+[adj] a generous helping of meat."more than is necessary"
 
 
 
@@ -7823,11 +7801,7 @@ Don't despair! We'll think of a way out of this."to stop having any hope that a 
 
 
 
-07.generous  [ˈdʒenərəs] 
 
-[adj] to be generous with your time. "giving or willing to give freely"
-
-[adj] a generous helping of meat."more than is necessary"
 
 
 
@@ -8549,7 +8523,7 @@ D[noun] a skin irritation.
 
 
 
-#### 2020/09/02.11
+#### 2020/09/02.10
 
 01.documentation  [ˌdɒkjumenˈteɪʃn]   [ˌdɑːkjumenˈteɪʃn] 
 
@@ -8589,11 +8563,15 @@ D[noun] a skin irritation.
 
 
 
-05.circumstance  [ˈsɜːkəmstəns] 
+05.agreement /əˈɡriːmənt/
 
-[noun] The company **reserves** the right to cancel this **agreement** in certain circumstances.
+[noun] The agreement (= the document recording the agreement) was signed during a meeting at the UN.
 
-"the conditions and facts that are connected with and affect a situation, an event or an action"
+"an arrangement, a promise or a contract made with sb"
+
+[n] Are we in agreement about the price?
+
+"the state of sharing the same opinion or feeling"
 
 
 
@@ -8640,18 +8618,6 @@ D[noun] a skin irritation.
 [n] large oil and gas reserves.
 
 "a supply of sth that is available to be used in the future or when it is needed"
-
-
-
-11.agreement /əˈɡriːmənt/
-
-[noun] The agreement (= the document recording the agreement) was signed during a meeting at the UN.
-
-"an arrangement, a promise or a contract made with sb"
-
-[n] Are we in agreement about the price?
-
-"the state of sharing the same opinion or feeling"
 
 
 
@@ -10120,7 +10086,7 @@ These are freshly dug mass graves.
 
 
 
-#### 2020/09/19.26
+#### 2020/09/19.25
 
 01.cricket  [ˈkrɪkɪt]
 
@@ -10168,7 +10134,23 @@ She wanted to avoid **another confrontation** with her father.
 
 
 
+06.command/kəˈmɑːnd/
 
+[noun] Begin when I give the command.
+
+"an order given to a person or an animal"
+
+[noun] He has 1 200 men under his command.
+
+"control and authority over a situation or a group of people"
+
+[v] He commanded his men to retreat.
+
+"to tell sb to do sth" -order-
+
+[v]  The troops were commanded by General Haig.
+
+"to be in charge of a group of people in the army, navy, etc."
 
 
 
@@ -10207,12 +10189,6 @@ While both words can be used to refer to the act of regulating or limiting somet
 ```
 
  
-
-
-
-
-
-
 
 10.democratic  [ˌdeməˈkrætɪk] 
 
@@ -10388,23 +10364,7 @@ When we use “borrow” in a sentence, we use the preposition “from.” Andy 
 
 
 
-26.command/kəˈmɑːnd/
 
-[noun] Begin when I give the command.
-
-"an order given to a person or an animal"
-
-[noun] He has 1 200 men under his command.
-
-"control and authority over a situation or a group of people"
-
-[v] He commanded his men to retreat.
-
-"to tell sb to do sth" -order-
-
-[v]  The troops were commanded by General Haig.
-
-"to be in charge of a group of people in the army, navy, etc."
 
 
 
@@ -12507,12 +12467,6 @@ The examination is near at hand.
 
 
 
-04.hoax /həʊks/ [hoʊks]
-
-[noun] The rumor about a ghost haunting the old abandoned house turned out to be a hoax, but it still frightened the neighborhood children.
-
-"an act intended to make sb believe sth that is not true, especially sth unpleasant"
-
 
 
 05.onion  [ˈʌnjən]
@@ -12791,20 +12745,6 @@ D[adv] relatively  [ˈrelətɪvli]
 
 
 
-
-
-
-08.mine  [maɪn]
-
-[pron] He's a friend of mine (= one of my friends). "of or belonging to the person writing or speaking"
-
-[noun] a copper/diamond mine. "a deep hole or holes under the ground where minerals such as coal, gold, etc. are dug"
-
-[verb] The area has been mined for slate for centuries. "to dig holes in the ground in order to find and obtain coal, diamonds, etc."
-
-[idiom phrase] a mine of information (about/on sb/sth). 
-
-"a person, book, etc. that can give you a lot of information on a particular subject"
 
 
 
@@ -15189,7 +15129,7 @@ D[adv] She performed all her duties conscientiously.
 
 
 
-#### 2020/11/20.02
+#### 2020/11/20.01
 
 01.conjecture  [kənˈdʒektʃə(r)] 
 
@@ -15208,28 +15148,6 @@ D[adv] She performed all her duties conscientiously.
 
 
 > **Conjecture is a more formal term that refers to forming an opinion-based guess that isn't based on clear facts.** **Guess is more general and commonly used.**
-
-
-
-02.skew [skjuː] 
-
-[verb] to skew the statistics.
-
-"to change or influence sth with the result that it is not accurate, fair, normal, etc."
-
-[verb] The ball skewed off at a right angle.
-
-"to move or lie at an angle, especially in a position that is not normal"
-
-D[adj] skewed statistics."not accurate or correct" -distorted-
-
-[adj] {~ (towards sb/sth)} The book is heavily skewed towards American readers. 
-
-"directed towards a particular group, place, etc. in a way that may not be accurate or fair"
-
-[adj] The car had ended up skewed across the road. 
-
-"not straight or level"
 
 
 
@@ -15929,15 +15847,7 @@ plenty of eggs/money/time.
 
 
 
-03.fetching [ˈfetʃɪŋ] 
-
-[adj] Sue was sitting up in bed, looking very fetching in a flowered bedjacket...
-
-"If you describe someone or something as **fetching**, you think that they look very attractive."
-
-
-
-04.bedjacket /ˈbeddʒækɪt/
+03.bedjacket /ˈbeddʒækɪt/
 
 [n] "a short jacket worn when sitting up in bed"
 
@@ -16455,27 +16365,7 @@ In addition to its low overhead, `tqdm` uses smart algorithms to predict the rem
 
 
 
-04.delighted   [dɪˈlaɪtɪd]
-
-[adj] {~ (to do sth) | ~ (that…) | ~ (by/at/with sth)} a delighted smile. / We are delighted to inform you that in view of your academic achievement./ We are delighted to let you know that the above submission, which you co-authored, has been accepted for publication in Discover Applied Sciences.
-
-"very pleased"
-
-
-
-> Ecstasy. is a trance like state, extreme joy, his heavenly experience. Delight is joy , happiness . I believe that “delight” would be comparable to vanilla ice cream, “ecstasy” would mirror triple white chocolate mousse. On a scale of 1–10, delight would be a 3 or 4. Ecstasy would be a 10.
-
-
-
-05.corrode   [kəˈrəʊd]
-
-[verb] Acid[ˈæsɪd] corrodes metal. 
-
-"to destroy sth slowly, especially by chemical action; to be destroyed in this way"
-
-
-
-06.ripple [ˈrɪpl]
+04.ripple [ˈrɪpl]
 
 [noun] ripple effect. 
 
@@ -16487,7 +16377,11 @@ In addition to its low overhead, `tqdm` uses smart algorithms to predict the rem
 
 
 
+05.corrode   [kəˈrəʊd]
 
+[verb] Acid[ˈæsɪd] corrodes metal. 
+
+"to destroy sth slowly, especially by chemical action; to be destroyed in this way"
 
 
 
@@ -16937,7 +16831,7 @@ D[noun]  Their age can be determined by extrapolation from their growth rate.
 
 
 
-#### 20210118.22
+#### 20210118.21
 
 01.derive [dɪˈraɪv] 
 
@@ -17114,14 +17008,6 @@ We got a good bang for our buck. " is an idiom meaning the worth of one's money 
 21.redneck  [ˈrednek]
 
 [noun] "an offensive word for a person who lives in a country area of the US, has little education and has strong conservative political opinions"
-
-
-
-22.conservative [kənˈsɜː(r)vətɪv]
-
-[adj] the conservative views of his parents./It proposes a conservative data augmentation strategy by applying Non-Uniform-Mix over different rounds to gradually enhance the data, aiming to reduce noise and improve the analysis and classification of electrocardiogram (ECG) signals. "opposed to great or sudden social change; showing that you prefer traditional styles and values"
-
-
 
 
 
@@ -18057,7 +17943,7 @@ D[difference]
 
 01.affluent /ˈæfluənt/
 
-[adj] Some Korean parents change their home address to send their children to a more homogenous school in an affluent neighborhood, due to concerns that their academic achievements may be affected.
+[adj] Some Korean parents change their home address to send their children to a more homogenous school in an affluent neighborhood, due to concerns that their academic achievements may be affected./Wealth advisors say a growing number of affluent Chinese are considering renouncing their nationality.
 
 "having a lot of money and a good standard of living" -prosperous,wealthy-
 
@@ -20769,7 +20655,7 @@ D[noun]blind/complete/unquestioning/total obedience.
 
 
 
-#### 20210329.20
+#### 20210329.19
 
 01.breeze [briːz]
 
@@ -20792,6 +20678,14 @@ D[noun]blind/complete/unquestioning/total obedience.
 "to make it difficult or impossible to do sth"-prohibit-
 
 
+
+03.sprain [spreɪn] 
+
+[verb] I stumbled and sprained my ankle. /A *sprained ankle* is an injury that occurs when you roll, twist or turn your ankle in an awkward way.
+
+"to injure a joint in your body, especially your wrist or ankle, by suddenly twisting it"
+
+D [noun] a bad ankle sprain.
 
 
 
@@ -20831,15 +20725,27 @@ D[noun]blind/complete/unquestioning/total obedience.
 
 
 
-08.prescription  [prɪˈskrɪpʃn]
+08.spill [spɪl] 
 
-[noun] {~ (for sth)} The doctor gave me a prescription for antibiotics.
+[verb] Water had spilled out of the bucket onto the floor.
 
-"an official piece of paper on which a doctor writes the type of medicine you should have, and which enables you to get it from a chemist's shop/drugstore"
+"to flow over the edge of a container by accident; to make liquid do this"
+
+[verb] The doors opened and people spilled into the street.
+
+"to come out of a place in large numbers and spread out"
+
+[noun] I wiped up the coffee spills on the table.
+
+"an act of letting a liquid come or fall out of a container; the amount of liquid that comes or falls out"
 
 
 
+09.dub  [dʌb]
 
+[verb] Therefore, people of independent directors even dubbed the "Vase Director." What cause for this difference? Korean composer Chin Un-suk won the Ernst von Siemens Music Prize, dubbed the Nobel Prize of classical music, Thursday, becoming the first Asian to do so.
+
+"to give sb/sth a particular name, often in a humorous or critical way"
 
 
 
@@ -20912,40 +20818,6 @@ D[noun]blind/complete/unquestioning/total obedience.
 [adj] Why is South Korea so obsessed with skin? 
 
 "If someone is **obsessed with** a person or thing, they keep thinking about them and find it difficult to think about anything else."
-
-
-
-20.spill [spɪl] 
-
-[verb] Water had spilled out of the bucket onto the floor.
-
-"to flow over the edge of a container by accident; to make liquid do this"
-
-[verb] The doors opened and people spilled into the street.
-
-"to come out of a place in large numbers and spread out"
-
-[noun] I wiped up the coffee spills on the table.
-
-"an act of letting a liquid come or fall out of a container; the amount of liquid that comes or falls out"
-
-
-
-21.dub  [dʌb]
-
-[verb] Therefore, people of independent directors even dubbed the "Vase Director." What cause for this difference? Korean composer Chin Un-suk won the Ernst von Siemens Music Prize, dubbed the Nobel Prize of classical music, Thursday, becoming the first Asian to do so.
-
-"to give sb/sth a particular name, often in a humorous or critical way"
-
-
-
-22.sprain [spreɪn] 
-
-[verb] I stumbled and sprained my ankle. /A *sprained ankle* is an injury that occurs when you roll, twist or turn your ankle in an awkward way.
-
-"to injure a joint in your body, especially your wrist or ankle, by suddenly twisting it"
-
-D [noun] a bad ankle sprain.
 
 
 
@@ -22452,17 +22324,13 @@ Park Min Young addresses dating rumor controversy: 'Regretted it everyday...'
 
 
 
-#### 20210512.07
+#### 20210512.06
 
-01.fetch  [fetʃ]
+01.organism  [ˈɔːɡənɪzəm]
 
-[verb] {especially BrE}   to fetch help/a doctor.
+[noun] Not all chemicals normally present in living organisms are harmless.
 
-"to go to where sb/sth is and bring them/it back"
-
-[verb] The painting **is expected to** fetch $10 000 at auction[ˈɔːkʃn]. 
-
-"to be sold for a particular price"
+"a living thing, especially one that is extremely small"
 
 
 
@@ -22508,15 +22376,11 @@ D[adv] He has lived and worked in France almost continuously since 1990.
 
 
 
-07.organism  [ˈɔːɡənɪzəm]
-
-[noun] Not all chemicals normally present in living organisms are harmless.
-
-"a living thing, especially one that is extremely small"
 
 
 
-#### 20210517.11
+
+#### 20210517.09
 
 01.consciously [ˈkɒnʃəsli]  [ˈkɑnʃəsli] 
 
@@ -22572,25 +22436,7 @@ startling/sensational revelations about her private life.
 
 
 
-07.Portugal [ˈpɔ(r)tʃəgəl] 
-
-
-
-08.Portuguese  [ˌpɔː(r)tʃuˈɡiːz]
-
-[noun] "a person from Portugal"
-
-[adj] "from or connected with Portugal"
-
-
-
-09.tilapia [tɪˈlæpiə; tɪˈleɪpiə] 
-
-[noun] "a genus of Cichlidae"
-
-
-
-10.scandalous  [ˈskændələs]
+07.scandalous  [ˈskændələs]
 
 [adj] It is scandalous that he has not been punished. 
 
@@ -22598,13 +22444,17 @@ startling/sensational revelations about her private life.
 
 
 
-11.disgraceful [dɪsˈɡreɪsfl] 
+08.disgraceful [dɪsˈɡreɪsfl] 
 
 [adj] His behaviour was absolutely disgraceful!
 
 "very bad or unacceptable; that people should feel ashamed about"
 
 
+
+09.tilapia [tɪˈlæpiə; tɪˈleɪpiə] 
+
+[noun] "a genus of Cichlidae"
 
 
 
@@ -23965,7 +23815,7 @@ A hashtag is a metadata tag that is prefaced by the hash symbol, #
 
 
 
-#### 20210702.12
+#### 20210702.11
 
 01.confine  [kənˈfaɪn] 
 
@@ -24007,9 +23857,11 @@ A hashtag is a metadata tag that is prefaced by the hash symbol, #
 
 
 
-06.substantive
+06.altruistic  [ˌæltruˈɪstɪk]
 
-[adj] They plan to meet again in Rome very soon to begin substantive negotiations."dealing with real, important or serious matters"
+[adj] It's sort of altruistic, but  I think.
+
+"If your behaviour or motives are **altruistic**, you show concern for the happiness and welfare of other people rather than for yourself."
 
 
 
@@ -24050,14 +23902,6 @@ A hashtag is a metadata tag that is prefaced by the hash symbol, #
 [adj] a bleak outlook/prospect./That is why South Koreans are hyper-competitive in school. For the rest, life is bleak.
 
 "not encouraging or giving any reason to have hope"
-
-
-
-12.altruistic  [ˌæltruˈɪstɪk]
-
-[adj] It's sort of altruistic, but  I think.
-
-"If your behaviour or motives are **altruistic**, you show concern for the happiness and welfare of other people rather than for yourself."
 
 
 
@@ -24834,7 +24678,7 @@ D [noun] finalization
 
 
 
-#### 20210824.05
+#### 20210824.03
 
 01.why did you do ? OR why would you you ?
 
@@ -24848,31 +24692,7 @@ D [noun] finalization
 
 
 
-04.minefield  [ˈmaɪnfiːld] 
-
-[noun] 
-
-"an area of land or water where mines (= bombs that explode when they are touched) have been hidden"
-
-[noun] Tax can be a minefield for the unwary.
-
-"a situation that contains hidden dangers or difficulties"
-
-
-
-05.skulk  [skʌlk] 
-
-[verb]Then why are you skulking about like it's a minefield.
-
-"to hide or move around secretly, especially when you are planning sth bad"
-
-
-
-
-
-
-
-#### 20210825.09
+#### 20210825.08
 
 01.veracity  [vəˈræsəti] 
 
@@ -24898,11 +24718,11 @@ D [noun] finalization
 
 
 
-04.synchronous  [ˈsɪŋkrənəs] 
+04.contagious  [kənˈteɪdʒəs] 
 
-[adj] Synchronous class (the class is delivered via Webex in a synchronous manner). 
+[adj] The Delta variant is more contagious: The Delta variant is highly contagious, more than 2x as contagious as previous variants.
 
-"happening or existing at the same time"
+"a contagious disease spreads by people touching each other"
 
 
 
@@ -24941,18 +24761,6 @@ D [noun] finalization
 08.dietary  [ˈdaɪətəri] 
 
 [adj ]  Dr Susan Hankinson has studied the dietary habits of more than 50,000 women..."You can use **dietary** to describe anything that concerns a person's diet."
-
-
-
-09.contagious  [kənˈteɪdʒəs] 
-
-[adj] The Delta variant is more contagious: The Delta variant is highly contagious, more than 2x as contagious as previous variants.
-
-"a contagious disease spreads by people touching each other"
-
-
-
-
 
 
 
@@ -29168,7 +28976,7 @@ D[adv] riskiness
 
 
 
-#### 02/17.07
+#### 02/17.05
 
 01.bottom out  [ˈbɒtəm aʊt]  [ˈbɑːtəm aʊt]
 
@@ -29202,21 +29010,7 @@ D[adv] riskiness
 
 
 
-05.prescription  [prɪˈskrɪpʃn] 
-
-[noun] (BrE) Antibiotics are only available on prescription ./(NAmE) Antibiotics are only available by prescription .
-
-"an official piece of paper on which a doctor writes the type of medicine you should have, and which enables you to get it from a chemist's shop/drugstore"
-
-
-
-06.eye prescription 
-
-[n] "Eyeglass strength is measured in diopters. **If your prescription reads -1.00, that means your eyeglasses need 1 diopter of strength to correct nearsightedness**. If your prescription reads +2.50, your eyeglasses need 2.5 diopters of strength to correct farsightedness."
-
-
-
-07.contact lens /ˈkɑːntækt lenz/
+05.contact lens /ˈkɑːntækt lenz/
 
 [noun phrase] 
 
@@ -30938,7 +30732,7 @@ The students left the classroom right after the class was over.
 
 
 
-#### 10/28.05
+#### 10/28.04
 
 01.pragmatic  [præɡˈmætɪk]
 
@@ -30967,21 +30761,6 @@ The students left the classroom right after the class was over.
 04.constrain  [kənˈstreɪn] 
 
 [vt] This method is used to constrain the complexity of an ML model by penalizing features with little or no contribution to the learning process. "to force sb to do sth or behave in a particular way"
-
-
-
-05.circumstance  [ˈsɜːkəmstəns] [ˈsɜːrkəmstæns]
-
-[noun] the conditions and facts that are connected with and affect a situation, an event or an action.
-
-"the conditions and facts that are connected with and affect a situation, an event or an action"
-
-
-
-> - a circumstance is a condition connected to an event or action. “The circumstances of his perfect score are suspicious.” 
-> - - a situation is a set of circumstances. “The situation regarding his grades has changed.”
-
-
 
 
 
@@ -32368,11 +32147,11 @@ dizzy [ˈdɪzi]
 
 
 
-08.conquer  [ˈkɒŋkə(r)] 
+08.quota   [ˈkwəʊtə] 
 
-[verb] A Chinese app conquered the planet.
+[noun] South Korea will likely increase the quota of foreign workers with non-professional employment (E-9) visas to 110,000 next year from the current 69,000 and allow more workplaces to hire foreigners in efforts to ease labor shortages in the logistics and delivery sectors. 
 
- "to become very popular or successful in a place"
+"the limited number or amount of people or things that is officially allowed"
 
 
 
@@ -32389,14 +32168,6 @@ dizzy [ˈdɪzi]
 [noun] They each received a legacy of $5 000.
 
 "money or property that is given to you by sb when they die" -inheritance-
-
-
-
-11.quota   [ˈkwəʊtə] 
-
-[noun] South Korea will likely increase the quota of foreign workers with non-professional employment (E-9) visas to 110,000 next year from the current 69,000 and allow more workplaces to hire foreigners in efforts to ease labor shortages in the logistics and delivery sectors. 
-
-"the limited number or amount of people or things that is officially allowed"
 
 
 
@@ -34617,7 +34388,7 @@ D[noun]  the attractiveness of travelling abroad.
 
 
 
-#### 04/11.04
+#### 04/11.03
 
 01.-induced /ɪnˈdjuːst/ /ɪnˈduːst/
 
@@ -34639,15 +34410,7 @@ D[noun]  the attractiveness of travelling abroad.
 
 
 
-03.pastry /ˈpeɪstri/
-
-[n] The South Korean Chefs Redefining the Art of Pastry. 
-
-"a mixture of flour, fat and water or milk that is rolled out flat and baked as a base or covering for pies , etc."
-
-
-
-04.pull /pʊl/
+03.pull /pʊl/
 
 [verb] You push and I'll pull.
 
@@ -36720,7 +36483,7 @@ Growing levels of pollution represent a serious health hazard to the local popul
 
 
 
-#### 07/06.07
+#### 07/06.06
 
 01.aim /eɪm/
 
@@ -36730,11 +36493,11 @@ Growing levels of pollution represent a serious health hazard to the local popul
 
 
 
-02.vandalize /ˈvændəlaɪz/
+02.amplify /ˈæmplɪfaɪ/
 
-[vt] Women's OnlyFans billboard vandalised.
+[v]   to amplify a guitar/an electric current/a signal.  
 
-" to damage sth, especially public property, deliberately and for no good reason  "
+" to increase sth in strength, especially sound  "
 
 
 
@@ -36760,23 +36523,11 @@ Growing levels of pollution represent a serious health hazard to the local popul
 
 
 
-
-
-
-
 06.demonise / ˈdiːmənaɪz /
 
 [v] She went on to suggest restricting where such adverts could be placed would only "demonise" them
 
 " make into a demon "
-
-
-
-07.amplify /ˈæmplɪfaɪ/
-
-[v]   to amplify a guitar/an electric current/a signal.  
-
-" to increase sth in strength, especially sound  "
 
 
 
@@ -36834,41 +36585,31 @@ It's important to note that in some contexts, people might use the term "identic
 
 
 
-#### 07/28.09
+#### 07/28.07
 
-01.arrest /əˈrest/
+01.operation  [ˌɒpəˈreɪʃn]  [ˌɑːpəˈreɪʃn] 
 
-[v] A man has been arrested in connection with the robbery.
+[noun] {~ (on sb) (for sth) | ~ (to do sth)} an operation on her lung to remove a tumour. "the process of cutting open a part of a person's body in order to remove or repair a damaged part"
 
-"if the police arrest sb, the person is taken to a police station and kept there because the police believe they may be guilty of a crime"
-
-[v] They failed to arrest the company's decline. 
-
-"to stop a process or a development"
-
-[v] An unusual noise arrested his attention .
-
-"to make sb notice sth and pay attention to it"
-
-[v] He arrested on the way to the hospital./
-
-"if sb arrests , their heart stops beating"
-
-[n] She was under arrest on suspicion of murder.
-
-"the act of arresting sb"
-
-[n] Bronny James released from hospital after **cardiac arrest**./James [suffered a cardiac arrest](https://www.npr.org/2023/07/25/1189961400/bronny-james-lebrons-son-cardiac-arrest-practice-usc) during a workout in July, losing consciousness on the court.
-
-"an act of sth stopping or being interrupted"
+[noun] a security operation. "an organized activity that involves several people doing different things"
 
 
 
-02.cardiac /ˈkɑːrdiæk/
+02.surgery  [ˈsɜː(r)dʒəri]
 
-[adj] {medical} cardiac disease/failure/surgery.  
+[noun] major/minor surgery. "medical treatment of injuries or diseases that involves cutting open a person's body and often removing or replacing some parts; the branch of medicine connected with this treatment"
 
-"connected with the heart or heart disease"
+
+
+> In summary, "surgery" is a more specific term referring to a medical procedure that involves incisions and manipulation of tissues or organs, while "operation" can be a more general term used in various contexts to describe a process or procedure designed to achieve a specific goal. In the medical context, these terms are often used interchangeably when discussing surgical procedures.
+
+
+
+D[adj] surgical  [ˈsɜː(r)dʒɪkl]
+
+[adj] surgical procedures. "used in or connected with surgery"
+
+D[adv] The lumps will need to be surgically removed.
 
 
 
@@ -36924,29 +36665,7 @@ D[noun]  liver transplantation.
 
 
 
-08.operation  [ˌɒpəˈreɪʃn]  [ˌɑːpəˈreɪʃn] 
 
-[noun] {~ (on sb) (for sth) | ~ (to do sth)} an operation on her lung to remove a tumour. "the process of cutting open a part of a person's body in order to remove or repair a damaged part"
-
-[noun] a security operation. "an organized activity that involves several people doing different things"
-
-
-
-09.surgery  [ˈsɜː(r)dʒəri]
-
-[noun] major/minor surgery. "medical treatment of injuries or diseases that involves cutting open a person's body and often removing or replacing some parts; the branch of medicine connected with this treatment"
-
-
-
-> In summary, "surgery" is a more specific term referring to a medical procedure that involves incisions and manipulation of tissues or organs, while "operation" can be a more general term used in various contexts to describe a process or procedure designed to achieve a specific goal. In the medical context, these terms are often used interchangeably when discussing surgical procedures.
-
-
-
-D[adj] surgical  [ˈsɜː(r)dʒɪkl]
-
-[adj] surgical procedures. "used in or connected with surgery"
-
-D[adv] The lumps will need to be surgically removed.
 
 
 
@@ -38192,7 +37911,7 @@ bureau[v]  People were trampled underfoot in the rush for the exit.
 
 "an opening that is created during a military attack or by strong winds or seas"
 
-[v] The White House is on alert as the network of export controls on semiconductors to China could have been breached.
+[v] The White House is on alert as the network of export controls on semiconductors to China could have been breached./"(Ukraine) disclosed the transfer in breach of a non-disclosure agreement," Lee wrote. "I don't know the reasons (for the disclosure), but I regret it."
 
 "to not keep to an agreement or not keep a promise" -break- 
 
@@ -40465,7 +40184,7 @@ The definition of FIT goes like this: “FIT is **a person who travels completel
 
 
 
-#### 02/04.12
+#### 02/04.10
 
 01.supper /ˈsʌpər/
 
@@ -40483,19 +40202,21 @@ The definition of FIT goes like this: “FIT is **a person who travels completel
 
 
 
-03.dip /dɪp/
+03.torch /tɔːrtʃ/
 
-[v] He dipped the brush into the paint.
+[n] the Olympic torch.
 
-"to put sth quickly into a liquid and take it out again"
+"a long piece of wood that has material at one end that is set on fire and that people carry to give light"
+
+[v] The rioters torched the local library...
+
+"to set fire to a building or vehicle deliberately in order to destroy it"
 
 
 
-04.dip out 
+04.out of order vs out of service
 
-[vp] he dipped out on the examination.
-
-"verb(intr, adverb) Australian and NZ informal (often foll by on) to miss out on or fail to participate in something: "
+> When you say something is “out of order” it means a device or machine is not working properly. On the other hand, “out of service” refers to something which is inoperative or is not available for use.
 
 
 
@@ -40544,24 +40265,6 @@ The definition of FIT goes like this: “FIT is **a person who travels completel
 [adj] She was not privy to any information contained in the letters.
 
 "allowed to know about sth secret"
-
-
-
-11.torch /tɔːrtʃ/
-
-[n] the Olympic torch.
-
-"a long piece of wood that has material at one end that is set on fire and that people carry to give light"
-
-[v] The rioters torched the local library...
-
-"to set fire to a building or vehicle deliberately in order to destroy it"
-
-
-
-12.out of order vs out of service
-
-> When you say something is “out of order” it means a device or machine is not working properly. On the other hand, “out of service” refers to something which is inoperative or is not available for use.
 
 
 
@@ -42015,7 +41718,7 @@ I can't say I share your enthusiasm for the idea."a strong feeling of excitement
 
 01.fiscal /ˈfɪskl/
 
-[adj] The company is focusing on providing more affordable home furnishing products to our customers instead of maximizing profits in the fiscal year of 2024. 
+[adj] The company is focusing on providing more affordable home furnishing products to our customers instead of maximizing profits in the fiscal year of 2024./During the last fiscal year, the US Department of Labor [certified](https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/PERM_Selected_Statistics_FY2025_Q4.pdf) more than 130,000 PERM applications accross ten business categories. 
 
 "connected with government or public money, especially taxes"
 
@@ -46499,15 +46202,17 @@ The difference between "wiggle" and "jiggle" is **the control had in the movemen
 
 
 
-#### 03/31.12
+#### 03/31.11
 
-01.stigma /ˈstɪɡmə/
+01.refute  [rɪˈfjuːt] 
 
-[n] Is applying shame and stigma to something the best way to be dealing with something that is everywhere. 
+[verb] to refute an argument/a theory, etc. "to prove that sth is wrong" -rebut-
 
-/Driving change to conquer stigma.
+[verb] She refutes any suggestion that she behaved unprofessionally./ Actor Kim Soo-hyun on Monday refuted allegations that he had dated the late actor Kim Sae-ron when she was underage, reiterating his previous statement that their relationship began after she became an adult.
 
-" feelings of disapproval that people have about particular illnesses or ways of behaving  "
+"to say that sth is not true or fair"
+
+D[noun] a refutation of previously held views.
 
 
 
@@ -46600,18 +46305,6 @@ The tidal energy is not stable.
 [adj] He tried to sound casual, but I knew he was worried.
 
 "not showing much care or thought; seeming not to be worried; not wanting to show that sth is important to you"
-
-
-
-12.refute  [rɪˈfjuːt] 
-
-[verb] to refute an argument/a theory, etc. "to prove that sth is wrong" -rebut-
-
-[verb] She refutes any suggestion that she behaved unprofessionally./ Actor Kim Soo-hyun on Monday refuted allegations that he had dated the late actor Kim Sae-ron when she was underage, reiterating his previous statement that their relationship began after she became an adult.
-
-"to say that sth is not true or fair"
-
-D[noun] a refutation of previously held views.
 
 
 
@@ -49605,7 +49298,7 @@ So if you rescind a job offer **after it's been accepted**, the law treats it **
 
 
 
-04.entity /ˈentəti/
+**04.entity** /ˈentəti/
 
 [n] **Your previous affiliations** (e.g., if you studied at a Chinese university on the Entity List).
 
@@ -49618,6 +49311,8 @@ So if you rescind a job offer **after it's been accepted**, the law treats it **
 [v] Yes, if you **legally become a South Korean citizen**, and **renounce Chinese citizenship**, you would apply for a U.S. visa **as a Korean national** — and **you would likely face much less scrutiny.**
 
 "to state officially that you are no longer going to keep a title, position, etc."
+
+> **Renounce** means to formally and publicly give up a right, title, claim, or belief, while **give up** is a common, informal phrasal verb with many everyday meanings, such as quitting a habit, surrendering, or stopping an activity.
 
 
 
@@ -50038,19 +49733,19 @@ I've got a terrific amount of work to do."very large; very great"
 
 
 
-#### 06/12.09
+#### 06/12.07
 
-01.looter /ˈluːtər/
+01.halo  /ˈheɪloʊ/
 
-[n]  Several stores in the downtown Los Angeles area were hit by looters, and several people were arrested as the unrest following[ days of anti-ICE protests](https://abc7.com/live-updates/tensions-flare-downtown-la-anti-ice-protesters-clash-agents-live-updates/16692645/) continued overnight, authorities said. "A looter is a person who steals things from shops or houses, for example during a war or riot."
+[n] Amongst Beyoncé's expansive catalog, "Halo" is easily one of her most iconic songs. Today, the **2009 single is her most-streamed song on Spotify; it was her first video to reach one billion views on YouTube**; and it helped her set one of her GRAMMY records in 2010.
+
+"(in paintings, etc.) a circle of light shown around or above the head of a holy person"
 
 
 
-02.loot /luːt/
+02.catalog /ˈkætəlɔːɡ/
 
-[v] Video shows aftermath of stores looted, vandalized during downtown LA protest.
-
-"to steal things from shops/stores or buildings after a riot , fire, etc."
+[n] "a complete list of items, typically one in alphabetical or other systematic order."
 
 
 
@@ -50107,20 +49802,6 @@ I've got a terrific amount of work to do."very large; very great"
 | ----------- | -------- | ---------------- | -------------------------------- |
 | Interesting | Medium   | No               | Something catches your attention |
 | Intriguing  | Stronger | Often Yes        | You're deeply curious or puzzled |
-
-
-
-08.halo  /ˈheɪloʊ/
-
-[n] Amongst Beyoncé's expansive catalog, "Halo" is easily one of her most iconic songs. Today, the **2009 single is her most-streamed song on Spotify; it was her first video to reach one billion views on YouTube**; and it helped her set one of her GRAMMY records in 2010.
-
-"(in paintings, etc.) a circle of light shown around or above the head of a holy person"
-
-
-
-09.catalog /ˈkætəlɔːɡ/
-
-[n] "a complete list of items, typically one in alphabetical or other systematic order."
 
 
 
@@ -50254,7 +49935,7 @@ I've got a terrific amount of work to do."very large; very great"
 
 03.pile /paɪl/
 
-[n] a pile of books/clothes/bricks./"Don’t take from my pile" Tony Stark 
+[n] a pile of books/clothes/bricks./"Don’t take from my pile" Tony Stark/ **Reputation.** Many researchers see Sci Rep as high-volume and low-prestige, so they put its invitations at the bottom of the pile. It's easier to say no.
 
 "a number of things that have been placed on top of each other"
 
@@ -51757,7 +51438,9 @@ Top 10 H-1B visa recipients in FY 2025 (Q1–Q3).
 
 01.indispensable /ˌɪndɪˈspensəbl/
 
-[adj] "too important to be without"
+[adj] Cars have become an indispensable part of our lives. 
+
+"too important to be without"
 
 
 
@@ -54160,7 +53843,7 @@ mutually.
 
 01.tout /taʊt/
 
-[v] Watch: Trump touts second term in speech marking first 100 days./State of the Union 2026 recap: Trump touted economic gains and roles in international hot spots.
+[v] Watch: Trump touts second term in speech marking first 100 days./State of the Union 2026 recap: Trump touted economic gains and roles in international hot spots./Xi and Trump tout friendship between US and China in state dinner speeches.
 
 "to try to persuade people that sb/sth is important or valuable by praising them/it"
 
@@ -56597,7 +56280,7 @@ So, while all four words describe something that is important, crucial implies t
 
 01.meddle /ˈmedl/
 
-[v] Trump doubles down on 2020 election claims in national address, alleging China meddling.
+[v] Trump doubles down on 2020 election claims in national address, alleging China meddling./OpenAI has acknowledged that it alerted "dozens" of global institutions that their websites may have been meddled with by its AI bots acting improperly.
 
 "to become involved in sth that does not concern you" -interfere-
 
@@ -56790,7 +56473,7 @@ an extinct volcano (= one that is no longer active)
 
 
 
-#### 07/25.05
+#### 07/25.04
 
 01.knock /nɑːk/
 
@@ -56816,11 +56499,11 @@ an extinct volcano (= one that is no longer active)
 
 
 
-03.pact /pækt/
+03.envisage /ɪnˈvɪzɪdʒ/
 
-[n] a non-aggression pact.
+[v] What level of profit do you envisage?
 
-"a formal agreement between two or more people, groups or countries, especially one in which they agree to help each other"
+"to imagine what will happen in the future"
 
 
 
@@ -56829,12 +56512,6 @@ an extinct volcano (= one that is no longer active)
 [phrase] Samsung Electronics said on Saturday it struck a pact with U.S. chip designer [Broadcom](https://www.cnbc.com/quotes/AVGO/) to widen cooperation across ⁠memory chips, contract chip making and advanced packaging envisaged to exceed $200 billion until 2030.
 
 
-
-05.envisage /ɪnˈvɪzɪdʒ/
-
-[v] What level of profit do you envisage?
-
-"to imagine what will happen in the future"
 
 
 
@@ -57279,7 +56956,7 @@ When using "cancel" about a living thing like this, it can also be slang for *ki
 
 
 
-#### 09/14
+#### 09/14.02
 
 01.soil /sɔɪl/
 
@@ -57301,7 +56978,642 @@ When using "cancel" about a living thing like this, it can also be slang for *ki
 
 
 
+#### 09/15.07
+
+01.Chislic 
+
+[n] chislic is definitely a South Dakota thing, specifically recognized as the state's official "nosh" (snack).
 
 
 
+02.nosh /nɑːʃ/
+
+[n] {(Yiddish) a snack or light meal; South Dakota English}
+
+"food; a meal"
+
+
+
+03.skewer /ˈskjuːər/
+
+[n] Chislic may look like a simple meat skewer, but its journey from the Black Sea to the American Great Plains tells a much bigger story.
+
+"a long thin pointed piece of metal or wood that is pushed through pieces of meat, vegetables, etc. to hold them together while they are cooking, or used to test whether sth is completely cooked"
+
+[v] He skewered his victim through the neck.
+
+"If you skewer something, you push a long, thin, pointed object through it."
+
+
+
+04.skew [skjuː] 
+
+[verb] to skew the statistics.
+
+"to change or influence sth with the result that it is not accurate, fair, normal, etc."
+
+[verb] The ball skewed off at a right angle.
+
+"to move or lie at an angle, especially in a position that is not normal"
+
+D[adj] skewed statistics."not accurate or correct" -distorted-
+
+[adj] {~ (towards sb/sth)} The book is heavily skewed towards American readers. 
+
+"directed towards a particular group, place, etc. in a way that may not be accurate or fair"
+
+[adj] The car had ended up skewed across the road. 
+
+"not straight or level"
+
+
+
+05.calibration /ˌkælɪˈbreɪʃn/
+
+[n] a calibration error.
+
+"the act of calibrating"
+
+
+
+06.calibrate /ˈkælɪbreɪt/
+
+[v] ...instructions on how to calibrate a thermometer.
+
+"If you calibrate an instrument or tool, you mark or adjust it so that you can use it to measure something accurately."
+
+
+
+07.hoax /həʊks/ [hoʊks]
+
+[noun] The rumor about a ghost haunting the old abandoned house turned out to be a hoax, but it still frightened the neighborhood children./Trump dismisses AI alarms as a ‘HOAX’ — worrying White House officials.
+
+"an act intended to make sb believe sth that is not true, especially sth unpleasant"
+
+
+
+#### 09/16.01
+
+01.side /saɪd/
+
+[v] Meta CEO Mark Zuckerberg sides with Nvidia’s Huang on AI safety and slowdown debate.
+
+"to support one person or group in an argument against sb else"
+
+
+
+#### 09/17.03
+
+01.dip /dɪp/
+
+[v] He dipped the brush into the paint.
+
+"to put sth quickly into a liquid and take it out again"
+
+
+
+02.dip out 
+
+[vp] he dipped out on the examination.
+
+"verb(intr, adverb) Australian and NZ informal (often foll by on) to miss out on or fail to participate in something: "
+
+
+
+03.soak /soʊk/
+
+[v] I usually soak the beans overnight.
+
+"to put sth in liquid for a time so that it becomes completely wet; to become completely wet in this way"
+
+
+
+#### 09/18.03
+
+01.rule out  /ruːl aʊt/
+
+[vp] Lee rules out Korean troop deployment in Iran war.
+
+"If you rule out a course of action, an idea, or a solution, you decide that it is impossible or unsuitable."
+
+
+
+02.delighted   [dɪˈlaɪtɪd]
+
+[adj] {~ (to do sth) | ~ (that…) | ~ (by/at/with sth)} a delighted smile. / We are delighted to inform you that in view of your academic achievement./ We are delighted to let you know that the above submission, which you co-authored, has been accepted for publication in Discover Applied Sciences.
+
+"very pleased"
+
+
+
+> Ecstasy. is a trance like state, extreme joy, his heavenly experience. Delight is joy , happiness . I believe that “delight” would be comparable to vanilla ice cream, “ecstasy” would mirror triple white chocolate mousse. On a scale of 1–10, delight would be a 3 or 4. Ecstasy would be a 10.
+
+
+
+03.pleased /pliːzd/
+
+[adj] The message I got from this paper is that I have to tune the combination. Spending 6x training time to find the configuration is not pleased.
+
+"feeling happy about sth"
+
+
+
+#### 09/21.01
+
+01.knob /nɑːb/
+
+[n] the volume control knob.
+
+"a round switch on a machine such as a television that you use to turn it on and off, etc."
+
+
+
+#### 09/22.02
+
+01.fetching [ˈfetʃɪŋ] 
+
+[adj] Sue was sitting up in bed, looking very fetching in a flowered bedjacket...
+
+"If you describe someone or something as **fetching**, you think that they look very attractive."
+
+
+
+02.fetch  [fetʃ]
+
+[verb] {especially BrE}   to fetch help/a doctor.
+
+"to go to where sb/sth is and bring them/it back"
+
+[verb] The painting **is expected to** fetch $10 000 at auction[ˈɔːkʃn]. 
+
+"to be sold for a particular price"
+
+
+
+#### 09/23.01
+
+01.empathy /ˈempəθi/
+
+[n] the writer's imaginative empathy with his subject./**Empathy is widely considered crucial** in communication, leadership, and personal relationships because it allows people to understand and share the feelings of others.
+
+"the ability to understand another person's feelings, experience, etc." 
+
+
+
+#### 09/25.01
+
+01.confidential /ˌkɑːnfɪˈdenʃl/
+
+[adj] Lee said the issue is a very sensitive matter that could immensely affect diplomacy and national security, as well as the security environment on the Korean Peninsula, adding that South Korea and Ukraine had agreed to a confidential transfer of the North Korean soldiers, in consideration of the many problems expected if the transfer were disclosed.
+
+"meant to be kept secret and not told to or shared with other people"
+
+
+
+#### 09/26.01
+
+01.jasmine /ˈdʒæzmɪn/
+
+[n] Jasmine tea.
+
+"a plant with white or yellow flowers with a sweet smell, sometimes used to make perfume and to flavour tea"
+
+
+
+#### 09/28.10
+
+01.doomsday /ˈduːmzdeɪ/
+
+[n] Iran’s foreign minister says Tehran ready for ‘doomsday’ war with U.S., but leaves diplomacy on the table.
+
+"the last day of the world when Christians believe that everyone will be judged by God"
+
+
+
+02.mine  [maɪn]
+
+[pron] He's a friend of mine (= one of my friends). "of or belonging to the person writing or speaking"
+
+[noun] a copper/diamond mine. "a deep hole or holes under the ground where minerals such as coal, gold, etc. are dug"
+
+[verb] The area has been mined for slate for centuries. "to dig holes in the ground in order to find and obtain coal, diamonds, etc."
+
+[idiom phrase] a mine of information (about/on sb/sth). 
+
+"a person, book, etc. that can give you a lot of information on a particular subject"
+
+
+
+03.minefield  [ˈmaɪnfiːld] 
+
+[noun] 
+
+"an area of land or water where mines (= bombs that explode when they are touched) have been hidden"
+
+[noun] Tax can be a minefield for the unwary./Going to the supermarket has become a minefield.
+
+"a situation that contains hidden dangers or difficulties"
+
+
+
+04.skulk  [skʌlk] 
+
+[verb]Then why are you skulking about like it's a minefield.
+
+"to hide or move around secretly, especially when you are planning sth bad"
+
+
+
+05.over-the-counter 
+
+[adj] "that can be obtained without a prescription (= a written order from a doctor)"
+
+
+
+06.prescription  [prɪˈskrɪpʃn] 
+
+[noun] (BrE) Antibiotics are only available on prescription ./(NAmE) Antibiotics are only available by prescription./ {~ (for sth)} The doctor gave me a prescription for antibiotics.
+
+"an official piece of paper on which a doctor writes the type of medicine you should have, and which enables you to get it from a **chemist's shop**/drugstore"
+
+
+
+07.eye prescription 
+
+[n] "Eyeglass strength is measured in diopters. **If your prescription reads -1.00, that means your eyeglasses need 1 diopter of strength to correct nearsightedness**. If your prescription reads +2.50, your eyeglasses need 2.5 diopters of strength to correct farsightedness."
+
+
+
+08.chemist /ˈkemɪst/
+
+[n] {北美英语 druggist} "a person whose job is to prepare and sell medicines, and who works in a shop"
+
+[n/chemist's] {英国英语} You can obtain the product from all good chemists.
+
+"a shop/store that sells medicines and usually also soap, make-up, etc."
+
+
+
+> pharmacy vs chemist
+>
+> A **pharmacy** is the official, regulated healthcare facility where prescription medications are dispensed, while a **chemist** is either a scientific professional who studies chemistry or an informal, traditional term used in Commonwealth countries (like the UK, Australia, and New Zealand) for a retail shop that sells medicines and toiletries.
+
+
+
+09.denial /dɪˈnaɪəl/
+
+[n] S. Korea voices 'strong regret' over Ukraine's denial of nondisclosure pact on NK POWs.
+
+"a statement that says sth is not true or does not exist"
+
+
+
+10.pact /pækt/
+
+[n] a non-aggression pact.
+
+"a formal agreement between two or more people, groups or countries, especially one in which they agree to help each other"
+
+
+
+#### 10/02.04
+
+01.circumstance  [ˈsɜːkəmstəns] [ˈsɜːrkəmstæns]
+
+[noun] The company **reserves** the right to cancel this **agreement** in certain circumstances./We regret to inform you that the International Student Image-Making Special Lecture you applied for has been postponed due to internal circumstances and will be held on a different date.
+
+"the conditions and facts that are connected with and affect a situation, an event or an action"
+
+
+
+> - a circumstance is a condition connected to an event or action. “The circumstances of his perfect score are suspicious.” 
+>
+> - - a situation is a set of circumstances. “The situation regarding his grades has changed.”
+>
+>     **Situation** is the overall state of things right now: what is happening.
+>
+>     - "The situation is getting worse."
+>     - "I'm in a difficult situation."
+>
+>     **Circumstance** is one fact or condition around an event that affects it. It's usually plural (*circumstances*).
+>
+>     - "Under these circumstances, we should delay the defense."
+>     - "Due to unforeseen circumstances, the meeting is canceled."
+>
+>     **Simple way to remember:** circumstances are the pieces, and the situation is the whole picture they create.
+>
+>     - "Because of personal circumstances (illness, moving house), I'm in a tough situation."
+>
+>     **Common fixed phrases:**
+>
+>     - *Circumstance*: "under no circumstances," "in/under these circumstances," "due to circumstances beyond my control"
+>     - *Situation*: "the current situation," "a win-win situation," "handle the situation"
+>
+>     **For academic writing:** to describe conditions in an experiment, use *setting*, *condition*, or *scenario*, not *circumstance*. For example, "under noisy recording conditions," not "under noisy circumstances."
+
+
+
+02.lethal /ˈliːθl/
+
+[adj] Christa Pike in critical condition after surviving two lethal injections, lawyer says.
+
+"causing or able to cause death"
+
+
+
+03.then-
+
+[adj] Pike was 18 when she and her then-boyfriend, Tadaryl Shipp, beat, tortured and killed 19-year-old Slemmer.
+
+"used to describe sb who had a particular title, job, etc. at the time in the past that is being discussed"
+
+
+
+04.mojo /ˈmoʊdʒoʊ/
+
+[n] What's gone wrong at Nike? How the world's sportswear giant lost its mojo.
+
+"magic power"
+
+
+
+#### 10/04.01
+
+01.substantive /səbˈstæntɪv/ /ˈsʌbstəntɪv/
+
+[adj] They plan to meet again in Rome very soon to begin substantive negotiations./The authors should further clarify the substantive differences from previous 1D Mamba and 2D CNN/U-Net approaches and avoid presenting existing components such as SS2D and Gated MLP as major methodological innovations.
+
+"dealing with real, important or serious matters"
+
+
+
+#### 10/14.05
+
+01.outweigh /ˌaʊtˈweɪ/
+
+[v] IMF raises Korea's growth forecast to 3.3% as chip exports outweigh war impact.
+
+"to be greater or more important than sth"
+
+
+
+02.arrest /əˈrest/
+
+[v] A man has been arrested in connection with the robbery.
+
+"if the police arrest sb, the person is taken to a police station and kept there because the police believe they may be guilty of a crime"
+
+[v] They failed to arrest the company's decline. 
+
+"to stop a process or a development"
+
+[v] An unusual noise arrested his attention .
+
+"to make sb notice sth and pay attention to it"
+
+[v] He arrested on the way to the hospital./
+
+"if sb arrests , their heart stops beating"
+
+[n] She was under arrest on suspicion of murder.
+
+"the act of arresting sb"
+
+[n] Bronny James released from hospital after **cardiac arrest**./James [suffered a cardiac arrest](https://www.npr.org/2023/07/25/1189961400/bronny-james-lebrons-son-cardiac-arrest-practice-usc) during a workout in July, losing consciousness on the court.
+
+"an act of sth stopping or being interrupted"
+
+
+
+03.cardiac /ˈkɑːrdiæk/
+
+[adj] {medical} cardiac disease/failure/surgery.  
+
+"connected with the heart or heart disease"
+
+
+
+04.cardiac arrest /ˈkɑːrdiæk əˈrest/
+
+[vp] All eight victims were rushed to hospitals, including a woman in her 20s in cardiac arrest. The woman recovered from cardiac arrest after undergoing emergency surgery but has not regained consciousness.
+
+"A cardiac arrest is a heart attack."
+
+
+
+05.heart attack /ˈhɑːrt ətæk/
+
+[n] He died of a heart attack brought on by overwork.
+
+"If someone has a heart attack, their heart begins to beat very irregularly or stops completely."
+
+
+
+#### 10/26.04
+
+01.synchronous  [ˈsɪŋkrənəs] 
+
+[adj] Synchronous class (the class is delivered via Webex in a synchronous manner). /Your main aim is to get your body clock in sync with your new destination as soon as possible.
+
+"happening or existing at the same time"
+
+
+
+02.swear /swer/
+
+[v] Some people swear by changing their watch to their new time zone as soon as they get on a flight.
+
+"to name sb/sth to show that you are making a serious promise"
+
+
+
+03.came across 
+
+[vp] I came across a useful BBC article about jet lag and how to cope with it.
+
+"To find or meet by chance"
+
+
+
+04.conservative [kənˈsɜː(r)vətɪv]
+
+[adj] the conservative views of his parents./It proposes a conservative data augmentation strategy by applying Non-Uniform-Mix over different rounds to gradually enhance the data, aiming to reduce noise and improve the analysis and classification of electrocardiogram (ECG) signals./ Why young Israelis are more conservative than their parents.
+
+"opposed to great or sudden social change; showing that you prefer traditional styles and values"
+
+
+
+#### 10/27.02
+
+01.wag /wæɡ/
+
+[v] "The dog should wag the tail, the tail should not wag the dog," said Phil Baty, chief global affairs officer at Times Higher Education (THE), cautioning universities against allowing rankings to dictate their priorities.
+
+"if a dog wags its tail, or its tail wags , its tail moves from side to side several times"
+
+
+
+02.dictate  [dɪkˈteɪt , ˈdɪkteɪt]
+
+[verb] {~ (sth) (to sb)} He dictated a letter to his **secretary**. "to say words for sb else to write down"
+
+[verb] {~ (sth) (to sb)}  They are in no position to dictate terms (= tell other people what to do).
+
+"to tell sb what to do, especially in an annoying way"
+
+[verb] When we take our vacations is very much dictated by Greg's work schedule."to control or influence how sth happens"-determine-
+
+[noun] to follow the dictates of fashion. "an order or a rule that you must obey"
+
+{**dictate to sb**} She refused to be dictated to by anyone."to give orders to sb, often in a rude or aggressive way"
+
+
+
+#### 10/28.03
+
+01.reassess /ˌriːəˈses/
+
+[v] That month, Beijing introduced new measures targeting offshore trusts, with certain incomes and transactions potentially subject to a 20% tax. The changes have prompted some families to reassess how they hold and transfer assets overseas.
+
+"to think again about sth to decide if you need to change your opinion of it"
+
+
+
+02.heir /er/
+
+[n] Rich founders put company shares in a trust so the company doesn’t get split up among many heirs or sold.
+
+"a person who has the legal right to receive sb's property, money or title when that person dies"
+
+
+
+03.anatomical /ˌænəˈtɑːmɪkl/
+
+[adj] "Anatomical means relating to the structure of the bodies of people and animals."
+
+
+
+#### 10/29.03
+
+01.interpretation /ɪnˌtɜːrprəˈteɪʃn/
+
+[n] A simple, step-by-step guide to reading an ECG (also known as *ECG interpretation*).
+
+"the particular way in which sth is understood or explained"
+
+
+
+02.reappoint /ˌriːəˈpɔɪnt/
+
+[v] Sungkyunkwan University President Yoo reappointed for second term.
+
+"to give sb the job that they used to have in the past"
+
+
+
+03.trustee /trʌˈstiː/
+
+[n] The university's board of trustees approved Yoo's reappointment at a meeting Thursday. His new term will run from Jan. 1 through Dec. 31, 2030.
+
+"a person or an organization that has control of money or property that has been put into a trust for sb"
+
+> A **trustee** is the person or organization that **holds and manages the property in a trust for someone else’s benefit**.
+>
+> A trust has three main roles:
+>
+> - **Settlor (or grantor):** the person who creates the trust and puts assets into it, such as money, a house, or shares.
+> - **Trustee:** the person who controls and manages those assets. The trustee is the legal owner on paper.
+> - **Beneficiary:** the person who gets the benefit, such as income or the assets later.
+
+
+
+#### 11/01.07
+
+01.looter /ˈluːtər/
+
+[n]  Several stores in the downtown Los Angeles area were hit by looters, and several people were arrested as the unrest following[ days of anti-ICE protests](https://abc7.com/live-updates/tensions-flare-downtown-la-anti-ice-protesters-clash-agents-live-updates/16692645/) continued overnight, authorities said. "A looter is a person who steals things from shops or houses, for example during a war or riot."
+
+
+
+02.loot /luːt/
+
+[v] Video shows aftermath of stores looted, vandalized during downtown LA protest./Shops looted as German cost of living protests turn violent.
+
+"to steal things from shops/stores or buildings after a riot , fire, etc."
+
+
+
+03.vandalize /ˈvændəlaɪz/
+
+[vt] Women's OnlyFans billboard vandalised.
+
+" to damage sth, especially public property, deliberately and for no good reason  "
+
+
+
+04.stigma /ˈstɪɡmə/
+
+[n] Is applying shame and stigma to something the best way to be dealing with something that is everywhere. 
+
+/Driving change to conquer stigma./Single mother and content creator Cho Seung-yeon, 37, marked the end of her marriage by throwing a divorce ceremony.
+
+Instead of treating her divorce as a failure, she gathered her close friends to mark the end of her former life and the beginning of her next chapter. However, Cho received a backlash after posting about the ceremony online.
+
+She told the BBC that she wants to fight the stigma surrounding divorced women and reclaim her identity beyond marriage.
+
+"feelings of disapproval that people have about particular illnesses or ways of behaving"
+
+
+
+05.conquer  [ˈkɒŋkə(r)] 
+
+[verb] A Chinese app conquered the planet.
+
+ "to become very popular or successful in a place"
+
+
+
+06.subsidise/subsidize /ˈsʌbsɪdaɪz/
+
+[v] **Subsidized Breakfast:** **£1.80 – £3.50** for a pastry and coffee combo, or a small hot breakfast pot (hash browns, eggs, beans).
+
+"to give money to sb or an organization to help pay for sth; to give a subsidy"
+
+
+
+07.pastry /ˈpeɪstri/
+
+[n] The South Korean Chefs Redefining the Art of Pastry. 
+
+"a mixture of flour, fat and water or milk that is rolled out flat and baked as a base or covering for pies , etc."
+
+
+
+#### 11/02
+
+01.schwa /ʃwɑː/
+
+[n] **In English, an unstressed vowel usually becomes weak, often a schwa /ə/.** Since “for” is no longer stressed, /ɔː/ becomes /ə/.
+
+"In the study of language, schwa is the name of the neutral vowel sound represented by the symbol ə in this dictionary."
+
+
+
+02.Portugal [ˈpɔ(r)tʃəgəl] 
+
+
+
+03.Portuguese  [ˌpɔː(r)tʃuˈɡiːz]
+
+[noun] "a person from Portugal"
+
+[adj] "from or connected with Portugal"
+
+
+
+04.lexical [ˈleksɪkl] 
+
+[adj] We chose a few of the **commonest** lexical items in the languages. 
+
+"connected with the words of a language"
 
