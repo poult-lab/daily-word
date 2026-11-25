@@ -3690,7 +3690,7 @@ Strictly speaking, there is difference between their meanings and application. *
 
 
 
-#### 2020/04/04.18
+#### 2020/04/04.17
 
 01.consecutive [kənˈsekjətɪv] 
 
@@ -3712,19 +3712,9 @@ D[adv] {continually} They argue continually about money.
 
 
 
+03.wearing  [ˈwerɪŋ] 
 
-
-03.primary [ˈpraɪməri]
-
-[adj] The primary aim of this course is to improve your spoken English. 
-
-"main; most important; basic"
-
-[adj] primary causes. "developing or happening first; earliest"
-
-[adj] primary teachers. "connected with the education of children between the ages of about five and eleven"
-
-[noun] the presidential primaries. "(in the US) an election in which people in a particular area vote to choose a candidate for a future important election"
+[adj] She finds the continual confrontation very wearing. "that makes you feel very tired mentally or physically"
 
 
 
@@ -3869,12 +3859,6 @@ She finds the continual confrontation very wearing.
 [noun]  to perform/attempt/achieve astonishing feats.
 
 "an action or a piece of work that needs skill, strength or courage"
-
-
-
-18.wearing  [ˈwerɪŋ] 
-
-[adj] She finds the continual confrontation very wearing. "that makes you feel very tired mentally or physically"
 
 
 
@@ -4218,7 +4202,7 @@ He later accused reporters of willful distortion and bias.
 
 
 
-#### 2020/04/09.15
+#### 2020/04/09.14
 
 01.propagation  [ˌprɒpə'ɡeɪʃ(ə)n] 
 
@@ -4262,11 +4246,11 @@ The government was accused of incompetence.
 
 
 
-06.atmosphere[ˈætməsfɪə(r)] "(围绕地球的)大气，大气层，大气圈"
+06.integrity [ɪnˈteɡrəti] "诚实正直;完整"
 
-[noun] the upper atmosphere."the mixture of gases that surrounds the earth"
+[noun] to behave with integrity.“the quality of being honest and having strong moral principles”
 
-[noun] The hotel offers a friendly atmosphere and personal service."a feeling between two people or in a group of people"
+[noun] to respect the territorial integrity of the nation./Only errors introduced during production process or that directly compromise the scientific integrity of the paper may be corrected."the state of being whole and not divided"
 
 
 
@@ -4339,12 +4323,6 @@ He made a rash decision and now he is suffering **for** it.
 **They had put up with behaviour from their son which they would not have tolerated from anyone else.**
 
 
-
-15.integrity [ɪnˈteɡrəti] "诚实正直;完整"
-
-[noun] to behave with integrity.“the quality of being honest and having strong moral principles”
-
-[noun] to respect the territorial integrity of the nation./Only errors introduced during production process or that directly compromise the scientific integrity of the paper may be corrected."the state of being whole and not divided"
 
 
 
@@ -8767,7 +8745,7 @@ If we budget carefully we'll be able to afford the trip.
 
 
 
-#### 2020/09/04.10
+#### 2020/09/04.09
 
 01.extra [ˈekstrə]
 
@@ -8834,14 +8812,6 @@ If we budget carefully we'll be able to afford the trip.
 09.eggplant  [ˈeɡplænt]
 
 [noun] "An **eggplant** is a vegetable with a smooth, dark purple skin."
-
-
-
-10.exhibit  [ɪɡˈzɪbɪt] 
-
-[verb] They will be exhibiting their new designs at the trade fairs.
-
-"to show sth in a public place for people to enjoy or to give them information"
 
 
 
@@ -9976,7 +9946,7 @@ These are freshly dug mass graves.
 
 
 
-#### 2020/09/18.11
+#### 2020/09/18.10
 
 01.enemy  [ˈenəmi] 
 
@@ -10044,13 +10014,9 @@ These are freshly dug mass graves.
 
 
 
-08.deliberate [dɪˈlɪbərət , dɪˈlɪbəreɪt] 
+08.sector [ˈsektə(r)] 
 
-[adj] a deliberate act of **vandalism**. "done on purpose rather than by accident"
-
-[verb]  The jury deliberated for five days before finding him guilty.
-
-"to think very carefully about sth, usually before making a decision"
+[noun] the manufacturing sector. "a part of an area of activity, especially of a country's economy"
 
 
 
@@ -10079,10 +10045,6 @@ These are freshly dug mass graves.
 "to free sb from sth that restricts their enjoyment of life"
 
 
-
-12.sector [ˈsektə(r)] 
-
-[noun] the manufacturing sector. "a part of an area of activity, especially of a country's economy"
 
 
 
@@ -15151,7 +15113,7 @@ D[adv] She performed all her duties conscientiously.
 
 
 
-#### 2020/11/21.12
+#### 2020/11/21.11
 
 01.accessory  [əkˈsesəri]
 
@@ -15284,20 +15246,6 @@ preemptively
 11.tie the knot /taɪ ðə nɑːt/
 
 [slang] So when are you two going to tie the knot
-
-
-
-12.deliberate  [dɪˈlɪbərət , dɪˈlɪbəreɪt]
-
-[adj] a deliberate act of vandalism. "done on purpose rather than by accident" -intentional/planned- +unintentional+
-
-[adj] She spoke in a slow and deliberate way. "done slowly and carefully"
-
-[verb]  The jury deliberated for five days before finding him guilty[ˈɡɪlti]. "to think very carefully about sth, usually before making a decision"
-
-
-
-
 
 
 
@@ -16237,7 +16185,7 @@ foul/musty/pungent
 
 
 
-#### 2020/12/17.06
+#### 2020/12/17.05
 
 01.rampant [ˈræmpənt]
 
@@ -16283,17 +16231,7 @@ D[adv] "rampently"
 
 
 
-05.negligible [ˈneɡlɪdʒəbl] 
-
-[adj] The cost was negligible./
-
-In addition to its low overhead, `tqdm` uses smart algorithms to predict the remaining time and to skip unnecessary iteration displays, which allows for a negligible overhead in most cases.
-
-"of very little importance or size and not worth considering"
-
-
-
-06.favour[n/v]-favourite [adj/n]
+05.favour[n/v]-favourite [adj/n]
 
 
 
@@ -18451,12 +18389,6 @@ she did it **out of spite**
 
 
 
-18.severe [sɪˈvɪr] 
-
-[adj] a severe handicap. 
-
-"extremely bad or serious"
-
 
 
 19.interpersonal [ˌɪntə(r)ˈpɜːrsənl]
@@ -19709,14 +19641,6 @@ immigrant (移民者) immigration (移民的过程; 移民局检查站, 移民�
 [noun] "a flight with an intermediate stop and a change of aircraft (possibly a change of airlines)"
 
 
-
-15.priority [praɪˈɒrəti] 
-
-[noun] Club members will be given priority. "the most important place among various things that have to be done or among a group of people"
-
-[noun] Education is a top priority./As a South Korean youngster who already finished mandatory military service, learning English is my number one priority.
-
-"something that you think is more important than other things and should be dealt with first"
 
 
 
@@ -22764,7 +22688,7 @@ The City of Taylor in Texas has endorsed an incentive to refund 92.5 percent of 
 
 
 
-#### 20210526.15
+#### 20210526.14
 
 01.stochastic  [stə'kæstɪk] 
 
@@ -22788,11 +22712,11 @@ The City of Taylor in Texas has endorsed an incentive to refund 92.5 percent of 
 
 
 
-03.grapple /ˈɡræpl/
+03.hydrogen [ˈhaɪdrədʒən] 
 
-[v] They managed to grapple him to the ground."to take a firm hold of sb/sth and struggle with them"
+[noun] {symb H} 
 
-[v] The new government has yet to grapple with the problem of air pollution."to try hard to find a solution to a problem"
+"a chemical element. Hydrogen is a gas that is the lightest of all the elements. It combines with oxygen to form water."
 
 
 
@@ -22867,18 +22791,6 @@ The interview prompted a backlash in China, which considers self-ruling Taiwan t
 [noun] Sulphur gases were emitted by the volcano. 
 
 "a chemical element. Sulphur is a pale yellow substance that produces a strong unpleasant smell when it burns and is used in medicine and industry."
-
-
-
-15.hydrogen [ˈhaɪdrədʒən] 
-
-[noun] {symb H} 
-
-"a chemical element. Hydrogen is a gas that is the lightest of all the elements. It combines with oxygen to form water."
-
-
-
-
 
 
 
@@ -23291,11 +23203,7 @@ They argued for the right to strike.
 
 
 
-06.priority  [praɪˈɒrəti]   [praɪˈɔːrəti] 
 
-[noun] Education is a top priority.
-
-"something that you think is more important than other things and should be dealt with first"
 
 
 
@@ -24036,27 +23944,9 @@ a tenured professor.
 
 
 
-#### 20210714.02
+#### 20210714.01
 
-01.reinstate [ˌriːɪnˈsteɪt]
-
-[verb] {~ sb/sth (in/as sth)} He was reinstated in his post.
-
-**Winston is  allowed by the High Table's Harbinger (Clancy Brown) to be reinstated as the concierge of the rebuilt New York Continental**.
-
-"to give back a job or position that had been taken away from sb"
-
-[verb] We received your request to have your account reinstated. 
-
-"to return sth to its previous position or status" -restore-
-
-[verb] He welcomed the reinstatement of the 10 per cent bank base rate.
-
-"The **reinstatement** of a law, facility, or practice is the act of causing it to exist again."
-
-
-
-02.concierge  **[koʊnˈsjerʒ]** [  ](javascript:void(0);)
+01.concierge  **[koʊnˈsjerʒ]** [  ](javascript:void(0);)
 
 [n]  " a person, especially in France, who takes care of a building containing flats/apartments and checks people entering and leaving the building  "
 
@@ -24386,9 +24276,9 @@ Korean cuisine enters global mainstream fueled by K-content fever.
 
 
 
-02.insomnia  [ɪnˈsɒmniə]
+02.insomnia  [ɪnˈsɒmniə] /ɪnˈsɑːmniə/
 
-[noun] to suffer from insomnia.
+[noun] to suffer from insomnia./"I realized how serious the situation had become when I started waking up at 3 a.m. every night," he said. "For me, insomnia was the biggest warning sign. Many European books on alcohol addiction also identify insomnia as a key symptom."
 
 "the condition of being unable to sleep"
 
@@ -25544,7 +25434,7 @@ in a fixed or stable manner"
 
 
 
-#### 2021/09/29.14
+#### 2021/09/29.13
 
 01.remunerate  [rɪˈmjuːnəreɪt]
 
@@ -25610,11 +25500,9 @@ The Seoul Metropolitan Government will create a dedicated fund of 100 billion wo
 
 
 
-09.swarm  [swɔː(r)m] 
+09.drift away  [drɪft əˈweɪ]
 
-[noun] {~ (of sth) } A swarm of 20,000 bees once followed a car for 2days because their queen was inside  the car.
-
-"a large group of insects, especially bees , moving together in the same direction"
+As children grow up, they drift away from their parents'views.  "lose personal contact over time"
 
 
 
@@ -25645,14 +25533,6 @@ The Seoul Metropolitan Government will create a dedicated fund of 100 billion wo
 [noun] {formal or law}First in order: spouse, children, parents.
 
 "a husband or wife"
-
-
-
-14.drift away  [drɪft əˈweɪ]
-
-As children grow up, they drift away from their parents'views.  "lose personal contact over time"
-
-
 
 
 
@@ -26887,17 +26767,11 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 
 
 
-#### 2021/11/19.07
+#### 2021/11/19.06
 
-01.equivalent  [ɪˈkwɪvələnt] 
+01.ignorant  [ˈɪɡnərənt]
 
-[adj] {~ (to sth)} Eight kilometres is roughly equivalent to five miles.
-
-"equal in value, amount, meaning, importance, etc."
-
-[noun] ~ (of/to sth) Send €20 or the equivalent in your own currency.
-
-"a thing, amount, word, etc. that is equivalent to sth else"
+[adj] {~ (of/about sth)} Squid Game Lee Jung-jae's Response to Ignorant Reporter Went VIRAL while on the Red Carpet. "lacking knowledge or information about sth; not educated"
 
 
 
@@ -26936,12 +26810,6 @@ a skilled and precise worker."taking care to be exact and accurate, especially a
 [noun] Groups of drunken hooligans **smash**ed shop windows and threw stones.
 
 "a young person who behaves in an extremely noisy and violent way in public, usually in a group"
-
-
-
-07.ignorant  [ˈɪɡnərənt]
-
-[adj] {~ (of/about sth)} Squid Game Lee Jung-jae's Response to Ignorant Reporter Went VIRAL while on the Red Carpet. "lacking knowledge or information about sth; not educated"
 
 
 
@@ -27543,23 +27411,13 @@ interface/interaction/international.
 
 
 
-#### 2021/12/01.02
+#### 2021/12/01.01
 
 01.flee  [fliː]  fled, fled
 
 [verb]{~ (from) sb/sth | ~ (to…/into…)} Zhu had been sentenced to 11 years in prison in the city of Jilin after fleeing to China from North Korea in 2013.
 
 "to leave a person or place very quickly, especially because you are afraid of possible danger"
-
-
-
-02.resumption [rɪˈzʌmpʃn] 
-
-[noun] {~ (of sth)} (formal) We are hoping for an early resumption of peace talks.
-
-/It's a milestone for the full resumption of the outbound travel, and will also strongly push the resumption of international flights, especially for Japan, Korea.
-
-"the act of beginning sth again after it has stopped"
 
 
 
@@ -28552,7 +28410,7 @@ My sister and I used to quarrel all the time."to have an angry argument or disag
 
 
 
-#### 01/08.04
+#### 01/08.03
 
 01.unmanned aerial vehicle  [ˌʌnˈmænd ˈeəriəl ˈviːəkl]  [ˌʌnˈmænd ˈeriəl ˈviːəkl] 
 
@@ -28568,15 +28426,11 @@ My sister and I used to quarrel all the time."to have an angry argument or disag
 
 
 
-03.priority  [praɪˈɒrəti]
-
-[noun] Yoon says coding should be given priority in children's education.
-
-"something that you think is more important than other things and should be dealt with first"
 
 
 
-04.savvy [ˈsævi]
+
+03.savvy [ˈsævi]
 
 [noun] digital-savvy.
 
@@ -29500,13 +29354,15 @@ D[adv] riskiness
 
 
 
-#### 04/16.04
+#### 04/16.03
 
-01.exploit [ɪkˈsplɔɪt , ˈeksplɔɪt] 
+01.traffic [ˈtræfɪk]
 
-[vt] many North Korean defector women are exploited in China.
+[noun] heavy/rush-hour traffic ."the vehicles that are on a road at a particular time"
 
-"to treat sb unfairly by making them work and not giving them much in return"
+[verb] She was trafficked and sold to a Chinese man."to buy and sell sth illegally"
+
+[verb] {traffic in sth} to traffic in drugs.
 
 
 
@@ -29523,18 +29379,6 @@ D[adv] riskiness
 [vt] The NIS interrogates North Korean defectors when they first arrive in the country, so they hear many stories when North Koreans first arrive.
 
 "to ask sb a lot of questions over a long period of time, especially in an aggressive way"
-
-
-
-04.traffic [ˈtræfɪk]
-
-[noun] heavy/rush-hour traffic ."the vehicles that are on a road at a particular time"
-
-[verb] She was trafficked and sold to a Chinese man."to buy and sell sth illegally"
-
-[verb] {traffic in sth} to traffic in drugs.
-
-
 
 
 
@@ -29602,7 +29446,7 @@ D[adv] riskiness
 
 
 
-#### 04/29.06
+#### 04/29.04
 
 01.unbearably  [ʌnˈbeərəbli]  [ʌnˈberəbli]
 
@@ -29626,11 +29470,7 @@ D[adv] riskiness
 
 
 
-04.snapshot  [ˈsnæpʃɒt]
-
-
-
-05.shortlist [ˈʃɔːtlɪst] 
+04.shortlist [ˈʃɔːtlɪst] 
 
 [noun] to draw up a shortlist.
 
@@ -30319,41 +30159,15 @@ The students left the classroom right after the class was over.
 
 
 
-03.toast [təʊst] 
-
-[noun] cheese on toast."slices of bread that have been made brown and crisp by heating them on both sides in a toaster or under a **grill**"
-
-[noun] {~ (to sb/sth)}I'd like to propose a toast to the bride and groom.
-
-"the act of a group of people wishing sb happiness, success, etc. by drinking a glass of sth, especially alcohol, at the same time"
-
-[verb] We toasted the success of the new company.
-
-"to lift a glass of wine, etc. in the air and drink it at the same time as other people in order to wish sb/sth success, happiness, etc."
-
-[verb] a toasted sandwich. "to make sth, especially bread, turn brown by heating it in a toaster or close to heat; to turn brown in this way"
-
-
-
-04.loose circuit   [luːs ˈsɜːrkɪt] 
+03.loose circuit   [luːs ˈsɜːrkɪt] 
 
 "**an imperfect electrical connection**, as in a plug or car engine."
 
 
 
-05.grill /ɡrɪl/
-
-[n] The lineup features a wide variety of culinary options ― 21 Korean, 25 Western, 12 Asian, 10 grill and 10 vegetarian establishments. The list also includes 11 cafes and dessert spots, as well as 11 bars and pubs.
-
-"a restaurant serving grilled food"
-
-[v] Grill the sausages for ten minutes.
-
-"to cook food under or over a very strong heat"
 
 
-
-06.bride /braɪd/
+04.bride /braɪd/
 
 [noun] a toast to the bride and groom. "a woman on her wedding day, or just before or just after it" 
 
@@ -32059,7 +31873,7 @@ dizzy [ˈdɪzi]
 
 10.contradiction  [ˌkɒntrəˈdɪkʃn] 
 
-[noun] As inflation stays high, consumers look for ways to control their budgets but the desire to own a premium product remains unchanged. This **contradiction** has emerged in Korea’s cosmetics and personal care market.
+[noun] As inflation stays high, consumers look for ways to control their budgets but the desire to own a premium product remains unchanged. This **contradiction** has emerged in Korea’s cosmetics and personal care market./I also asked: “You said ‘US, Russia & China share responsibility for maintaining international peace & security.’  But Russia continues to strike Ukraine. That’s a contradiction. Are you ready now to end the war?”  
 
 "a lack of agreement between facts, opinions, actions, etc."
 
@@ -32991,7 +32805,9 @@ to change a written record or information so that it is no longer true"
 
 03.eye on [aɪ] 
 
-[phrasal verb]  Korean chipmakers eye on automotive chips for growth.
+[phrasal verb]  Korean chipmakers eye on automotive chips for growth. 
+
+"*to be thinking about getting or intend to get something or someone*"
 
 
 
@@ -33041,7 +32857,7 @@ to change a written record or information so that it is no longer true"
 
 03.curtail [kɜːrˈteɪl]
 
-[vt] U.S. Aims to Curtail Technology Investment in China./Moreover, even with sufficient data, these methods are often designed to address specific tasks, which curtails the generalization ability of the model.
+[vt] U.S. Aims to Curtail Technology Investment in China./Moreover, even with sufficient data, these methods are often designed to address specific tasks, which curtails the generalization ability of the model./Schools are experiencing steep enrollment declines for foreign students due to President Donald Trump’s efforts to curtail visas and employment.
 
 "to limit sth or make it last for a shorter time"
 
@@ -35644,11 +35460,7 @@ D[adj] tainted drinking water.
 
 
 
-11.silk  [sɪlk] 
 
-[noun] "fine soft thread produced by silkworms"
-
-[noun] a silk blouse. "a type of fine smooth cloth made from silk thread"
 
 
 
@@ -37183,28 +36995,6 @@ It’s been a good start to life for the second season of D.P. on Netflix. Howev
 "to express the most important parts of sth in a few words, a small space or a single object"
 
 
-
-03.seal /siːl/
-
-[v] Make sure you've signed the cheque before sealing the envelope.
-
-"to close an envelope, etc. by sticking the edges of the opening together"
-
-[v] The organs are kept in sealed plastic bags.
-
-"to close a container tightly or fill a crack, etc., especially so that air, liquid, etc. cannot get in or out"
-
-[n] The letter bore the president's seal.
-
-"an official design or mark, stamped on a document to show that it is genuine and carries the authority of a particular person or organization"
-
-[n] The project has been given the government's seal of approval (= official approval) .
-
-"a thing that makes sth definite"
-
-[n] a jar with a rubber seal in the lid. 
-
-"a substance, strip of material, etc. used to fill a crack so that air, liquid, etc. cannot get in or out"
 
 
 
@@ -43613,7 +43403,7 @@ Key Differences:
 
 04.wane [weɪn]
 
-[verb] Is K-pop's popularity waning after reaching its peak?. The number of Chinese tourists, traditionally the biggest spenders in South Korea’s duty-free industry, is waning and the void is now being filled by Japanese./Chinese tourists opt for visa-free destinations, weak yen as Korea's appeal wanes./Samsung Electronics Q4 net profit expands over 20% despite waning chip demand
+[verb] Is K-pop's popularity waning after reaching its peak?. The number of Chinese tourists, traditionally the biggest spenders in South Korea’s duty-free industry, is waning and the void is now being filled by Japanese./Chinese tourists opt for visa-free destinations, weak yen as Korea's appeal wanes./Samsung Electronics Q4 net profit expands over 20% despite waning chip demand./China has long been central to Lee's vision of K-pop's globalization. Even after South Korea's 2017 deployment of the U.S. Terminal High Altitude Area Defense (THAAD) system triggered China's unofficial ban on Korean cultural content and K-pop performances, widely known as the "Korean wave ban," his interest in the Chinese market did not wane.
 
 "to become gradually weaker or less important" -decrease;fade-
 
@@ -45641,7 +45431,7 @@ The British "Ministry of Justice" is the "Department of Justice" in the US
 
 
 
-#### 03/13.05
+#### 03/13.06
 
 01.appointment /əˈpɔɪntmənt/
 
@@ -45661,7 +45451,7 @@ The British "Ministry of Justice" is the "Department of Justice" in the US
 
 03.oust /aʊst/
 
-[v] Tan replaces interim co-CEOs David Zinsner and MJ Holthaus, who took over in December when former Intel CEO Patrick Gelsinger was ousted. Tan is also rejoining Intel’s board.
+[v] Tan replaces interim co-CEOs David Zinsner and MJ Holthaus, who took over in December when former Intel CEO Patrick Gelsinger was ousted. Tan is also rejoining Intel’s board./Nvidia's board is meeting late Wednesday to decide whether to oust CEO Jensen Huang, a source familiar with the matter told Reuters, as the world's dominant supplier of AI chips **grapples with** reports of two extramarital affairs involving its longtime leader.
 
 "to force sb out of a job or position of power, especially in order to take their place"
 
@@ -48441,6 +48231,10 @@ Can you have seman without sperm?
 
 
 18.severe /sɪˈvɪr/
+
+[adj] a severe handicap. 
+
+"extremely bad or serious"
 
 [adj] Most of their equipment **was inadequate(难以应付的)** for the severe weather.
 
@@ -51740,7 +51534,7 @@ The immediate issue was the Chinese enforcement of their ban on the [opium trade
 
 06.porcelain /ˈpɔːrsəlɪn/
 
-[n] Tea, Silver, Opium and War: From Commercial Expansion to Military Invasion.
+[n] Tea, Silver, Opium and War: From Commercial Expansion to Military Invasion./The **Porcelain Garden** (also referred to as the Porcelain Courtyard) is one of the signature traditional Chinese-style outdoor gardens located inside **Beijing Daxing International Airport (PKX)**.
 
 "a hard white shiny substance made by baking clay and used for making delicate cups, plates and decorative objects; objects that are made of this"
 
@@ -53258,7 +53052,7 @@ to do sth to another player that is against the rules of the game"
 
 07.probe /proʊb/
 
-[v] “This company and Taeil first became aware of the accusation in the middle of this month,” SM Entertainment said Thursday, confirming Taeil was probed by the police the previous day. 
+[v] “This company and Taeil first became aware of the accusation in the middle of this month,” SM Entertainment said Thursday, confirming Taeil was probed by the police the previous day. /*Nvidia probes whether CEO Huang was target of foreign spying* as he admits affair. 
 
 "to ask questions in order to find out secret or hidden information about sb/sth"
 
@@ -53375,7 +53169,7 @@ a collision between two trains.
 
 03.collide /kəˈlaɪd/
 
-[v] Two high-speed trains collide in Spain, 21 killed.
+[v] Two high-speed trains collide in Spain, 21 killed./Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020.
 
 "if two people, vehicles, etc. collide , they crash into each other; if a person, vehicle, etc. collides with another, or with sth that is not moving, they crash into it"
 
@@ -53485,7 +53279,7 @@ a collision between two trains.
 
 02.testify  [ˈtestɪfaɪ] 
 
-[verb] {~ (against/for sb) | ~ (to/about sth)} She refused to testify against her husband./Clintons agree to testify on Epstein.
+[verb] {~ (against/for sb) | ~ (to/about sth)} She refused to testify against her husband./Clintons agree to testify on Epstein./Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy.
 
 "to make a statement that sth happened or that sth is true, especially as a witness in court"
 
@@ -53649,7 +53443,7 @@ a collision between two trains.
 
 01.souvenir  [ˌsuːvəˈnɪə(r)] 
 
-[noun] I bought the ring as a souvenir of Greece./Best for place for souvenir shopping: Hollywood Road.
+[noun] I bought the ring as a souvenir of Greece./Best for place for souvenir shopping: Hollywood Road./Exclusive Huawei souvenir gifts for all attendees.
 
 "a thing that you buy and/or keep to remind yourself of a place, an occasion or a holiday/vacation; something that you bring back for other people when you have been on holiday/vacation"
 
@@ -57567,7 +57361,7 @@ She told the BBC that she wants to fight the stigma surrounding divorced women a
 
 05.conquer  [ˈkɒŋkə(r)] 
 
-[verb] A Chinese app conquered the planet.
+[verb] A Chinese app conquered the planet./How Korean instant noodles conquered world.
 
  "to become very popular or successful in a place"
 
@@ -57589,7 +57383,7 @@ She told the BBC that she wants to fight the stigma surrounding divorced women a
 
 
 
-#### 11/02
+#### 11/02.04
 
 01.schwa /ʃwɑː/
 
@@ -57616,4 +57410,502 @@ She told the BBC that she wants to fight the stigma surrounding divorced women a
 [adj] We chose a few of the **commonest** lexical items in the languages. 
 
 "connected with the words of a language"
+
+
+
+#### 11/03.05
+
+01.short notice
+
+[phrease] The deadline is 11:00 a.m. on Friday, November 6 (Korea time), which is Thursday night in the UK. Because time is short, if HR has not replied by tomorrow, it might help to call them at +44 20 7882 3697 (the main HR number). I’m sorry for the short notice.
+
+"***\*Short notice\**** means that a notification, request, or warning is given **only a very short time before something happens**, leaving little time to prepare. "
+
+
+
+02.swarm  [swɔː(r)m] 
+
+[noun] {~ (of sth) } A swarm of 20,000 bees once followed a car for 2days because their queen was inside  the car.
+
+"a large group of insects, especially bees , moving together in the same direction"
+
+
+
+03.equivalent  [ɪˈkwɪvələnt] 
+
+[adj] {~ (to sth)} Eight kilometres is roughly equivalent to five miles.
+
+"equal in value, amount, meaning, importance, etc."
+
+[noun] ~ (of/to sth) Send €20 or the equivalent in your own currency./***\*FTE\**** (**Full-Time Equivalent**) is a unit of measurement that converts the hours worked by part-time or multiple employees into the workload of a single full-time worker.
+
+"a thing, amount, word, etc. that is equivalent to sth else"
+
+
+
+04.silk  [sɪlk] 
+
+[noun] "fine soft thread produced by silkworms"
+
+[noun] a silk blouse. "a type of fine smooth cloth made from silk thread"
+
+
+
+05.corn silk
+
+[phrase] "Corn silk is the collection of shiny, thread-like fibers (known botanically as *Stigma maydis*) that grow beneath the husk of a corn ear. "
+
+
+
+#### 11/04.02
+
+01.atmosphere[ˈætməsfɪə(r)] "(围绕地球的)大气，大气层，大气圈"
+
+[noun] the upper atmosphere."the mixture of gases that surrounds the earth"
+
+[noun] The hotel offers a friendly atmosphere and personal service./Our journal prefers to exhibit an encouraging atmosphere.
+
+"a feeling between two people or in a group of people"
+
+
+
+02.exhibit  [ɪɡˈzɪbɪt] 
+
+[verb] They will be exhibiting their new designs at the trade fairs.
+
+"to show sth in a public place for people to enjoy or to give them information"
+
+
+
+#### 11/08.02
+
+01.nocturnal /nɑːkˈtɜːrnl/
+
+[adj] The method was evaluated on
+the public PTB-XL benchmark and a collected nocturnal ECG (Noc-ECG) dataset comprising 1,317 hours from 141 subjects.
+
+"active at night"
+
+
+
+02.diurnal /daɪˈɜːrnl/
+
+[adj] Kangaroos are diurnal animals.
+
+"active during the day"
+
+
+
+#### 11/09.04
+
+01.exploit [ɪkˈsplɔɪt , ˈeksplɔɪt] 
+
+[vt] many North Korean defector women are exploited in China.
+
+"to treat sb unfairly by making them work and not giving them much in return"
+
+[v] Existing methods mainly operate at the signal feature level and fail to exploit semantic relationships among diagnostic labels, which limits their ability to effectively recognize rare categories. 
+
+"**to use sth well** in order to gain as much from it as possible"
+
+
+
+> They mean exactly the same thing in the right context. However, there are many ways to use the word "use".  
+>
+> use = exploit: "He used me! He only married me to get my money." "My boss really used me -- he let me do all the work, and then he took all the credit."  
+>
+> use = do something with (most common use): "I used a fork to eat my spaghetti." "Don't use that screwdriver! It's the wrong tool. Use this wrench instead."
+>
+> 
+>
+> Exploit has a negative connotation. Use is neutral and can be either positive or negative. Exploit is less commonly used. Use is very common.
+
+
+
+02.resumption [rɪˈzʌmpʃn] 
+
+[noun] {~ (of sth)} (formal) We are hoping for an early resumption of peace talks.
+
+/It's a milestone for the full resumption of the outbound travel, and will also strongly push the resumption of international flights, especially for Japan, Korea. / Trump says resumption of war with Iran 'highly unlikely'.
+
+"the act of beginning sth again after it has stopped"
+
+
+
+03.unfaithful /ʌnˈfeɪθfl/
+
+[adj] Jensen Huang admitted to having been "unfaithful" to his wife and apologised for hurting her and their children, in a statement shared with Nvidia staff on Sunday.
+
+"having sex with sb who is not your husband, wife or usual partner"
+
+
+
+04.unlawful /ʌnˈlɔːfl/
+
+[adj] In a post on Truth Social, Trump said the U.S. government had no reason to believe Huang's return posed a national security risk and had no evidence he had engaged in unlawful conduct.
+
+"not allowed by the law"
+
+
+
+#### 11/10.07
+
+01.generic /dʒəˈnerɪk/
+
+[adj] In an analysis of ICLR 2025, about 23% of reviews increased after the rebuttal and about 1% decreased. Evidence-backed clarifications were linked to increases; generic defenses were not.
+
+"shared by, including or typical of a whole group of things; not specific"
+
+
+
+02.paramour /ˈpærəmʊr/
+
+[n] Trump says Jensen Huang told him Monday he didn’t know paramour ‘was a spy’.
+
+"a person that sb is having a romantic or sexual relationship with"
+
+> "Lover" and "paramour" both mean "someone in a sexual relationship".  
+>
+> "Paramours" usually means that the relationship is secret, and that one or both of the paramours is already married to someone else.  
+>
+> "Lovers" sometimes has that implication, but often it just means "people who have had sex with each other". People will often refer to their "past lovers" to just mean everyone they've had sex with in the past, and it doesn't mean that they were cheating on a spouse.
+
+
+
+03.surgeon /ˈsɜːrdʒən/
+
+[n] Top cardiac and cardiovascular surgery centers in Seoul include Korea's major tertiary general hospitals, which feature specialized departments for adult and pediatric heart procedures.
+
+"a doctor who is trained to perform surgery (= medical operations that involve cutting open a person's body)"
+
+
+
+04.pediatric /ˌpi:dɪ'ætrɪk/
+
+[adj] He completed his pediatric residency at Stanford University Hospital.
+
+"of or relating to the medical care of children"
+
+
+
+05.tertiary /ˈtɜːʃəri/ /ˈtɜːrʃieri/
+
+[adj] "third in order, rank or importance"
+
+
+
+06.grapple /ˈɡræpl/
+
+[v] They managed to grapple him to the ground."to take a firm hold of sb/sth and struggle with them"
+
+[v] The new government has yet to **grapple with** the problem of air pollution."to try hard to find a solution to a problem"
+
+
+
+07.grapple with
+
+[phrase] Nvidia's board is meeting late Wednesday to decide whether to oust CEO Jensen Huang, a source familiar with the matter told Reuters, as the world's dominant supplier of AI chips grapples with reports of two extramarital affairs involving its longtime leader.
+
+"to try hard to find a solution to a problem"
+
+
+
+Quick Comparison
+
+| Feature            | Deal with                                | Grapple with                                    |
+| ------------------ | ---------------------------------------- | ----------------------------------------------- |
+| **Difficulty**     | Easy to difficult                        | Very difficult or complex                       |
+| **Effort implied** | Neutral (just getting it done)           | High effort, struggle, or deep thought          |
+| **Common objects** | Emails, customers, daily tasks, problems | Grief, guilt, complex theories, economic crises |
+| **Tone**           | Everyday, conversational                 | Slightly more formal or dramatic                |
+
+**Tip:** If you can replace the phrase with **"handle,"** use **deal with**. If you can replace it with **"struggle to solve/understand,"** use **grapple with**.
+
+
+
+#### 11/12.03
+
+01.negligible [ˈneɡlɪdʒəbl] 
+
+[adj] The cost was negligible./
+
+In addition to its low overhead, `tqdm` uses smart algorithms to predict the remaining time and to skip unnecessary iteration displays, which allows for a negligible overhead in most cases.
+
+"of very little importance or size and not worth considering" 
+
+
+
+02.overheads /ˈoʊvərhedz/
+
+[n] We are having to cut our costs to reduce overheads and remain competitive.
+
+"The overheads of a business are its regular and essential expenses, such as salaries, rent, electricity, and telephone bills."
+
+
+
+03.primary [ˈpraɪməri]
+
+[adj] The primary aim of this course is to improve your spoken English. /In a corporate R&D environment, **publishing academic papers is usually not a primary objective**.
+
+"main; most important; basic"
+
+[adj] primary causes. "developing or happening first; earliest"
+
+[adj] primary teachers. "connected with the education of children between the ages of about five and eleven"
+
+[noun] the presidential primaries. "(in the US) an election in which people in a particular area vote to choose a candidate for a future important election"
+
+
+
+#### 11/15.01
+
+01.snapshot  [ˈsnæpʃɒt] /ˈsnæpʃɑːt/
+
+[n] She took a quick **snapshot** of her dog sleeping in the sunlight before he woke up.
+
+"A snapshot is a photograph that is taken quickly and casually."
+
+
+
+#### 11/17.03
+
+01.sawtooth 
+
+[n] It is commonly used to describe sharp outlines, repeating patterns, and specific waveforms.
+
+"**having a jagged, zigzag, or serrated shape** like the teeth of a saw"
+
+
+
+02.saw /sɔː/
+
+[n] In cardiology, **AFL** stands for **Atrial Flutter** (a rapid heart rhythm disorder), and its signature appearance on an electrocardiogram (ECG) is a continuous **"sawtooth" pattern** of electrical waves. 
+
+"a tool that has a long blade with sharp points (called teeth ) along one of its edges. A saw is moved backwards and forwards by hand or driven by electricity and is used for cutting wood or metal."
+
+
+
+03.blood thinner 
+
+[n] Blood thinners are medications that prevent dangerous blood clots from forming in your heart, veins, and arteries. They do not break up clots you already have, but they can stop them from getting bigger.
+
+
+
+#### 11/18.04
+
+01.likeness /ˈlaɪknəs/
+
+[n] LeBron James sues startup over viral AI ad allegedly exploiting his likeness.
+
+"a painting, drawing, etc. of a person, especially one that looks very like them"
+
+
+
+02.damages /ˈdæmɪdʒɪz/
+
+[n] James is seeking damages and an injunction against the PlayVision.
+
+"If a court of law awards damages to someone, it orders money to be paid to them by a person who has damaged their reputation or property, or who has injured them."
+
+
+
+03.injunction /ɪnˈdʒʌŋkʃn/
+
+[n] to seek/obtain an injunction.
+
+"an official order given by a court which demands that sth must or must not be done"
+
+
+
+04.desist /dɪˈzɪst/
+
+[v] from sth/from doing sth{} They agreed to desist from the bombing campaign.
+
+"to stop doing sth"
+
+
+
+#### 11/19.02
+
+01.clause /klɔːz/
+
+[n]  While the November 2026 South Korea–China Free Trade Agreement (FTA) follow-up deal eased restrictions on movies, games, and joint TV productions, it did not include a clause reopening mainland stages to Korean live performances.
+
+"an item in a legal document that says that a particular thing must or must not be done"
+
+
+
+02.shelve /ʃelv/
+
+[v] Since Chinese regulators have yet to announce whether shelved dramas or new co-productions with Korean leads will get broadcast permits under the November 2026 deal, I can set up a **task** to notify you as soon as a Korean actor is officially approved to appear in a Chinese drama or film. 
+
+"to decide not to continue with a plan, either for a short time or permanently"
+
+
+
+#### 11/20.02
+
+01.deliberate [dɪˈlɪbərət] adj , [dɪˈlɪbəreɪt] verb
+
+[adj] a deliberate act of **vandalism**./The world's most successful people dedicate at least one hour a day to deliberate learning. Buffett takes it further than most. 
+
+"done on purpose rather than by accident" -intentional/planned- +unintentional+
+
+[verb]  The jury deliberated for five days before finding him guilty.
+
+"to think very carefully about sth, usually before making a decision"
+
+
+
+02.unearth /ʌnˈɜːrθ/
+
+[v] to unearth buried treasures.
+
+"to find sth in the ground by digging" -dig up-
+
+[v] How CNN unearthed Jensen Huang's affair.
+
+"to find or discover sth by chance or after searching for it"
+
+
+
+#### 11/22.04
+
+01.ick /ɪk/
+
+[n] It's a big **ick** for me when someone is rude to waitstaff.
+
+"The word **“ick”** originally comes from an **imitative sound of disgust** (similar to *yuck* or *ew*) that evolved from early 20th-century slang into a modern dating term."
+
+
+
+02.waitstaff /ˈweɪtstæf/
+
+[n] "the people whose job is to serve customers at their tables in a restaurant, etc."
+
+
+
+03.sovereign /ˈsɒvrɪn/ /ˈsɑːvrɪn/
+
+[adj] No, Bangladesh is not a part of India. It is an independent, sovereign country in South Asia that shares land borders with India on three sides.
+
+"free to govern itself; completely independent"
+
+
+
+04.Bangladesh /ˌbɑŋɡləˈdɛʃ/
+
+[n] **Bangladesh**,[[b\]](https://en.wikipedia.org/wiki/Bangladesh#cite_note-20) officially the **People's Republic of Bangladesh**,[[c\]](https://en.wikipedia.org/wiki/Bangladesh#cite_note-21) is a country in [South Asia](https://en.wikipedia.org/wiki/South_Asia). It is the [eighth-most populous country](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population) in the world with a population of almost 180 million within an area of 148,461 square kilometres (57,321 sq mi),[[19\]](https://en.wikipedia.org/wiki/Bangladesh#cite_note-22)[[20\]](https://en.wikipedia.org/wiki/Bangladesh#cite_note-IMF-23) making it one of the [most densely populated countries](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density) on Earth.
+
+
+
+#### 11/24.03
+
+01.seal /siːl/
+
+[v] Make sure you've signed the cheque before sealing the envelope.
+
+"to close an envelope, etc. by sticking the edges of the opening together"
+
+[v] The organs are kept in sealed plastic bags.
+
+"to close a container tightly or fill a crack, etc., especially so that air, liquid, etc. cannot get in or out"
+
+[v] Trump sealed deal for Nvidia to rehire Jensen Huang as CEO.
+
+"to make sth definite, so that it cannot be changed or argued about"
+
+[n] The letter bore the president's seal.
+
+"an official design or mark, stamped on a document to show that it is genuine and carries the authority of a particular person or organization"
+
+[n] The project has been given the government's seal of approval (= official approval) .
+
+"a thing that makes sth definite"
+
+[n] a jar with a rubber seal in the lid. 
+
+"a substance, strip of material, etc. used to fill a crack so that air, liquid, etc. cannot get in or out"
+
+
+
+02.reinstate [ˌriːɪnˈsteɪt]
+
+[verb] {~ sb/sth (in/as sth)} He was reinstated in his post.
+
+**Winston is  allowed by the High Table's Harbinger (Clancy Brown) to be reinstated as the concierge of the rebuilt New York Continental**./Nvidia reinstates Jensen Huang as CEO amid pressure from Trump, investors.
+
+"to give back a job or position that had been taken away from sb"
+
+[verb] We received your request to have your account reinstated. 
+
+"to return sth to its previous position or status" -restore-
+
+[verb] He welcomed the reinstatement of the 10 per cent bank base rate.
+
+"The **reinstatement** of a law, facility, or practice is the act of causing it to exist again."
+
+
+
+03.saga /ˈsɑːɡə/
+
+[n] Jensen Huang saga exposes Korea's Nvidia dependence.
+
+"a long series of events or adventures and/or a report about them"
+
+
+
+#### 11/25
+
+01.toast [təʊst] 
+
+[noun] cheese on toast."slices of bread that have been made brown and crisp by heating them on both sides in a toaster or under a **grill**"
+
+[noun] {~ (to sb/sth)}I'd like to propose a toast to the bride and groom.
+
+"the act of a group of people wishing sb happiness, success, etc. by drinking a glass of sth, especially alcohol, at the same time"
+
+[verb] We toasted the success of the new company.
+
+"to lift a glass of wine, etc. in the air and drink it at the same time as other people in order to wish sb/sth success, happiness, etc."
+
+[verb] a toasted sandwich. "to make sth, especially bread, turn brown by heating it in a toaster or close to heat; to turn brown in this way"v
+
+
+
+02.grill /ɡrɪl/
+
+[n] The lineup features a wide variety of culinary options ― 21 Korean, 25 Western, 12 Asian, 10 grill and 10 vegetarian establishments. The list also includes 11 cafes and dessert spots, as well as 11 bars and pubs.
+
+"a restaurant serving grilled food"
+
+[v] Grill the sausages for ten minutes.
+
+"to cook food under or over a very strong heat"
+
+[v] Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC. "to ask sb a lot of questions about their ideas, actions, etc., often in an unpleasant way"
+
+
+
+03.priority [praɪˈɒrəti] 
+
+[noun] Club members will be given priority. "the most important place among various things that have to be done or among a group of people"
+
+[noun] Education is a top priority./As a South Korean youngster who already finished mandatory military service, learning English is my number one priority./Yoon says coding should be given priority in children's education./Education is a top priority./Sen. Kevin Cramer on Nvidia fallout: *National security remains the top priority for me*. 
+
+"something that you think is more important than other things and should be dealt with first"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
